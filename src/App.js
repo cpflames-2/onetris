@@ -41,8 +41,9 @@ function App() {
   var remaining = number;
   var primeIndex = 0;
   while(remaining > 1) {
+    console.log({remaining, primeIndex});
     var currPrime = primes[primeIndex];
-    if(remaining&currPrime === 0) {
+    if(remaining % currPrime === 0) {
       output.push(currPrime);
       remaining /= currPrime;
     } else {
