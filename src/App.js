@@ -1,9 +1,10 @@
 import logo from './logo.svg';
 import './App.css';
 
-const eratosthenes = function(n) {
+const primesUpto = function(n) {
     // Eratosthenes algorithm to find all primes under n
-    var array = [], upperLimit = Math.sqrt(n);
+    var array = [];
+    var upperLimit = Math.sqrt(n);
     var output = [];
 
     // Make an array from 2 to (n - 1)
@@ -27,14 +28,28 @@ const eratosthenes = function(n) {
         }
     }
 
-    return output.join(" ");
+    return output;
 };
 
 function App() {
   var params = new URLSearchParams(window.location.search);
   var number = params.get('factorme');
   
-  const factoring = eratosthenes(number);
+  const primes = primesUpto(Math.sqrt(number));
+  
+  var output = [];
+  var remaining = number;
+  var primeIndex = 0;
+  while(remaining > 1) {
+    var currPrime = primes[primeIndex];
+    if(remaining&currPrime === 0) {
+      output.push(currPrime);
+      remaining /= currPrime;
+    } else {
+      primeIndex++;
+    }
+  }
+  const factoring = output.join(" ");
   
   return (
     <div className="App">
