@@ -2,7 +2,8 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
-  var number = URLSearchParams.get("factorme");
+  var params = new URLSearchParams(window.location.search);
+  var number = params.get('factorme');
   
   return (
     <div className="App">
