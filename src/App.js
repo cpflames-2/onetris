@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 
-const primesUpto = function(n) {
+function primesUpto(n) {
     // Eratosthenes algorithm to find all primes under n
     var array = [];
     var upperLimit = Math.sqrt(n);
@@ -31,12 +31,7 @@ const primesUpto = function(n) {
     return output;
 };
 
-function App() {
-  var params = new URLSearchParams(window.location.search);
-  var number = params.get('factorme');
-  
-  const primes = primesUpto(Math.sqrt(number));
-  
+function factorThis(primes, number) {
   var output = [];
   var remaining = number;
   var primeIndex = 0;
@@ -50,7 +45,16 @@ function App() {
       primeIndex++;
     }
   }
-  const factoring = output.join(" ");
+  return output.join(" ");
+}
+
+function App() {
+  var params = new URLSearchParams(window.location.search);
+  var number = params.get('factorme');
+  
+  const primes = primesUpto(number);
+  
+  const factoring = factorThis(primes, number);
   
   return (
     <div className="App">
