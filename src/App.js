@@ -36,8 +36,13 @@ function factorThis(primes, number) {
   var remaining = number;
   var primeIndex = 0;
   while(remaining > 1) {
-    console.log({remaining, primeIndex});
-    var currPrime = primes[primeIndex];
+    var currPrime;
+    if(primeIndex >= primes.length) {
+      currPrime = remaining;
+    } else {
+      currPrime = primes[primeIndex];
+    }
+    console.log({remaining, primeIndex, currPrime});
     if(remaining % currPrime === 0) {
       output.push(currPrime);
       remaining /= currPrime;
@@ -52,7 +57,7 @@ function App() {
   var params = new URLSearchParams(window.location.search);
   var number = params.get('factorme');
   
-  const primes = primesUpto(number);
+  const primes = primesUpto(Math.sqrt(number));
   
   const factoring = factorThis(primes, number);
   
