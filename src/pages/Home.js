@@ -54,7 +54,7 @@ function factorThis(number) {
   return output.join(" ");
 }
 
-function Home() {
+export default function Home() {
   var params = new URLSearchParams(window.location.search);
   var number = params.get('factorme');
   
