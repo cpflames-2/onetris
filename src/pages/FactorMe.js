@@ -43,7 +43,7 @@ function factorThis(primes, number) {
     }
     //console.log({remaining, primeIndex, currPrime});
     if(remaining % currPrime === 0) {
-      output.push(currPrime);
+      output.push(currPrime.toLocaleString());
       remaining /= currPrime;
     } else {
       primeIndex++;
@@ -54,15 +54,15 @@ function factorThis(primes, number) {
 
 export default function Home() {
   var params = new URLSearchParams(window.location.search);
-  var number = params.get('number');
+  const number = Number(params.get('number'));
   
-  const primes = primesUpto(number);
+  const primes = primesUpto(Math.sqrt(number));
   const factoring = factorThis(primes, number);
   
   return (
     <div className="App">
-      <h3>Primes: {primes.join(", ")}</h3>
-      <h3>{number} = {factoring}</h3>
+      <h3>{number.toLocaleString()} = {factoring}</h3>
+      <h3>{primes.length.toLocaleString()} primes considered: {primes.join(", ")}</h3>
       <header className="App-header">
         <h1>Enjoy Learning Chess!</h1>
         <h2>Chess lesson content, coming soon.</h2>
