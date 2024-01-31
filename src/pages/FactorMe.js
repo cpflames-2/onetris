@@ -30,8 +30,7 @@ function primesUpto(n) {
     return output;
 };
 
-function factorThis(number) {
-  const primes = primesUpto(number);
+function factorThis(primes, number) {
   var output = [];
   var remaining = number;
   var primeIndex = 0;
@@ -57,13 +56,13 @@ export default function Home() {
   var params = new URLSearchParams(window.location.search);
   var number = params.get('number');
   
-  const primes = primesUpto(Math.sqrt(number));
-  
+  const primes = primesUpto(number);
   const factoring = factorThis(primes, number);
   
   return (
     <div className="App">
-      <h3>{number}={factoring}</h3>
+      <h3>Primes: {primes.join(", ")}</h3>
+      <h3>{number} = {factoring}</h3>
       <header className="App-header">
         <h1>Enjoy Learning Chess!</h1>
         <h2>Chess lesson content, coming soon.</h2>
