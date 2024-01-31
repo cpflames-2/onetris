@@ -52,7 +52,7 @@ function factorThis(primes, number) {
   return output.join("  x  ");
 }
 
-export default function Home() {
+export default function FactorMe() {
   var params = new URLSearchParams(window.location.search);
   const number = Number(params.get('number'));
   
