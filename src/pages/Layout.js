@@ -11,6 +11,9 @@ const Layout = () => {
           <li>
             <Link to="/factorme?number=42">FactorMe</Link>
           </li>
+          <li>
+            <Link to="/onetris">Onetris</Link>
+          </li>
         </ul>
       </nav>
 
