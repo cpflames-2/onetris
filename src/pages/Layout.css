@@ -1,0 +1,17 @@
+nav {    
+  width: 150px;
+  float: left;
+  /* display: inline; */
+  margin: 0;
+  padding: 0;
+  margin-right: 10px;
+}
+
+.basic {
+  padding: 100px;
+  padding-left: 200px;
+}
+
+.big {
+  font-size: 40px;
+}

@@ -60,14 +60,9 @@ export default function FactorMe() {
   const factoring = factorThis(primes, number);
   
   return (
-    <div className="App">
+    <div class="basic">
       <h3>{number.toLocaleString()} = {factoring}</h3>
       <h3>{primes.length.toLocaleString()} primes considered: {primes.join(", ")}</h3>
-      <header className="App-header">
-        <h1>Enjoy Learning Chess!</h1>
-        <h2>Chess lesson content, coming soon.</h2>
-        <img src={logo} className="App-logo" alt="logo" />
-      </header>
     </div>
   );
 }

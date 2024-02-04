@@ -25,7 +25,7 @@ export default function Onetris() {
   tableContent += '</table>';
   
   return (
-    <div style={{'margin': 'auto', 'text-align': 'center'}}>
+    <div class="basic">
       <h3>{state} in binary is {binary}</h3>
 
       <div dangerouslySetInnerHTML={{ __html: tableContent }} />
