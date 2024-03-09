@@ -1,13 +1,13 @@
-table, th, td {
+table.onetris, table.onetris th, table.onetris td {
   border: 1px solid black;
   border-collapse: collapse;
 }
 
-td {
+table.onetris th, table.onetris td {
   width:20px;
   height:20px;
 }
 
-table {
+table.onetris {
   margin: 100px;
 }

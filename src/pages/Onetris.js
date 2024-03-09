@@ -8,7 +8,7 @@ export default function Onetris() {
   
   //var blocks = state;
   
-  var tableContent = '<table>';
+  var tableContent = '<table class="onetris">';
   var counter = 77;
   for(var i = 0; i < 11; i++) {
     tableContent += '<tr>';

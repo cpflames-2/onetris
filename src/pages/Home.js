@@ -1,4 +1,4 @@
-import logo from '../logo.svg';
+import { Link } from "react-router-dom";
 import '../App.css';
 
 export default function Home() {
@@ -7,11 +7,32 @@ export default function Home() {
   
   return (
     <div className="App">
-      <header className="App-header">
-        <h1>Enjoy Learning Chess!</h1>
-        <h2>Chess lesson content, coming soon.</h2>
-        <img src={logo} className="App-logo" alt="logo" />
-      </header>
+      <h1>Enjoy Learning Chess!</h1>
+      <h4>Chess learning content, coming soon!</h4>
+      <span>Until then, please enjoy these learning resources:</span>
+      <table className="mild">
+        <tr>
+          <th></th>
+          <th>Channels</th>
+          <th>Apps</th>
+        </tr>
+        <tr>
+          <td>Chess</td>
+          <td>
+            ● <a href="https://www.youtube.com/@ChessKidOfficial">ChessKid</a>
+            <br/>
+            ● <a href="https://www.youtube.com/@eric-rosen">Eric Rosen</a>
+            <br/>
+            ● <a href="https://www.youtube.com/@KebuChess">Coach Krishna</a>
+          </td>
+          <td>
+            ● <a href="https://www.chesskid.com/app">ChessKid</a>
+            <br/>
+            ● <a href="https://dragonbox.com/products/learn-chess-with-dragonbox">Learn Chess with DragonBox</a>
+            <br/> <small>(formerly "Magnus Kingdom of Chess")</small>
+          </td>
+        </tr>
+      </table>
     </div>
   );
 }
