@@ -30,6 +30,8 @@ export default function Home() {
             <br/>
             ● <a href="https://dragonbox.com/products/learn-chess-with-dragonbox">Learn Chess with DragonBox</a>
             <br/> <small>(formerly "Magnus Kingdom of Chess")</small>
+            <br/>
+            ● <a href="https://play.google.com/store/apps/details?id=com.universis.dinosaurchess">Dinosaur Chess</a>
           </td>
           <td>
             ● <a href="https://www.amazon.com/Bobby-Fischer-Teaches-Chess/dp/0553263153">Bobby Fischer Teaches Chess</a>
@@ -57,6 +59,56 @@ export default function Home() {
           </td>
           <td>
             ● <a href="https://artofproblemsolving.com/store/list/all-products">Art of Problem Solving</a> by Richard Rusczyk
+          </td>
+        </tr>
+        <tr>
+          <td>Science</td>
+          <td>
+            ● <a href="https://www.youtube.com/@kurzgesagt">Kurzgesagt</a>
+            <br/>
+            ● <a href="https://www.youtube.com/@NileRed">Nile Red</a>
+            <br/>
+            ● <a href="https://www.youtube.com/@veritasium">Veritasium</a>
+            <br/>
+            ● <a href="https://www.youtube.com/@SteveMould">Steve Mould</a>
+            <br/>
+            ● <a href="https://www.youtube.com/@TheActionLab">The Action Lab</a>
+          </td>
+          <td>
+            ● <a href="https://www.amazon.com/Happy-Atoms/dp/B01M6WEDX3">Happy Atoms</a>
+          </td>
+          <td>
+          </td>
+        </tr>
+        <tr>
+          <td>Engineering</td>
+          <td>
+            ● <a href="https://www.youtube.com/@MarkRober">Mark Rober</a>
+            <br/>
+            ● <a href="https://www.youtube.com/@CrunchLabs">Crunch Labs</a>
+            <br/>
+            ● <a href="https://www.youtube.com/@smartereveryday">Smarter Every Day</a>
+          </td>
+          <td>
+            ● <a href="https://lightbot.com/">Light Bot</a>
+            <br/>
+            ● <a href="https://www.avokiddo.com/thinkrolls-app/">Thinkrolls</a>
+          </td>
+          <td>
+          </td>
+        </tr>
+        <tr>
+          <td>General Learning</td>
+          <td>
+            ● <a href="https://www.youtube.com/@TEDEd">TED-Ed</a>
+            <br/>
+            ● <a href="https://www.youtube.com/@CGPGrey">CGP Grey</a>
+            <br/>
+            ● <a href="https://www.youtube.com/@answerinprogress">Answer in Progress</a>
+          </td>
+          <td>
+          </td>
+          <td>
           </td>
         </tr>
       </table>
