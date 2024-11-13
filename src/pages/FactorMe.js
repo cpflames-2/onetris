@@ -65,8 +65,8 @@ export default function FactorMe() {
   return (
     <div className="basic">
       <h3>{number.toLocaleString()} = {factoring}</h3>
-      <h3>{primes.length.toLocaleString()} primes considered: {primes.join(", ")}</h3>
-      <p>Calculation time: {timeElapsed} ms</p>
+      <p>Calculation time: {timeElapsed} milliseconds</p>
+      <p>{primes.length.toLocaleString()} primes considered: {primes.join(", ")}</p>
     </div>
   );
 }
