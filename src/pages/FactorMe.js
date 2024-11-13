@@ -56,13 +56,17 @@ export default function FactorMe() {
   var params = new URLSearchParams(window.location.search);
   const number = Number(params.get('number'));
   
+  const startTime = performance.now();
   const primes = primesUpto(Math.sqrt(number));
   const factoring = factorThis(primes, number);
+  const endTime = performance.now();
+  const timeElapsed = (endTime - startTime).toFixed(2);
   
   return (
-    <div class="basic">
+    <div className="basic">
       <h3>{number.toLocaleString()} = {factoring}</h3>
       <h3>{primes.length.toLocaleString()} primes considered: {primes.join(", ")}</h3>
+      <p>Calculation time: {timeElapsed} ms</p>
     </div>
   );
 }
