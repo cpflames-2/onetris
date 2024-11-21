@@ -29,79 +29,79 @@ export default function Home() {
           <tr>
             <td>+500</td>
             <td>5%</td>
-            <td style="background-color: #CFC;">+ 47</td>
-            <td style="background-color: #CFC;">+ 22</td>
-            <td style="background-color: #FCC;">- 3</td>
+            <td style={{ backgroundColor: "#CFC" }}>+ 47</td>
+            <td style={{ backgroundColor: "#CFC" }}>+ 22</td>
+            <td style={{ backgroundColor: "#FCC" }}>- 3</td>
           </tr>
           <tr>
             <td>+400</td>
             <td>9%</td>
-            <td style="background-color: #CFC;">+ 45</td>
-            <td style="background-color: #CFC;">+ 20</td>
-            <td style="background-color: #FCC;">- 5</td>
+            <td style={{ backgroundColor: "#CFC" }}>+ 45</td>
+            <td style={{ backgroundColor: "#CFC" }}>+ 20</td>
+            <td style={{ backgroundColor: "#FCC" }}>- 5</td>
           </tr>
           <tr>
             <td>+300</td>
             <td>15%</td>
-            <td style="background-color: #CFC;">+ 42</td>
-            <td style="background-color: #CFC;">+ 17</td>
-            <td style="background-color: #FCC;">- 8</td>
+            <td style={{ backgroundColor: "#CFC" }}>+ 42</td>
+            <td style={{ backgroundColor: "#CFC" }}>+ 17</td>
+            <td style={{ backgroundColor: "#FCC" }}>- 8</td>
           </tr>
           <tr>
             <td>+200</td>
             <td>24%</td>
-            <td style="background-color: #CFC;">+ 38</td>
-            <td style="background-color: #CFC;">+ 13</td>
-            <td style="background-color: #FCC;">- 12</td>
+            <td style={{ backgroundColor: "#CFC" }}>+ 38</td>
+            <td style={{ backgroundColor: "#CFC" }}>+ 13</td>
+            <td style={{ backgroundColor: "#FCC" }}>- 12</td>
           </tr>
           <tr>
             <td>+100</td>
             <td>36%</td>
-            <td style="background-color: #CFC;">+ 32</td>
-            <td style="background-color: #CFC;">+ 7</td>
-            <td style="background-color: #FCC;">- 18</td>
+            <td style={{ backgroundColor: "#CFC" }}>+ 32</td>
+            <td style={{ backgroundColor: "#CFC" }}>+ 7</td>
+            <td style={{ backgroundColor: "#FCC" }}>- 18</td>
           </tr>
           <tr>
             <td>0</td>
             <td>50%</td>
-            <td style="background-color: #CFC;">+ 25</td>
+            <td style={{ backgroundColor: "#CFC" }}>+ 25</td>
             <td>0</td>
-            <td style="background-color: #FCC;">- 25</td>
+            <td style={{ backgroundColor: "#FCC" }}>- 25</td>
           </tr>
           <tr>
             <td>-100</td>
             <td>64%</td>
-            <td style="background-color: #CFC;">+ 18</td>
-            <td style="background-color: #FCC;">- 7</td>
-            <td style="background-color: #FCC;">- 32</td>
+            <td style={{ backgroundColor: "#CFC" }}>+ 18</td>
+            <td style={{ backgroundColor: "#FCC" }}>- 7</td>
+            <td style={{ backgroundColor: "#FCC" }}>- 32</td>
           </tr>
           <tr>
             <td>-200</td>
             <td>76%</td>
-            <td style="background-color: #CFC;">+ 12</td>
-            <td style="background-color: #FCC;">- 13</td>
-            <td style="background-color: #FCC;">- 38</td>
+            <td style={{ backgroundColor: "#CFC" }}>+ 12</td>
+            <td style={{ backgroundColor: "#FCC" }}>- 13</td>
+            <td style={{ backgroundColor: "#FCC" }}>- 38</td>
           </tr>
           <tr>
             <td>-300</td>
             <td>85%</td>
-            <td style="background-color: #CFC;">+ 8</td>
-            <td style="background-color: #FCC;">- 17</td>
-            <td style="background-color: #FCC;">- 42</td>
+            <td style={{ backgroundColor: "#CFC" }}>+ 8</td>
+            <td style={{ backgroundColor: "#FCC" }}>- 17</td>
+            <td style={{ backgroundColor: "#FCC" }}>- 42</td>
           </tr>
           <tr>
             <td>-400</td>
             <td>91%</td>
-            <td style="background-color: #CFC;">+ 5</td>
-            <td style="background-color: #FCC;">- 20</td>
-            <td style="background-color: #FCC;">- 45</td>
+            <td style={{ backgroundColor: "#CFC" }}>+ 5</td>
+            <td style={{ backgroundColor: "#FCC" }}>- 20</td>
+            <td style={{ backgroundColor: "#FCC" }}>- 45</td>
           </tr>
           <tr>
             <td>-500</td>
             <td>95%</td>
-            <td style="background-color: #CFC;">+ 3</td>
-            <td style="background-color: #FCC;">- 22</td>
-            <td style="background-color: #FCC;">- 47</td>
+            <td style={{ backgroundColor: "#CFC" }}>+ 3</td>
+            <td style={{ backgroundColor: "#FCC" }}>- 22</td>
+            <td style={{ backgroundColor: "#FCC" }}>- 47</td>
           </tr>
         </tbody>
       </table>
