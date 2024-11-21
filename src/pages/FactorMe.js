@@ -1,4 +1,5 @@
 import '../App.css';
+import { useState } from 'react';
 
 function primesUpto(n) {
     // Eratosthenes algorithm to find all primes under n
@@ -6,7 +7,7 @@ function primesUpto(n) {
     var output = [];
 
     // Make an array from 2 to (n - 1)
-    for (var h = 0; h < n; h++) {
+    for (var h = 0; h <= n+0.5; h++) {
         array.push(true);
     }
 
@@ -29,43 +30,96 @@ function primesUpto(n) {
     return output;
 };
 
-function factorThis(primes, number) {
+function nextPrime(primes, limit) {
+    if(primes.length === 0) {
+        primes.push(2);
+        return 2;
+    }
+
+    const lastPrime = primes[primes.length - 1];
+    if(lastPrime === 2) {
+      primes.push(3);
+      return 3;
+    }
+
+    for(let i = lastPrime + 2; i <= limit; i += 2) {
+        if(primes.every(prime => i % prime !== 0)) {
+            primes.push(i);
+            return i;
+        }
+    }
+    return limit;
+}
+
+function factorThis(number) {
   var output = [];
   var remaining = number;
-  var primeIndex = 0;
+  var primes = [];
+
+
   while(remaining > 1) {
-    var currPrime;
-    if(primeIndex >= primes.length) {
-      currPrime = remaining;
-    } else {
-      currPrime = primes[primeIndex];
+    if(currPrime > Math.sqrt(remaining)) {
+      output.push(remaining.toLocaleString());
+      break;
     }
-    //console.log({remaining, primeIndex, currPrime});
-    if(remaining % currPrime === 0) {
+    var currPrime = nextPrime(primes, remaining);
+    while(remaining % currPrime === 0) {
       output.push(currPrime.toLocaleString());
       remaining /= currPrime;
-    } else {
-      primeIndex++;
     }
   }
-  return output.join("  x  ");
+  return {factoring: output.join("  x  "), primes: primes};
 }
 
 export default function FactorMe() {
-  var params = new URLSearchParams(window.location.search);
-  const number = Number(params.get('number'));
+  const params = new URLSearchParams(window.location.search);
+  const initialNumber = Number(params.get('number')) || 1;
+  const [number, setNumber] = useState(initialNumber);
+  const [inputValue, setInputValue] = useState('');
   
   const startTime = performance.now();
-  const primes = primesUpto(Math.sqrt(number));
-  const factoring = factorThis(primes, number);
+
+  //const primes = primesUpto(Math.sqrt(number));
+  const {factoring, primes} = factorThis(number);
+
   const endTime = performance.now();
   const timeElapsed = (endTime - startTime).toFixed(2);
+
+  const handleSubmit = (e) => {
+    e.preventDefault();
+    setNumber(Number(inputValue));
+  };
+    
+  const handlePrev = () => {
+    setNumber(prevNumber => prevNumber - 1);
+  };    
+  const handleNext = () => {
+    setNumber(prevNumber => prevNumber + 1);
+  };
   
   return (
     <div className="basic">
+      <form onSubmit={handleSubmit}>
+        <input 
+          type="number" 
+          value={inputValue} 
+          onChange={(e) => setInputValue(e.target.value)}
+          placeholder="Enter a number"
+        />
+        <button type="submit" style={{ marginRight: '100px' }}>Factor Me!</button>
+
+        <button type="button" onClick={handlePrev}>-1</button>
+        <span style={{ margin: '10px' }}><b>{number.toLocaleString()}</b></span>
+        <button type="button" onClick={handleNext}>+1</button>
+      </form>
+
       <h3>{number.toLocaleString()} = {factoring}</h3>
       <p>Calculation time: {timeElapsed} milliseconds</p>
-      <p>{primes.length.toLocaleString()} primes considered: {primes.join(", ")}</p>
+      {primes.length > 10 ? (
+        <p>{primes.length.toLocaleString()} primes considered</p>
+      ) : (
+        <p>{primes.length.toLocaleString()} primes considered: {primes.join(", ")}</p>
+      )}
     </div>
   );
 }

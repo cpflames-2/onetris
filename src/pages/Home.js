@@ -2,9 +2,6 @@ import './Home.css';
 import '../App.css';
 
 export default function Home() {
-  //var params = new URLSearchParams(window.location.search);
-  //var number = params.get('factorme');
-  
   return (
     <div className="App">
       <h1>Enjoy Learning Chess!</h1>
