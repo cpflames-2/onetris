@@ -73,9 +73,10 @@ function factorThis(number) {
 
 export default function FactorMe() {
   const params = new URLSearchParams(window.location.search);
-  const initialNumber = Number(params.get('number')) || 1;
+  const initialNumber = Number(params.get('number')) || 42;
   const [number, setNumber] = useState(initialNumber);
-  const [inputValue, setInputValue] = useState('');
+  const [inputValue, setInputValue] = useState(initialNumber);
+  const [multiplyValue, setMultiplyValue] = useState(2);
   
   const startTime = performance.now();
 
@@ -97,20 +98,35 @@ export default function FactorMe() {
     setNumber(prevNumber => prevNumber + 1);
   };
   
+  const handleMultiply = () => {
+    if (multiplyValue) {
+      setNumber(prevNumber => Math.round(prevNumber * Number(multiplyValue)));
+    }
+  };
+  
   return (
     <div className="basic">
-      <form onSubmit={handleSubmit}>
+      <form onSubmit={handleSubmit} style={{ marginBottom: '20px' }}>
         <input 
           type="number" 
           value={inputValue} 
           onChange={(e) => setInputValue(e.target.value)}
           placeholder="Enter a number"
         />
-        <button type="submit" style={{ marginRight: '100px' }}>Factor Me!</button>
+        <button type="submit" style={{ marginRight: '50px' }}>Factor Me!</button>
 
         <button type="button" onClick={handlePrev}>-1</button>
         <span style={{ margin: '10px' }}><b>{number.toLocaleString()}</b></span>
         <button type="button" onClick={handleNext}>+1</button>
+
+        <button type="button" onClick={handleMultiply} style={{ marginLeft: '20px' }}>Multiply by ...</button>
+        <input 
+          type="number" 
+          value={multiplyValue}
+          onChange={(e) => setMultiplyValue(e.target.value)}
+          placeholder="Multiply by..."
+          style={{ width: '50px', marginLeft: '5px' }}
+        />
       </form>
 
       <h3>{number.toLocaleString()} = {factoring}</h3>
