@@ -11,6 +11,7 @@ import Counter from "./pages/Counter";
 import Resizer from "./pages/Resizer";
 import RowEffect from "./pages/RowEffect";
 import CellEffect from "./pages/CellEffect";
+import Ratings from "./pages/Ratings";
 
 export default function App() {
   return (
@@ -42,6 +43,9 @@ export default function App() {
         </Route>
         <Route path="/celleffect" element={<Layout />}>
           <Route index element={<CellEffect />} />
+        </Route>
+        <Route path="/ratings" element={<ChessOnlyLayout />}>
+          <Route index element={<Ratings />} />
         </Route>
       </Routes>
     </BrowserRouter>
