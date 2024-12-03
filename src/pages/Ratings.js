@@ -14,7 +14,7 @@ export default function Ratings() {
   const params = new URLSearchParams(window.location.search);
   const myRating = Number(params.get('rating')) || 500;
   const oppRatings = params.get('oppRatings') || '400 500 600 700 800';
-  const actualPoints = parseFloat(params.get('points')) || 2.5;
+  const actualPoints = params.get('points') === null ? 2.5 : Number(params.get('points'));
   //const [rating, setRating] = useState(initialRating);
   //const [inputValue, setInputValue] = useState('');
   //const [changeValue, setChangeValue] = useState('');
@@ -62,41 +62,37 @@ export default function Ratings() {
   
   return (
     <div className="App" style={{ textAlign: 'left', margin: '20px' }}>
-      <h3>Rating: {myRating} → {newRating.toFixed(0)}</h3>  
-      <h4>Rating Change Table for K={k.toFixed(1)}</h4>
-      <table border="1" style={{ margin: '10px' }}>
-      <thead>
-          <tr>
-            <th>RatingΔ</th>
-            <th>WinRate</th>
-            <th style={{ width: '50px', textAlign: 'center' }}>Win</th>
-            <th style={{ width: '50px', textAlign: 'center' }}>Draw</th>
-            <th style={{ width: '50px', textAlign: 'center' }}>Loss</th>
-          </tr>
-        </thead>
-        <tbody>
-          {ratingChangeTable.map((row, index) => (
-            <tr key={index}>
-            <td style={{ textAlign: 'right' }}>{fmt(row[0])}</td>
-            <td style={{ textAlign: 'right' }}>{row[1]}%</td>
-            {colorCell(row[2])}
-            {colorCell(row[3])}
-            {colorCell(row[4])}
-            </tr>
-          ))}
-        </tbody>
-      </table>
+      <h3>Old Rating: {myRating}</h3>
+      <h3>Predicted New Rating: {newRating.toFixed(0)}</h3>
 
+      <h4>Explanation in words</h4>
+      <p>Elo says:</p>
+      <blockquote style={{
+        backgroundColor: '#f9f9f9',
+        borderLeft: '10px solid #ccc',
+        margin: '1.5em 10px',
+        padding: '0.5em 10px'
+      }}>
+        For your rating ({myRating}), and opponents you faced({opponentRatings.join(', ')}), 
+        <br/>I expected you to score <b>{expectedPoints.toFixed(1)} points</b> in this tournament.
+        <br/>But you actually scored <b>{actualPoints.toFixed(1)} points</b>, for a delta of <b>{(actualPoints - expectedPoints).toFixed(1)}</b>.
+        <br/>Based on your rating ({myRating}), my uncertainty (K) about your true rating is <b>K={k.toFixed(1)}</b>.
+        <br/>So your delta points are <b>{deltaPoints.toFixed(1)}</b> = K ({k.toFixed(1)}) * delta ({(actualPoints - expectedPoints).toFixed(1)}).
+        <br/>Plus <b>{bonusPoints.toFixed(1)}</b> bonus points, for delta points scored in excess of {bonusCap.toFixed(1)}.
+        <br/>So your new rating is <b>{newRating.toFixed(0)}</b> = old rating ({myRating}) + delta points ({deltaPoints.toFixed(1)}) + bonus points ({bonusPoints.toFixed(1)}).
+      </blockquote>
+
+      <h4>Explanation in math</h4>
       <p>
         <b>Games played: {gamesPlayed}</b> vs {opponentRatings.join(', ')}
-        <br/><small>(K={k.toFixed(1)}=800/(50/sqrt(0.84+0.0000040445*(2755.99-initialRating)^2)+gamesPlayed))</small>
+        <br/><small>(Uncertainty: K={k.toFixed(1)}=800/(50/sqrt(0.84+0.0000040445*(2755.99-initialRating)^2)+gamesPlayed))</small>
         <br/>
         <b>Expected points: {expectedPoints.toFixed(1)}, Actual points: {actualPoints.toFixed(1)}</b>
         <br/><small>(Expected points per opponent = 1/(1+10^((oppRating-myRating)/400)))</small>
         <br/>
         <b>Delta points: {deltaPoints.toFixed(1)}</b>
         <br/><small>(Delta points = K * (Actual points - Expected points))</small>
-        <br/><small>(Delta points can be added up from each game result, per table above)</small>
+        <br/><small>(Delta points can also be added up from each game result, per table below)</small>
         <br/>
         <b>Bonus points: {bonusPoints.toFixed(1)}</b>
         <br/><small>(Delta point gains above ~20 are given again as bonus points)</small>
@@ -106,7 +102,7 @@ export default function Ratings() {
         <br/><small>(New rating = Starting rating + Delta points + Bonus points)</small>
       </p>
 
-
+      <h4>Input your own values</h4>
 
       {/* <form onSubmit={handleSubmit} style={{ marginBottom: '20px' }}> */}
       <form style={{ marginBottom: '20px' }}>
@@ -139,21 +135,57 @@ export default function Ratings() {
       </form>
 
       <h3>Further Explanation</h3>
+
+      <h4>Rating Change Table for Rating={myRating} (K={k.toFixed(1)})</h4>
+      <table border="1" style={{ margin: '10px' }}>
+      <thead>
+          <tr>
+            <th>RatingΔ</th>
+            <th>WinRate</th>
+            <th style={{ width: '50px', textAlign: 'center' }}>Win</th>
+            <th style={{ width: '50px', textAlign: 'center' }}>Draw</th>
+            <th style={{ width: '50px', textAlign: 'center' }}>Loss</th>
+          </tr>
+        </thead>
+        <tbody>
+          {ratingChangeTable.map((row, index) => (
+            <tr key={index}>
+            <td style={{ textAlign: 'right' }}>{fmt(row[0])}</td>
+            <td style={{ textAlign: 'right' }}>{row[1]}%</td>
+            {colorCell(row[2])}
+            {colorCell(row[3])}
+            {colorCell(row[4])}
+            </tr>
+          ))}
+        </tbody>
+      </table>
+
+      <h4>Understanding the rating change per game</h4>
       <p>
-        <b>RatingΔ</b> is your opponent's rating minus your rating.<br/> 
-        <b>Win Rate</b> is the percentage of games you are expected to win, based on the RatingΔ.<br/>
-        <b>Win</b>, <b>Draw</b>, and <b>Loss</b> are the points you receive for the match, based on the result.<br/>
+        <b>RatingΔ</b> is your opponent's rating minus your rating.
+        <br/> 
+        <b>Win Rate</b> is the percentage of games you are expected to win, based on the RatingΔ.
+        <br/>
+        <b>Win</b>, <b>Draw</b>, and <b>Loss</b> are the points you receive for the match, based on the result.
         <br/>
         For example, the third row shows that if you're playing someone rated 300 points higher than you,
         you can expect to win about 15% of the time.  If you win, you get +42 points; if you lose, you get -8 points.
         <br/>
         If you are instead playing someone rated 300 points lower than you, you can expect to win 85% of the time.
         If you win, you get +8 points; if you lose, you get -42 points.
+      </p>
+
+      <h4>Understanding the rating change for the tournament</h4>
+      <p>
+        <b>K</b> is the uncertainty of your true rating. It ranges from 65 for a new player, to 40 for a seasoned player.
         <br/>
-        The table is based on <a href="https://en.wikipedia.org/wiki/Elo_rating_system">Elo rating system</a> formulas, 
-        which were created to calculate chess ratings. The values in the table are based on a K-Factor of 50, 
-        which is common for elementary school tournaments, to help young players settle into their rating.
-        As players get older and more experienced, the K-Factor will decrease, and the rating changes will be smaller.
+        <b>Expected points</b> are the points you are expected to score, based on the RatingΔ. Adding up the WinRate for all your games gives you the Expected points.
+        <br/>
+        <b>Actual points</b> are the points you actually scored in the tournament.
+        <br/>
+        <b>Delta points</b> are the rating points for each of the game results, and equals K * (Actual points - Expected points).
+        <br/>
+        <b>Bonus points</b> are also given, if total delta points for the tournament are above 20, and are equal to delta points minus 20.
       </p>
 
     </div>
