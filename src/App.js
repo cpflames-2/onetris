@@ -12,10 +12,12 @@ import Resizer from "./pages/Resizer";
 import RowEffect from "./pages/RowEffect";
 import CellEffect from "./pages/CellEffect";
 import Ratings from "./pages/Ratings";
+import TopNav from "./components/TopNav";
 
 export default function App() {
   return (
     <BrowserRouter>
+      <TopNav />
       <Routes>
         <Route path="/" element={<ChessOnlyLayout />}>
           <Route index element={<Home />} />
