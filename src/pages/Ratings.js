@@ -62,6 +62,37 @@ export default function Ratings() {
   
   return (
     <div className="App" style={{ textAlign: 'left', margin: '20px' }}>
+    <h2>Rating Calculator</h2>
+    <h4> Input values below to predict your new rating</h4>
+        <form style={{ marginBottom: '20px' }}>
+          <input 
+            type="number"
+            name="rating"
+            defaultValue={myRating}
+            style={{ width: '50px', margin: '10px' }}
+          />
+          <small>Your starting rating</small>
+          <br/>
+          <input 
+            type="string" 
+            name="oppRatings"
+            defaultValue={oppRatings}
+            style={{ width: '250px', margin: '10px' }}
+          />
+          <small>Opponent ratings, separated by spaces</small>
+          <br/>
+          <input 
+            type="number" 
+            name="points"
+            defaultValue={actualPoints}
+            step="0.5"
+            style={{ width: '50px', margin: '10px' }}
+          />
+          <small>Points scored in the tournament</small>
+          <br/>
+          <button type="submit" style={{ margin: '10px' }}>Find New Rating</button>
+        </form>
+
       <h3>Old Rating: {myRating}</h3>
       <h3>Predicted New Rating: {newRating.toFixed(0)}</h3>
 
@@ -101,38 +132,6 @@ export default function Ratings() {
         <b>New Rating: {newRating.toFixed(0)}</b>
         <br/><small>(New rating = Starting rating + Delta points + Bonus points)</small>
       </p>
-
-      <h4>Input your own values</h4>
-
-      {/* <form onSubmit={handleSubmit} style={{ marginBottom: '20px' }}> */}
-      <form style={{ marginBottom: '20px' }}>
-        <input 
-          type="number"
-          name="rating"
-          defaultValue={myRating}
-          style={{ width: '50px', margin: '10px' }}
-        />
-        <small>Your starting rating</small>
-        <br/>
-        <input 
-          type="string" 
-          name="oppRatings"
-          defaultValue={oppRatings}
-          style={{ width: '250px', margin: '10px' }}
-        />
-        <small>Opponent ratings, separated by spaces</small>
-        <br/>
-        <input 
-          type="number" 
-          name="points"
-          defaultValue={actualPoints}
-          step="0.5"
-          style={{ width: '50px', margin: '10px' }}
-        />
-        <small>Points scored in the tournament</small>
-        <br/>
-        <button type="submit" style={{ margin: '10px' }}>Find New Rating</button>
-      </form>
 
       <h3>Further Explanation</h3>
 
