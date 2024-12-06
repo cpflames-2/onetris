@@ -7,12 +7,12 @@ export default function TopNav() {
       <Link to="/" className="logo-link">
         <img 
           src="/images/logo.webp" 
-          alt="Logo" 
+          alt="Home" 
           className="nav-logo" 
         />
       </Link>
-      <Link to="/">Home</Link>
       <Link to="/ratings">Ratings Calculator</Link>
+      <Link to="/resources">Resources</Link>
     </div>
   );
 } 

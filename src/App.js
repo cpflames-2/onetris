@@ -13,6 +13,7 @@ import RowEffect from "./pages/RowEffect";
 import CellEffect from "./pages/CellEffect";
 import Ratings from "./pages/Ratings";
 import TopNav from "./components/TopNav";
+import Resources from "./pages/Resources";
 
 export default function App() {
   return (
@@ -48,6 +49,9 @@ export default function App() {
         </Route>
         <Route path="/ratings" element={<ChessOnlyLayout />}>
           <Route index element={<Ratings />} />
+        </Route>
+        <Route path="/resources" element={<ChessOnlyLayout />}>
+          <Route index element={<Resources />} />
         </Route>
       </Routes>
     </BrowserRouter>
