@@ -6,7 +6,7 @@ export default function TopNav() {
     <div className="top-nav">
       <Link to="/" className="logo-link">
         <img 
-          src="/images/logo.webp" 
+          src="/logo512.png" 
           alt="Home" 
           className="nav-logo" 
         />
