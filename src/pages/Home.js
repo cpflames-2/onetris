@@ -4,7 +4,7 @@ import '../App.css';
 export default function Home() {
   return (
     <div className="App">
-      <h1>Enjoy Learning Chess!</h1>
+      <h1>💡 Enjoy Learning Chess!</h1>
       <img src="/logo512.png" alt="Logo" className="home-logo" style={{ width: '256px' }}/>
 
       <h2>Chess Website for "Coach Chris" Pleasants</h2>
@@ -25,6 +25,17 @@ export default function Home() {
 
       <h3>What are some resources to help me improve and learn?</h3>
       Check out our <a href="/resources">Recommended Resources</a>
+
+      <h3>How do I sign up my kids for tournaments in the Pacific Northwest?</h3>
+      There are 2 websites for Northwest Scholastic chess tournaments: 
+      {' '} <a href="https://nwchess.com/OnlineRegistration/">NW Chess</a>
+      {' '} and <a href="https://chessreg.com/">ChessReg</a>
+
+      <h3>What is it like to play in a chess tournament?</h3>
+      NW Chess provides this <a href="https://drive.google.com/file/d/11IYXwGJO_YdD04YEbdBIzXA8vZwRYw96/view">helpful guide to your first tournament</a>.
+
+      <h3>How are chess pairings decided in a tournament?</h3>
+      (Guide to swiss-system pairings... coming soon!)
 
     </div>
   );

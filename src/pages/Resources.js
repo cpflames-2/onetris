@@ -1,7 +1,7 @@
 export default function Resources() {
   return (
     <div className="App" style={{ textAlign: 'left', margin: '20px' }}>
-      <h2>Recommended chess resources</h2>
+      <h2>📚 Recommended chess resources</h2>
 
       <h4>Chess Books</h4>
       ▶ <a href="https://www.amazon.com/Bobby-Fischer-Teaches-Chess/dp/0553263153">Bobby Fischer Teaches Chess</a>

@@ -62,7 +62,7 @@ export default function Ratings() {
   
   return (
     <div className="App" style={{ textAlign: 'left', margin: '20px' }}>
-    <h2>Rating Calculator</h2>
+    <h2>📈 Rating Calculator</h2>
     <h4> Input values below to predict your new rating</h4>
         <form style={{ marginBottom: '20px' }}>
           <input 
@@ -90,7 +90,7 @@ export default function Ratings() {
           />
           <small>Points scored in the tournament</small>
           <br/>
-          <button type="submit" style={{ margin: '10px' }}>Find New Rating</button>
+          <button type="submit" style={{ margin: '10px' }}>Predict My New Rating</button>
         </form>
 
       <h3>Old Rating: {myRating}</h3>
@@ -105,32 +105,39 @@ export default function Ratings() {
         padding: '0.5em 10px'
       }}>
         For your rating ({myRating}), and opponents you faced({opponentRatings.join(', ')}), 
-        <br/>I expected you to score <b>{expectedPoints.toFixed(1)} points</b> in this tournament.
-        <br/>But you actually scored <b>{actualPoints.toFixed(1)} points</b>, for a delta of <b>{(actualPoints - expectedPoints).toFixed(1)}</b>.
+        <br/>your projected score was <b>{expectedPoints.toFixed(1)} points</b> for this tournament.
+        <br/>But your actual score was <b>{actualPoints.toFixed(1)} points</b>, for a delta of <b>{(actualPoints - expectedPoints).toFixed(1)}</b>.
         <br/>Based on your rating ({myRating}), my uncertainty (K) about your true rating is <b>K={k.toFixed(1)}</b>.
         <br/>So your delta points are <b>{deltaPoints.toFixed(1)}</b> = K ({k.toFixed(1)}) * delta ({(actualPoints - expectedPoints).toFixed(1)}).
         <br/>Plus <b>{bonusPoints.toFixed(1)}</b> bonus points, for delta points scored in excess of {bonusCap.toFixed(1)}.
-        <br/>So your new rating is <b>{newRating.toFixed(0)}</b> = old rating ({myRating}) + delta points ({deltaPoints.toFixed(1)}) + bonus points ({bonusPoints.toFixed(1)}).
+        <br/>So your predicted new rating is <b>{newRating.toFixed(0)}</b> = old rating ({myRating}) + delta points ({deltaPoints.toFixed(1)}) + bonus points ({bonusPoints.toFixed(1)}).
       </blockquote>
 
       <h4>Explanation in math</h4>
       <p>
         <b>Games played: {gamesPlayed}</b> vs {opponentRatings.join(', ')}
-        <br/><small>(Uncertainty: K={k.toFixed(1)}=800/(50/sqrt(0.84+0.0000040445*(2755.99-initialRating)^2)+gamesPlayed))</small>
+        <br/><small>BonusCap={bonusCap.toFixed(1)}=9.7*sqrt(max(4,gamesPlayed))</small>
         <br/>
-        <b>Expected points: {expectedPoints.toFixed(1)}, Actual points: {actualPoints.toFixed(1)}</b>
-        <br/><small>(Expected points per opponent = 1/(1+10^((oppRating-myRating)/400)))</small>
+        <b>Uncertainty: K={k.toFixed(1)}</b>
+        <br/><small>The K-factor in an Elo rating system controls how fast ratings move.</small>
+        <br/><small>NWSRS computes K from your rating, and games played in that tournament.</small>
+        <br/><small>K=800/(50/sqrt(0.84+0.0000040445*(2755.99-initialRating)^2)+gamesPlayed)</small>
+        <br/>
+        <b>Projected points: {expectedPoints.toFixed(1)}, Actual points: {actualPoints.toFixed(1)}</b>
+        <br/><small>Projected points per opponent = 1/(1+10^((oppRating-myRating)/400))</small>
+        <br/><small>Projected points for the tournament = sum(Projected points per opponent)</small>
         <br/>
         <b>Delta points: {deltaPoints.toFixed(1)}</b>
-        <br/><small>(Delta points = K * (Actual points - Expected points))</small>
-        <br/><small>(Delta points can also be added up from each game result, per table below)</small>
+        <br/><small>Delta points = K * (Actual points - Projected points)</small>
+        <br/><small>Delta points can also be added up from each game result, per table below</small>
         <br/>
         <b>Bonus points: {bonusPoints.toFixed(1)}</b>
-        <br/><small>(Delta point gains above ~20 are given again as bonus points)</small>
-        <br/><small>(Well, technically, above bonusCap={bonusCap.toFixed(1)} for a {gamesPlayed} round tournament)</small>
+        <br/><small>Delta points gained in excess of ~20 are given again as bonus points</small>
+        <br/><small>Well, technically, above BonusCap={bonusCap.toFixed(1)} for a {gamesPlayed}-round tournament</small>
+        <br/><small>Bonus points help young players gain rating rapidly when they improve rapidly</small>
         <br/>
-        <b>New Rating: {newRating.toFixed(0)}</b>
-        <br/><small>(New rating = Starting rating + Delta points + Bonus points)</small>
+        <b>Predicted New Rating: {newRating.toFixed(0)}</b>
+        <br/><small>New rating ({newRating.toFixed(0)}) = Starting rating ({myRating}) + Delta points ({deltaPoints.toFixed(1)}) + Bonus points ({bonusPoints.toFixed(1)})</small>
       </p>
 
       <h3>Further Explanation</h3>
