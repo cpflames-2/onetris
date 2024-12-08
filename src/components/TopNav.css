@@ -11,8 +11,8 @@
   vertical-align: middle;
 }
 
-.logo-link {
-  padding: 0px 10px;  /* Smaller padding for the logo */
+#logo-link {
+  padding: 5px 10px;  /* Smaller padding for the logo */
 }
 
 .top-nav a {

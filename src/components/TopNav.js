@@ -4,7 +4,7 @@ import './TopNav.css';
 export default function TopNav() {
   return (
     <div className="top-nav">
-      <Link to="/" className="logo-link">
+      <Link to="/" id="logo-link">
         <img 
           src="/logo512.png" 
           alt="Home" 
