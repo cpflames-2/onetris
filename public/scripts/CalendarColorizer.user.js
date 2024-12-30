@@ -2,16 +2,16 @@
 // @name         Google Calendar Colorizer
 // @namespace    cpflames
 // @description  Simple script to change the colors in Google Calendar.
-// @version      1.4
+// @version      1.5
 // @include      https://calendar.google.com/calendar/*
 // @grant        none
 // ==/UserScript==
 
   // Color palette
   const COLOR_PALETTE = {
-    "today": "#666600",
-    "thisWeek": "#333300",
-    "dayNumbers": "rgba(0, 0, 255, 0.5)",
+    "today": "#AA2222",
+    "thisWeek": "#551111",
+    "dayNumbers": "rgba(0, 95, 0, 0.8)",
   };
 
   // Debug mode flag
