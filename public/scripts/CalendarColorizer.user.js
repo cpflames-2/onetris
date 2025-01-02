@@ -18,37 +18,9 @@
   const DEBUG_MODE = false;
 
 (function() {
-  // Helper function to calculate the `data-datekey` value for today's date
-  function calculateDateKey(date) {
-      // Google Calendar's epoch seems to correspond to Jan 1, 1970 (UNIX epoch)
-      //const epoch = new Date(1970, 0, 1);
-      const epoch = new Date(1948, 2, 2); // March 2, 1948 (months are zero-indexed)
-      const diffInMilliseconds = date.setHours(0, 0, 0, 0) - epoch.setHours(0, 0, 0, 0);
-      const diffInDays = Math.floor(diffInMilliseconds / (1000 * 60 * 60 * 24));
-      return diffInDays.toString(); // Convert to string to match `data-datekey`
-  }
-
-  // Get today's date
-  const today = new Date();
-  const todayDateKey = calculateDateKey(today);
-  debug("Today="+todayDateKey);
-
-  // Calculate the start (Sunday) and end (Saturday) of the current week
-  const sundayKey = todayDateKey - today.getDay();
-  const saturdayKey = sundayKey + 6;
-  debug("Sun="+sundayKey+",Sat="+saturdayKey);
 
   // Generate CSS rules for all days in the week
   const style = document.createElement('style');
-  for (let dateKey = sundayKey; dateKey <= saturdayKey; dateKey++) {
-      //const dateKey = calculateDateKey(new Date(d));
-      const dateColor = (dateKey == todayDateKey) ? COLOR_PALETTE.today : COLOR_PALETTE.thisWeek;
-      style.textContent += `
-          div[data-datekey="${dateKey}"] {
-              background-color: ${dateColor} !important;
-          }
-      `;
-  }
 
 
   style.textContent += `
@@ -118,3 +90,38 @@ div.T3BIT {
       alert(message);
     }
   }
+
+  function highlightCurrentWeek() {
+    // Find the current day number element (has class F262Ye)
+    const currentDayNumber = document.querySelector('.w48V4c.ubOFEd.F262Ye');
+    if (currentDayNumber) {
+        // Find which number child it is within its parent
+        const parent = currentDayNumber.closest('.RCXPcd');
+        const dayIndex = Array.from(parent.parentNode.children).indexOf(parent);
+        // Find the row containing this day
+        const row = currentDayNumber.closest('.FLFkR');
+        // Find all day boxes in this row
+        const dayBoxes = row.querySelector('.sLvTye').children;
+        // Highlight all boxes in the week, with current day being brighter
+        Array.from(dayBoxes).forEach((box, index) => {
+            if (index === dayIndex) {
+                // Current day - brighter red
+                box.style.backgroundColor = COLOR_PALETTE.today;
+            } else {
+                // Rest of week - darker red
+                box.style.backgroundColor = COLOR_PALETTE.thisWeek;
+            }
+        });
+    }
+  }
+
+// Run initially
+highlightCurrentWeek();
+
+// Optional: Run whenever the calendar updates
+// You might need to adjust the mutation observer settings based on how Google Calendar updates
+const observer = new MutationObserver(highlightCurrentWeek);
+observer.observe(document.body, {
+    childList: true,
+    subtree: true
+});
