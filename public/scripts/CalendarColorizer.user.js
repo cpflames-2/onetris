@@ -2,16 +2,16 @@
 // @name         Google Calendar Colorizer
 // @namespace    cpflames
 // @description  Simple script to change the colors in Google Calendar.
-// @version      1.7
+// @version      1.8
 // @include      https://calendar.google.com/calendar/*
 // @grant        none
 // ==/UserScript==
 
   // Color palette
   const COLOR_PALETTE = {
-    "today": "#AA2222",
-    "thisWeek": "#551111",
-    "dayNumbers": "rgba(0, 95, 0, 0.8)",
+    "today": hexToRGBA("0CF6"),
+    "thisWeek": hexToRGBA("0CF2"),
+    "dayNumbers": hexToRGBA("00FC"),
   };
 
   // Debug mode flag
@@ -31,6 +31,7 @@
     top: 12px !important;
     z-index: 9999;
     transform: none !important;  /* Reset any transforms */
+    color: white !important;
     background-color: ${COLOR_PALETTE.dayNumbers} !important;
     border-radius: 50% !important;
     width: 24px !important;
@@ -103,6 +104,21 @@ div.kbf0gd {
       alert(message);
     }
   }
+
+  function hexToRGBA(hex) {
+    // Remove the hash if it exists
+    hex = hex.replace('#', '');
+
+    // Parse the hex values
+    let r, g, b, a
+
+    r = parseInt(hex[0] + hex[0], 16);
+    g = parseInt(hex[1] + hex[1], 16);
+    b = parseInt(hex[2] + hex[2], 16);
+    a = parseInt(hex[3] + hex[3], 16) / 255.0;
+
+    return `rgba(${r}, ${g}, ${b}, ${a})`;
+}
 
   function highlightCurrentWeek() {
     // Find the current day number element (has class F262Ye)
