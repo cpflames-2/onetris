@@ -2,7 +2,7 @@
 // @name         Google Calendar Colorizer
 // @namespace    cpflames
 // @description  Simple script to change the colors in Google Calendar.
-// @version      1.8
+// @version      1.9
 // @include      https://calendar.google.com/calendar/*
 // @grant        none
 // ==/UserScript==
@@ -34,12 +34,15 @@
     color: white !important;
     background-color: ${COLOR_PALETTE.dayNumbers} !important;
     border-radius: 50% !important;
-    width: 24px !important;
-    height: 24px !important;
+    width: 32px !important;
+    height: 32px !important;
     display: flex !important;
     align-items: center !important;
     justify-content: center !important;
     text-shadow: 0 0 2px rgba(0,0,0,0.2);
+    /* Add font size */
+    font-size: 16px !important;
+    font-weight: 500 !important;
     /* Reset any additional positioning */
     margin: 0 !important;
     padding: 0 !important;
@@ -121,16 +124,25 @@ div.kbf0gd {
 }
 
   function highlightCurrentWeek() {
+    // First, clear any existing highlights
+    const allDayBoxes = document.querySelectorAll('.MGaLHf.ChfiMc');
+    allDayBoxes.forEach(box => {
+        box.style.backgroundColor = '';  // Reset background color
+    });
+
     // Find the current day number element (has class F262Ye)
     const currentDayNumber = document.querySelector('.w48V4c.ubOFEd.F262Ye');
     if (currentDayNumber) {
         // Find which number child it is within its parent
         const parent = currentDayNumber.closest('.RCXPcd');
         const dayIndex = Array.from(parent.parentNode.children).indexOf(parent);
+        
         // Find the row containing this day
         const row = currentDayNumber.closest('.FLFkR');
+        
         // Find all day boxes in this row
         const dayBoxes = row.querySelector('.sLvTye').children;
+        
         // Highlight all boxes in the week, with current day being brighter
         Array.from(dayBoxes).forEach((box, index) => {
             if (index === dayIndex) {
