@@ -9,6 +9,35 @@ const colorCell = (value) => {
   return <td style={{ backgroundColor: bgColor, textAlign: 'right' }}>{fmt(value)}</td>;
 };
 
+const mobileStyles = {
+  input: {
+    fontSize: '16px',          // Prevent auto-zoom on iOS
+    padding: '8px',
+    margin: '10px',
+    borderRadius: '4px',
+    border: '1px solid #ccc',
+  },
+  wideInput: {
+    width: '250px',
+  },
+  narrowInput: {
+    width: '80px',            // Slightly wider than desktop
+  },
+  button: {
+    fontSize: '16px',
+    padding: '12px 24px',     // Larger touch target
+    margin: '10px',
+    backgroundColor: '#4CAF50',
+    color: 'white',
+    border: 'none',
+    borderRadius: '4px',
+    cursor: 'pointer',
+  },
+  label: {
+    display: 'block',         // Stack labels above inputs on mobile
+    marginBottom: '5px',
+  }
+};
 
 export default function Ratings() {
   const params = new URLSearchParams(window.location.search);
@@ -62,35 +91,46 @@ export default function Ratings() {
   
   return (
     <div className="App" style={{ textAlign: 'left', margin: '20px' }}>
-    <h2>📈 Rating Calculator</h2>
+    <h2>📈 Ratings Calculator</h2>
     <h4> Input values below to predict your new rating</h4>
         <form style={{ marginBottom: '20px' }}>
-          <input 
-            type="number"
-            name="rating"
-            defaultValue={myRating}
-            style={{ width: '50px', margin: '10px' }}
-          />
-          <small>Your starting rating</small>
-          <br/>
-          <input 
-            type="string" 
-            name="oppRatings"
-            defaultValue={oppRatings}
-            style={{ width: '250px', margin: '10px' }}
-          />
-          <small>Opponent ratings, separated by spaces</small>
-          <br/>
-          <input 
-            type="number" 
-            name="points"
-            defaultValue={actualPoints}
-            step="0.5"
-            style={{ width: '50px', margin: '10px' }}
-          />
-          <small>Points scored in the tournament</small>
-          <br/>
-          <button type="submit" style={{ margin: '10px' }}>Predict My New Rating</button>
+          <div>
+            <input 
+              type="number"
+              name="rating"
+              defaultValue={myRating}
+              style={{ ...mobileStyles.input, ...mobileStyles.narrowInput }}
+            />
+            <small style={mobileStyles.label}>Your starting rating</small>
+          </div>
+
+          <div>
+            <input 
+              type="string" 
+              name="oppRatings"
+              defaultValue={oppRatings}
+              style={{ ...mobileStyles.input, ...mobileStyles.wideInput }}
+            />
+            <small style={mobileStyles.label}>Opponent ratings, separated by spaces</small>
+          </div>
+
+          <div>
+            <input 
+              type="number" 
+              name="points"
+              defaultValue={actualPoints}
+              step="0.5"
+              style={{ ...mobileStyles.input, ...mobileStyles.narrowInput }}
+            />
+            <small style={mobileStyles.label}>Points scored in the tournament</small>
+          </div>
+
+          <button 
+            type="submit" 
+            style={mobileStyles.button}
+          >
+            Predict My New Rating
+          </button>
         </form>
 
       <h3>Old Rating: {myRating}</h3>
