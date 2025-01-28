@@ -7,12 +7,12 @@ c
 c  This first routine looks for players who are entered as "new" but
 c  actually have a rating in some other system, typically a USCF rating.
 c  Such players are entered with a "code" that involves a hyphen in the
-c  fifth character of the ID.  For example a new player would notmally be
-c  entered with an ID such as ADUN or perhaps ADUN0 or event ADUN   0.  
+c  fifth character of the ID.  For example a new player would normally be
+c  entered with an ID such as ADUN or perhaps ADUN0 or even ADUN   0.  
 c  But if the player actually has an established USCF rating of say 1525,
 c  the player can be entered with the ID ADUN-1525, and it's the hyphen
 c  that tips the program off that this is a pre-rated player and the 1525
-c  gets entered in the array prerate indexed byt the player's number in the
+c  gets entered in the array prerate indexed by the player's number in the
 c  event (these numbers will be from 1 to nplayer, where nplayer is the number
 c  of players in the event).
 c
@@ -63,11 +63,11 @@ c
 c  the subroutine num2alpha is explained as follows: 
 c  The unique part of the ID for each player is the last 4 digits of the full ID.
 c  The 4 digits are alpha numeric, a change made to allow the number of unique
-c  IDs to expand from the original 9000, to over 100,000 whils still keeping the
-c  unique ID to only 4 characters.  But it turns out in the program, it's much
+c  IDs to expand from the original 9000, to over 100,000 while still keeping the
+c  unique ID to only 4 characters.  But it turns out in the program, it's much easier
 c  to deal with IDs as numbers rather than alpha numerics, so two subroutines were
 c  added to the program, num2alpha and alpha2num that allow the transformation
-c  and forth.  Here I wanted to print a message out to the user that a certain
+c  back and forth.  Here I wanted to print a message out to the user that a certain
 c  player could not be found, but if I printed ievid(i) it would be the numeric
 c  ID and it would be difficult for me to find the player in the input file to
 c  fix it.
@@ -122,14 +122,14 @@ c
 c
 c  Step 4 - calculate an intermediate rating
 c
-c  Like Step 3 this step is on loop over the variable i which is the
+c  Like Step 3, this step is on loop over the variable i which is the
 c  player number in the standings list from the tournament file, and
 c  ranges from 1 to nplayer.  However, this step does calculations for
-c  all players in the event, not just the unrated players.  So if 
-c  the player is unrated, or if the player has a rating, but all
-c  his/her previous games were either all wins or all loses, or if
-c  he/she has less than 8 games in the system, then the special rating
-c  routine (sprt) is used, other wise the standard rating formula is
+c  all players in the event, not just the unrated players.  So ((if 
+c  the player is unrated), or (if the player has a rating, but all
+c  his/her previous games were either all wins or all losses), or (if
+c  he/she has less than 8 games in the system)), then the special rating
+c  routine (sprt) is used, otherwise the standard rating formula is
 c  used.  
 c
       do i=1,nplayer
@@ -225,7 +225,7 @@ c  for sections that are entirely composed of unrateds
 *  Subroutine stanrate  (standard rating formula)                      *
 *  Part of Ratings program                                             *
 *                                                                      *
-*  This subroutine calcuates the rating using the standard rating      *
+*  This subroutine calculates the rating using the standard rating     *
 *  formula.                                                            *
 *     r0 = start rating for a player in the event                      *
 *     pn = N' from the USCF rating algorithm (effective # games)       *
@@ -276,7 +276,7 @@ c  for sections that are entirely composed of unrateds
 *  Subroutine sprt   (special rating formula - brute force version)    *
 *  Part of Ratings program                                             *
 *                                                                      *
-*  This subroutine calcuates the rating using the special rating       *
+*  This subroutine calculates the rating using the special rating      *
 *  formula only for step 3, calculating the first rating estimate for  *
 *  unrated players.                                                    *
 *    r0 = initial rating for the player                                *
