@@ -12,7 +12,7 @@ import Resizer from "./pages/Resizer";
 import RowEffect from "./pages/RowEffect";
 import CellEffect from "./pages/CellEffect";
 import Ratings from "./pages/Ratings";
-import Results from "./pages/Results";
+import Results from "./pages/Results.tsx";
 import TopNav from "./components/TopNav";
 import Resources from "./pages/Resources";
 
