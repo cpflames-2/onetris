@@ -32,7 +32,7 @@ export class Player {
     }
 
     get fullName(): string {
-        return `${this.lastName}, ${this.firstName}`;
+        return `${this.lastName} ${this.firstName}`;
     }
 
     get ratingChange(): number {
