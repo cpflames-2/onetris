@@ -59,13 +59,23 @@ export default function Pgn(): JSX.Element {
     
     // Remove move annotations ($n) and commentary in parentheses and braces
     pgnText = pgnText.replace(/\$\d+/g, ""); // Remove $9, $6, etc.
-    pgnText = pgnText.replace(/\{.*?\}|\(.*?\)/g, ""); // Remove {comments} and (sidelines)
+    
+    // Remove nested parentheses and their content
+    while (pgnText.includes('(')) {
+        pgnText = pgnText.replace(/\([^()]*\)/g, '');
+    }
+    
+    // Remove any remaining braces and their content
+    pgnText = pgnText.replace(/\{[^}]*\}/g, "");
+    
+    // Remove "..." notation
+    pgnText = pgnText.replace(/\.\.\./g, "");
     
     // Extract move sequences
     const moves = pgnText.split(/\d+\.\s*/).filter(Boolean);
     
     moves.forEach(moveSet => {
-        const moveParts = moveSet.trim().split(/\s+/);
+        const moveParts = moveSet.trim().split(/\s+/).filter(Boolean); // Added filter to remove empty strings
         if (moveParts.length > 0) {
             const moveNumber = (moveTable.length).toString();
             const whiteMove = moveParts[0] || "";
