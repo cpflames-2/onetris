@@ -2,20 +2,29 @@
 // @name         Google Calendar Colorizer
 // @namespace    cpflames
 // @description  Simple script to change the colors in Google Calendar.
-// @version      2.0
+// @version      2.1
 // @include      https://calendar.google.com/calendar/*
 // @grant        none
 // ==/UserScript==
 
-  // Color palette
-  const COLOR_PALETTE = {
-    "today": hexToRGBA("0CF6"),
-    "thisWeek": hexToRGBA("0CF2"),
-    "dayNumbers": hexToRGBA("00FC"),
-  };
+// Color palettes for each month
+const MONTH_PALETTES = [
+    paletteGen("0CF"), // January - Winter Blue
+    paletteGen("00F"), // February - Deep Blue
+    paletteGen("0F6"), // March - Spring Green
+    paletteGen("FF6"), // April - Yellow
+    paletteGen("6F6"), // May - Light Green
+    paletteGen("F86"), // June - Orange
+    paletteGen("F06"), // July - Bright Red
+    paletteGen("C06"), // August - Deep Red
+    paletteGen("80F"), // September - Purple
+    paletteGen("F66"), // October - Orange-Brown
+    paletteGen("842"), // November - Brown
+    paletteGen("0AF"), // December - Winter Blue
+];
 
-  // Debug mode flag
-  const DEBUG_MODE = false;
+// Debug mode flag
+const DEBUG_MODE = false;
 
 (function() {
 
@@ -32,7 +41,6 @@
     z-index: 9999;
     transform: none !important;  /* Reset any transforms */
     color: white !important;
-    background-color: ${COLOR_PALETTE.dayNumbers} !important;
     border-radius: 50% !important;
     width: 32px !important;
     height: 32px !important;
@@ -101,14 +109,38 @@ div.kbf0gd {
   document.head.appendChild(style);
 })();
 
-  // Helper function for debug alerts
-  function debug(message) {
-    if (DEBUG_MODE) {
-      alert(message);
-    }
-  }
+function getDate(dateKey) {
+  const yearOffset = (dateKey - 32) % 512;
+  const year = (dateKey - 32 - yearOffset) / 512;
+  const day = yearOffset % 32;
+  const month = (yearOffset - day) / 32;
+  return new Date(year + 1970, month, day);
+}
 
-  function hexToRGBA(hex) {
+function getDatekey(date) {
+  const y = date.getFullYear() - 1970;
+  const m = date.getMonth()+1;    /* getMonth() returns 0-based index */
+  const d = date.getDate();
+  return (y<<9) + (m<<5) + d;
+}
+
+// Helper function for debug alerts
+function debug(message) {
+    if (DEBUG_MODE) {
+        console.log("[Calendar Colorizer]", message);
+    }
+}
+
+function paletteGen(colorHex) {
+    return {
+        faint: hexToRGBA(colorHex + "1"),
+        today: hexToRGBA(colorHex + "5"),
+        thisWeek: hexToRGBA(colorHex + "3"),
+        dayNumbers: hexToRGBA(colorHex + "7")
+    }
+}
+
+function hexToRGBA(hex) {
     // Remove the hash if it exists
     hex = hex.replace('#', '');
 
@@ -123,46 +155,86 @@ div.kbf0gd {
     return `rgba(${r}, ${g}, ${b}, ${a})`;
 }
 
-  function highlightCurrentWeek() {
-    // First, clear any existing highlights
+function colorDayBoxes() {
     const allDayBoxes = document.querySelectorAll('.MGaLHf.ChfiMc');
+    debug('Updating day box colors');
     allDayBoxes.forEach(box => {
-        box.style.backgroundColor = '';  // Reset background color
-    });
+        box.style.backgroundColor = '';
 
-    // Find the current day number element (has class F262Ye)
-    const currentDayNumber = document.querySelector('.w48V4c.ubOFEd.F262Ye');
-    if (currentDayNumber) {
-        // Find which number child it is within its parent
-        const parent = currentDayNumber.closest('.RCXPcd');
-        const dayIndex = Array.from(parent.parentNode.children).indexOf(parent);
-        
-        // Find the row containing this day
-        const row = currentDayNumber.closest('.FLFkR');
-        
-        // Find all day boxes in this row
-        const dayBoxes = row.querySelector('.sLvTye').children;
-        
-        // Highlight all boxes in the week, with current day being brighter
-        Array.from(dayBoxes).forEach((box, index) => {
-            if (index === dayIndex) {
-                // Current day - brighter red
-                box.style.backgroundColor = COLOR_PALETTE.today;
-            } else {
-                // Rest of week - darker red
-                box.style.backgroundColor = COLOR_PALETTE.thisWeek;
-            }
-        });
-    }
-  }
+        const dateKey = parseInt(box.getAttribute('data-datekey'));
+        const date = getDate(dateKey);
+        const month = date.getMonth();
+        const palette = MONTH_PALETTES[month];
+        debug('box ' + box.textContent + ': dateKey ' + dateKey + ' is in month ' + month);
+
+        const today = new Date();
+        const isToday = dateKey === getDatekey(today);
+
+        const isThisWeek = dateKey >= getDatekey(new Date(today.getFullYear(), today.getMonth(), today.getDate() - today.getDay())) &&
+            dateKey <= getDatekey(new Date(today.getFullYear(), today.getMonth(), today.getDate() + (6 - today.getDay())));
+
+        if (isToday) {
+            box.style.backgroundColor = palette.today;
+        } else if (isThisWeek) {
+            box.style.backgroundColor = palette.thisWeek;
+        } else {
+            box.style.backgroundColor = palette.faint;
+        }
+    });
+}
 
 // Run initially
-highlightCurrentWeek();
+colorDayBoxes();
 
-// Optional: Run whenever the calendar updates
-// You might need to adjust the mutation observer settings based on how Google Calendar updates
-const observer = new MutationObserver(highlightCurrentWeek);
-observer.observe(document.body, {
-    childList: true,
-    subtree: true
+function colorDayNumbers() {
+    const dayNumbers = document.querySelectorAll('h2[data-datekey]');
+    if (!dayNumbers.length) {
+        debug('No day numbers found, retrying in 100ms');
+        setTimeout(colorDayNumbers, 500);
+        return;
+    }
+    debug('Updating day number colors');
+
+    dayNumbers.forEach(dayNumber => {
+        dayNumber.style.backgroundColor = '';
+
+        const dateKey = parseInt(dayNumber.getAttribute('data-datekey'));
+        const date = getDate(dateKey);
+        const month = date.getMonth();
+        const palette = MONTH_PALETTES[month];
+        debug('number ' + dayNumber.textContent + ': dateKey ' + dateKey + ' is in month ' + month);
+        dayNumber.style.backgroundColor = palette.dayNumbers;
+    });
+}
+
+// Call both functions when needed
+function colorAll() {
+    colorDayBoxes();
+    colorDayNumbers();
+}
+
+// Run initially after a short delay to ensure DOM is ready
+setTimeout(colorAll, 500);
+
+// Single observer for all calendar updates
+const colorObserver = new MutationObserver((mutations) => {
+    for (const mutation of mutations) {
+        // Check if the month header changed
+        if (mutation.target.getAttribute && mutation.target.getAttribute('data-date')) {
+            debug('Month header changed');
+            debug('New date: ' + mutation.target.getAttribute('data-date'));
+        }
+    }
+    setTimeout(colorAll, 100);  // Add small delay after mutations
 });
+
+function initializeObservers() {
+    colorObserver.observe(document.body, {
+        childList: true,
+        subtree: true
+    });
+    debug('Observers initialized');
+}
+
+// Start initialization
+initializeObservers();
