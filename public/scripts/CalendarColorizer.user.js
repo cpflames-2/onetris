@@ -9,16 +9,16 @@
 
 // Color palettes for each month
 const MONTH_PALETTES = [
-    paletteGen("0CF"), // January - Winter Blue
+    paletteGen("C0F"), // January - Winter Purple
     paletteGen("00F"), // February - Deep Blue
     paletteGen("0F6"), // March - Spring Green
-    paletteGen("FF6"), // April - Yellow
-    paletteGen("6F6"), // May - Light Green
-    paletteGen("F86"), // June - Orange
-    paletteGen("F06"), // July - Bright Red
-    paletteGen("C06"), // August - Deep Red
-    paletteGen("80F"), // September - Purple
-    paletteGen("F66"), // October - Orange-Brown
+    paletteGen("FC0"), // April - Yellow
+    paletteGen("0FF"), // May - Teal
+    paletteGen("F60"), // June - Orange
+    paletteGen("F00"), // July - Red
+    paletteGen("C06"), // August - Purple
+    paletteGen("9F0"), // September - Chartreuse
+    paletteGen("F90"), // October - Orange
     paletteGen("842"), // November - Brown
     paletteGen("0AF"), // December - Winter Blue
 ];
