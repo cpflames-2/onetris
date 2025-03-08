@@ -38,4 +38,12 @@ export class Player {
     get ratingChange(): number {
         return this.endRating - this.startRating;
     }
+
+    get earnedScore(): number {
+        return this.rounds.reduce((score, round) => {
+            if (round.startsWith('W')) return score + 1;
+            if (round.startsWith('D')) return score + 0.5;
+            return score;
+        }, 0);
+    }
 } 

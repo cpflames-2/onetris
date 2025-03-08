@@ -16,7 +16,9 @@ export class RatingsCalc {
         const effectiveGamesPlayed = Math.max(gamesPlayed, 4);
         const bonusCap = 9.7 * Math.sqrt(effectiveGamesPlayed);
         const bonusPoints = Math.max(0, deltaPoints - bonusCap);
+        const ratingFloor = 100;
+        const predictedRating = Math.max(ratingFloor, startingRating + deltaPoints + bonusPoints);
 
-        return startingRating + deltaPoints + bonusPoints;
+        return predictedRating;
     }
 } 

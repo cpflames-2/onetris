@@ -26,6 +26,18 @@ export default function Results(): JSX.Element {
     const report = e.currentTarget.elements.ratingsReport.value;
     setResults(new TournamentResults(report));
   };
+
+  const generatePermalink = () => {
+    const textArea = document.querySelector('textarea[name="ratingsReport"]') as HTMLTextAreaElement;
+    if (!textArea) return;
+    
+    const newParams = new URLSearchParams();
+    newParams.set('ratingsReport', textArea.value);
+    
+    // Update URL without reloading the page
+    const newUrl = `${window.location.pathname}?${newParams.toString()}`;
+    window.history.pushState({}, '', newUrl);
+  };
   
   return (
     <div className="App" style={{ textAlign: 'left', margin: '20px' }}>
@@ -63,11 +75,83 @@ export default function Results(): JSX.Element {
         />
         <p>As formatted at <a href="https://ratingsnw.com">ratingsnw.com</a></p>
         <br/>
-        <button type="submit" style={{ margin: '10px' }}>Check My Results</button>
+        <div style={{ margin: '10px' }}>
+          <button type="submit" style={{ marginRight: '10px' }}>Check My Results</button>
+          <button type="button" onClick={generatePermalink}>Generate Permalink</button>
+        </div>
       </form>
 
       <h3>Results with Commentary</h3>
-      <pre>{results.getCommentary()}</pre>
+      <table style={{ 
+        borderCollapse: 'collapse', 
+        width: '100%',
+        marginTop: '20px'
+      }}>
+        <thead>
+          <tr style={{ 
+            backgroundColor: '#f5f5f5',
+            borderBottom: '2px solid #ddd'
+          }}>
+            <th style={tableHeaderStyle}>Player</th>
+            <th style={tableHeaderStyle}>Start Rating</th>
+            <th style={tableHeaderStyle}>End Rating</th>
+            <th style={tableHeaderStyle}>Change</th>
+            <th style={tableHeaderStyle}>Score</th>
+            <th style={tableHeaderStyle}>Earned Score</th>
+            <th style={tableHeaderStyle}>Opponents</th>
+            <th style={tableHeaderStyle}>Predicted Rating</th>
+            <th style={tableHeaderStyle}>Difference</th>
+          </tr>
+        </thead>
+        <tbody>
+          {results.getCommentary().map((row, index) => (
+            <tr key={index} style={{
+              borderBottom: '1px solid #ddd',
+              backgroundColor: index % 2 === 0 ? '#ffffff' : '#f9f9f9'
+            }}>
+              <td style={tableCellStyle}>{row.playerName}</td>
+              <td style={tableCellStyle}>{row.startRating}</td>
+              <td style={tableCellStyle}>{row.endRating}</td>
+              <td style={tableCellStyle}>
+                <span style={{ 
+                  color: row.ratingChange > 0 ? 'green' : 
+                         row.ratingChange < 0 ? 'red' : 'black' 
+                }}>
+                  {row.ratingChange > 0 ? '+' : ''}{row.ratingChange}
+                </span>
+              </td>
+              <td style={tableCellStyle}>{row.totalScore}</td>
+              <td style={tableCellStyle}>{row.earnedScore}</td>
+              <td style={tableCellStyle}>
+                {row.opponents.map((rating, i) => 
+                    rating === null ? row.rounds[i] : rating
+                ).join(', ')}
+              </td>
+              <td style={tableCellStyle}>
+                <a href={`http://localhost:8080/ratings?rating=${row.startRating}&oppRatings=${row.realOpponents.join('+')}&points=${row.earnedScore}`}>{Math.round(row.predictedRating)}</a>
+              </td>
+              <td style={tableCellStyle}>
+                <span style={{ 
+                  color: row.endRating > row.predictedRating ? 'green' : 
+                         row.endRating < row.predictedRating ? 'red' : 'black' 
+                }}>
+                  {row.endRating - Math.round(row.predictedRating)}
+                </span>
+              </td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
     </div>
   );
-} 
+}
+
+const tableHeaderStyle = {
+  padding: '12px 8px',
+  textAlign: 'left' as const,
+  fontWeight: 'bold'
+};
+
+const tableCellStyle = {
+  padding: '8px'
+}; 
