@@ -128,7 +128,9 @@ export default function Results(): JSX.Element {
                 ).join(', ')}
               </td>
               <td style={tableCellStyle}>
-                <a href={`http://localhost:8080/ratings?rating=${row.startRating}&oppRatings=${row.realOpponents.join('+')}&points=${row.earnedScore}`}>{Math.round(row.predictedRating)}</a>
+                <a href={`/ratings?rating=${row.startRating}&oppRatings=${row.realOpponents.join('+')}&points=${row.earnedScore}`}>
+                    {Math.round(row.predictedRating)}
+                </a>
               </td>
               <td style={tableCellStyle}>
                 <span style={{ 
