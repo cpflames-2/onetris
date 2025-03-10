@@ -6,7 +6,8 @@ interface CommentaryRow {
     startRating: number;
     endRating: number;
     totalScore: number;
-    earnedScore: number;
+    ratedScore: number;
+    ratedRounds: number;
     opponents: (number | null)[];
     realOpponents: (number)[];
     predictedRating: number;
@@ -19,6 +20,7 @@ export class TournamentResults {
     private roundsCount: number = 0;
     private players: Player[] = [];
     private errors: string[] = [];
+    private warnings: string[] = [];
     private commentary: CommentaryRow[] = [];
 
     constructor(reportText: string) {
@@ -53,15 +55,15 @@ export class TournamentResults {
         return true;
     }
 
-    private parseLine(line: string): { player: Player | null; error?: string } {
+    private parseLine(line: string): { player: Player | null; error?: string; warning?: string } {
         try {
-            // First find the ID pattern: 3+ alphanumeric chars followed by numbers and a letter
-            const idMatch = line.match(/[A-Z0-9]{3,}[0-9]+[A-Z0-9]/);
+            // First find the ID pattern: 5 chars [A-Z0-9] + 2 digits + 1 char [A-Z0-9] + space
+            const idMatch = line.match(/[A-Z0-9]{5}[0-9]{2}[A-Z0-9]\s/);
             if (!idMatch) {
                 return { player: null, error: "Could not find valid ID pattern" };
             }
 
-            const id = idMatch[0];
+            const id = idMatch[0].trim();
             // Split the line at the ID
             const [beforeId, afterId] = line.split(id);
             if (!beforeId || !afterId) {
@@ -74,44 +76,41 @@ export class TournamentResults {
                 return { player: null, error: "Could not parse position and name correctly" };
             }
 
-            // Parse the ratings and rounds data from afterId
-            const afterParts = afterId.trim().split(/[\s/]+/);
-            if (afterParts.length < 3 + this.roundsCount) {
-                return { player: null, error: `Expected at least ${3 + this.roundsCount} data fields after ID, found ${afterParts.length}` };
+            // Take the last 3 characters as the score (n.n format)
+            const totalScore = afterId.slice(-3);
+            if (!totalScore.match(/\d\.\d/)) {
+                return { player: null, error: "Could not find valid score total (expected n.n format)" };
+            }
+
+            // Everything else between ratings and score is rounds data
+            const afterParts = afterId.slice(0, -3).trim().split(/[\s/]+/);
+            if (afterParts.length < 3) {
+                return { player: null, error: `Expected at least 3 data fields after ID, found ${afterParts.length}` };
             }
 
             const startRating = afterParts[0];
             const endRating = afterParts[1];
             const numGames = afterParts[2];
-            const rounds = afterParts.slice(3, 3 + this.roundsCount);
+            const rounds = afterParts.slice(3);
             
             // Validate that total score matches round results
             const calculatedScore = rounds.reduce((score, round) => {
-                if (round.startsWith('W') || round === 'BYE') return score + 1;
-                if (round.startsWith('D')) return score + 0.5;
-                if (round === 'U' || round === 'ZPB') return score;
+                if (round.startsWith('W') || round === 'BYE' || round === 'WF' || round.startsWith('X')) return score + 1;
+                if (round.startsWith('D') || round === 'HPB') return score + 0.5;
+                if (round === 'U' || round === 'ZPB' || round === 'LF' || round.startsWith('F')) return score;
                 return score;
             }, 0);
             
-            const reportedScore = parseFloat(afterParts[3 + this.roundsCount]);
+            const reportedScore = parseFloat(totalScore);
             
             if (calculatedScore !== reportedScore) {
-                return { player: null, error: `Score total ${reportedScore} doesn't match calculated round results ${calculatedScore}` };
+                return { 
+                    player: new Player(pos, lastName, firstName, id.trim(), startRating, endRating, numGames, rounds, totalScore),
+                    warning: `Score total ${reportedScore} doesn't match calculated round results ${calculatedScore}`
+                };
             }
             
-            return { 
-                player: new Player(
-                    pos,
-                    lastName,
-                    firstName,
-                    id,
-                    startRating,
-                    endRating,
-                    numGames,
-                    rounds,
-                    afterParts[3 + this.roundsCount]
-                )
-            };
+            return { player: new Player(pos, lastName, firstName, id.trim(), startRating, endRating, numGames, rounds, totalScore) };
         } catch (e) {
             return { player: null, error: `Unexpected error: ${e.message}` };
         }
@@ -125,6 +124,7 @@ export class TournamentResults {
         }
 
         const lines = report.trim().split('\n');
+
         if (lines.length < 2) {
             this.errors.push("Report must contain at least two lines");
             return;
@@ -136,15 +136,25 @@ export class TournamentResults {
         }
 
         // Parse each line into a Player object, skipping the header
-        lines.slice(1).forEach((line, index) => {
+        for (let i = 1; i < lines.length; i++) {
+            const line = lines[i];
+            // Stop processing if we hit a line that's too short (blank lines, control chars, etc)
+            if (line.trim().length < 3) {
+                break; // This actually stops the processing
+            }
+            
             const result = this.parseLine(line);
             if (result.player) {
                 this.players.push(result.player);
+                if (result.warning) {
+                    this.warnings.push(`Line ${i + 1}: ${result.warning}`);
+                    this.warnings.push(line);
+                }
             } else {
-                this.errors.push(`Line ${index + 2}: ${result.error}`);
+                this.errors.push(`Line ${i + 1}: ${result.error}`);
                 this.errors.push(line);
             }
-        });
+        }
 
         // Rest of validation remains the same
         if (this.players.length === 0) {
@@ -169,7 +179,8 @@ export class TournamentResults {
             startRating: player.startRating,
             endRating: player.endRating,
             totalScore: player.totalScore,
-            earnedScore: player.earnedScore,
+            ratedScore: player.ratedScore,
+            ratedRounds: this.getOpponentRatings(player).filter(r => r !== null).length,
             opponents: this.getOpponentRatings(player),
             realOpponents: this.getOpponentRatings(player).filter(r => r !== null),
             predictedRating: this.getPredictedRating(player),
@@ -187,8 +198,8 @@ export class TournamentResults {
 
     public getOpponentRatings(player: Player): (number | null)[] {
         return player.rounds.map(round => {
-            // If player was unpaired, had a bye, or zero point bye this round, return null
-            if (round === 'U' || round === 'BYE' || round === 'ZPB') {
+            // If player was unpaired, had a bye, half-point bye, win/loss by forfeit, or zero point bye this round, return null
+            if (round === 'U' || round === 'BYE' || round === 'ZPB' || round === 'HPB' || round === 'WF' || round === 'LF' || round.startsWith('X') || round.startsWith('F')) {
                 return null;
             }
             
@@ -206,12 +217,16 @@ export class TournamentResults {
         return RatingsCalc.predictNewRating(
             player.startRating, 
             this.getOpponentRatings(player).filter(r => r !== null) as number[], 
-            player.earnedScore
+            player.ratedScore
         );
     }
 
     public getErrors(): string[] {
         return this.errors;
+    }
+
+    public getWarnings(): string[] {
+        return this.warnings;
     }
 
     public getPlayers(): Player[] {
@@ -225,5 +240,9 @@ export class TournamentResults {
 
     public hasErrors(): boolean {
         return this.errors.length > 0;
+    }
+
+    public hasWarnings(): boolean {
+        return this.warnings.length > 0;
     }
 } 

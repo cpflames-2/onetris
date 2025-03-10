@@ -39,11 +39,15 @@ export class Player {
         return this.endRating - this.startRating;
     }
 
-    get earnedScore(): number {
+    get ratedScore(): number {
         return this.rounds.reduce((score, round) => {
             if (round.startsWith('W')) return score + 1;
             if (round.startsWith('D')) return score + 0.5;
             return score;
         }, 0);
+    }
+
+    get ratedRounds(): number {
+        return this.rounds.filter(round => round.startsWith('W') || round.startsWith('D') || round.startsWith('L')).length;
     }
 } 

@@ -196,6 +196,23 @@ export default function Results(): JSX.Element {
         </div>
       )}
 
+      {results.hasWarnings() && (
+        <div style={{ 
+          color: '#856404',
+          backgroundColor: '#fff3cd',
+          padding: '10px',
+          marginBottom: '10px',
+          borderRadius: '4px'
+        }}>
+          <h4>Warnings:</h4>
+          <ul>
+            {results.getWarnings().map((warning, index) => (
+              <li key={index}>{warning}</li>
+            ))}
+          </ul>
+        </div>
+      )}
+
       <form style={{ marginBottom: '20px' }} onSubmit={handleSubmit}>
         <p>Enter ratings report:</p>
         <textarea 
@@ -233,7 +250,7 @@ export default function Results(): JSX.Element {
             <th style={tableHeaderStyle}>End Rating</th>
             <th style={tableHeaderStyle}>Change</th>
             <th style={tableHeaderStyle}>Score</th>
-            <th style={tableHeaderStyle}>Earned Score</th>
+            <th style={tableHeaderStyle}>Rated Score</th>
             <th style={tableHeaderStyle}>Opponents</th>
             <th style={tableHeaderStyle}>Predicted Rating</th>
             <th style={tableHeaderStyle}>Difference</th>
@@ -257,14 +274,14 @@ export default function Results(): JSX.Element {
                 </span>
               </td>
               <td style={tableCellStyle}>{row.totalScore}</td>
-              <td style={tableCellStyle}>{row.earnedScore}</td>
+              <td style={tableCellStyle}>{row.ratedScore}/{row.ratedRounds}</td>
               <td style={tableCellStyle}>
                 {row.opponents.map((rating, i) => 
                     rating === null ? row.rounds[i] : rating
                 ).join(', ')}
               </td>
               <td style={tableCellStyle}>
-                <a href={`/ratings?rating=${row.startRating}&oppRatings=${row.realOpponents.join('+')}&points=${row.earnedScore}`}>
+                <a href={`/ratings?rating=${row.startRating}&oppRatings=${row.realOpponents.join('+')}&points=${row.ratedScore}`}>
                     {Math.round(row.predictedRating)}
                 </a>
               </td>
