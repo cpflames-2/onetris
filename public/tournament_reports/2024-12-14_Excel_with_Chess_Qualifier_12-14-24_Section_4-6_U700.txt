@@ -1,0 +1,22 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Peng, Eric             INGGJ31E   677   800/ 69  W13 W6  W4  W3  L2  4.0
+  2 Jiang, Mason           LMSFH66Y   594   802/ 42  W12 L5  W11 W6  W1  4.0
+  3 Khanzode, Advait       SSMEJ56W   567   660/ 64  W20 W14 W5  L1  W7  4.0
+  4 Kini, Arjun            SSMFH88B   615   643/ 35  W17 W15 L1  W14 W11 4.0
+  5 Zhou, Muchen           CMCFH25C   500   767/  5  W9  W2  L3  D13 W12 3.5
+  6 Yang, Elon             EBSFH37N   778   708/ 10  W19 L1  W16 L2  W14 3.0
+  7 Chitlangia, Rishi      LAVFJ60G   504   485/ 42  L15 W17 W18 W19 L3  3.0
+  8 Battala, Havish Reddy  SSMFJ28J   568   562/ 30  W21 L11 L12 W15 W13 3.0
+  9 Jibin, Andrea          HMNEH82K   201   350/ 15  L5  W20 L13 W21 W19 3.0
+ 10 Casal, Matthias        EBSFK47A   631   568/ 24  L14 L12 BYE W17 W16 3.0
+ 11 Satishkumar, Gautham   RCSFC88L   566   581/ 64  W16 W8  L2  D12 L4  2.5
+ 12 Strazzulla, Stefano    AGBFH37M   745   695/ 10  L2  W10 W8  D11 L5  2.5
+ 13 Pais, Jayden           WONFH25B   500   587/  5  L1  W19 W9  D5  L8  2.5
+ 14 Chinn, Milo            CLHFH36Y   100   315/  9  W10 L3  W15 L4  L6  2.0
+ 15 Gupta, Dhruva          CMCEH24Z   400   340/  5  W7  L4  L14 L8  W20 2.0
+ 16 Monge, Felipe          SMCEH24Y   400   331/  5  L11 W21 L6  W18 L10 2.0
+ 17 Karthik, Aditya        RSAEH36V   100   149/ 10  L4  L7  W21 L10 D18 1.5
+ 18 Mukunthu, Advika       CMCEH24X   400   100/  3  HPB HPB L7  L16 D17 1.5
+ 19 Velummylum, Xavier     SCDEK39X   698   546/ 43  L6  L13 W20 L7  L9  1.0
+ 20 Trivedi, Shivansh      EBSFH36X   100   100/  8  L3  L9  L19 BYE L15 1.0
+ 21 Venkataraman, Aanand   EBSEH24W   400   100/  4  L8  L16 L17 L9  BYE 1.0

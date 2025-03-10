@@ -1,0 +1,15 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Rachiba, Alisa         EVPEK08E  1033  1057/158  W11 W5  W4  W2  W3  5.0
+  2 Brar, Angad            PIOEJ52A   610   622/ 50  W10 D12 W5  L1  W6  3.5
+  3 Surineni, Aaditri      MSMEJ52D   566   593/ 29  D7  W9  W12 W4  L1  3.5
+  4 Einarson, Finn         ORWD256K   610   594/ 99  W8  W13 L1  L3  W7  3.0
+  5 Walton, Cara           CWADK52K   518   517/ 35  W14 L1  L2  W9  W10 3.0
+  6 Murphy, Pryor          FSEEK16W   214   297/ 25  L12 W7  W13 W11 L2  3.0
+  7 Samsonov, Kirill       UPPEH98S   286   341/ 20  D3  L6  W8  W12 L4  2.5
+  8 Little, Logan          MSODH57K   300   222/  4  L4  D10 L7  W14 WF  2.5
+  9 Robinson, Semayor      EVGDK54H   159   163/ 18  L13 L3  W14 L5  W11 2.0
+ 10 Tavis, Jude            GMEDH57J   300   233/  5  L2  D8  D11 W13 L5  2.0
+ 11 Satish Kumar, NithyashrCENDJ51U   100   105/ 20  L1  W14 D10 L6  L9  1.5
+ 12 Keen, Escher           ORLEH57H   400   364/  4  W6  D2  L3  L7  LF  1.5
+ 13 Mcguire, Sophia        HSCEH57G   400   110/  5  W9  L4  L6  L10 D14 1.5
+ 14 Courtwright, Connor    REODH57F   300   100/  5  L5  L11 L9  L8  D13 0.5

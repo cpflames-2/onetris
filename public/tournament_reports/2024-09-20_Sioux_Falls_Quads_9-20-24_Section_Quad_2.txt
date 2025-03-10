@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bergan, Ethan          SFZIZ478  1176  1293/155  W4  W2  W3  3.0
+  2 Nguyen, Charlie        SDRFZ06D  1329  1323/172  W3  L1  W4  2.0
+  3 Kiessel, Rebekah       SD9IZ47S  1038  1053/119  L2  W4  L1  1.0
+  4 Mcdowell, John         BVIHZ89F  1201  1132/ 59  L1  L3  L2  0.0

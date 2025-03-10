@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Tun, Harrison          BRWFJ57B   288   444/ 13  W2  W3  W5  3.0
+  2 Mehta, Aneri           SSMFH01E   500   403/  3  L1  W5  W4  2.0
+  3 Venkatesh, Anya        HMNCJ30F   262   240/ 70  BYE L1  BYE 2.0
+  4 Cutler, Seth           XXXCH01D   200   231/  2  W5  BYE L2  2.0
+  5 Dinesh, Aaryav         TBKCH01C   200   100/  3  L4  L2  L1  0.0

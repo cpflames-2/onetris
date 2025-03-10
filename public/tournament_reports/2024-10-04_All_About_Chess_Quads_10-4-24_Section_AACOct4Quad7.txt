@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Charles, Benjamin      SOMBJ06G   566   708/ 41  W3  W4  W2  3.0
+  2 Bhandari, Aarav        CBREJ06H   616   601/ 47  D4  W3  L1  1.5
+  3 Sivakumar, Vedant      INGHH63H   516   502/ 14  L1  L2  W4  1.0
+  4 Menezes, Kian          MEDCJ97B   506   464/ 61  D2  L1  L3  0.5

@@ -1,0 +1,54 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Fabian, Matthias       MCGDH14H   531   771/ 15  W9  W13 W3  W22 W5  5.0
+  2 Gallegos, Angel J      RFRDH42C   720   727/ 25  W16 W6  W11 L5  W15 4.0
+  3 Larimer, Henry         WBEAH14B   216   479/ 15  W26 W19 L1  W28 W23 4.0
+  4 Hahl, Mason            BMCDJ52X   554   609/ 45  L8  W14 W10 W23 W11 4.0
+  5 Dahl, August           MTPDJ78U   509   600/ 49  W52 W26 W14 W2  L1  4.0
+  6 Correa, River          MCGCJ23C   493   590/ 40  W13 L2  W32 W33 W12 4.0
+  7 Rosenbaum, Conlee      MCGDJ22Z   559   566/ 45  L22 W12 W34 W27 W17 4.0
+  8 Reagan, Paxton         MCGDK96W   462   521/ 90  W4  D9  L22 W30 W25 3.5
+  9 Peraza, Etson          MTPDH41Z   410   480/ 20  L1  D8  W44 W45 W22 3.5
+ 10 Fabian, Martin         MCGDH14F   418   443/ 15  W30 D25 L4  W37 W29 3.5
+ 11 Bawden, Sawyer         MCUCJ45U   256   402/ 48  W19 W16 L2  W41 L4  3.0
+ 12 Gutierrez, Ivan        BMCCJ45X   340   420/ 15  W34 L7  W33 W21 L6  3.0
+ 13 Farias Martinez, GadielRFRCH26T   587   556/ 20  L6  L1  W37 W38 W24 3.0
+ 14 Benner, Oliver         LIBBJ52R   319   348/ 43  W20 L4  L5  W49 W39 3.0
+ 15 Castro-gudino, SebastiaESGBH41V   445   449/ 25  L23 W32 W24 W36 L2  3.0
+ 16 Dutcher, Hudson        MCGDJ77X   503   477/ 64  L2  L11 W38 W40 W33 3.0
+ 17 Herrera, Sergio        RFRDH14E   266   303/ 13  L25 W38 W36 W35 L7  3.0
+ 18 Santiago, Martin       ESGCH41W   168   221/ 15  W43 L29 L21 W42 W41 3.0
+ 19 Webb, Bode             LIBBJ77Y   331   332/ 63  L11 L3  W49 W50 W36 3.0
+ 20 Quintero, Julian       MTPDH26Q   254   257/ 20  L14 L24 W50 W48 W35 3.0
+ 21 Gonzalez, Cruz         EMEDG88V   300   451/  4  U   W48 W18 L12 W34 3.0
+ 22 Lum, Enoch             LIBAH56A   437   492/ 23  W7  D23 W8  L1  L9  2.5
+ 23 Turner, Micah          MCGDJ22X   581   539/ 40  W15 D22 W25 L4  L3  2.5
+ 24 Guerrero Montes, LeonarRCEDH00V   109   220/ 10  W31 W20 L15 D29 L13 2.5
+ 25 Pena, Leo              HTECJ00S   363   370/ 44  W17 D10 L23 W44 L8  2.5
+ 26 Roman Ii, Vicente      EMEDH14A   191   237/ 10  L3  L5  W42 W51 D28 2.5
+ 27 Mejia, Victor          CRPDJ77W   139   201/ 37  W40 D30 D28 L7  D32 2.5
+ 28 Hernandez, Aarilyn     LECDG88U   300   229/  5  D37 W39 D27 L3  D26 2.5
+ 29 Badillo-chavez, LeandroMCUDJ78C   304   286/ 58  L32 W18 W35 D24 L10 2.5
+ 30 Andring, Jesse         MTPDJ00T   267   267/ 25  L10 D27 W45 L8  W44 2.5
+ 31 Torres, Xzavier        MCGDG88S   300   166/  5  L24 L35 W52 D32 W45 2.5
+ 32 Hernandez, Ezekiel     MTPDJ78B   236   240/ 54  W29 L15 L6  D31 D27 2.0
+ 33 Moctezuma, Castiel     MCUDG88Q   300   255/  5  W42 W43 L12 L6  L16 2.0
+ 34 Tha, Victor            ESGCH26L   259   249/ 20  L12 W49 L7  W47 L21 2.0
+ 35 Valdez, Isaac          EMECG88P   200   137/  5  W48 W31 L29 L17 L20 2.0
+ 36 Cardenas, Jacqueline   RCEDG88N   300   171/  5  W41 W47 L17 L15 L19 2.0
+ 37 Simmons, Roslyn        LIVDH41T   108   131/ 20  D28 W53 L13 L10 D46 2.0
+ 38 Cress, Maverick        BMCCH00U   100   160/ 10  W46 L17 L16 L13 W51 2.0
+ 39 Tellez, Jahnell        MCUDG88M   300   100/  5  D45 L28 D40 W46 L14 2.0
+ 40 Avila, Luis            RCEDH00Q   100   108/ 10  L27 D44 D39 L16 W48 2.0
+ 41 Castrellon, Jeremiah   EMEDG88K   300   100/  4  L36 BYE W46 L11 L18 2.0
+ 42 Chavez Godinez, Julian RCEDG88J   300   100/  5  L33 W52 L26 L18 W49 2.0
+ 43 Clum, Kristen          SCJCH26F   100   100/ 20  L18 L33 L51 W52 W50 2.0
+ 44 Pumphrey, Addison      CRPDG88G   300   100/  5  W51 D40 L9  L25 L30 1.5
+ 45 Peterman, Reagan       RFPDG88F   300   100/  5  D39 W51 L30 L9  L31 1.5
+ 46 Morado, Derrick        MTPDH55X   145   100/ 30  L38 W50 L41 L39 D37 1.5
+ 47 Thompson, Hannah       MTPAH26D   100   100/ 14  L50 L36 BYE L34 D52 1.5
+ 48 O'hare, Nathaniel      RFPDG88E   300   100/  5  L35 L21 W53 L20 L40 1.0
+ 49 Sanchez Baldelamar, ChrMTPDH26G   100   100/ 10  W53 L34 L19 L14 L42 1.0
+ 50 Hernandez, Emma        ESGBG88C   100   100/  5  W47 L46 L20 L19 L43 1.0
+ 51 Reagan, Ziya           MCGBG88B   100   100/  5  L44 L45 W43 L26 L38 1.0
+ 52 Ortiz, Zuleyma         MCUDG88A   300   100/  5  L5  L42 L31 L43 D47 0.5
+ 53 Turner, Meira          MCGBH13X   100   100/ 13  L49 L37 L48 U   U   0.0

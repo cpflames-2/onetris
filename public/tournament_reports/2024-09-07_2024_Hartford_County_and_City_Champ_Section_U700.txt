@@ -1,0 +1,12 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Bist, Samar Singh      CTXIX04B   631  1027/  4  W6  W7  W2  W5  4.0
+  2 Bala Gowda, Nibha V    CTXIX04C   536   639/104  W10 W5  L1  W4  3.0
+  3 Portegies, Jason       CTXEX04D   505   578/104  W4  W8  L5  W7  3.0
+  4 Gionfriddo, Benjamin MiCTXNX02K   613   525/  8  L3  W11 W6  L2  2.0
+  5 Gottam, Bhanutej       CTXDX02J   600   598/107  WF  L2  W3  L1  2.0
+  6 Patil, Anvi Sandeep    CTXHX04E   569   402/  4  L1  W10 L4  W11 2.0
+  7 Bala Gowda, Nihal V    CTXGX04F   521   484/104  W11 L1  D8  L3  1.5
+  8 Mezheritskiy, Samuel   CTXCX04G   331   345/104  L9  L3  D7  W10 1.5
+  9 Movsisyan, Ara         CTXGX04H   600   739/  1  W8  U   U   U   1.0
+ 10 Lora, Radwal           CTXMX04J   200   142/  4  L2  L6  W11 L8  1.0
+ 11 Schalper, Kurt         CTXNX04M   100   100/  4  L7  L4  L10 L6  0.0

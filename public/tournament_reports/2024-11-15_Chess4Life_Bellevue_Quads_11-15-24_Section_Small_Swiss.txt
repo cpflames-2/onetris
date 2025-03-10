@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Michael, Aiden         BGLFH43Z   500   675/  3  W4  W2  W3  3.0
+  2 Kamaraju, Akhil        DISEH66C   187   269/ 29  W5  L1  W4  2.0
+  3 Nori, Vishnu Vallabha  CBRBJ06A   115   224/ 19  W6  W5  L1  2.0
+  4 Chan, Alexis           CHRDH43X   300   187/  3  L1  W6  L2  1.0
+  5 Dong, Joanna           BCACH50L   100   100/  6  L2  L3  W6  1.0
+  6 Grimm, Qorianka        EHADJ13G   112   100/ 18  L3  L4  L5  0.0

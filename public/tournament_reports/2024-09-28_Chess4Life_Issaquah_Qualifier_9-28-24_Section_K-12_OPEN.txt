@@ -1,0 +1,12 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Salal, Zikrain         PFCIJ82Z  1341  1388/ 74  W2  W4  W8  W3  W7  5.0
+  2 Bui, Edwin             FRVFK90H  1001  1054/ 92  L1  W6  W11 D7  W8  3.5
+  3 Yang, Michael          SOMGK00G   919  1007/ 49  BYE W10 D7  L1  W4  3.5
+  4 Leon, Nikhil           TMBG587T  1118  1114/140  W6  L1  W5  W8  L3  3.0
+  5 Mukkala, Arjun         PLKJ363W   926   926/ 15  L7  W9  L4  W11 W10 3.0
+  6 Jiang, Yuanyi          MMEDJ58J   749   784/ 24  L4  L2  W10 W9  BYE 3.0
+  7 Chen, Julian           CNHCK32C  1140  1098/ 70  W5  L8  D3  D2  L1  2.0
+  8 Holostov, Michael      PLKHJ94C  1032  1020/ 35  W9  W7  L1  L4  L2  2.0
+  9 Katipally, Sahan       WOBDK31R   727   701/ 29  L8  L5  BYE L6  W11 2.0
+ 10 Kapoor, Rishaan        PLKHJ28K   666   655/ 22  W11 L3  L6  BYE L5  2.0
+ 11 Satishkumar, Gautham   RCSFC88L   711   628/ 49  L10 BYE L2  L5  L9  1.0

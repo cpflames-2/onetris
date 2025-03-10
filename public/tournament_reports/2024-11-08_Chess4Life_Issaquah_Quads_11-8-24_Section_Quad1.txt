@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Meyerzon, Daniel       INTLJ242  1413  1427/444  W2  W4  W3  3.0
+  2 Wang, Evan             PLKIB88C  1004  1032/ 93  L1  D3  W4  1.5
+  3 Bravenboer, Jake       OPWEJ97Y  1102  1082/122  D4  D2  L1  1.0
+  4 Lin, Luna              OPWDK01W  1016   991/127  D3  L1  L2  0.5

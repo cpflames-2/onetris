@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Deshpande, Keshav      WOBH420G  1256  1307/117  W3  W2  U   2.0
+  2 Gollapally, Arnav      SKNK499J  1287  1284/154  U   L1  W3  1.0
+  3 Verma, Reyansh         RBRFJ20M  1273  1226/ 70  L1  U   L2  0.0

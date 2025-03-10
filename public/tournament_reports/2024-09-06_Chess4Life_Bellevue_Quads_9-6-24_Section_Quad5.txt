@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Leon, Vikram           EBSCH74X   632   688/ 21  W2  D4  W3  2.5
+  2 Wong, Aiden            CHREK17Z   570   610/ 71  L1  W3  W4  2.0
+  3 Talukdar, Yuvaan       NCABH76K   654   603/ 22  W4  L2  L1  1.0
+  4 Gui, Joyce             OPWCH92C   448   429/ 24  L3  D1  L2  0.5

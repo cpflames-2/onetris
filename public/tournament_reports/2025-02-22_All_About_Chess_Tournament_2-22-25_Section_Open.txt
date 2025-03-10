@@ -1,0 +1,8 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Bhasin, Palash         ISMGH95H  1219  1227/117  L6  W7  W4  W3  W2  4.0
+  2 Swain, Samarth         MMECJ58S  1096  1100/244  W7  W4  L3  W6  L1  3.0
+  3 Sharan, Aadya          EVJHJ59A   823   933/ 35  BYE W6  W2  L1  L5  3.0
+  4 Bhandari, Aarav        CBREJ06H   935  1006/108  W5  L2  L1  BYE W7  3.0
+  5 Agrawal, Anay          PLKHE67A  1136  1098/ 96  L4  BYE W6  L7  W3  3.0
+  6 Chai, Chloe            NCSEJ59R   981   958/127  W1  L3  L5  L2  BYE 2.0
+  7 Krogstad, Jaxon        NCSDJ88M  1101  1053/170  L2  L1  BYE W5  L4  2.0

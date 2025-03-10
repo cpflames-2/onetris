@@ -1,0 +1,31 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Valenti, Ender         FMPEK12X   736   814/ 25  W23 W29 W18 W2  W6  5.0
+  2 Subramanian, Varun     PREFJ91Z   743   842/ 28  W3  W4  W7  L1  W15 4.0
+  3 Kandar, Aarav          FISEK21U  1256  1218/148  L2  W12 W10 W18 W5  4.0
+  4 Kazakov, Phillip       FMPFG84D   500   715/  5  W12 L2  W24 W17 W11 4.0
+  5 Cruz, Isaiah           FMPEK12V   340   552/ 25  W11 W10 D6  W8  L3  3.5
+  6 Sharipov, Daniel       CHUFH53Y   304   455/ 10  W26 W19 D5  W15 L1  3.5
+  7 Kruzhkov, Josh         XXXEG84B   400   561/  5  W29 W13 L2  W19 D9  3.5
+  8 Marak, Gideon          FMPEG84A   400   503/  5  W21 W17 D15 L5  W19 3.5
+  9 Knox, Abraham          HSCFG83Y   500   467/  5  L17 W21 W27 W13 D7  3.5
+ 10 Pipchenko, Andronicus  FMPFH53Z   319   404/ 10  W22 L5  L3  W26 W20 3.0
+ 11 Ng, Ethan              GRSDK12Y   385   404/ 24  L5  W30 W26 W16 L4  3.0
+ 12 Valenti, Jack          FMPDK12U   423   440/ 25  L4  L3  W30 W25 W23 3.0
+ 13 Shove, Ian             FMPEJ24X   214   296/ 15  W30 L7  W25 L9  W18 3.0
+ 14 Marak, Israel          FMPFH53U   299   311/ 10  W16 L15 L19 W27 W17 3.0
+ 15 Bigelow, Francis       SPWEH53V   430   436/ 10  W20 W14 D8  L6  L2  2.5
+ 16 Clayton, Oliver        FMPEH53T   100   155/ 10  L14 D25 W29 L11 W24 2.5
+ 17 Wei, Bill              FMPFG83W   500   337/  5  W9  L8  W20 L4  L14 2.0
+ 18 Maddox, Raelynn        FMPDJ92M   187   214/ 20  W27 W24 L1  L3  L13 2.0
+ 19 Del Duco, Sal          SPWFK12S   100   192/ 10  W28 L6  W14 L7  L8  2.0
+ 20 Maddox, Isaiah         FMPFJ91J   100   158/ 18  L15 W22 L17 W28 L10 2.0
+ 21 Burunov, Nikolai       FMPEG83V   400   189/  5  L8  L9  L23 W30 W28 2.0
+ 22 Feeney, Gideon         FMPFJ91V   326   237/ 15  L10 L20 L28 W29 W27 2.0
+ 23 Kazakov, Elijah        FMPFG83U   500   134/  5  L1  L27 W21 D24 L12 1.5
+ 24 Week, Lane             SPWDG83T   300   100/  5  W25 L18 L4  D23 L16 1.5
+ 25 Kimber, Nathaniel      CHUFG83R   500   121/  5  L24 D16 L13 L12 W26 1.5
+ 26 Gorlachev, Isaac       FMPEK17A   500   346/ 30  L6  W28 L11 L10 L25 1.0
+ 27 Bittle, Dane           FMPFG83Q   500   100/  5  L18 W23 L9  L14 L22 1.0
+ 28 Peterson, Nolan        HOMFG83P   500   100/  5  L19 L26 W22 L20 L21 1.0
+ 29 Bates, Noah            HSCFG83M   500   100/  5  L7  L1  L16 L22 D30 0.5
+ 30 Hatch, Everett         HOMEJ24Z   192   100/ 10  L13 L11 L12 L21 D29 0.5

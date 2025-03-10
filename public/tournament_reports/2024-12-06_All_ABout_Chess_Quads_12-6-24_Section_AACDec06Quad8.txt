@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Mirchandani, Kavir     MEDCJ97A   322   431/ 61  W2  D3  W4  2.5
+  2 Ram, Yaalini           SNECH87H   333   377/ 28  L1  W4  W3  2.0
+  3 Vatsan, Maitri         SSMCK00S   373   364/119  W4  D1  L2  1.5
+  4 Shin, Joshua           CRKCJ63R   289   211/ 93  L3  L2  L1  0.0

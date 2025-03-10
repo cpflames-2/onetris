@@ -1,0 +1,27 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Pan, Peng-ruei         SSMF759R  1582  1588/221  W5  D10 W14 W8  W2  4.5
+  2 Gagnier, Ian           HSCGC72H  1449  1459/214  W16 W9  W7  W6  L1  4.0
+  3 Patnaik, Rishabhdeva   PLKGG72D  1266  1279/207  W12 L7  W16 W9  W10 4.0
+  4 Rogov, Richard         MEDDJ68U  1092  1220/101  W22 W8  L6  W7  W11 4.0
+  5 Lagzdin, Mikhail       BCACJ96R  1030  1161/ 55  L1  W19 W23 W12 W6  4.0
+  6 Li, Anyi               LKDDJ55F  1254  1251/114  W25 W13 W4  L2  L5  3.0
+  7 Ren, Easton            CMCBH68Z  1106  1178/ 64  W18 W3  L2  L4  W16 3.0
+  8 Westover, Charlotte    IMSI365V  1281  1269/313  W17 L4  W13 L1  W15 3.0
+  9 Gokulakrishnan, SriharsTMMGH60B  1049  1093/ 20  W24 L2  W17 L3  W14 3.0
+ 10 Kan, Kaleb             ICKGF53E  1120  1137/261  W26 D1  W20 D11 L3  3.0
+ 11 Upasani, Neil          SSMFJ57C  1121  1111/103  W19 D20 W15 D10 L4  3.0
+ 12 Rajeswaran, Raghav     RHJIJ57H   913   968/ 25  L3  W24 W21 L5  W20 3.0
+ 13 Feng, Levi             SOMFJ59B  1041  1059/ 40  W23 L6  L8  W25 W17 3.0
+ 14 Ward, Benjamin         IMSHK32Q  1092  1094/ 54  D15 W21 L1  W18 L9  2.5
+ 15 Gui, Joyce             OPWCH92C   735   887/ 70  D14 W18 L11 W20 L8  2.5
+ 16 Reimer, Oliver         IMSGG59D  1006   999/ 97  L2  W26 L3  W24 L7  2.0
+ 17 Kayali, Kana           EBSDJ29N  1006   980/ 25  L8  W22 L9  W23 L13 2.0
+ 18 Oh, Seojoon            SSMEJ70T  1199  1118/ 84  L7  L15 W26 L14 W25 2.0
+ 19 Swain, Samarth         MMECJ58S  1008   955/195  L11 L5  L24 W26 W23 2.0
+ 20 Mehta, Shaan           IMSHK27A   775   797/ 49  W21 D11 L10 L15 L12 1.5
+ 21 Berjis, Adrina         MEDF230U  1072   971/162  L20 L14 L12 D22 W24 1.5
+ 22 Daniel, Lemuel         BLCDJ29L   795   793/ 28  L4  L17 L25 D21 W26 1.5
+ 23 Mohapatra, Aditya      PLKHH25D   700   763/  5  L13 W25 L5  L17 L19 1.0
+ 24 Judd, George           PURFJ57F   721   728/ 40  L9  L12 W19 L16 L21 1.0
+ 25 Jibin, Kevin           REJHH82A   911   860/ 20  L6  L23 W22 L13 L18 1.0
+ 26 Wang, Jacob Z          EVJGE71A   856   774/152  L10 L16 L18 L19 L22 0.0

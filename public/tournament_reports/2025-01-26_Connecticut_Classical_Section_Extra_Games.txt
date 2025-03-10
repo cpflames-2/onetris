@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Edelschick, Daniel     NYXJZ67P  1397  1397/  4  W4  U   U   1.0
+  2 Middleton, Christo     CTXHZ67L  1071  1110/  4  U   W5  U   1.0
+  3 Rundle, Nathaniel      MAXNZ67K   830  1070/  4  U   U   W6  1.0
+  4 O'doherty, Orhan G     NYXFZ67J   848   848/  3  L1  U   U   0.0
+  5 Patel, Nita            CTXNZ67F  1213  1176/  1  U   L2  U   0.0
+  6 Joyce, Jackson         NYXHX06T  1436  1394/ 61  U   U   L3  0.0

@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Anand, Nivaan          MCEBH64F   374   441/ 64  U   W3  W2  2.0
+  2 Zeeshan, Hamza         CRKEJ15N   556   514/ 52  W3  U   L1  1.0
+  3 Aimes, Amber           PRDEH54K   400   100/  2  L2  L1  U   0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ge, Jeremy             SOMCJ88K  1194  1212/259  W3  W4  L2  2.0
+  2 Bhasin, Palash         ISMGH95H  1212  1225/103  W4  L3  W1  2.0
+  3 Agarwal, Avyaan        RCSEW81K  1152  1134/ 56  L1  W2  L4  1.0
+  4 Krogstad, Jaxon        NCSDJ88M  1136  1122/152  L2  L1  W3  1.0

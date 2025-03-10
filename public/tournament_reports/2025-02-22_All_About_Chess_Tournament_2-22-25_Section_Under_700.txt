@@ -1,0 +1,15 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Huang, Jaden           ENDDJ63S   617   812/181  W8  W9  W2  W10 W3  5.0
+  2 Nayagam, Anantika      SSMFH62E   692   715/ 26  W4  W10 L1  W11 W8  4.0
+  3 Joseph, George         CDIDH11C   619   591/ 18  W5  L11 W13 W9  L1  3.0
+  4 Feng, Michael          CBRCG87H   100   323/  8  L2  W14 L6  W13 W9  3.0
+  5 Zhang, Nathan          SSMCH67X   163   286/  9  L3  W7  W12 L8  W14 3.0
+  6 Wu, Max                SOMCG79G   200   436/  5  L9  L8  W4  W14 W10 3.0
+  7 Nori, Vishnu Vallabha  CBRBJ06A   174   219/ 28  L11 L5  D14 W12 W13 2.5
+  8 Karthikeyan, Akhilan   CRKFH13C   301   373/ 19  L1  W6  L10 W5  L2  2.0
+  9 Nandakiran, Advaith    SSMCJ88H   466   449/142  W6  L1  W11 L3  L4  2.0
+ 10 Mirchandani, Kiaan     MEDEK92Z   676   600/ 98  W13 L2  W8  L1  L6  2.0
+ 11 Mirchandani, Kavir     MEDCJ97A   434   406/ 87  W7  W3  L9  L2  L12 2.0
+ 12 Seidman, Asher         BLWCH23Q   418   285/  9  W14 L13 L5  L7  W11 2.0
+ 13 Balaji, Vaibhav        SSMCH28Z   308   248/ 38  L10 W12 L3  L4  L7  1.0
+ 14 Lam, Theo              JINBJ02H   100   100/ 19  L12 L4  D7  L6  L5  0.5

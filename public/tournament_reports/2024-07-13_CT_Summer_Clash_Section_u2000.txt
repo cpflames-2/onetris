@@ -1,0 +1,13 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Kaczmarczyk, Truman    CTXIX00R  1803  1814/104  D9  W5  W10 W3  3.5
+  2 Beauvais, Matthew      MAXMX00S  1789  1806/104  W11 L3  W8  W6  3.0
+  3 Festa, Luca            CTXGX00T  1536  1673/104  W8  W2  W6  L1  3.0
+  4 Costello, Matthew      CTXNX00U  1708  1705/104  W7  L6  D5  W10 2.5
+  5 Ghosh, Arush           CTXIX00W  1363  1438/103  BYE L1  D4  W9  2.5
+  6 Upadhyay, Punyavrat    CTXMX00X  1829  1810/104  W12 W4  L3  L2  2.0
+  7 Oh, Seungly            MAXNX00Y  1631  1639/104  L4  W12 L9  W11 2.0
+  8 Pasco, John            CTXNX00Z  1700  1683/104  L3  W11 L2  D12 1.5
+  9 Varada, Praharsh       CTXIX01B  1694  1660/104  D1  L10 W7  L5  1.5
+ 10 Smith, Elizabeth C     CTXNX01C  1440  1461/103  HPB W9  L1  L4  1.5
+ 11 Nebylovych, Erik       CTXKX01D  1698  1664/104  L2  L8  W12 L7  1.0
+ 12 Hartman, Nadav Munro   CTXIX01E  1702  1652/104  L6  L7  L11 D8  0.5

@@ -1,0 +1,51 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Deng, Lily             HHSL5007  1690  1710/386  W15 W9  W31 W13 W3  5.0
+  2 Rahman, Zayd           HHSKF83W  1419  1447/142  W11 W4  W27 W14 D9  4.5
+  3 Williams, Wyatt        SODJH13N  1083  1198/ 15  W22 W32 W21 W20 L1  4.0
+  4 Mendoza, Oscar         CWHLI229  1197  1258/332  W5  L2  W29 W27 W14 4.0
+  5 Ybarra, Caleb          SODJK96F  1131  1155/ 76  L4  W17 W30 W28 W8  4.0
+  6 Repalle, Vibhav        HHSKK31L  1372  1373/120  W32 W12 L14 W18 W13 4.0
+  7 Vizcaino, Alan         GJSMH27Z  1136  1176/ 25  L9  W16 W45 W21 W20 4.0
+  8 Lee, Jayden            HHSM240K   741   934/ 23  W36 W35 W40 W24 L5  4.0
+  9 Arias Padilla, Jose    RICM888V  1387  1403/134  W7  L1  W22 W17 D2  3.5
+ 10 Wick, Aiden            WVAMG87Z  1200  1117/  5  W33 W36 L13 W16 D11 3.5
+ 11 Nolan, Brendan         TCPL476K  1167  1182/ 54  L2  W25 W43 W31 D10 3.5
+ 12 Kaiphanliam, Kieren SisCWHKK52X  1281  1271/ 73  D25 L6  W26 W40 W24 3.5
+ 13 Barnett, Eli           HSCJJ81S  1020  1097/ 48  W35 W26 W10 L1  L6  3.0
+ 14 Anglin, Kaden          WVAJG87Y   900  1220/  5  W46 W48 W6  L2  L4  3.0
+ 15 Picicci, Logan         CWHJK52T  1178  1177/ 57  L1  D24 D19 W45 W25 3.0
+ 16 Ramirez, Aaron         CWHJK97W  1042  1035/ 91  W29 L7  W37 L10 W30 3.0
+ 17 Mendoza, Leonardo      CWHL1126  1030  1035/312  W38 L5  W34 L9  W33 3.0
+ 18 Reyes Francisco, Henry GJSMH27W   808   911/ 25  W39 W38 L20 L6  W32 3.0
+ 19 Coates, Ethan          SODJ820M   878   921/ 65  D26 L23 D15 W37 W28 3.0
+ 20 Gimenez, Jonathan      TCPJG87X   900   995/  4  WF  W47 W18 L3  L7  3.0
+ 21 Gorecke, Cj            HHSJG87W   900  1007/  5  W47 W44 L3  L7  W29 3.0
+ 22 Cabasug, Gabriel       HHSKE46S   937   973/ 34  L3  W43 L9  W44 W27 3.0
+ 23 Guizar, Kevin          CWHLI02P   981   971/127  L24 W19 L28 W34 W31 3.0
+ 24 Geelhood, Alec         TCPJI90A  1092  1073/137  W23 D15 W41 L8  L12 2.5
+ 25 Chavez Sanchez, Bryan  GJSMH28C  1117  1094/ 24  D12 L11 W42 W41 L15 2.5
+ 26 Chen, Sophia           HHSL479E   982   963/127  D19 L13 L12 W42 W40 2.5
+ 27 Campos, Andres         WVAMG87V  1200   909/  5  W44 W39 L2  L4  L22 2.0
+ 28 Wick, Trevor           WVAJG87U   900   814/  5  L37 W33 W23 L5  L19 2.0
+ 29 Han, Austin            TCPJD919   917   896/110  L16 W34 L4  W46 L21 2.0
+ 30 Slade, Kenyon          GJSMH27V   748   763/ 20  L34 W37 L5  W38 L16 2.0
+ 31 Nguyen, Tai            WVAMG87S  1200   821/  5  W50 W46 L1  L11 L23 2.0
+ 32 Hall, Preston          CWHK6381  1110  1058/139  L6  L3  W49 W43 L18 2.0
+ 33 Dang, Julian           HHSJH05K   667   720/ 15  L10 L28 W39 W35 L17 2.0
+ 34 Ulrich, Xavier         HHSKK95V   696   743/ 20  W30 L29 L17 L23 W45 2.0
+ 35 Perez Birrueta, Rafael CWHKK60W   903   853/ 73  L13 L8  W48 L33 W41 2.0
+ 36 Wampole, Caleb         CWHK133K   629   653/109  L8  L10 L38 W47 W46 2.0
+ 37 Erdmann, Nikko         HHSKH05H   637   689/ 15  W28 L30 L16 L19 W43 2.0
+ 38 Chen, Jessica          HHSKG23Z   880   834/ 90  L17 L18 W36 L30 W44 2.0
+ 39 Arias Padilla, Alondra RICLK68G   765   728/ 48  L18 L27 L33 W49 W48 2.0
+ 40 Hullet, Joshua         WVAKG87R  1000   587/  5  D42 W49 L8  L12 L26 1.5
+ 41 Sanchez, Jose          WVAMG87Q  1200   556/  5  D49 W42 L24 L25 L35 1.5
+ 42 Hernandez, Aidan       MCPJG87M   900   496/  5  D40 L41 L25 L26 W49 1.5
+ 43 Reyes Francisco, Kevin GJSMH27Y   787   743/ 25  W48 L22 L11 L32 L37 1.0
+ 44 Rider, Roan            SODJH13L   736   665/ 10  L27 L21 W47 L22 L38 1.0
+ 45 Ham, Sol               TCPM961Q   861   815/ 24  U   W50 L7  L15 L34 1.0
+ 46 Hertelendy, Chris      LIBJ832Z   740   677/ 71  L14 L31 W50 L29 L36 1.0
+ 47 Ramirez, Fabian        WVAMG87L  1200   462/  5  L21 L20 L44 L36 W50 1.0
+ 48 Correa, Emily          PASKJ52K   710   648/126  L43 L14 L35 W50 L39 1.0
+ 49 Garcia, Juanita        GJSMH27T   228   236/ 15  D41 L40 L32 L39 L42 0.5
+ 50 Dedmond, Charles       CWHLJ81L   500   423/ 23  L31 L45 L46 L48 L47 0.0

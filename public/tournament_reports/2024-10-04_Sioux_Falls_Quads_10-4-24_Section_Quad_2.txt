@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Casanova, Vicente      SFMHZ99T  1356  1442/ 92  W3  W4  W2  3.0
+  2 Wilber, Christopher    SFXJZ20V  1436  1436/127  W4  W3  L1  2.0
+  3 Nguyen, Charlie        SDRFZ06D  1323  1304/175  L1  L2  W4  1.0
+  4 Wagner, Colter         SDLLZ90P  1188  1152/ 66  L2  L1  L3  0.0

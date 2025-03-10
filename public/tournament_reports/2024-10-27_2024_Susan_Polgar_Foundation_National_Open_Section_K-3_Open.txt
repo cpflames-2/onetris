@@ -1,0 +1,39 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Roy Chowdhury, Avyaan  THRDH82M  1096  1300/ 30  W14 W33 W2  W6  W4  5.0
+  2 Zandanov, Leonid       ENADK31Q  1357  1352/152  W19 W16 L1  W24 W8  4.0
+  3 Sankrithi, Vivaan      HSCBK61R  1143  1151/115  W21 L13 W14 W25 W11 4.0
+  4 Chen, Julian           CNHCK32C  1119  1168/ 84  W27 W25 W13 W10 L1  4.0
+  5 Balasubramanian, ChidhuCNCDK94J   912  1078/ 30  W38 W11 L6  W12 W10 4.0
+  6 Li, Anyi               LKDDJ55F  1263  1259/104  W20 D8  W5  L1  W18 3.5
+  7 Dharamshi, Anay        CBRDK42U  1116  1107/145  W28 D18 W22 L8  W15 3.5
+  8 Liu, Bihe              KKNCB78J  1002  1103/113  W36 D6  W18 W7  L2  3.5
+  9 Ge, Jeremy             SOMCJ88K  1177  1129/209  W34 L12 D20 D19 W25 3.0
+ 10 Pan, Peng-yu           SSMDK24P  1138  1121/167  W26 W24 W12 L4  L5  3.0
+ 11 Rogov, Richard         MEDDJ68U  1035  1038/ 88  W15 L5  W26 W21 L3  3.0
+ 12 Frenk, Rafael          CSICJ75L   987  1010/ 40  W23 W9  L10 L5  W28 3.0
+ 13 Pan, Peng-chi          SSMDK24N   966   978/153  W32 W3  L4  L15 W30 3.0
+ 14 Wu, Jonathan           UCDDK14H   809   893/ 47  L1  W31 L3  W37 W24 3.0
+ 15 Swain, Samarth         MMECJ58S   783   859/156  L11 W38 W33 W13 L7  3.0
+ 16 Lagzdin, Mikhail       BCACJ96R  1028   997/ 45  W35 L2  L21 W32 D20 2.5
+ 17 Ivanov, Matvei         EABDK34E   989   951/ 62  D22 L19 W34 D20 D21 2.5
+ 18 Bhattacharjee, Satvik  TIMDE65Q   963   974/ 61  W30 D7  L8  W22 L6  2.5
+ 19 Qu, Yuwen              RSACK86G   884   919/ 71  L2  W17 D32 D9  HPB 2.5
+ 20 Ruan, Jiyong           SHSDJ19W   872   912/ 20  L6  W36 D9  D17 D16 2.5
+ 21 Chen, Eason            SOMBJ59F   863   901/ 78  L3  W23 W16 L11 D17 2.5
+ 22 Xu, Augus              ENDDJ29H   753   807/ 24  D17 W34 L7  L18 W31 2.5
+ 23 Yao, Roger Yutang      THOCK88C   735   746/ 85  L12 L21 D38 W34 W32 2.5
+ 24 Li, Alice              OPWDJ98C   966   933/ 79  W29 L10 W35 L2  L14 2.0
+ 25 Xing, Andrew           CNHDK62E   916   912/123  W31 L4  W28 L3  L9  2.0
+ 26 Ren, Easton            CMCBH68Z   836   810/ 39  L10 W29 L11 L30 W37 2.0
+ 27 Wang, Aaron            HMND631T   834   782/ 99  L4  L32 L31 W38 W33 2.0
+ 28 Iyer, Suchir           CMCDA22D   810   809/ 28  L7  W30 L25 W35 L12 2.0
+ 29 Hu, Ryan               OPWBJ97N   699   691/ 93  L24 L26 L37 W36 W35 2.0
+ 30 Kakarlapudi, Jairam IshMEDC585M   691   716/ 45  L18 L28 W36 W26 L13 2.0
+ 31 Charuvil Vinu, Suryen  RSHBJ89R   609   678/ 63  L25 L14 W27 W33 L22 2.0
+ 32 Srinivasan, Atul       TBKBK65P   693   703/ 64  L13 W27 D19 L16 L23 1.5
+ 33 Mahale, Avneesh        CNHC993F   894   801/179  W37 L1  L15 L31 L27 1.0
+ 34 Nishino, Anne          BCADH74F   841   758/ 63  L9  L22 L17 L23 W38 1.0
+ 35 Benita-nagdeep, KrishanSOMDK56N   782   714/ 58  L16 W37 L24 L28 L29 1.0
+ 36 Sabharwal, Vihaan      DCTDK87T   768   681/ 57  L8  L20 L30 L29 BYE 1.0
+ 37 Pingale, Sharanya      TKECW79N   689   637/  5  L33 L35 W29 L14 L26 1.0
+ 38 Pande, Aryan           DCSC493M   439   439/ 16  L5  L15 D23 L27 L34 0.5

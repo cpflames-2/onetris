@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 tot 
+  1 Dhole, Arjun           DISE752D   475   489/ 56  W5  1.0
+  2 Agastya, Smera         LTEDG74W   100   180/  5  W6  1.0
+  3 Sadhu, Shanmukha       RHJHG75L   689   710/  5  W4  1.0
+  4 Li, Jacob              TMBGE48C   403   391/ 14  L3  0.0
+  5 Xu, Ruiping            SSMCH87E   221   205/ 25  L1  0.0
+  6 Sapaharam, Dhanvika    MOBAG74Q   100   100/  5  L2  0.0

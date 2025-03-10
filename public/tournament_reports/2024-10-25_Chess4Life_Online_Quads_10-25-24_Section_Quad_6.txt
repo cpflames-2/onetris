@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Mcintyre, Isaac        ETSF466S   497   553/222  BYE W3  W2  3.0
+  2 Gao, Eason             CHREH75U   430   433/ 43  W4  BYE L1  2.0
+  3 Nishanth, Ahan         RSAAH60N   458   394/  6  W5  L1  D4  1.5
+  4 Kim, Evan              CRKFH53F   500   307/  3  L2  W5  D3  1.5
+  5 Suresh, Anirudh        BRHBJ55Q   100   100/ 11  L3  L4  BYE 1.0

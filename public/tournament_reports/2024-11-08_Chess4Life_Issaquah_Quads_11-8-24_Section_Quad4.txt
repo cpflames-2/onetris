@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Gui, Joyce             OPWCH92C   706   826/ 49  W4  W3  W2  3.0
+  2 Deshmukh, Dhruv        ENDEH79Q   742   753/ 66  W3  W4  L1  2.0
+  3 Holostov, Benjamin     CRKEJ94A   591   588/ 45  L2  L1  W4  1.0
+  4 Gorbatenko, Leon       CRKFH58G   671   557/  9  L1  L2  L3  0.0

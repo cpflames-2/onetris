@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chen, Julian           CNHCK32C  1165  1262/113  D3  W4  W2  2.5
+  2 Kandar, Aarav          FISEK21U  1218  1245/151  W4  W3  L1  2.0
+  3 Gollapally, Arnav      SKNK499J  1284  1272/157  D1  L2  W4  1.5
+  4 Verma, Reyansh         RBRFJ20M  1225  1159/ 76  L2  L1  L3  0.0

@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Jordan, Zachary        EALLH61Q  1100   602/  3  W5  W2  L3  2.0
+  2 Jordan, Tyler          EALJH61P   900   602/  3  W4  L1  W5  2.0
+  3 Fetchero, Noelle       BLCG505H   385   432/ 68  W6  L4  W1  2.0
+  4 Lin, Christianne       HCCGG77D   358   418/ 21  L2  W3  W6  2.0
+  5 Mar, Eliana            HCCFK20V   337   330/ 17  L1  W6  L2  1.0
+  6 Finch, Wyatt           HSCHH61M   700   100/  3  L3  L5  L4  0.0

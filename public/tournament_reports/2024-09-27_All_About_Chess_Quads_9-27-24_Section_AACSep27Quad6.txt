@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Jahani, Nikan          SNIGK89A   754   860/103  W3  W4  W2  3.0
+  2 Bysani, Aakash         SSMCK01D   666   716/174  W4  W3  L1  2.0
+  3 Zhang, Patrick         SSSCK01J   770   724/137  L1  L2  W4  1.0
+  4 Sivakumar, Vedant      INGHH63H   572   516/ 11  L2  L1  L3  0.0

@@ -1,0 +1,18 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Bhasin, Palash         ISMGH95H  1045  1075/ 71  W6  W10 W2  D3  W5  4.5
+  2 Chu, Skylar            SOMD579R  1010  1024/ 56  W8  W7  L1  W4  W6  4.0
+  3 Sameneni, Shivanga     TYEGJ39W   667   820/ 15  W14 D4  W13 D1  W8  4.0
+  4 Sarychev, Aleksei      GEKKJ98N   849   881/189  W9  D3  W5  L2  W10 3.5
+  5 Mahale, Avneesh        CNHC993F   835   831/187  W11 W15 L4  W7  L1  3.0
+  6 Mirchandani, Kiaan     MEDEK92Z   602   682/ 70  L1  W11 W14 W10 L2  3.0
+  7 Menezes, Ronit         SCDFK44M   720   726/ 77  W12 L2  W9  L5  W11 3.0
+  8 Sharma, Sidarth        EVGCJ75G   562   612/ 64  L2  W12 W16 W13 L3  3.0
+  9 Brakenridge, Bryce     SOMGK89D   540   551/ 61  L4  W17 L7  W16 W12 3.0
+ 10 Shah, Rachit           BNTEK44K   749   706/ 77  W17 L1  W15 L6  L4  2.0
+ 11 Sharma, Samarth        EVGCJ75K   529   514/ 60  L5  L6  W17 W14 L7  2.0
+ 12 Ip, Egan               SOMCK41L   337   349/ 28  L7  L8  BYE W15 L9  2.0
+ 13 Pai, Samiksha          SSMEJ19X   777   676/ 71  L15 W16 L3  L8  W17 2.0
+ 14 Brakenridge, Ryan      SOMBK05L   268   271/ 43  L3  BYE L6  L11 W16 2.0
+ 15 Kamasani, Dharshith    BLWEJ06Q   462   448/ 23  W13 L5  L10 L12 BYE 2.0
+ 16 Nori, Vishnu Vallabha  CBRBJ06A   224   174/ 23  BYE L13 L8  L9  L14 1.0
+ 17 Mirchandani, Kavir     MEDCJ97A   380   322/ 58  L10 L9  L11 BYE L13 1.0

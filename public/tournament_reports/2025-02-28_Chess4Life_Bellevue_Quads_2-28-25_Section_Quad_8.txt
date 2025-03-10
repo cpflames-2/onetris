@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sivalanka, Eshan       TPSID36W   400   504/  8  W2  W4  W3  3.0
+  2 Balasubramanian, Shyam MEDFG91U   279   348/  8  L1  W3  W4  2.0
+  3 Balan, Vidyut          LAVEH68B   316   290/ 32  W4  L2  L1  1.0
+  4 Gunderson, Amar        LAEFW997   307   210/ 10  L3  L1  L2  0.0

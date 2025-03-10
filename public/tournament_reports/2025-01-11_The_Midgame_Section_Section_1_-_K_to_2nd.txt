@@ -1,0 +1,10 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Belonozhko, Isaac      FMPBH53M   212   413/ 10  W3  W4  W2  W6  W5  5.0
+  2 Linder, Carson         FMPCH53L   269   351/ 10  W7  W5  L1  W3  W9  4.0
+  3 Kruzhkov, Elijah       XXXCG84J   200   298/  5  L1  W9  W4  L2  W6  3.0
+  4 Morgan, Paige          FMPCG84H   200   211/  4  W9  L1  L3  BYE W8  3.0
+  5 Cruz, Levi             FMPCJ92J   100   151/ 17  W8  L2  D6  W7  L1  2.5
+  6 Linder, Quinton        FMPAH53K   107   112/  9  BYE W7  D5  L1  L3  2.5
+  7 Boyes, Naomi           HSCBG84G   100   100/  4  L2  L6  W8  L5  BYE 2.0
+  8 Smith, Soren           SPWBG84F   100   100/  4  L5  BYE L7  W9  L4  2.0
+  9 Britt, Maverick        SPWBG84E   100   100/  4  L4  L3  BYE L8  L2  1.0

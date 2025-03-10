@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Mcpherson, Aiden       PONGW85C  1231  1244/ 23  W2  W3  W4  W5  W6  5.0
+  2 Stevens, Wally         PONGW84Z   661   661/ 14  L1  W6  D3  W4  W5  3.5
+  3 Singer, Audric         PONGW84K   329   409/ 12  W5  L1  D2  W6  D4  3.0
+  4 Henderson, Braydon     PONHW857   431   436/ 12  W6  W5  L1  L2  D3  2.5
+  5 Dorado, Ethyn          PONHW79D   700   195/  5  L3  L4  W6  L1  L2  1.0
+  6 Knill, Kingsley        PONGW79C   600   100/  5  L4  L2  L5  L3  L1  0.0

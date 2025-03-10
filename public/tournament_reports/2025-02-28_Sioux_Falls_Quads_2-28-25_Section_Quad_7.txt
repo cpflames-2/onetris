@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Rathsachack, Eva       XXXFG71M   500   609/  3  W4  W2  W3  3.0
+  2 Bassett, Liam          BVIGZ723   183   183/ 14  W3  L1  L4  1.0
+  3 Bouza, Meredith        SDAFZ672   500   199/  3  L2  W4  L1  1.0
+  4 Dandar, Siggy          SDRCZ69K   212   202/ 12  L1  L3  W2  1.0

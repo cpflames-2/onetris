@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 rd7 rd8 rd9 tot 
+  1 Gottumukkala, Ananth   ADUNG432  2160  2188/360  W4  W6  D5  D2  L3  W10 W8  W7  W9  7.0
+  2 Vijayakumar, Advaith   NRCM6655  2238  2240/332  W6  L5  W3  D1  W10 W8  W7  D9  D4  6.5
+  3 Kona, Vidip            TIMGI26J  2181  2187/385  D5  W7  L2  W9  W1  L4  W10 W6  D8  6.0
+  4 Gavrysh, Leonid        ADUN816H  1980  2044/131  L1  W10 W8  L7  W9  W3  W6  L5  D2  5.5
+  5 Sprumont, Oscar        ADUNK10E  2031  2059/ 35  D3  W2  D1  D10 L8  D7  D9  W4  D6  5.0
+  6 Larson, Gerald         ADUNG74P  2052  2054/  9  L2  L1  W10 W8  D7  W9  L4  L3  D5  4.0
+  7 Rozenfeld, Yevgeniy    ADUNC004  2079  2074/ 45  D8  L3  D9  W4  D6  D5  L2  L1  W10 4.0
+  8 Kuipers, Miles         TSTM6766  2000  2006/602  D7  D9  L4  L6  W5  L2  L1  W10 D3  3.5
+  9 Zhu, Jamie             EVJI558E  2048  2031/376  W10 D8  D7  L3  L4  L6  D5  D2  L1  3.0
+ 10 Pupols, Viktors        ADUN8503  2167  2082/108  L9  L4  L6  D5  L2  L1  L3  L8  L7  0.5

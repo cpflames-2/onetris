@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Paidapathi, Kiaan      SHSCJ99C   423   547/157  W3  W4  W2  3.0
+  2 Chang, Nathan          MMEDK42T   397   423/106  W4  W3  L1  2.0
+  3 Nandakiran, Advaith    SSMCJ88H   255   263/123  L1  L2  W4  1.0
+  4 Burtram, Katelyn       CRIEK44S   397   297/ 13  L2  L1  L3  0.0

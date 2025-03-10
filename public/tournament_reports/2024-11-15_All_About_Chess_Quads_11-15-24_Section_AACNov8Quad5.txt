@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Krogstad, Jaxon        NCSDJ88M   836   927/115  W2  W4  W3  3.0
+  2 Bysani, Aakash         SSMCK01D   687   760/199  L1  W3  W4  2.0
+  3 Li, Ethan James        SOMCK00K   757   732/ 95  W4  L2  L1  1.0
+  4 Malhotra, Dilraj       MAHCK02Y   730   656/ 73  L3  L1  L2  0.0

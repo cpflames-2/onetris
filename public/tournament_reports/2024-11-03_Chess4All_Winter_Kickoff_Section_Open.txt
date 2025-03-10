@@ -1,0 +1,21 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Yu, Peter              ADUNJ50C  2100  2087/ 33  W19 W12 D5  D2  W8  4.0
+  2 Ackerman, Ryan         ADUNC514  1856  1873/258  W9  W13 W3  D1  D4  4.0
+  3 Turapov, Bayram        ADUNH48N  1300  1824/  5  W8  W6  L2  W13 W7  4.0
+  4 Skkandann, Kiann       NPRN644M  1621  1657/ 45  W15 D7  D6  W5  D2  3.5
+  5 Nedumpurakkal Thahir, IRHJKK46Y  1715  1712/ 24  W10 W14 D1  L4  D6  3.0
+  6 Maharaja, Imai         HMNEK34K  1588  1609/243  W16 L3  D4  W12 D5  3.0
+  7 Rao, Deepak Sri KartikeBPSI517J  1600  1605/171  W11 D4  D12 W10 L3  3.0
+  8 Gao, Ziqian            BLWFK10U  1401  1428/ 50  L3  W16 W17 W11 L1  3.0
+  9 Satish, Sathvik        RHJJK18Y  1298  1324/ 27  L2  W20 L13 W16 W14 3.0
+ 10 Yun, Daniel D          LAVDK87Z  1298  1367/350  L5  W18 W14 L7  W13 3.0
+ 11 He, Jizhou             MEDD789B  1161  1251/111  L7  W15 W19 L8  W18 3.0
+ 12 Joseph, Veronique      SJOFJ04S  1555  1550/204  W17 L1  D7  L6  W15 2.5
+ 13 Ganesan, Vidur         RBRF940K  1449  1434/271  W18 L2  W9  L3  L10 2.0
+ 14 Chang, Liam            LEOI5238  1430  1385/144  W20 L5  L10 W17 L9  2.0
+ 15 Mullen, Hana           SMZLK81C  1288  1261/ 51  L4  L11 D18 W19 L12 1.5
+ 16 Bui, Edwin             FRVFK90H  1232  1200/119  L6  L8  W20 L9  D17 1.5
+ 17 Larson, Oscar          SMZLK80P  1196  1199/ 25  L12 W19 L8  L14 D16 1.5
+ 18 Tsen, Eric             AGBEK18P   988   990/196  L13 L10 D15 W20 L11 1.5
+ 19 Ma, Lewis              SOMD587M  1399  1314/193  L1  L17 L11 L15 W20 1.0
+ 20 Nandeesh, Tavishna     CAVEH61E   515   509/ 20  L14 L9  L16 L18 L19 0.0

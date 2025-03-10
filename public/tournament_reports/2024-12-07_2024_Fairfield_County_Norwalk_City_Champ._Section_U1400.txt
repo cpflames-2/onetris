@@ -1,0 +1,21 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Pompa, Grady           CTXGX07V  1108  1244/104  W20 W17 W9  W5  4.0
+  2 Wong, Madison          NYXGX08C   832  1129/104  W3  D7  W8  W6  3.5
+  3 Solomon, Harrison      CTXGX07W  1013  1025/104  L2  W19 W17 W13 3.0
+  4 Deroma, Max            CTXJX11U  1010  1022/108  L17 W20 W18 W9  3.0
+  5 Gallardo Avalo, Ad     MAXNZ71N  1300  1411/  4  W13 W8  W14 L1  3.0
+  6 Coleman, Declan Th     PAXNX06V  1231  1212/ 58  D16 W12 W7  L2  2.5
+  7 Coggin, Paul Mikhail   CTXHX03X  1189  1193/114  W19 D2  L6  W14 2.5
+  8 Maheshkumar, Tanuj     CTXIX11N  1381  1332/112  W11 L5  L2  W15 2.0
+  9 Chu, Caroline          NYXFX07T  1280  1229/104  W15 W10 L1  L4  2.0
+ 10 Deliz, Sebastian DiedriNYXIX07X   947   941/104  W18 L9  L13 W16 2.0
+ 11 Kurapati, Avinash Hari CTXEX07Y   929   915/104  L8  L13 W19 W18 2.0
+ 12 Chan, Aidan            CTXJX07Z   923   945/104  D14 L6  D16 W17 2.0
+ 13 Gonsalves, Jayden      CTXIX08D   751   863/104  L5  W11 W10 L3  2.0
+ 14 Todd, Forde            PAXNX12N  1320  1259/ 12  D12 W16 L5  L7  1.5
+ 15 James, Caleb           CTXDX08A   902   862/104  L9  L18 W20 L8  1.0
+ 16 Mishra, Slok           CTXGX02E   902   893/116  D6  L14 D12 L10 1.0
+ 17 Li, Siyuan             NYXBZ739   652   739/  8  W4  L1  L3  L12 1.0
+ 18 Kamalakannan, Dev VidyuCTXHZ71M   700   734/  4  L10 W15 L4  L11 1.0
+ 19 Muller, Remington      CTXBZ71L   100   578/  4  L7  L3  L11 D20 0.5
+ 20 Baker, Michael         CTXNX12X   759   681/  8  L1  L4  L15 D19 0.5

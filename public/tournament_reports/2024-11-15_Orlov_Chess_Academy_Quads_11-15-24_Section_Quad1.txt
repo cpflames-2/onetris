@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhang, Kevin           OMSG809Y  1159  1225/149  W3  W2  D4  2.5
+  2 Ackerman, Ryan         ADUNC514  1849  1820/264  W4  L1  W3  2.0
+  3 Heydarov, Rasul        BLWGH95F  1042  1039/ 27  L1  W4  L2  1.0
+  4 Nishino, Anne          BCADH74F   802   815/ 80  L2  L3  D1  0.5

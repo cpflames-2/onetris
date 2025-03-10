@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Welch, James           HSSJF53F  1580  1595/234  W4  W3  D2  2.5
+  2 Wilber, Christopher    SFXJZ20V  1532  1538/139  W3  D4  D1  2.0
+  3 Neff, Joel             ABEHF99X  1463  1443/282  L2  L1  W4  1.0
+  4 Neff, Enoch            ABEEF95Q  1264  1261/171  L1  D2  L3  0.5

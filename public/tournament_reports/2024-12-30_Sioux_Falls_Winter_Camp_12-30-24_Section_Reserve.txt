@@ -1,0 +1,12 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Neff, Nathan           ABECK07A   743   835/ 84  W2  W7  W3  W4  4.0
+  2 Devish, Coale          SDSCZ80U   424   563/ 22  L1  W11 W5  W6  3.0
+  3 Ruby, Baze             SDDHZ16V   543   603/ 81  W6  W9  L1  W8  3.0
+  4 Wurgler, Owen          IA1EZ76C   707   636/  9  W10 D5  W8  L1  2.5
+  5 Neff, Zachary          ABEBH77E   206   415/ 26  W9  D4  L2  W10 2.5
+  6 Barranco, William      SFNDZ79W   374   385/ 24  L3  BYE W7  L2  2.0
+  7 Fjeldheim, Caden       SFGGZ99L   423   449/ 16  W11 L1  L6  W9  2.0
+  8 Ruby, Dax              SDDDZ89U   100   232/  6  BYE W10 L4  L3  2.0
+  9 Beynon, Jaxon          SDSDZ89P   632   525/ 86  L5  L3  W11 L7  1.0
+ 10 Quezada, Oscar         SDKEX80N   400   303/ 34  L4  L8  BYE L5  1.0
+ 11 Davis, Gavin           SXBFZ82F   497   399/ 24  L7  L2  L9  BYE 1.0

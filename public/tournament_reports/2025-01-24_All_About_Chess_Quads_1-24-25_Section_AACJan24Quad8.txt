@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Mirchandani, Kavir     MEDCJ97A   431   609/ 64  W3  W4  W2  3.0
+  2 Balaji, Pranav         INGHJ96J   481   514/ 32  W4  W3  L1  2.0
+  3 Sathyamurthy, Shreyus  BLWCJ60Z   513   472/121  L1  L2  W4  1.0
+  4 Sarangi, Samarth       CBREH69F   399   330/ 55  L2  L1  L3  0.0

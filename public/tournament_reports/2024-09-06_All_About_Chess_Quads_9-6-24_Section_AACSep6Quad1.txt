@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Pan, Peng-ruei         SSMF759R  1478  1563/176  W2  W4  W3  3.0
+  2 Prashant, Niranjan     PFCH468K  1372  1427/189  L1  W3  W4  2.0
+  3 Chen, William          INGI550N  1669  1621/209  W4  L2  L1  1.0
+  4 Burtram, Dayton        BLMJG77M  1322  1289/286  L3  L1  L2  0.0

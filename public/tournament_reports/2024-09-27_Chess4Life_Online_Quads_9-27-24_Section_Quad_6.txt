@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Lishchenko, Leonid     HSCCJ99A   670   828/ 15  W3  W2  W4  3.0
+  2 Kuluru, Samith         LEOII99K   733   754/283  W4  L1  W3  2.0
+  3 Chang, Ethan An Tong   BNTDJ59M   687   665/ 22  L1  W4  L2  1.0
+  4 Jariwala, Vidur        THOEK87P   667   593/ 43  L2  L3  L1  0.0

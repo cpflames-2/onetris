@@ -1,0 +1,8 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhu, Anna              SOMDH30X   132   357/ 21  W3  W4  W5  3.0
+  2 Fong, Mercer           SOMEK43T   280   369/ 25  W6  W5  W4  3.0
+  3 Shin, Joshua           CRKCJ63R   333   332/111  L1  W6  W7  2.0
+  4 Zahand, Chase          CEIEH64H   224   185/  5  W7  L1  L2  1.0
+  5 Mutha, Vihaan          CNHBH79R   100   100/ 15  BYE L2  L1  1.0
+  6 Cheung, Nathan         CBRFG71N   500   100/  2  L2  L3  BYE 1.0
+  7 Zhu, Aron              SOMCH30W   100   100/ 17  L4  BYE L3  1.0

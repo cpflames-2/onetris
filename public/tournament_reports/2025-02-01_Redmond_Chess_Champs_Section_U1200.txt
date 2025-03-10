@@ -1,0 +1,18 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Tallapaneni, Hanish    CDZHH06J  1057  1152/ 10  W5  L2  W17 W7  W4  4.0
+  2 Rengarajan, Anirudh    DIAFZ75J  1088  1158/ 28  WF  W1  W6  L4  W8  4.0
+  3 Bigelow, Ian           ADUNG93G  1300  1275/  4  WF  W11 D4  W6  D5  4.0
+  4 Bell, Raimi            OBKHF77Y  1054  1092/ 56  W14 W10 D3  W2  L1  3.5
+  5 Chillakuru, Hem        JACKK08D  1083  1118/ 13  L1  W15 W8  W13 D3  3.5
+  6 Bui, Edwin             FRVFK90H  1145  1126/140  W15 W9  L2  L3  W12 3.0
+  7 Nachiappan, Lakshmanan RHJIJ87Q   989   957/ 47  L9  W12 W14 L1  W10 3.0
+  8 Foster, Chad           ADUNH69R  1033  1011/ 20  W12 W17 L5  W10 L2  3.0
+  9 Siva, Vikaat           DISBJ30L   653   728/106  W7  L6  L13 W17 W11 3.0
+ 10 Sankara, Prithvi       EVJIH96Q   421   604/ 14  W16 L4  W11 L8  L7  2.0
+ 11 Bhandari, Aarav        CBREJ06H  1078   988/ 98  W13 L3  L10 W14 L9  2.0
+ 12 Ni, Nicole             JINEJ03A   723   739/ 29  L8  L7  BYE W16 L6  2.0
+ 13 Suram, Ridhima         KKNE882V   421   489/ 26  L11 BYE W9  L5  L16 2.0
+ 14 Covey, Lashawna        ADUNH79W   618   655/ 22  L4  W16 L7  L11 BYE 2.0
+ 15 Rajeswaran, Raghav     RHJIJ57H   967   907/ 34  L6  L5  L16 BYE W17 2.0
+ 16 Vinoth Ganapathy, PavitAUDFH96J  1025   917/ 35  L10 L14 W15 L12 W13 2.0
+ 17 Dhanaraj, Elamukil     ENSFH44H   100   100/ 14  BYE L8  L1  L9  L15 1.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chiang, Austin         CNHBH59V   546   618/ 18  W3  W4  W2  3.0
+  2 Abuhuwaij, Adam        TBKCG92E   455   382/  6  W4  L3  L1  1.0
+  3 Kondapalli, Keyura     EVGBJ67E   337   332/ 43  L1  W2  L4  1.0
+  4 Berjis, Liana          MEDCB72R   372   355/133  L2  L1  W3  1.0

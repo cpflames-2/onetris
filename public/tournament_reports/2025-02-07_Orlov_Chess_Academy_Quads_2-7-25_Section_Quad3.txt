@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Anand, Nivaan          MCEBH64F   520   589/ 73  U   W3  D2  W5  U   2.5
+  2 Desetty, Arnav SashreekRSAFJ59H   569   583/ 18  W5  U   D1  U   BYE 2.5
+  3 Dayani, Viraj          SRAF118W   436   487/ 17  W4  L1  W6  U   U   2.0
+  4 Zeeshan, Hamza         CRKEJ15N   558   535/ 61  L3  U   W5  W6  U   2.0
+  5 Ward, Isabella         XXXFH00M   433   280/  5  L2  U   L4  L1  U   0.0
+  6 Park, Owen             RFKBH24U   221   194/  8  U   U   L3  L4  U   0.0

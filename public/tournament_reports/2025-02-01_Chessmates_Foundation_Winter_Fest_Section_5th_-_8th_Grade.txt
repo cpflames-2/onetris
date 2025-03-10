@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Wong, Kate             LMSG459M  1454  1474/209  W9  W3  W2  W4  W6  5.0
+  2 Bui, Bryant            RDSFH52W  1025  1086/ 45  W4  W5  L1  W3  W7  4.0
+  3 Jayadevan, Neel        SCDH230P  1085  1071/120  W7  L1  W6  L2  W10 3.0
+  4 Sharma, Akshay         CMCFK27J   513   617/ 14  L2  W10 W8  L1  W9  3.0
+  5 Sreeram, Vihaan        BLWFK01U   893   853/ 46  W10 L2  L7  W9  W8  3.0
+  6 Kannapiran, Arnav      LSSG983P   860   847/ 98  D8  W9  L3  W7  L1  2.5
+  7 Aker, Pepper           THUG181G   599   660/110  L3  W8  W5  L6  L2  2.0
+  8 Lundquist, Lucas       SGEHG99Y   700   491/  5  D6  L7  L4  W10 L5  1.5
+  9 Takala, Greysen        WHIGE55T   629   583/ 98  L1  L6  W10 L5  L4  1.0
+ 10 Allen, Jhaiden         EXDFH33W   310   254/ 10  L5  L4  L9  L8  L3  0.0

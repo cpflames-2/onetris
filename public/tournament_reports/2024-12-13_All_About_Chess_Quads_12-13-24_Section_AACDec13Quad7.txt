@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sankapal, Pranav       SNEDJ61E   564   589/ 29  W2  W4  L3  2.0
+  2 Zhang, Eric            SOMDK64M   522   571/ 40  L1  W3  W4  2.0
+  3 Charles, Benjamin      SOMBJ06G   578   538/ 69  L4  L2  W1  1.0
+  4 Sathyamurthy, Shreyus  BLWCJ60Z   516   497/ 98  W3  L1  L2  1.0

@@ -1,0 +1,22 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Singh, Vedant          REJG471V  1186  1295/ 39  W5  W6  W11 W2  W7  5.0
+  2 Zeitlin, Tom           WOBFI56H   985  1091/ 96  W17 W20 W10 L1  W6  4.0
+  3 Kanchanakuntla, Anish RTFEGJ31G  1207  1182/ 31  L15 W19 D7  W8  W11 3.5
+  4 Lagzdin, Mikhail       BCACJ96R   997  1030/ 50  L7  W18 D5  W19 W13 3.5
+  5 Ren, Easton            CMCBH68Z   919  1043/ 54  L1  W17 D4  W14 W10 3.5
+  6 Kayali, Kana           EBSDJ29N   968  1006/ 20  W8  L1  W16 W9  L2  3.0
+  7 Reimer, Oliver         IMSGG59D   875  1018/ 87  W4  W12 D3  D10 L1  3.0
+  8 Jayasinghe, Sihas      TMBGJ83E   778   862/ 42  L6  BYE W15 L3  W16 3.0
+  9 Singhal, Aryash        HIEE595L   830   908/123  D12 D13 W20 L6  W15 3.0
+ 10 Byelashova, Darya      SGHEK51X  1070  1051/147  W16 W14 L2  D7  L5  2.5
+ 11 Ivanov, Matvei         EABDK34E   985   989/ 72  W18 W15 L1  D13 L3  2.5
+ 12 Wu, Jayden             UCDD495Q   936   922/119  D9  L7  L19 W21 W20 2.5
+ 13 Rajeswaran, Raghav     RHJIJ57H   877   913/ 20  D19 D9  W14 D11 L4  2.5
+ 14 Tsen, Eric             AGBEK18P  1036   982/214  W21 L10 L13 L5  W19 2.0
+ 15 Jibin, Kevin           REJHH82A   933   911/ 15  W3  L11 L8  W18 L9  2.0
+ 16 Wang, Jacob Z          EVJGE71A   904   874/144  L10 W21 L6  W20 L8  2.0
+ 17 Nishino, Anne          BCADH74F   815   786/ 84  L2  L5  L18 BYE W21 2.0
+ 18 Bigelow, Atlas         WMECJ61F   813   789/ 56  L11 L4  W17 L15 BYE 2.0
+ 19 Bhat, Avaneesh         CHRFK34H   997   949/ 20  D13 L3  W12 L4  L14 1.5
+ 20 Swain, Samarth         MMECJ58S   949   846/172  WF  L2  L9  L16 L12 1.0
+ 21 Byelashova, Sofia      SGHCK01K   806   720/108  L14 L16 BYE L12 L17 1.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ostermann, Will        OGJHZ89Y   575   794/ 29  W3  W2  W4  3.0
+  2 Studer, Camden         SDEGZ20K   806   808/ 36  W4  L1  W3  2.0
+  3 Place, Asher           SDAGZ98Y   762   720/ 20  L1  W4  L2  1.0
+  4 Bergan, Eric           SFZDZ96R   575   526/ 95  L2  L3  L1  0.0

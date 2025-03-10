@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Von Dassow, Misha      LHNIP55K  1494  1498/ 64  D3  W5  W2  W4  W6  4.5
+  2 Thompson, Jeremiah     CQHIW97T  1066  1158/ 56  W6  W4  L1  W3  W5  4.0
+  3 Morse, Frank           HSOMW762  1478  1449/381  D1  W6  W5  L2  W4  3.5
+  4 Valencia, Eliana       HSONW864   762   784/ 24  W5  L2  D6  L1  L3  1.5
+  5 Bottoroff, Matthew     ADONQ200   808   795/226  L4  L1  L3  W6  L2  1.0
+  6 Fritz, John            MPHJW97M   804   767/ 41  L2  L3  D4  L5  L1  0.5

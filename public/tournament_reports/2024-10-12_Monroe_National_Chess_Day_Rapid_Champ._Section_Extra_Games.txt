@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 tot 
+  1 Polonsky, Daniel       LIHL946P  1391  1394/ 82  W4  1.0
+  2 Liguori, Catherine     ADUNH59A   946   946/  5  W5  1.0
+  3 Marsh, Stephen         ADUNH59D  1172  1172/  5  W6  1.0
+  4 Phillips-acheson, SebasEMHI817T   896   892/240  L1  0.0
+  5 Sakthivel, Aadhira     SWLFH58Q   270   270/  5  L2  0.0
+  6 Devireddy, Jaya BhaveesXXXEH58Z   705   705/  4  L3  0.0

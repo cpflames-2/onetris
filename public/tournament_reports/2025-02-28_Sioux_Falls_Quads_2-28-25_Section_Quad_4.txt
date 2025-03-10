@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Mcfayden, Skylar       SFHGZ75Q   698   733/ 46  W3  W2  L4  2.0
+  2 Davis, Lincoln         SDSEZ99N   653   715/111  W4  L1  W3  2.0
+  3 Selken, Kordelia       SDAFX83W   668   652/172  L1  W4  L2  1.0
+  4 Riedmann, Sam          SFMEZ96X   779   729/ 67  L2  L3  W1  1.0

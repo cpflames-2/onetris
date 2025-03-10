@@ -1,0 +1,31 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Singh, Ayush           CTXLX04W  1356  1537/108  W23 W12 W14 W6  4.0
+  2 Gerdon, Matthew Ja     CTXNX06N  1562  1594/104  W28 W8  D3  W10 3.5
+  3 Adelstein, Ben Nec     CTXLZ73N  1100  1675/  4  W25 W16 D2  W9  3.5
+  4 Cyr, Joseph            MAXNX01N  1480  1501/112  W11 L13 W18 W15 3.0
+  5 Osondu, Ugochukwu      CTXMZ73M  1200  1649/  4  L13 W15 W19 W14 3.0
+  6 Hakobyan, Ashot        RIXHX06W  1274  1329/ 54  W22 W29 W13 L1  3.0
+  7 Sriram, Akshay S       CTXJX01W  1415  1464/107  L14 W17 W22 W13 3.0
+  8 Shamas, Aidan          CTXNX11Q  1456  1467/107  W16 L2  W17 D11 2.5
+  9 Paik, Kai              SPTN2097   989  1148/ 16  D10 W26 W20 L3  2.5
+ 10 Li, David              NYXEX06X  1206  1258/ 54  D9  W25 W21 L2  2.5
+ 11 Barday, Sheraz         NYXJX06R  1380  1394/ 54  L4  W19 W24 D8  2.5
+ 12 Smith, Elizabeth C     CTXNX01C  1497  1494/113  HPB L1  W28 W21 2.5
+ 13 Zimmerman, Nicolas     CTXNX06M  1596  1575/104  W5  W4  L6  L7  2.0
+ 14 Panjwani, Ateeq As     NYXJX06L  1629  1610/104  W7  W20 L1  L5  2.0
+ 15 Piryatinsky, Amit      MAXNX06U  1296  1315/ 54  W27 L5  W23 L4  2.0
+ 16 Khalil, Mark           CTXNX03G  1378  1365/108  L8  L3  W30 W27 2.0
+ 17 Chang, Leroy           CTXEX03C  1333  1318/108  W30 L7  L8  W24 2.0
+ 18 Joyce, Jackson         NYXHX06T  1315  1302/ 54  W26 L23 L4  W22 2.0
+ 19 Valentino, Ethan R     CTXNZ73L  1300  1290/  3  BYE L11 L5  W28 2.0
+ 20 Hsieh, Jonathan        NYXHX06P  1516  1469/104  W29 L14 L9  W26 2.0
+ 21 Piao, Aaron Chawyn     CTXIX01X  1223  1207/108  W24 D28 L10 L12 1.5
+ 22 Shilshtut, Elliot      CTXEZ73H   400  1069/  4  L6  W30 L7  L18 1.0
+ 23 Holson, Collin         MAXNX06Q  1419  1391/ 53  L1  W18 L15 U   1.0
+ 24 Saleh, Al-mamoun       CTXNZ73G  1300  1037/  4  L21 W27 L11 L17 1.0
+ 25 Coleman, Declan Th     PAXNX06V  1296  1231/ 54  L3  L10 L27 W29 1.0
+ 26 Liang, Jerry           NYXCX06Y  1070  1040/ 54  L18 L9  W29 L20 1.0
+ 27 Ni, Lawrence           MAXEX06Z  1016  1017/ 54  L15 L24 W25 L16 1.0
+ 28 Todd, Forde            PAXNX12N  1407  1255/  8  L2  D21 L12 L19 0.5
+ 29 Cusato, Vincenzo       NYXIZ73F   800   632/  4  L20 L6  L26 L25 0.0
+ 30 Frunzio, Roberto       CTXLX11W  1054  1010/107  L17 L22 L16 U   0.0

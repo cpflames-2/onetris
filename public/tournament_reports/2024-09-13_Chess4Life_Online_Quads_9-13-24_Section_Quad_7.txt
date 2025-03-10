@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Armitage-selig, PhoenixSUZBJ31Z   534   640/ 37  W3  W2  W4  3.0
+  2 Suresh, Shruti         MTWF650Q   409   477/ 37  W4  L1  W3  2.0
+  3 Uku, Duke              XXXGH62A   600   379/  3  L1  W4  L2  1.0
+  4 Bajpai, Suhani         SSMHC53Z   503   400/ 32  L2  L3  L1  0.0

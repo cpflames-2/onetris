@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Singh, Anitej          OMSIH76J   310   406/  8  W2  U   W3  2.0
+  2 Almuayyad, Omar        RHJHJ59J   359   352/ 27  L1  W3  U   1.0
+  3 Lai, Brycen            CLHEK02D   314   250/ 35  U   L2  L1  0.0

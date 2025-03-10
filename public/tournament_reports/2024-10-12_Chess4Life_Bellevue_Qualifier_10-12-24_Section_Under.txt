@@ -1,0 +1,21 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Chan, Jaxon            EASGK30M   786   807/ 48  W9  W11 L8  W3  W2  4.0
+  2 Deshmukh, Dhruv        ENDEH79Q   696   755/ 60  W13 W12 W4  W8  L1  4.0
+  3 Chernikova, Taisiia    HMNEH79P   369   597/ 10  W17 W7  W11 L1  W8  4.0
+  4 Casal, Matthias        EBSFK47A   604   631/ 20  W14 W6  L2  W13 D5  3.5
+  5 Anbuselvam, Mithran    HEAGH61F   487   533/ 23  W16 L8  W14 W9  D4  3.5
+  6 Kesher, Zavi           BENEH62L   437   532/ 15  W18 L4  D7  W12 W13 3.5
+  7 Talukdar, Yuvaan       RBRBH76K   594   606/ 38  W19 L3  D6  W17 W11 3.5
+  8 Gupta, Akshay          HMNCF62T   663   676/ 81  W20 W5  W1  L2  L3  3.0
+  9 He, Joshua             CHRCJ72H   398   428/ 46  L1  W18 W12 L5  W15 3.0
+ 10 Serna Mengual, Andrea  FRDGH62H   100   211/ 10  L12 L14 W18 W20 W16 3.0
+ 11 Bose, Suhan            BRHDH65Z   565   521/ 20  W15 L1  L3  W19 L7  2.0
+ 12 Lee, Zachary           STTAH63W   561   443/  8  W10 L2  L9  L6  W19 2.0
+ 13 Kapoor, Rikin          SHSCH61V   475   458/ 16  L2  W15 W17 L4  L6  2.0
+ 14 Abdukarimov, Samin     BENAH67S   231   260/ 19  L4  W10 L5  L15 W17 2.0
+ 15 Serna Mengual, Adriana OPWDH62M   196   237/ 10  L11 L13 W16 W14 L9  2.0
+ 16 Gu, Aiden              CCDAH59F   100   129/  5  L5  D20 L15 W18 L10 1.5
+ 17 Cai, Emily             CNHDH60H   750   409/  8  L3  W19 L13 L7  L14 1.0
+ 18 Yuan, Zilin            MRTDW79Z   300   100/  5  L6  L9  L10 L16 W20 1.0
+ 19 Chen, Yisu             RKWBH78H   211   203/ 31  L7  L17 W20 L11 L12 1.0
+ 20 Goyal, Avyukt          CNHBJ65X   532   340/ 77  L8  D16 L19 L10 L18 0.5

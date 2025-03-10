@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Yang, Michael          SOMGK00G   955   987/ 66  W2  U   W3  2.0
+  2 Becklund, Ezra         JDSIH11H   935   912/ 11  L1  W3  U   1.0
+  3 Giannopulos, Zak       ADUNG92C  1300   519/  2  U   L2  L1  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chaporkar, Nihar       ENSEK65B  1268  1287/ 86  W3  W4  L2  2.0
+  2 Deshpande, Keshav      CHOH420G  1225  1257/109  W4  L3  W1  2.0
+  3 Kakkad, Vayu           DCTEK50L  1293  1306/529  L1  W2  W4  2.0
+  4 Yun, Jimmy             OVLIH65P  1297  1162/  9  L2  L1  L3  0.0

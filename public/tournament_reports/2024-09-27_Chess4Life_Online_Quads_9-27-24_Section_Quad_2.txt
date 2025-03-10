@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Joshi, Vyom            LEOJH81X  1283  1319/300  W4  D2  W3  2.5
+  2 Chaporkar, Nihar       ENSEK65B  1279  1268/ 83  W3  D1  L4  1.5
+  3 Verma, Reyansh         RBRFJ20M  1216  1198/ 54  L2  W4  L1  1.0
+  4 Zhao, Dennis           OPWI525E  1158  1154/372  L1  L3  W2  1.0

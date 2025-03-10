@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kennedy, Owen          TWFHH14N   802   852/ 17  W3  U   W2  2.0
+  2 Aute, Rohit            BENH684B   806   796/ 27  U   W3  L1  1.0
+  3 Campos, Evan           KMDGH11G   775   639/  5  L1  L2  U   0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wu, Jonathan           UCDDK14H   845   981/ 65  W4  D3  D2  2.0
+  2 Bravenboer, Jake       OPWEJ97Y  1100  1114/140  D3  W4  D1  2.0
+  3 Hu, Yi-en Pi           BCAEK35P  1123  1131/ 94  D2  D1  W4  2.0
+  4 Jiang, Kyle            MEDCK35B  1108  1023/133  L1  L2  L3  0.0

@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Jibin, Kevin           REJHH82A   833   859/ 28  W4  W2  W6  3.0
+  2 Sun, Jerry             AGBFG92Y   403   548/  8  W3  L1  W4  2.0
+  3 Filonov, Mikhail       CAVCH36K   492   498/ 18  L2  W6  W5  2.0
+  4 Zarate, Gabriel        EMDBH62S   692   638/ 27  L1  W5  L2  1.0
+  5 Chen, Landon           DCSCK34Q   302   308/ 21  W6  L4  L3  1.0
+  6 Gautam, Aarya          EBSDH36J   347   283/ 13  L5  L3  L1  0.0

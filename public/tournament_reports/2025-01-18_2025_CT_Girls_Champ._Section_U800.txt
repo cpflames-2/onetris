@@ -1,0 +1,14 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Bala Gowda, Nibha V    CTXIX04C   834   854/120  W9  D5  W7  W2  3.5
+  2 Kalra, Mehek           CTXEX07H   607   722/ 36  W10 W4  W6  L1  3.0
+  3 Saravanakumar Vidhya, DCTXEZ68K   769   758/  4  W11 L6  W5  W7  3.0
+  4 Wang, Alison A         CTXCZ68J   726   733/  4  W8  L2  W11 W6  3.0
+  5 Tang, Kristal          CTXGX13P   453   541/113  W13 D1  L3  W8  2.5
+  6 Abrams, Eliana         CTXFZ68H   621   618/  3  WF  W3  L2  L4  2.0
+  7 Todd, Darya Sophia     CTXGZ68G   600   546/  4  W12 W9  L1  L3  2.0
+  8 Jayaraj, Navya         CTXIZ68F   800   423/  3  L4  BYE W10 L5  2.0
+  9 Kim, Mika              CTXAZ68E   100   455/  4  L1  L7  W12 W11 2.0
+ 10 Panda, Tarushi         CTXGZ68D   600   362/  4  L2  W13 L8  W12 2.0
+ 11 Yadav, Aadya           CTXHZ68C   700   277/  4  L3  W12 L4  L9  1.0
+ 12 Galasso, Gianna Noel   CTXDZ68B   300   100/  4  L7  L11 L9  L10 0.0
+ 13 James, Nora            CTXFZ689   500   100/  2  L5  L10 U   U   0.0

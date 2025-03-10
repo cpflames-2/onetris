@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sarangi, Samarth       CBREH69F   468   626/ 71  W3  W2  W4  3.0
+  2 Balaji, Pranav         INGHJ96J   454   508/ 38  W4  L1  W3  2.0
+  3 Dang, Aaron            SOMCH60W   459   437/ 22  L1  W4  L2  1.0
+  4 Paidapathi, Kiaan      SHSCJ99C   479   389/166  L2  L3  L1  0.0

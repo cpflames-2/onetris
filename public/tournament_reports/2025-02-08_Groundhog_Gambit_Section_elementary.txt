@@ -1,0 +1,23 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Stark, Owen            RVBEH79D   723   856/ 23  W12 W4  W10 W7  W6  5.0
+  2 Ji, Melody             SGSDA83X   754   841/ 87  W16 W11 W8  W6  HPB 4.5
+  3 Zhang, Alex Sun        SKKDJ88B   511   566/ 35  W19 L6  W13 W15 W9  4.0
+  4 Cho, Nathanael         SGSEF58M   400   505/ 10  W20 L1  W12 W8  D5  3.5
+  5 Ikehara, Asher         CEVCH91W   423   507/ 20  W13 L7  W18 W10 D4  3.5
+  6 Davis, Milo            HSCBH07M   891   819/ 10  W15 W3  W7  L2  L1  3.0
+  7 Scott, Liam            PSPFK50P   630   628/ 64  W17 W5  L6  L1  W12 3.0
+  8 Brown, Claire          CATEJ62Y   597   578/ 40  W14 W9  L2  L4  W13 3.0
+  9 Phelps, Shaun          SGSFH40S   349   411/ 10  W18 L8  W14 W11 L3  3.0
+ 10 Rodwell, Oliver        MDRDJ27D   555   528/ 40  W22 W21 L1  L5  W14 3.0
+ 11 Davis, Logan           HSCEH07K   530   490/  9  BYE L2  W15 L9  W18 3.0
+ 12 Wendler, Fallyn        NSVDH40Q   196   226/ 20  L1  W19 L4  W20 L7  2.0
+ 13 Guan, Sam              SGSFG87A   500   310/  5  L5  W16 L3  W19 L8  2.0
+ 14 Scott, Vivian          HSCCH66G   100   187/  9  L8  W20 L9  W21 L10 2.0
+ 15 Phelps, Scott          SGSDH40T   331   322/ 10  L6  W22 L11 L3  W19 2.0
+ 16 Gambill, Amelia        ORSDH07B   233   203/ 10  L2  L13 D21 D18 W20 2.0
+ 17 Hinton, Ryker          ORSCH06Y   100   107/ 10  L7  L18 L19 W22 W21 2.0
+ 18 Adams, Ronan           BTDDG86X   300   182/  5  L9  W17 L5  D16 L11 1.5
+ 19 Ikehara, Lucy          CEVBG86V   100   100/  5  L3  L12 W17 L13 L15 1.0
+ 20 Zaagman, James         SMODG86U   300   100/  5  L4  L14 W22 L12 L16 1.0
+ 21 Holcomb, Calder        SGSAH41C   100   100/ 12  HPB L10 D16 L14 L17 1.0
+ 22 Wendler, Maverick      NSVBH25G   100   100/ 14  L10 L15 L20 L17 BYE 1.0

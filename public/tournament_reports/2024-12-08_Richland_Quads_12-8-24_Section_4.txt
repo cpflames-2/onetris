@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Mosqueda, Luke         LIBEH90L   921  1003/ 35  W3  W4  W2  3.0
+  2 Dodson, Tyson          KCCI234D   885   846/ 78  W4  L3  L1  1.0
+  3 Hemperly, Harper       HSCFI09E   710   720/ 92  L1  W2  L4  1.0
+  4 Wang, Evan             LECEJ78X   826   803/ 57  L2  L1  W3  1.0

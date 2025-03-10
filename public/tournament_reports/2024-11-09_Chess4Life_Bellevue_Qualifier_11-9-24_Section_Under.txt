@@ -1,0 +1,22 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Xie, Ann               CCDCK03P   391   724/ 45  D7  W15 W13 W10 W2  4.5
+  2 Mcintyre, Isaac        ETSF466S   553   723/227  W12 W13 W5  W6  L1  4.0
+  3 Anand, Grahil          TMCGJ89Y   455   652/ 42  W17 W4  L6  W14 W8  4.0
+  4 Sinha, Pratyaksh       REEEJ69N   639   641/ 17  D11 L3  W18 W12 W13 3.5
+  5 Mehta, Anika           EBSGB71K   613   639/ 34  W19 W8  L2  W9  D6  3.5
+  6 Doshi, Ishaan          LAVFJ54C   605   652/ 20  BYE W9  W3  L2  D5  3.5
+  7 Talukdar, Yuvaan       RBRBH76K   620   612/ 49  D1  W11 D10 L8  W15 3.0
+  8 Abbott, Elliott        WOBGF07R   563   566/ 49  W16 L5  W21 W7  L3  3.0
+  9 Lee, Louie             SNSFK25D   514   522/ 16  W20 L6  W17 L5  W14 3.0
+ 10 Tao, Hongxi            LTLBH98A   461   528/ 14  W21 W14 D7  L1  HPB 3.0
+ 11 He, Joshua             CHRCJ72H   428   430/ 51  D4  L7  L12 W18 W16 2.5
+ 12 Serna Mengual, Adriana OPWDH62M   234   348/ 19  L2  D18 W11 L4  W19 2.5
+ 13 Lechner, Ryker         HSCG496J   713   634/ 95  W15 L2  L1  W21 L4  2.0
+ 14 Lee, Julianus          CDWEK90C   611   529/ 43  W18 L10 W20 L3  L9  2.0
+ 15 Margetan, Alston       MTWDW85Y   428   409/ 16  L13 L1  W19 W20 L7  2.0
+ 16 Cai, Emily             CNHCH60H   303   259/ 20  L8  L21 BYE W17 L11 2.0
+ 17 Chaduvu, Aarav         BNTCH47Z   200   296/  5  L3  W19 L9  L16 W21 2.0
+ 18 Zhang, Eli             BCACH69C   354   319/ 38  L14 D12 L4  L11 W20 1.5
+ 19 Sorensen, George       VILFH53E   374   219/  9  L5  L17 L15 BYE L12 1.0
+ 20 Serna Mengual, Andrea  FRDGH62H   211   151/ 14  L9  BYE L14 L15 L18 1.0
+ 21 Kanamarlapudi, Arjun   LMAEH47X   400   202/  5  L10 W16 L8  L13 L17 1.0

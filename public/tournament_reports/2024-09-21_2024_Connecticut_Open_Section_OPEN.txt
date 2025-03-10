@@ -1,0 +1,31 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Tanenbaum, Zachary     CTXNX00E  2342  2356/112  W28 D2  W17 W3  3.5
+  2 Dedona, Mark           NYXNX02P  2163  2202/107  W5  D1  W20 W10 3.5
+  3 Zhou, Jianchao         MAXNX00A  2656  2648/111  W13 W6  W7  L1  3.0
+  4 Lu, Maximillian        CTXNX10P  2494  2486/104  W8  L7  W12 W17 3.0
+  5 Ivanov, Alexander      MAXNX00C  2508  2494/112  L2  W27 W15 D7  2.5
+  6 Kudrin, Sergey         CTXNX00D  2370  2369/111  W9  L3  W16 D8  2.5
+  7 Groff, Jordan          CTXNX00K  2232  2256/108  W14 W4  L3  D5  2.5
+  8 Ling, Chenxuan         NYXFX10N  2208  2216/104  L4  W15 W25 D6  2.5
+  9 Kilari, Dattasai       MAXIX10L  2089  2092/104  L6  W25 D18 W22 2.5
+ 10 Schaefer, Sasha Milo   NYXNX10S  2076  2084/104  W18 D13 W22 L2  2.5
+ 11 Zhang, Royce           RIXEX10W  1933  1952/104  L12 W29 W24 D13 2.5
+ 12 Kozlek Iv, Tommy       MAXDX10M  1864  1913/104  W11 D16 L4  W20 2.5
+ 13 Bauer, Richard N       CTXNX10C  2207  2199/104  L3  D10 W21 D11 2.0
+ 14 Ingargiola, Max        CTXLX10G  2061  2064/104  L7  D20 W27 D18 2.0
+ 15 Bhargava, Kushagra     CTXHX00P  1925  1945/111  W21 L8  L5  W25 2.0
+ 16 Mashkov, David AlexandeCTXLX10Q  2018  2006/103  D22 D12 L6  WF  2.0
+ 17 Mccreesh, Brent        CTXNX02V  1946  1968/108  W23 W28 L1  L4  2.0
+ 18 Bai, Jason             CTXJX10B  1917  1931/104  L10 W23 D9  D14 2.0
+ 19 Zhao, Kevin            MAXGX10Y  2091  2106/102  D27 W24 U   U   1.5
+ 20 Goodman, Hayes N       RIXNX02S  1920  1914/108  W26 D14 L2  L12 1.5
+ 21 Vasylenko, Hennadii    CTXNX10U  1857  1848/104  L15 D26 L13 W29 1.5
+ 22 Alluri, Samanyu        MAXDX10A  1831  1849/104  D16 W30 L10 L9  1.5
+ 23 Dey, Ranjan            MAXMX10E  1833  1809/103  L17 L18 D29 BYE 1.5
+ 24 Gartenlaub, Corin      CTXGX10F  2053  2038/103  W30 L19 L11 LF  1.0
+ 25 Jeselson, Andrew       MAXNX10J  1987  1964/104  W29 L9  L8  L15 1.0
+ 26 Wei, Robert Fanjun     NYXNX10V  1705  1717/103  L20 D21 D28 U   1.0
+ 27 Su, Jasmine            CTXJX10T  2287  2266/103  D19 L5  L14 U   0.5
+ 28 Mehta, Dhairya M       MAXIX00B  2075  2047/107  L1  L17 D26 U   0.5
+ 29 Upadhyay, Punyavrat    CTXMX00X  1792  1763/111  L25 L11 D23 L21 0.5
+ 30 Uwakwe, Michael        CTXNX00L  2047  2016/109  L24 L22 U   U   0.0

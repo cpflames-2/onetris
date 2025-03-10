@@ -1,0 +1,38 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Kandar, Aarav          FISEK21U  1266  1280/129  W31 W14 W9  W13 D2  4.5
+  2 Maokhampio, Lucas      VOSFW79V   500  1412/  5  W23 W12 W5  W4  D1  4.5
+  3 Tare, Eevie            SBOFW80B  1189  1142/ 14  W24 W22 L13 W12 W14 4.0
+  4 Damrau, Austin         ELKGK95E  1156  1178/ 70  W25 W6  W7  L2  W13 4.0
+  5 Little, Wyatt          NOVGJ51H   835   859/ 25  W27 W16 L2  W15 W18 4.0
+  6 Kovalova, Olya         RIVFH54D   500   969/  5  W15 L4  W22 W21 W11 4.0
+  7 Maddukuri, Shirhan Sai FSHEH54C   400  1003/  5  W17 W11 L4  W9  W10 4.0
+  8 Taylor, Hadley         RIVFJ09B   855   699/ 10  L20 W26 W18 L14 W23 3.0
+  9 Subramanian, Varun     PREFJ91Z   738   743/ 23  W32 W20 L1  L7  W24 3.0
+ 10 Nguyen, Bao            RIVFJ09D   681   661/ 10  L13 W32 W23 W30 L7  3.0
+ 11 Webb, Karsten          RIVFJ09F   677   686/ 15  W33 L7  W31 W17 L6  3.0
+ 12 Brar, Angad            PIOEJ52A   622   635/ 55  W34 L2  W24 L3  W28 3.0
+ 13 Valenti, Ender         FMPEK12X   579   736/ 20  W10 W29 W3  L1  L4  3.0
+ 14 Gorlachev, Michael     FMPGK15W   564   615/ 25  W35 L1  W25 W8  L3  3.0
+ 15 Einarson, Aiden        OBKGD84D   570   605/158  L6  W27 W20 L5  W30 3.0
+ 16 Downing, Asher         HSCEJ92T   440   444/ 15  W37 L5  L30 W27 W29 3.0
+ 17 Wilson, Lorea          HSCGJ91U   371   485/ 15  L7  W33 W29 L11 W21 3.0
+ 18 Gorlachev, Isaac       FMPEK17A   248   500/ 25  W30 W21 L8  W22 L5  3.0
+ 19 Cruz, Isaiah           FMPEK12V   354   340/ 20  L29 W37 L21 D32 W31 2.5
+ 20 Zhang, Andrew          GRSFE47Z   447   471/ 73  W8  L9  L15 D31 W32 2.5
+ 21 Zhang, Brian           SKRGA38L   741   657/201  W28 L18 W19 L6  L17 2.0
+ 22 Salazar, Brandon       RIVFJ08U   560   490/ 10  W36 L3  L6  L18 W33 2.0
+ 23 Scutari, Lucas         CJSEJ92G   350   355/ 15  L2  W34 L10 W36 L8  2.0
+ 24 Shove, Ian             FMPEJ24X   100   214/ 10  L3  W36 L12 W37 L9  2.0
+ 25 Wood, Desmond          HSCFJ91M   100   136/  8  L4  BYE L14 L28 W35 2.0
+ 26 Maddox, Isaiah         FMPGJ91J   100   100/ 13  BYE L8  L27 L29 W36 2.0
+ 27 Pipchenko, Andronicus  FMPFH53Z   500   319/  5  L5  L15 W26 L16 W37 2.0
+ 28 Sharipov, Daniel       CHUFH53Y   500   304/  5  L21 L30 W34 W25 L12 2.0
+ 29 Lemons, Will           HSCFH53X   500   359/  5  W19 L13 L17 W26 L16 2.0
+ 30 Bigelow, Francis       SPWEH53V   400   430/  5  L18 W28 W16 L10 L15 2.0
+ 31 Murphy, Pryor          FSEEK16W   297   296/ 30  L1  W35 L11 D20 L19 1.5
+ 32 Marak, Israel          FMPFH53U   500   299/  5  L9  L10 W35 D19 L20 1.5
+ 33 Clayton, Oliver        FMPEH53T   400   100/  5  L11 L17 L36 W34 L22 1.0
+ 34 Hunt, Audrey           FMPFH53S   500   100/  4  L12 L23 L28 L33 BYE 1.0
+ 35 Zarzana, Tristan       FMPFH53R   500   100/  4  L14 L31 L32 BYE L25 1.0
+ 36 Kanadhibhotla, Varenya SBOFW79U   500   100/  5  L22 L24 W33 L23 L26 1.0
+ 37 Ryan, Starla           MISFZ74L   500   100/  4  L16 L19 BYE L24 L27 1.0

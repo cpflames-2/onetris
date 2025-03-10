@@ -1,0 +1,40 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 rd7 rd8 rd9 r10 tot 
+  1 Chad, Lara Evelyn      YESJ134L   815  1082/ 14  W21 W21 W10 D10 W14 W14 W5  L5  W3  W3  8.5
+  2 Vizcaino, Alan         GJSMH27Z   984  1136/ 20  W20 W20 L6  W6  L7  W7  W11 W11 W12 W12 8.0
+  3 Gill, Shaanbir         BLHMH40G   982  1043/ 17  W31 W31 D18 W18 W26 W26 W4  W4  L1  L1  7.5
+  4 Roesler, Evan          NKPMJ93H  1142  1134/ 41  W28 W28 W22 W22 W8  W8  L3  L3  L5  W5  7.0
+  5 Peterson, Caden        BHMLJ85V   911  1105/ 46  W34 W34 W12 L12 W19 W19 L1  W1  W4  L4  7.0
+  6 Aujla, Sihaan          BLHM413P   888  1008/ 60  W11 W11 W2  L2  W12 L12 L20 W20 W17 W17 7.0
+  7 Romero, Daniel         HVAKJ50Q   757   989/ 20  W19 L19 W27 W27 W2  L2  W8  L8  W20 W20 7.0
+  8 Elias, Aleister        GARKH22Y  1215  1113/ 14  W15 W15 W9  W9  L4  L4  L7  W7  D10 W10 6.5
+  9 Kumsorn, Nawat         NKPKH46J   888   901/ 15  W39 W39 L8  L8  D18 W18 L15 W15 W23 W23 6.5
+ 10 Clayton, Evan          SHMMA71G  1017   991/ 68  W25 W25 L1  D1  W16 W16 L17 W17 D8  L8  6.0
+ 11 Hanks, Foster          NKPJH05L   900   957/ 10  L6  L6  W25 W25 W13 W13 L2  L2  W26 W26 6.0
+ 12 Chavez Sanchez, Bryan  GJSMH28C  1226  1132/ 18  WF  WF  L5  W5  L6  W6  W26 W26 L2  L2  6.0
+ 13 Chen, Jessica          HHSKG23Z   965   880/ 85  W32 W32 L26 L26 L11 L11 W39 W39 W30 W30 6.0
+ 14 Reyes Francisco, Henry GJSMH27W   797   808/ 20  W37 W37 W38 D38 L1  L1  L23 W23 L15 W15 5.5
+ 15 Slade, Kenyon          GJSMH27V   702   748/ 15  L8  L8  D31 W31 W35 W35 W9  L9  W14 L14 5.5
+ 16 Ulrich, Xavier         TRHKK95V   563   696/ 15  L33 W33 W29 W29 L10 L10 W19 L19 W24 D24 5.5
+ 17 Nguyen, Long           FRAKH46E   773   736/ 13  L27 W27 D33 W33 WF  WF  W10 L10 L6  L6  5.5
+ 18 Lee, Jayden            HHSM240K   548   741/ 18  W24 W24 D3  L3  D9  L9  W22 L22 W19 L19 5.0
+ 19 Equihua, Cristian      GJSMH28D  1766  1190/ 15  L7  W7  W36 W36 L5  L5  L16 W16 L18 W18 5.0
+ 20 Qin, Louis             HHSMK89V   546   672/ 18  L2  L2  W39 W39 W30 W30 W6  L6  L7  L7  5.0
+ 21 Dang, Julian           HHSJH05K   900   667/ 10  L1  L1  W32 L32 L27 W27 W28 L28 W35 W35 5.0
+ 22 Miller, Chloe          LSSL2385   879   887/143  W23 W23 L4  L4  HPB HPB L18 W18 HPB HPB 5.0
+ 23 Oerting, Gavin         NKPJH05J   900   698/ 10  L22 L22 W24 D24 W33 W33 W14 L14 L9  L9  4.5
+ 24 Burns, Connor          SPRLH22S   999   741/ 14  L18 L18 L23 D23 D31 W31 W32 W32 L16 D16 4.5
+ 25 Jones, Cordell         SPRJ1290   455   564/ 27  L10 L10 L11 L11 HPB HPB W33 W33 D34 W34 4.5
+ 26 Reyes Francisco, Kevin GJSMH27Y   778   787/ 20  W30 W30 W13 W13 L3  L3  L12 L12 L11 L11 4.0
+ 27 Erdmann, Nikko         HHSJH05H   900   637/ 10  W17 L17 L7  L7  W21 L21 W34 L34 W28 L28 4.0
+ 28 Aujla, Verdaan         BLHKH49A   635   600/ 19  L4  L4  L34 W34 L36 W36 L21 W21 L27 W27 4.0
+ 29 Garcia, Daniel         TJHLH05G  1100   472/ 10  L36 W36 L16 L16 L32 D32 L35 W35 D31 W31 4.0
+ 30 Caro, Angel            FRAKH05F  1000   508/  8  L26 L26 BYE BYE L20 L20 W36 W36 L13 L13 4.0
+ 31 Yohannes, Senay        SPRKJ50F   413   418/ 36  L3  L3  D15 L15 D24 L24 W37 W37 D29 L29 3.5
+ 32 Gonzalez-diaz, JeronimoSPRJH22Q   437   481/ 14  L13 L13 L21 W21 W29 D29 L24 L24 W36 L36 3.5
+ 33 Melone, Dagny          NKPJH05C   900   508/ 10  W16 L16 D17 L17 L23 L23 L25 L25 W39 W39 3.5
+ 34 Mitchell, Joshua       SPRJH05B   900   560/  8  L5  L5  W28 L28 HPB HPB L27 W27 D25 L25 3.5
+ 35 Russell, Reagan        BLHLJ72W   503   448/ 28  L38 L38 W37 W37 L15 L15 W29 L29 L21 L21 3.0
+ 36 Custodio, John         HHSMK89W   596   514/ 18  W29 L29 L19 L19 W28 L28 L30 L30 L32 W32 3.0
+ 37 Olukoya, Emmanuel      SPRJH05A   900   100/  6  L14 L14 L35 L35 HPB HPB L31 L31 BYE BYE 3.0
+ 38 Drew, Harrington       SPRJH22U   980   854/  8  W35 W35 L14 D14 LF  LF  U   U   U   U   2.5
+ 39 Vazquez, Adrian        GJSMH04Z  1200   100/  8  L9  L9  L20 L20 BYE BYE L13 L13 L33 L33 2.0

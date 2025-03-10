@@ -1,0 +1,70 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Edmond, Alec           CSIFH03G   956  1146/224  W46 W30 W11 W18 W6  5.0
+  2 Leneway, Owen          CSIEK91V  1103  1121/ 74  W39 W21 D13 W35 W14 4.5
+  3 Lin, Annan             THOFC02D  1016  1065/ 64  W59 W26 W23 D14 W13 4.5
+  4 Kakkad, Vayu           DCTEK50L  1286  1266/543  W37 D9  D10 W22 W20 4.0
+  5 Wadhwani, Ren          DCCEK13K  1209  1196/ 73  W38 D10 D9  W23 W21 4.0
+  6 Rogov, Richard         MEDDJ68U  1064  1092/ 96  BYE W24 W8  W7  L1  4.0
+  7 Bui, Bryant            RDSFH52W  1008  1021/ 31  W43 W27 W29 L6  W24 4.0
+  8 King, Oliver           WKEFK36M   928   944/ 75  W47 W32 L6  W28 W25 4.0
+  9 Lin, Vivienne          CSIEK99D   892   986/ 45  W61 D4  D5  W31 W26 4.0
+ 10 Xia, Jethro            BCSFK47R   876  1012/127  W48 D5  D4  W30 W18 4.0
+ 11 Pleasants, Gabriel     THUE149G  1206  1172/107  W40 W20 L1  D34 W27 3.5
+ 12 Boddapati, Mahas       SKWG826X   974   952/ 75  W33 W28 D35 L13 W34 3.5
+ 13 Fredette, Blaise       BECGH95C   937   962/ 36  W65 W53 D2  W12 L3  3.5
+ 14 Nelson, Ellis          BRYFB28C   909   954/ 74  W54 W31 W16 D3  L2  3.5
+ 15 Byelashova, Darya      SGHEK51X  1051   989/152  W41 L22 W38 L24 W35 3.0
+ 16 Maibaum, Bryce         CSIE124D  1048   991/ 58  W42 W25 L14 L26 W37 3.0
+ 17 Kumar, Rishuraj        HEAGK45Y  1035   969/114  W44 L23 W39 L25 W41 3.0
+ 18 Reimer, Oliver         IMSGG59D  1018  1006/ 92  W45 W34 W22 L1  L10 3.0
+ 19 Kalian, Illia          WHIGI13T   969   901/118  W60 L29 W40 L27 W38 3.0
+ 20 Rish-brown, Jacob      HMOFK61J   874   872/ 30  W62 L11 W42 W52 L4  3.0
+ 21 Anbuselvam, Mithran    HEAGH61F   831   842/ 90  W69 L2  W41 W29 L5  3.0
+ 22 Hoffman, David         PERFJ98J   865   886/ 30  W56 W15 L18 L4  W39 3.0
+ 23 Zhang, Amy             CSIEF80L   839   869/ 40  W67 W17 L3  L5  W40 3.0
+ 24 Jariwala, Vidur        THOEK87P   768   812/ 58  W66 L6  W45 W15 L7  3.0
+ 25 Rish-brown, Jackson    HMOFH57T   741   768/ 20  W57 L16 W46 W17 L8  3.0
+ 26 Tham, Lucas            EVGE984X   714   757/ 49  W58 L3  W47 W16 L9  3.0
+ 27 Shagas, Joshua         DCTEK87R   702   772/ 55  W50 L7  W49 W19 L11 3.0
+ 28 Schultz, Theodore      WEDFK91Y   648   653/ 39  W68 L12 W62 L8  W42 3.0
+ 29 Hu, Elliott            CSIF837H   628   693/ 43  W63 W19 L7  L21 W49 3.0
+ 30 Liu, Adam              EVGEK54W   618   660/ 30  W36 L1  W56 L10 W43 3.0
+ 31 Srebrnik, Mika         SJCFJ48R   597   632/ 20  W52 L14 W50 L9  W51 3.0
+ 32 Nagle, Sam             WEDFJ76A   584   598/ 20  W51 L8  D36 D53 W52 3.0
+ 33 Kelley, Simon          EVGEJ75T   415   444/ 24  L12 L36 W58 W56 W55 3.0
+ 34 Mccarthy, Connor       LKDFG20K   779   784/ 68  W55 L18 W44 D11 L12 2.5
+ 35 Takala, Greysen        WHIGE55T   562   629/ 93  W64 W37 D12 L2  L15 2.5
+ 36 Nicolas, Peter         VIWEH34D   400   512/  5  L30 W33 D32 L37 W57 2.5
+ 37 Lu, Quinton            WEDFK91U   561   569/ 34  L4  L35 W59 W36 L16 2.0
+ 38 Tecle, Zekarias        THUFH54X   559   563/ 20  L5  W48 L15 W60 L19 2.0
+ 39 Tang, Khai             THUFJ48Q   556   559/ 45  L2  W68 L17 W46 L22 2.0
+ 40 Cao, Amy               DPIEH38B   554   536/  9  L11 W61 L19 W62 L23 2.0
+ 41 Xu, William            DCTEK93M   536   536/126  L15 W63 L21 W47 L17 2.0
+ 42 Prins, Lincoln         DCTFJ69E   526   517/ 10  L16 W57 L20 W48 L28 2.0
+ 43 Soltani, Everett       WEDFK91N   522   494/ 49  L7  L49 W68 W50 L30 2.0
+ 44 Armstrong, Benjamin    EVGEK54R   515   473/ 48  L17 W69 L34 L51 W61 2.0
+ 45 Sethanandha, Marvin    CSIEH88K   487   505/ 10  L18 W55 L24 L49 W53 2.0
+ 46 Chernenko, Boris       DCTFJ68Z   298   338/ 20  L1  W51 L25 L39 W62 2.0
+ 47 Tran, Evan             DPIEK33L   253   301/ 10  L8  W64 L26 L41 W63 2.0
+ 48 Parman, Leo            WEDEJ67L   107   207/ 12  L10 L38 W64 L42 W59 2.0
+ 49 Lindeloff, Theo        CSIEH34C   400   521/  5  L53 W43 L27 W45 L29 2.0
+ 50 Tokle, Bruce           WEDFH34B   500   389/  5  L27 W65 L31 L43 W60 2.0
+ 51 Orr, Rory              VIWEH34A   400   363/  5  L32 L46 W61 W44 L31 2.0
+ 52 Liu, Avin              VIWFH33Z   500   493/  5  L31 W54 W53 L20 L32 2.0
+ 53 Land, Kai              EVGEK54P   571   523/ 40  W49 L13 L52 D32 L45 1.5
+ 54 Davis, Ethan           WEDEJ68S   221   232/ 14  L14 L52 D57 D59 D56 1.5
+ 55 Johnson, Evan          CIAEH33X   400   247/  5  L34 L45 D65 W58 L33 1.5
+ 56 Allen, Jhaiden         EXDFH33W   500   310/  5  L22 W60 L30 L33 D54 1.5
+ 57 Wu, Jaden              DPIEH33V   400   248/  5  L25 L42 D54 W65 L36 1.5
+ 58 Causey, Gaia           WEDEH33T   400   211/  5  L26 D59 L33 L55 W65 1.5
+ 59 Gould, Alma            SMCGA79G   466   364/ 18  L3  D58 L37 D54 L48 1.0
+ 60 Cord, Nico             BRYEJ68A   329   270/ 20  L19 L56 W63 L38 L50 1.0
+ 61 Schefe, Elsie          WHIGJ68Y   210   169/ 17  L9  L40 L51 BYE L44 1.0
+ 62 Liachko, Luke          BRYFJ68X   100   100/  9  L20 BYE L28 L40 L46 1.0
+ 63 Paegle, Oliver         WEDFH33S   500   102/  5  L29 L41 L60 W64 L47 1.0
+ 64 Henry, Logan           LKDFH33Q   500   100/  4  L35 L47 L48 L63 BYE 1.0
+ 65 Novitski-thomson, OctavBRYFJ69A   255   142/ 10  L13 L50 D55 L57 L58 0.5
+ 66 Neuman, Henry          WHIGH33P   600   423/  1  L24 U   U   U   U   0.0
+ 67 Worthington, Coraline  DPIDH33N   300   469/  1  L23 U   U   U   U   0.0
+ 68 Gussin, Lydia          BRTEH33M   400   100/  3  L28 L39 L43 U   U   0.0
+ 69 Mccormick, Malachi     DPIEH33L   400   100/  2  L21 L44 U   U   U   0.0

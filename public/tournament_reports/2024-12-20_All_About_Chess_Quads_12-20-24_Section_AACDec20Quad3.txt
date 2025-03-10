@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chu, Skylar            SOMD579R   945  1067/ 68  W3  W2  W4  3.0
+  2 Yu, Eric               SOMCK25N   912   956/117  W4  L1  W3  2.0
+  3 Nandakiran, Vidyuth    SSMF617C   920   902/141  L1  W4  L2  1.0
+  4 Swain, Samarth         MMECJ58S   955   875/198  L2  L3  L1  0.0

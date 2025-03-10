@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 tot 
+  1 Mcclintic, Willard     KLUMW855  1531  1535/ 18  BYE W2  2.0
+  2 Mcclintic, Rob         ADONW847  1116  1114/ 16  W3  L1  1.0
+  3 Castaneda, Manuel      ADONV605   577   577/  6  L2  BYE 1.0

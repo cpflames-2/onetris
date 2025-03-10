@@ -1,0 +1,13 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Bell, Ryan             HSCGJ63J  1664  1674/ 15  W6  W4  W3  W2  W8  5.0
+  2 Hilton, Olivia         CMYMK588  1097  1190/266  W5  W9  W8  L1  W3  4.0
+  3 Bair, Morgan           NCLKK50T  1124  1131/ 28  BYE W10 L1  W4  L2  3.0
+  4 Grace, Leo             HSCEH68U  1068  1083/ 10  W10 L1  W7  L3  W9  3.0
+  5 Lund, Connor           ICPMY66Q   854   854/ 23  L2  L7  W6  W11 BYE 3.0
+  6 Mynham, Nishanth       SUPHE13Y   877   867/ 23  L1  W12 L5  W10 D7  2.5
+  7 Higgins, Peter         GONGJ57Y   722   753/ 34  L9  W5  L4  BYE D6  2.5
+  8 Edlund, Caleb          WAXHJ88D  1008  1018/ 44  U   W11 L2  W9  L1  2.0
+  9 Anderson, Christopher LHSCG712R   921   903/ 69  W7  L2  W11 L8  L4  2.0
+ 10 Avey, Jesse            MDRHK50F   851   818/ 77  L4  L3  BYE L6  W11 2.0
+ 11 Jones, Joseph          ICPHY98K   788   660/  9  BYE L8  L9  L5  L10 1.0
+ 12 Adkins, Benjamin       MCSDH54R   300   464/  1  BYE L6  U   U   U   1.0

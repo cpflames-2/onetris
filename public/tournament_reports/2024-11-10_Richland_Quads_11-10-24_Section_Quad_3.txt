@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Lum, Boaz              LIBDJ62C   887   951/ 44  D2  W3  W4  2.5
+  2 Chin, Ian              LECFF95D   792   814/105  D1  L4  W3  1.5
+  3 Schutz, Henry          KCCGJ80M   742   751/ 48  W4  L1  L2  1.0
+  4 Dodson, Tyson          KCCI234D  1019   955/ 70  L3  W2  L1  1.0

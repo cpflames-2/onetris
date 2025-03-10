@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 rd7 rd8 rd9 tot 
+  1 Porter, Ryan W         ADUNF05C  2259  2295/ 63  W2  W8  W7  W10 W9  D4  D3  D6  D5  7.0
+  2 Degenbaev, Aziz        ADUNJ12D  2374  2376/ 36  L1  W5  D8  D7  W10 L9  W4  W3  W6  6.0
+  3 Wang, Ted              STTFK13D  2251  2263/317  W7  W10 W9  D4  D5  L6  D1  L2  D8  5.0
+  4 Willy, Stephen         HSCJH17K  2272  2280/602  D10 W9  L5  D3  W6  D1  L2  W8  D7  5.0
+  5 He, Daniel             ADUNC697  2371  2366/317  W9  L2  W4  L8  D3  L7  W6  W10 D1  5.0
+  6 Lee, Megan             ADUN8702  2357  2349/203  W8  L7  W10 W9  L4  W3  L5  D1  L2  4.5
+  7 Vemparala, Nikash      OVLJI078  2262  2265/440  L3  W6  L1  D2  D8  W5  D10 D9  D4  4.5
+  8 Sang, Tian             ADUNE22K  2337  2326/ 62  L6  L1  D2  W5  D7  W10 D9  L4  D3  4.0
+  9 Liu, Austin            SKNK530J  2217  2207/379  L5  L4  L3  L6  L1  W2  D8  D7  W10 3.0
+ 10 Whale, Nicholas        ADUNJ751  2082  2062/306  D4  L3  L6  L1  L2  L8  D7  L5  L9  1.0

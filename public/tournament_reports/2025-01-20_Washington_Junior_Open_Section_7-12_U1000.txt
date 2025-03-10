@@ -1,0 +1,21 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Tallapaneni, Hanish    CDZHH06J   700  1057/  5  L7  W15 W13 W12 W2  4.0
+  2 Durbhakula, Amogh      LMAHK63U   785   943/ 23  W18 W10 W12 W6  L1  4.0
+  3 Yen, Apollo            REJHG78H   864   891/139  W19 L12 W18 W11 W6  4.0
+  4 Jayakrishnan, Chethan  XXXIH06G   800   980/  5  L6  W14 D5  W13 W7  3.5
+  5 Rajeswaran, Raghav     RHJIJ57H   968   967/ 30  W15 L7  D4  W16 W11 3.5
+  6 Oruganti, Yuvan        HGMHJ55U   969   970/ 11  W4  W13 W7  L2  L3  3.0
+  7 Khandelwal, Anay       OMSHA10L   852   947/ 69  W1  W5  L6  W10 L4  3.0
+  8 Kennedy, Owen          TWFHH14N   777   802/ 15  L20 L16 W17 W14 W12 3.0
+  9 Poka, Dinesh           MOBHH52T   640   666/ 18  L12 W19 L10 W18 W17 3.0
+ 10 Mukherjee, Anjalika    UPAHJ94B   988   936/ 43  D11 L2  W9  L7  W16 2.5
+ 11 Nellore, Vidya         RHJIH65D   733   777/ 11  D10 W17 W16 L3  L5  2.5
+ 12 Nadupalli, Varun       TMBIK06T   895   864/ 84  W9  W3  L2  L1  L8  2.0
+ 13 Arvapalli, Trinath AashPLKHJ31L   679   676/ 20  W14 L6  L1  L4  W19 2.0
+ 14 Namburi, Shriniketh    TMBIJ20A   539   541/ 18  L13 L4  W15 L8  BYE 2.0
+ 15 Shah, Aarush           SKIHK00C   648   599/ 50  L5  L1  L14 BYE W18 2.0
+ 16 Spearman, Emery        DCCH101R   596   624/ 71  D17 W8  L11 L5  L10 1.5
+ 17 Gokul, Shravan         EVJHJ89U   884   770/ 51  D16 L11 L8  W19 L9  1.5
+ 18 Graham, John           WMOHH06F   700   204/  4  L2  BYE L3  L9  L15 1.0
+ 19 Nandeesh, Tapasya      SMSIH62Z   309   289/ 44  L3  L9  BYE L17 L13 1.0
+ 20 Walther, William       REDLH06M  1155  1168/  5  W8  U   U   U   U   1.0

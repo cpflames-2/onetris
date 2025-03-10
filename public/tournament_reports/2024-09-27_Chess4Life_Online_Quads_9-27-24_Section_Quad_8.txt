@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Lewis, Donovan         CACHH60Q   700  1167/  3  W3  W4  W2  3.0
+  2 Gupta, Vaishnavi       EVJIH60P   800   801/  3  W4  W3  L1  2.0
+  3 Gao, Eason             CHREH75U   472   484/ 35  L1  L2  W4  1.0
+  4 Kim, Jiwoon            CHADH62X   478   378/  6  L2  L1  L3  0.0

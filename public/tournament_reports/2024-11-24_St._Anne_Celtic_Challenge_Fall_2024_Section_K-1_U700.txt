@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Pande, Aryan           DCSB493M   530   756/ 27  W6  W2  W4  W7  W3  5.0
+  2 Charuvil Vinu, Suryen  RSHBJ89R   691   711/ 72  W5  L1  W3  W4  W7  4.0
+  3 Skelton, Conrad        SNEBJ81Z   265   357/ 25  W8  W9  L2  W5  L1  3.0
+  4 Venkatesh, Aiden       WEDAH37S   100   527/  5  W9  W7  L1  L2  W10 3.0
+  5 Eustis, Kevin          SCDAJ72A   151   277/ 15  L2  W6  W9  L3  W8  3.0
+  6 Xu, George             BCXBZ71P   100   257/  5  L1  L5  W10 D8  W9  2.5
+  7 Chin, Kheiron          HSCAJ19P   635   561/ 70  W10 L4  W8  L1  L2  2.0
+  8 Ferzli, Anthony        QAEBH37R   100   141/  5  L3  W10 L7  D6  L5  1.5
+  9 Tie, Samuel            XXXAH44T   284   172/ 10  L4  L3  L5  W10 L6  1.0
+ 10 Siddhartha, Samyukta   SDVAH64V   100   100/ 11  L7  L8  L6  L9  L4  0.0

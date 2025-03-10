@@ -1,0 +1,17 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Seela, Shashank        EVJII74N  1568  1595/223  W7  W6  W5  W2  W4  5.0
+  2 Sinha, Agastya         BENFA75C  1416  1401/216  W11 W14 W4  L1  D5  3.5
+  3 Kuhile, Anay           EVJG964U   944   938/ 30  L9  W12 W7  D8  W10 3.5
+  4 Khandhedia, Dhruvin NirCNCF257G  1016  1041/ 89  W12 W9  L2  W10 L1  3.0
+  5 Phadke, Mahi           STLIF90B  1218  1213/ 57  W13 W10 L1  D6  D2  3.0
+  6 Becklund, Ezra         JDSIH11H   877   898/ 19  W16 L1  W11 D5  D8  3.0
+  7 Gong, Fedora           RSMEK37C   811   838/ 42  L1  W16 L3  W11 W12 3.0
+  8 Srinivasan, Kavin      ISMIG87J   370   583/ 12  L10 W13 W14 D3  D6  3.0
+  9 Lee, Jaydon            RSHFH25S   708   810/ 23  W3  L4  L10 W14 W13 3.0
+ 10 Vivek, Thanish BhavanamAUDCH74G   811   818/ 33  W8  L5  W9  L4  L3  2.0
+ 11 Holostov, Michael      PLKHJ94C   783   768/ 55  L2  W15 L6  L7  W14 2.0
+ 12 Sreeram, Aditya        CEIF340K   764   728/ 45  L4  L3  W15 W16 L7  2.0
+ 13 He, Joshua             CHRCJ72H   764   683/ 79  L5  L8  D16 W15 L9  1.5
+ 14 Bhairav, Rachit        RCSDC41S   828   734/ 50  W15 L2  L8  L9  L11 1.0
+ 15 Mcguire, Madeleine     HSCIH57Q   310   341/ 13  L14 L11 L12 L13 W16 1.0
+ 16 Mcguire, Estelle       HSCJH57U   407   315/ 14  L6  L7  D13 L12 L15 0.5

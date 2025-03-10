@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Pan, Peng-yu           SSMDK24P  1062  1176/159  W3  W4  D2  2.5
+  2 Li, Harry              BCAFG30G  1026  1114/410  D4  W3  D1  2.0
+  3 Ye, Alex               ENDFH51L  1151  1128/149  L1  L2  W4  1.0
+  4 Ge, Jeremy             SOMCJ88K  1278  1203/201  D2  L1  L3  0.5

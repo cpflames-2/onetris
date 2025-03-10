@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sarangi, Samarth       CBREH69F   449   461/ 65  W2  W4  L3  2.0
+  2 Tan, Madalyn           EASFG99Z   500   489/  3  L1  W3  W5  2.0
+  3 Dang, Aaron            SOMCH60W   228   278/ 16  BYE L2  W1  2.0
+  4 Ram, Yaalini           SNECH87H   300   321/ 46  W5  L1  BYE 2.0
+  5 Xiong, Aria            DISBH14J   414   337/ 15  L4  BYE L2  1.0

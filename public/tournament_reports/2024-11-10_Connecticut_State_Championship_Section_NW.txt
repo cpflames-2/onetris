@@ -1,0 +1,14 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Cuper, Konrad Vincent  MAXNZ72P  1300  1716/  4  W7  W6  W5  W3  4.0
+  2 Minnifield, Montez DuprCTXKZ72N  1000  1300/  3  BYE W8  W7  W5  4.0
+  3 Chung, Andrew Le       CTXNZ72K  1300  1324/  3  W13 W4  WF  L1  3.0
+  4 Cortes, Ellis          CTXJZ72J   900  1146/  4  W12 L3  W10 W6  3.0
+  5 Reid, Desja            CTXNZ72H  1300   933/  4  W11 W13 L1  L2  2.0
+  6 Rojas, Daniel          CTXNZ74S   994   965/  7  W8  L1  W11 L4  2.0
+  7 Rodriguez, Julian      CTXIZ72E   800   816/  4  L1  W11 L2  W12 2.0
+  8 Castillo, Ariel        CTXNZ72D  1300   733/  3  L6  L2  WF  W10 2.0
+  9 Jones, Ananias         CTXNZ72C  1300   891/  1  W10 BYE LF  U   2.0
+ 10 Nazario, Leela V       CTXFZ72B   500   449/  4  L9  W12 L4  L8  1.0
+ 11 Castillo, Gabriel      CTXAZ759   229   229/  7  L5  L7  L6  BYE 1.0
+ 12 Han, Magnus Gabriel    CTXCZ72A   200   100/  3  L4  L10 HPB L7  0.5
+ 13 Ashok Kumar, Arpana    CTXAZ726   100   500/  2  L3  L5  LF  U   0.0

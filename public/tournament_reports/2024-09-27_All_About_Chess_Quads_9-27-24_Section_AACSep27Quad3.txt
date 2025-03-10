@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ye, Alex               ENDFH51L  1066  1127/143  W3  W4  W2  3.0
+  2 Xing, Andrew           SSSDK62E   914   959/115  W4  W3  L1  2.0
+  3 Bolisetty, Varun       CBRDJ73Z   925   907/ 83  L1  L2  W4  1.0
+  4 Krogstad, Jaxon        NCSDJ88M   890   828/ 97  L2  L1  L3  0.0

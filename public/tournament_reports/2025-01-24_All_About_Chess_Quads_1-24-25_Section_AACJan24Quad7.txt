@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Karanam, Aadya         CHKEK84K   588   648/ 93  W2  L4  W3  2.0
+  2 Huang, Jaden           ENDDJ63S   691   702/164  L1  W3  W4  2.0
+  3 Mirchandani, Kiaan     MEDEK92Z   605   586/ 76  W4  L2  L1  1.0
+  4 Zhang, Eric            SOMDK64M   637   607/ 52  L3  W1  L2  1.0

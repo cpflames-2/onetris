@@ -1,0 +1,43 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Li, Anyi               LKDDJ55F  1251  1315/119  W21 W25 W6  W3  W2  5.0
+  2 Goel, Advit            CMCDG22F   911  1099/124  W33 W26 W5  W9  L1  4.0
+  3 Pan, Peng-yu           SSMDK24P  1006  1126/191  W42 W12 W4  L1  W16 4.0
+  4 Dharamshi, Anay        CBRDK42U  1227  1227/162  W34 W24 L3  W13 W7  4.0
+  5 Ahsant, Nickrad        WELCJ56K  1093  1113/ 40  W40 W13 L2  W24 W15 4.0
+  6 Ruan, Jiyong           SHSDJ19W   924  1014/ 44  W37 W11 L1  W12 D9  3.5
+  7 Khudyev, Elina         EPICJ97Q  1105  1112/ 62  D16 W14 W30 W8  L4  3.5
+  8 Zhang, Ryan            SHVBH60U   641   923/ 26  D14 W22 W23 L7  W26 3.5
+  9 Ivanov, Matvei         EABDK34E  1003  1020/ 88  W39 W27 W20 L2  D6  3.5
+ 10 Razmov, Siana          HSCCK93Y   981   984/163  L12 W42 W29 D11 W20 3.5
+ 11 Li, Bryan              MEDBJ75H   721   880/ 98  W19 L6  W21 D10 D14 3.0
+ 12 Hoang, Leonard Bach    MRPBK88E   804   947/ 50  W10 L3  W26 L6  W24 3.0
+ 13 Li, Rebecca            SCDDJ62B   870   927/143  W31 L5  W17 L4  W28 3.0
+ 14 Xiong, Maxwell         CSIDK92H   885   928/ 73  D8  L7  W35 W23 D11 3.0
+ 15 Chen, Eason            SOMBJ59F   966   965/ 96  W28 L20 W18 W27 L5  3.0
+ 16 Swain, Samarth         MMECJ58S   907   934/212  D7  D32 W38 W25 L3  3.0
+ 17 Zhang, Patrick         SSSCK01J   738   850/215  L24 W34 L13 W29 W25 3.0
+ 18 Muppalla, Vyom         OPWCK19F   757   847/ 50  L25 W35 L15 W34 W27 3.0
+ 19 Bangard, Dhruv         TBKCK65D   895   878/120  L11 L28 W41 W37 W31 3.0
+ 20 Srinivasan, Atul       TBKBK65P   703   821/ 69  W35 W15 L9  D22 L10 2.5
+ 21 Gu, Vincent            OPWBK00L   858   871/ 76  L1  W37 L11 W33 D22 2.5
+ 22 Jiang, Yuanyi          MMEDJ58J  1027   966/ 34  D32 L8  W36 D20 D21 2.5
+ 23 Xing, Andrew           SSSDK62E   986   934/142  W41 D30 L8  L14 W36 2.5
+ 24 Gui, Joyce             OPWCH92C   915   906/ 87  W17 L4  W31 L5  L12 2.0
+ 25 Wu, Jayden             UCDD495Q   924   903/130  W18 L1  W32 L16 L17 2.0
+ 26 Mahale, Avneesh        CNHC993F  1091  1021/216  W29 L2  L12 W30 L8  2.0
+ 27 Pande, Aryan           DCSB493M   871   841/ 37  W38 L9  W28 L15 L18 2.0
+ 28 Sang, Andy             IMBCK65W   795   787/ 86  L15 W19 L27 W38 L13 2.0
+ 29 Qu, Yuwen              RSACK86G   836   819/ 93  L26 W33 L10 L17 W39 2.0
+ 30 Li, Alice              OPWDJ98C   864   847/ 87  W36 D23 L7  L26 D34 2.0
+ 31 Qu, Ziyou              BRBBJ86W   674   710/ 23  L13 W40 L24 W32 L19 2.0
+ 32 Ajay, Aria             LCSCK07M   817   801/ 95  D22 D16 L25 L31 W37 2.0
+ 33 Benita-nagdeep, KrishanSOMDK56N   739   750/ 71  L2  L29 W39 L21 W40 2.0
+ 34 Wu, Jonathan           UCDDK14H   857   818/ 57  L4  L17 W42 L18 D30 1.5
+ 35 Mei, Felicity          MMECK89R   874   793/ 83  L20 L18 L14 D36 W38 1.5
+ 36 Niu, Edwin             SOMBH73D   538   590/ 41  L30 W41 L22 D35 L23 1.5
+ 37 Wang, Aaron            HMND631T   780   728/109  L6  L21 W40 L19 L32 1.0
+ 38 Armitage-selig, PhoenixSUZBJ31Z   675   643/ 59  L27 W39 L16 L28 L35 1.0
+ 39 Gu, Leo                SCDCK31Y   815   728/ 58  L9  L38 L33 W41 L29 1.0
+ 40 Lin, Evan              SOMCJ72G   840   747/ 71  L5  L31 L37 W42 L33 1.0
+ 41 Pan, Peng-chi          SSMDK24N   810   718/177  L23 L36 L19 L39 W42 1.0
+ 42 Hu, Ryan               OPWBJ97N   805   695/103  L3  L10 L34 L40 L41 0.0

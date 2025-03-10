@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Swain, Samarth         MMECJ58S   879   908/165  W2  L4  W3  2.0
+  2 Agarwal, Avyaan        RCSEW81K   877   907/ 32  L1  W3  W4  2.0
+  3 Sarychev, Aleksei      GEKKJ98N   902   870/181  W4  L2  L1  1.0
+  4 Huang, Jaden           ENDDJ63S   876   852/129  L3  W1  L2  1.0

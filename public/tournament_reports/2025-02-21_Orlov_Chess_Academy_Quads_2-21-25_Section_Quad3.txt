@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Rehmeyer, Malcom       FHMHH62C   570   591/ 27  W5  W4  D3  U   U   2.5
+  2 Zeeshan, Hamza         CRKEJ15N   511   525/ 65  U   BYE W4  U   U   2.0
+  3 Zarate, Gabriel        EMDBH62S   638   640/ 29  W4  U   D1  U   U   1.5
+  4 Harikrishnan, SrivathsaBRHBG78U   254   235/ 11  L3  L1  L2  U   U   0.0
+  5 Park, Owen             RFKBH24U   194   194/  9  L1  U   U   U   U   0.0

@@ -1,0 +1,30 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Lin, Evan              SOMCJ72G   724   840/ 66  W12 W15 D11 W6  W5  4.5
+  2 Sang, Andy             IMBCK65W   692   729/ 75  W17 L6  W20 W18 W11 4.0
+  3 Zhang, David           SOMCK41P   629   699/137  W20 W19 D6  D11 W10 4.0
+  4 Madsen, Levi           BLWDH80Z   618   775/ 18  W26 W8  W10 L5  W7  4.0
+  5 Pande, Aryan           DCSB493M   756   871/ 32  W7  W9  W8  W4  L1  4.0
+  6 Wei, Brayden           ETSCK90F   494   645/ 87  W28 W2  D3  L1  W15 3.5
+  7 Bysani, Aakash         SSMCK01D   760   748/204  L5  W16 W19 W14 L4  3.0
+  8 Su, Pin-ruei           RFKCH96G   757   755/ 55  W18 L4  L5  W16 W17 3.0
+  9 Li, Ethan              THRBJ97M   674   654/ 82  W13 L5  L14 W26 W19 3.0
+ 10 Zhang, Ryan            SHVBH60U   633   641/ 21  W21 W14 L4  W12 L3  3.0
+ 11 Liu, Louis             CNHCJ75J   585   602/ 65  W22 W29 D1  D3  L2  3.0
+ 12 Zhang, Eric            SOMCK64M   505   522/ 37  L1  W22 W27 L10 W20 3.0
+ 13 Anand, Krishna         RSABJ95V   574   524/ 44  L9  L27 W22 W29 W23 3.0
+ 14 Devavarapu, Ananya SresCMCDH54Z   289   520/ 21  W24 L10 W9  L7  W18 3.0
+ 15 Dixit, Ved             ENSDH63Q   582   565/ 24  W27 L1  W29 D17 L6  2.5
+ 16 Huang, Ryan            CNHBJ56H   567   556/ 37  D23 L7  W24 L8  W25 2.5
+ 17 Dai, Gordon            ENDDK87Y   750   684/ 51  L2  W26 W28 D15 L8  2.5
+ 18 Velichko, Kristina     ASACK07V   495   478/117  L8  W21 W23 L2  L14 2.0
+ 19 Chauhan, Kiana         CRKCK28R   428   442/ 39  W25 L3  L7  W27 L9  2.0
+ 20 Anand, Nivaan          MCEBH64F   404   407/ 40  L3  W25 L2  W28 L12 2.0
+ 21 Dai, Leonard           BCACK88B   371   345/ 47  L10 L18 W25 L23 W28 2.0
+ 22 Senapati, Swayam       MOBDH44Z   282   273/ 15  L11 L12 L13 BYE W26 2.0
+ 23 Manikandan, Abhinav    MOBDH78P   122   268/ 14  D16 D24 L18 W21 L13 2.0
+ 24 Zarate, Gabriel        EMDBH62S   626   485/ 13  L14 D23 L16 L25 BYE 1.5
+ 25 Chin, Kheiron          HSCAJ19P   561   434/ 75  L19 L20 L21 W24 L16 1.0
+ 26 Brakenridge, Ryan      SOMBK05L   271   222/ 47  L4  L17 BYE L9  L22 1.0
+ 27 Sirsat, Sanya          BCACH60Z   251   268/ 19  L15 W13 L12 L19 LF  1.0
+ 28 Astafyeva, Veronica    MRPCH51S   100   100/  8  L6  BYE L17 L20 L21 1.0
+ 29 Sagar, Rhea            MOBAJ92U   100   100/ 31  BYE L11 L15 L13 LF  1.0

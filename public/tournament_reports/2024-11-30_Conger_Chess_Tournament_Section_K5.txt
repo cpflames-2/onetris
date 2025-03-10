@@ -1,0 +1,21 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Wietlisbach, Oliver    CNGFW815   861  1159/  5  W10 W9  W7  W8  U   4.0
+  2 Mcpherson, Olivia      CNGDW85U   531   558/ 25  D18 W3  D12 W6  W7  4.0
+  3 Henderson, Brogan      CNGEW85K   100   397/ 13  BYE L2  W16 W12 W8  4.0
+  4 Ogborn, Jaxon          CNGCW85X   366   416/ 24  D12 W19 L8  W17 W10 3.5
+  5 Merritt, Mak           CNGFW84Q   378   378/ 24  W13 L7  L6  W15 W16 3.0
+  6 Henderson, Brannon     CNGBW85V   262   389/ 15  W14 D8  W5  L2  D9  3.0
+  7 Wonser, Bradley        SRSFW79B   500   579/  5  W16 W5  L1  W11 L2  3.0
+  8 Moon, Silas            CNGEW85R   854   787/ 24  W11 D6  W4  L1  L3  2.5
+  9 Ibarra, Avery          CNGEW85N   242   288/ 10  W15 L1  L11 W18 D6  2.5
+ 10 Huang, Athena          CONDH16P   300   333/  5  L1  W13 D17 W14 L4  2.5
+ 11 Thompson, Wesley       PLCCW79A   200   395/  5  L8  W15 W9  L7  D12 2.5
+ 12 Stewart, Axton         SKFBW797   100   370/  5  D4  W18 D2  L3  D11 2.5
+ 13 Santiago, Catalina     CNGDW796   300   158/  5  L5  L10 W19 D16 D14 2.0
+ 14 Byrd, Lucian           CNGEW795   400   161/  5  L6  D17 W18 L10 D13 2.0
+ 15 Fisher, Mesha          CONCH16N   200   100/  4  L9  L11 BYE L5  W19 2.0
+ 16 Nunn, Saxton           CNGEW85L   329   250/ 23  L7  BYE L3  D13 L5  1.5
+ 17 Wietlisbach, Penelope  CNGCW819   155   154/  8  D19 D14 D10 L4  U   1.5
+ 18 Merritt, Iramay        CONDH16M   300   100/  4  D2  L12 L14 L9  BYE 1.5
+ 19 Santiago, Isabella     CNGBW793   100   100/  4  D17 L4  L13 BYE L15 1.5
+

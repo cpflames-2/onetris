@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 tot 
+  1 Barua, Aveer           CTXDZ70Y   700   561/  4  L2  W3  1.0
+  2 Dimaria, Henry         CTXCZ713   267   458/  3  W1  U   1.0
+  3 Balazs, Leo            CTXBZ70Q   100   100/  1  U   L1  0.0

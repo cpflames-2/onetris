@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Swain, Samarth         MMECJ58S   936  1096/239  W4  W2  W3  3.0
+  2 Mahale, Avneesh        CNHC993F  1049  1013/228  W3  L1  L4  1.0
+  3 Bhandari, Aarav        CBREJ06H   942   935/104  L2  W4  L1  1.0
+  4 Sarychev, Aleksei      GEKKJ98N  1024   995/219  L1  L3  W2  1.0

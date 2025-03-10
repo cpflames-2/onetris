@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Nandakiran, Advaith    SSMCJ88H   314   503/129  W3  W4  W2  3.0
+  2 Fong, Kennen           SOMGK45J   317   385/ 21  W4  W3  L1  2.0
+  3 Shin, Joshua           CRKCJ63R   364   333/108  L1  L2  W4  1.0
+  4 Vatsan, Maitri         SSMCK00S   360   267/142  L2  L1  L3  0.0

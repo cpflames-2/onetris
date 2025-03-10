@@ -1,0 +1,32 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Anbuselvam, Mithran    HEAGH61F   977  1020/141  D9  W26 W11 W7  W2  4.5
+  2 Celaya, Benito         ASTG505E   916  1002/ 96  W23 W15 W4  W3  L1  4.0
+  3 Choukalas, Kevin       LYMHJ65Q   996  1010/ 25  W21 W13 W8  L2  W9  4.0
+  4 Qureshi, Danish        BLNHF36V  1083  1073/175  W18 W19 L2  W11 W12 4.0
+  5 Fredette, Blaise       BECGH95C  1006  1003/ 53  D10 W27 D6  W18 W8  4.0
+  6 Orsino, Thomas         WHMIH40B   731   828/ 23  W16 D7  D5  D15 W20 3.5
+  7 Crompton, Callum       FACGE89B   661   774/ 87  W30 D6  W20 L1  W15 3.5
+  8 Ravitsky, Koby         WHMIG73J   800   904/  5  W12 W17 L3  W14 L5  3.0
+  9 Larcom, Korbin         VSTGJ87V   577   747/ 86  D1  D10 W17 W19 L3  3.0
+ 10 Mithen, Charles        ANCIH11Y   572   703/ 10  D5  D9  W13 L12 W19 3.0
+ 11 Mcneil, Mason          VSTHJ49Y   685   733/ 46  W25 W20 L1  L4  W21 3.0
+ 12 Cancelosi, Nicholas    VSTHM25W   697   726/ 91  L8  W22 W26 W10 L4  3.0
+ 13 Egland, Crosby         VSTI264S   677   677/ 46  W22 L3  L10 W26 W24 3.0
+ 14 Halvorson, Landon      ANCIH12C   786   702/ 10  L26 W28 W31 L8  W18 3.0
+ 15 Mcallister, Noah       VSTHK36K   654   665/ 15  W28 L2  W24 D6  L7  2.5
+ 16 Olivas, Cash           VSTGG73H   600   612/  5  L6  W21 L18 D17 W22 2.5
+ 17 Aguila-contreras, EdgarHORIJ65J   771   722/ 90  W29 L8  L9  D16 W27 2.5
+ 18 Ritchie, Rowan         SMWGH40C   639   637/ 18  L4  W29 W16 L5  L14 2.0
+ 19 Mcloughlin, Vaughn     HORGK36N   717   668/ 55  W31 L4  W23 L9  L10 2.0
+ 20 Bannister, Cypress     HORHK36L   916   818/ 84  W24 L11 L7  W30 L6  2.0
+ 21 Everbeck, Reed         FACGK83A   522   503/ 60  L3  L16 W27 W31 L11 2.0
+ 22 Cibrian, Sebastian     SHKGJ26F   368   377/ 24  L13 L12 BYE W23 L16 2.0
+ 23 Mcneil, Logan          VSTG535K   452   426/ 23  L2  W25 L19 L22 W29 2.0
+ 24 Davis, Buzz            FACGH39Y   466   442/ 10  L20 W30 L15 W29 L13 2.0
+ 25 Moreau, Zadian         LYMGG73G   600   141/  4  L11 L23 L29 BYE W31 2.0
+ 26 Westergreen, Korben    HORIH39X   433   459/ 14  W14 L1  L12 L13 HPB 1.5
+ 27 Clark, Luke            VSTGJ17E   289   306/ 14  HPB L5  L21 W28 L17 1.5
+ 28 Munden, Andrew         BLNGH39U   395   326/  9  L15 L14 W30 L27 HPB 1.5
+ 29 Serrato, Kiele         VSTHG73E   700   237/  5  L17 L18 W25 L24 L23 1.0
+ 30 Cash, Ryan             VSTHG73C   700   100/  4  L7  L24 L28 L20 BYE 1.0
+ 31 Mitchell, Madelyne     VSTGJ16W   100   100/ 14  L19 BYE L14 L21 L25 1.0

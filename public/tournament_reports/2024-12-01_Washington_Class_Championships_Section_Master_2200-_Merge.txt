@@ -1,0 +1,19 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 tot 
+  1 Sang, Tian             ADUNE22K  2334  2337/ 53  HPB W9  W5  D3  D2  W7  4.5
+  2 Gottumukkala, Ananth   ADUNG432  2147  2178/347  W12 W18 BYE D6  D1  D5  4.5
+  3 Bian, Erin             LSSJI91Y  2186  2219/205  HPB W7  W14 D1  HPB W13 4.5
+  4 Wang, Ted              STTFK13D  2171  2194/308  D7  HPB W17 W16 W6  HPB 4.5
+  5 Wan, Bertrand          ADUNK421  2097  2150/299  BYE W8  L1  W13 W12 D2  4.5
+  6 Kodarapu, Ishaan       JSUKW908  2133  2158/251  W14 W11 W13 D2  L4  U   3.5
+  7 Zhu, Jamie             EVJI558E  2015  2043/367  D4  L3  BYE W10 W8  L1  3.5
+  8 Liu, Austin            SKNK530J  2202  2185/359  W10 L5  W9  HPB L7  D11 3.0
+  9 Gavrysh, Leonid        ADUN816H  2025  2039/117  BYE L1  L8  D14 D15 W17 3.0
+ 10 Whale, Nicholas        ADUNJ751  2087  2082/297  L8  BYE D15 L7  W16 D14 3.0
+ 11 Karthikeyan, HarishkumaREDJJ81A  2012  2021/236  BYE L6  L16 D15 W17 D8  3.0
+ 12 Porter, Ryan W         ADUNF05C  2285  2270/ 45  L2  BYE W18 HPB L5  U   2.5
+ 13 Readey, John L         ADUNH932  2276  2252/ 29  W15 W16 L6  L5  D14 L3  2.5
+ 14 Kona, Vidip            RSAGI26J  2204  2179/362  L6  BYE L3  D9  D13 D10 2.5
+ 15 Min, Ryan              INTK5430  2140  2126/431  L13 D17 D10 D11 D9  U   2.0
+ 16 Zhang, Brendan         ADUNA520  2097  2093/338  W17 L13 W11 L4  L10 U   2.0
+ 17 Pupols, Viktors        ADUN8503  2200  2150/ 90  L16 D15 L4  BYE L11 L9  1.5
+ 18 Jiang, Brandon         BLLM7768  2235  2216/540  HPB L2  L12 U   U   U   0.5

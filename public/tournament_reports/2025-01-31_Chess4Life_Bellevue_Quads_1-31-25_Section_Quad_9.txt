@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 K, Arjun               FRWDH61L   431   519/ 14  W3  D4  W2  2.5
+  2 Xu, Louis              MEDAH34T   432   464/ 11  W4  W3  L1  2.0
+  3 Xu, Jacky Y            SOMCJ59K   406   382/ 61  L1  L2  W4  1.0
+  4 Balan, Vidyut          LAVEH68B   403   349/ 26  L2  D1  L3  0.5

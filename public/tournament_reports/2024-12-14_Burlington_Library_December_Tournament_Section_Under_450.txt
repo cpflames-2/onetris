@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Clark, Finn            MSNFJ99M   431   513/ 25  W2  W3  W4  3.0
+  2 Long, James            MVXDH39N   335   325/  8  L1  W4  D3  1.5
+  3 Allen, Isaiah          CPVKH25W  1000   323/  3  W4  L1  D2  1.5
+  4 Gigot, June            EDIEJ93S   100   100/ 14  L3  L2  L1  0.0

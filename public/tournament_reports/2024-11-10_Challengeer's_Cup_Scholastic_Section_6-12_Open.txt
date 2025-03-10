@@ -1,0 +1,21 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Raja, Rian             SKWH786E  1590  1620/173  W9  W6  W5  3.0
+  2 Ayalew, Brook          DCCJJ71Q  1661  1665/ 28  W14 W12 D3  2.5
+  3 Subramanian, Thrinay   SPTJ466R  1523  1544/140  W10 W8  D2  2.5
+  4 Chen, William          INGI550N  1575  1552/236  W15 L7  W14 2.0
+  5 Jiang, Nathan          EINIJ95G  1454  1456/ 21  W11 W13 L1  2.0
+  6 Meyerzon, Daniel       INTLJ242  1427  1434/447  W19 L1  W7  2.0
+  7 Nerella, Abhiram       INTJI18R  1320  1342/ 41  W20 W4  L6  2.0
+  8 Joshi, Vyom            LEOJH81X  1327  1327/316  W16 L3  W15 2.0
+  9 Wu, Harry              SASGJ72P  1252  1289/ 33  L1  W19 W12 2.0
+ 10 Li, Ron                OVLGH73V  1072  1122/  7  L3  W16 W13 2.0
+ 11 Bhasin, Palash         ISMGH95H  1034  1046/ 63  L5  W17 W18 2.0
+ 12 Patel, Aarya           REJGK30E  1442  1404/194  W18 L2  L9  1.0
+ 13 Soukal, Martin         ADULE76L  1293  1246/ 59  W17 L5  L10 1.0
+ 14 Deshpande, Keshav      WOBH420G  1257  1250/112  L2  W18 L4  1.0
+ 15 Chaurasia, Vihaan      HMNHH65G  1115  1102/172  L4  W20 L8  1.0
+ 16 Poka, Dinesh           PPLHH52T   508   596/  8  L8  L10 W20 1.0
+ 17 Ayalew, Rekik          DCCIH89Q   480   480/  9  L13 L11 WF  1.0
+ 18 Anbuselvam, Mithran    HEAGH61F   886   860/ 57  L12 L14 L11 0.0
+ 19 Sharan, Aadya          EVJHJ59A   839   833/ 26  L6  L9  LF  0.0
+ 20 Pan, Jingyuan          EVJHH73P   690   644/ 13  L7  L15 L16 0.0

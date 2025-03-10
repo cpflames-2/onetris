@@ -1,0 +1,33 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Wang, Kelby            SKKE796Y   736  853/161   W31 W9  W4  W5  W3    5.0
+  2 Jain, Asmi             SGSEB47J   691  718/ 71   W17 W10 L5  W11 W14   4.0
+  3 Autry-dalsanders, Reed MMDGK48X   584  686/ 62   W18 W12 W8  W14 L1    4.0
+  4 Moss, Silas            HSCF843D   551  612/ 29   W32 W16 L1  W23 W8    4.0
+  5 Aguilar, Alexander     MMJFJ26P   482  622/ 25   W28 W23 W2  L1  W10   4.0
+  6 Avey, Jesse            MDRHK50F   763  721/ 85   W21 L8  D16 W9  W17   3.5
+  7 Odell, Eric            LLKDH49Y   483  516/ 10   W27 L14 D17 W25 W16   3.5
+  8 Rawlings, Alexander    HSCEH49Z   437  502/ 10   W22 W6  L3  W20 L4    3.0
+  9 Walters, Conner        HSCJH50C   435  486/ 10   W29 L1  W21 L6  W15   3.0
+ 10 Duncan, Aj             MCSEH49T   318  404/ 10   W30 L2  W22 W12 L5    3.0
+ 11 Hightree, Josh         HSCEH41F   400  565/  5   L14 W27 W13 L2  W23   3.0
+ 12 Hightree, Joseph       HSCFH41G   500  412/  5   W24 L3  W29 L10 W20   3.0
+ 13 Young, Daniel          EVAHJ96U   648  601/ 65   W15 L19 L11 W28 W21   3.0
+ 14 Kauffman, Linus        CHTGH41B   600  693/  5   W11 W7  W19 L3  L2    3.0
+ 15 Aguilar, Christian     MMJDJ26T   276  273/ 24   L13 D25 W32 X26 L9    2.5
+ 16 Lundin, Eastons        LSEDH40X   300  415/  5   W26 L4  D6  W29 L7    2.5
+ 17 Oliver, Wesley         NWCCH40U   200  437/  5   L2  W29 D7  W27 L6    2.5
+ 18 Oliver, Marianne       NWCEH40W   400  300/  5   L3  D24 L28 W32 W22   2.5
+ 19 Stark, Owen            RVBEH79D   573  604/  8   W25 W13 L14 U---U---  2.0
+ 20 Richard, Wyatt         SWEFJ05B   183  189/ 13   L23 W32 W27 L8  L12   2.0
+ 21 Phelps, Shaun          SGSFH40S   500  349/  5   L6  W28 L9  W31 L13   2.0
+ 22 Aguayo, Jessie         LSPGH41N   600  230/  5   L8  W31 L10 W24 L18   2.0
+ 23 Phelps, Scott          SGSDH40T   300  331/  5   W20 L5  W26 L4  L11   2.0
+ 24 Richards, Benjamin     NSVDH49S   291  213/ 10   L12 D18 L25 L22 W28   1.5
+ 25 Lebret, Adler          SGSBH40Z   100  305/  4   L19 D15 W24 L7  U---  1.5
+ 26 Lashley, Aunah         NSVDH49P   100  114/  8   L16 W30 L23 F15 U---  1.0
+ 27 Wendler, Fallyn        NSVDH40Q   300  110/  5   L7  L11 L20 L17 W31   1.0
+ 28 Arceo, Saul            NSVFH41J   500  172/  5   L5  L21 W18 L13 L24   1.0
+ 29 Arceo, Abram           NSVEH41L   400  131/  5   L9  L17 L12 L16 W32   1.0
+ 30 Holcomb, Calder        SGSAH41C   100  100/  3   L10 L26 W31 U---U---  1.0
+ 31 Farr Warner, Micah     NSVCH41H   200  100/  5   L1  L22 L30 L21 L27   0.0
+ 32 Klug, Zaidyn           NSVFH41A   500  100/  5   L4  L20 L15 L18 L29   0.0

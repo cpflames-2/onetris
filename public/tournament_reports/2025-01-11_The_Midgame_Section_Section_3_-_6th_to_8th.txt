@@ -1,0 +1,21 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Damrau, Austin         ELKGK95E  1167  1218/ 95  W17 W3  W7  D2  W4  4.5
+  2 Wong, Aiden            SKRHI77E  1395  1397/ 40  W8  W11 W9  D1  W5  4.5
+  3 Shove, Emmett          FMPHJ91X   687   904/ 25  W19 L1  W8  W11 W6  4.0
+  4 Anbuselvam, Mithran    HEAGH61F  1057  1051/126  W16 W12 D5  W10 L1  3.5
+  5 Davis, Roman           HSCHK16K  1020  1013/ 39  W14 W6  D4  D7  L2  3.0
+  6 Mecina, Symone         CHUIG83L   800   831/  5  W10 L5  W13 W12 L3  3.0
+  7 Gorlachev, Michael     FMPGK15W   615   730/ 30  W15 W18 L1  D5  D9  3.0
+  8 Little, Wyatt          NOVGJ51H   952   929/ 45  L2  W17 L3  W14 W12 3.0
+  9 Vy, Evan               SKRHK12N   961   949/ 35  D11 W19 L2  W16 D7  3.0
+ 10 Alonzo, Kellan         FMPIG83K   800   735/  5  L6  W15 W18 L4  W13 3.0
+ 11 Jannsen, Kevin         SKRHK12P  1021   984/ 35  D9  L2  W20 L3  W16 2.5
+ 12 Jennings, Brayden      LMDGJ25E   326   480/ 10  W13 L4  W14 L6  L8  2.0
+ 13 Wei, Siqi[vivian]      FMPHG83J   700   526/  5  L12 W16 L6  W18 L10 2.0
+ 14 Sebastian, Gerrico     SJBGG83F   600   444/  5  L5  W20 L12 L8  W19 2.0
+ 15 Traver, Jackson        PLEHG83E   700   454/  5  L7  L10 L16 W17 W18 2.0
+ 16 Rechenmacher, Benny    FMPHG83D   700   502/  5  L4  L13 W15 L9  L11 1.0
+ 17 Ryan, Starla           FMPGZ74L   100   127/  9  L1  L8  W19 L15 L20 1.0
+ 18 Rozum, Julian          LBCGK12L   504   432/ 20  W20 L7  L10 L13 L15 1.0
+ 19 Domingo, Cole          HSCIG83C   800   157/  5  L3  L9  L17 W20 L14 1.0
+ 20 Burunov, Malachi       FMPGG83B   600   134/  5  L18 L14 L11 L19 W17 1.0

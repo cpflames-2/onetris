@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Balan, Vidyut          LAVEH68B   188   316/ 11  W2  BYE W4  3.0
+  2 Nishanth, Ahan         RSAAH60N   100   458/  3  L1  W3  W5  2.0
+  3 Anbuselvam, Mithran    HEAGH61F   308   332/  6  W5  L2  BYE 2.0
+  4 Sharma, Saumya         ENSHK99H   438   375/ 30  BYE D5  L1  1.5
+  5 Venkatesh, Anya        HMNCJ30F   410   331/ 62  L3  D4  L2  0.5

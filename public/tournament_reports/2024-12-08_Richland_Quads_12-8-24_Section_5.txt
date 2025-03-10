@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Johnson, Eli           KCCIJ24B   592   742/ 16  W6  W5  W2  W4  4.0
+  2 Hoff, Lewis            SAECH42A   235   366/  8  BYE W4  L1  D6  2.5
+  3 Qin, Mason             LECFK97A   672   670/ 49  HPB W6  L4  W5  2.5
+  4 Ramirez, Kane          WIWEJ72E   628   622/103  W5  L2  W3  L1  2.0
+  5 Lemon, Bryce           KCCIF01G   688   608/ 50  L4  L1  W6  L3  1.0
+  6 Boschert, Jake         LIBDH42G   483   403/  9  L1  L3  L5  D2  0.5

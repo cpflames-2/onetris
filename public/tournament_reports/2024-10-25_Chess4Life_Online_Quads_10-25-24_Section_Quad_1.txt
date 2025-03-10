@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ganesan, Vidur         RBRF940K  1404  1468/261  W2  W3  W4  3.0
+  2 Kandar, Aarav          FISEK21U  1280  1323/132  L1  W4  W3  2.0
+  3 Bansal, Vivaan         EVJK452J  1279  1271/126  W4  L1  L2  1.0
+  4 Satish, Sathvik        RHJJK18Y  1367  1298/ 22  L3  L2  L1  0.0

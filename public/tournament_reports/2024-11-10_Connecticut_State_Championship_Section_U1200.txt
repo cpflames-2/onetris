@@ -1,0 +1,32 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Badillo, Erick         CTXNZ73E  1300  1593/  4  W22 W6  W12 W9  4.0
+  2 Lyons, Daniel AlexanderMAXNX11M  1161  1260/ 12  W29 W23 W4  W10 4.0
+  3 Cybart, Robert J       CTXDX07E   845   988/ 29  W28 W29 D10 W12 3.5
+  4 Mccaffrey, Brian R     CTXLZ73D  1100  1318/  4  W7  W17 L2  W21 3.0
+  5 Chasmawala, Nabeel     CTXKX079  1114  1133/ 54  W17 L12 W21 W19 3.0
+  6 Krechet, Mark          CTXEX01U   910   983/117  WF  L1  W14 W15 3.0
+  7 Ustanny, Jahlani       CTXNZ74T  1053  1091/ 11  L4  W30 W13 W16 3.0
+  8 Chang, Rylan           CTXDX03R  1123  1131/108  L12 W11 W22 W18 3.0
+  9 Coggin, Paul Mikhail   CTXHX03X  1175  1189/110  W25 W26 WF  L1  3.0
+ 10 Pandey, Pragyan        CTXGX12H   917   968/112  W13 W24 D3  L2  2.5
+ 11 Kriger, Dmitriy        CTXNZ73C  1300  1073/  4  D21 L8  W20 W25 2.5
+ 12 Gioia, Evan            NYXNX03T   938  1023/108  W8  W5  L1  L3  2.0
+ 13 Kurapati, Avinash      CTXEX07C   929   923/ 29  L10 W14 L7  W24 2.0
+ 14 Chakraborty, Sanav     MAXDX07F   803   864/ 29  W15 L13 L6  W23 2.0
+ 15 Mezheritskiy, Nathan   CTXHX045   873   875/108  L14 W27 W26 L6  2.0
+ 16 Chasmawala, Zaynab     CTXIX07B   945   928/ 29  L26 W18 W24 L7  2.0
+ 17 Capodicasa, Robert     NYXNZ73B  1300   951/  4  L5  L4  W28 W22 2.0
+ 18 Bala Gowda, Nibha V    CTXIX04C   822   840/115  BYE L16 W23 L8  2.0
+ 19 Chang, Blake           NJXGX07D   854   906/ 28  W30 W25 LF  L5  2.0
+ 20 Raven, Noah James      NHXNZ73A  1300   581/  3  L24 BYE L11 W28 2.0
+ 21 Regan, Maceo           CTXIX12L  1115  1115/108  D11 W31 L5  L4  1.5
+ 22 Hu, Evan               NYXDX11Y   839   817/108  L1  W28 L8  L17 1.0
+ 23 Beauvais, Marc         MAXMX02C  1258  1062/  8  W31 L2  L18 L14 1.0
+ 24 Li, Siyuan             NYXBZ739   100   652/  4  W20 L10 L16 L13 1.0
+ 25 Daddario, Aayush       CTXEX07A  1020   952/ 53  L9  L19 WF  L11 1.0
+ 26 Bick, Yenta            CTXNZ738  1300   866/  3  W16 L9  L15 U   1.0
+ 27 Pearl, Roman           CTXNX12J   853   821/105  HPB L15 LF  U   0.5
+ 28 Beck, Grayson William  CTXJZ735   900   229/  4  L3  L22 L17 L20 0.0
+ 29 Ing, Ethan             CTXBX05B   997   958/105  L2  L3  U   U   0.0
+ 30 Cunningham, Michael D  CTXNX03W   639   622/110  L19 L7  U   U   0.0
+ 31 Kanabay, Gary Paul     CTXNX03N  1497  1230/  6  L23 L21 U   U   0.0

@@ -1,0 +1,16 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Kanabay, Gary Paul     CTXNX03N   961  1497/  4  W9  W10 W8  W5  4.0
+  2 Hoy, Charlton          CTXNX03P   997  1215/  4  W14 W4  D5  W7  3.5
+  3 Mishra, Slok           CTXGX02E   805   917/107  L5  BYE W11 W9  3.0
+  4 Siragusa, Paul         CTXNX03S  1037  1026/  4  W15 L2  D6  W8  2.5
+  5 Chang, Rylan           CTXDX03R  1041  1123/104  W3  W12 D2  L1  2.5
+  6 Gioia, Evan            NYXNX03T   861   916/104  L12 W15 D4  W13 2.5
+  7 Schwartz, Greg         CTXNX03V   715   840/  4  D11 W14 D10 L2  2.0
+  8 Cunningham, Michael D  CTXNX03W   598   668/103  BYE W11 L1  L4  2.0
+  9 Johnson, Kamren        RIXNX03U  1318  1081/  4  L1  W13 W12 L3  2.0
+ 10 Coggin, Paul Mikhail   CTXHX03X  1147  1137/103  W13 L1  D7  U   1.5
+ 11 Estrella, Wilson       CTXNX03Y  1025   961/104  D7  L8  L3  W12 1.5
+ 12 Subramanian, Ishaan    MAXHX03Z  1042   970/104  W6  L5  L9  L11 1.0
+ 13 Mezheritskiy, Nathan   CTXHX045   902   862/104  L10 L9  W14 L6  1.0
+ 14 Krechet, Mark          CTXEX01U   936   861/106  L2  L7  L13 U   0.0
+ 15 Chen, Noah             NYXCX04A   867   817/102  L4  L6  U   U   0.0

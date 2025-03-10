@@ -1,0 +1,16 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Joseph, Veronique      SJOFJ04S  1404  1509/181  W14 W9  W3  W4  W5  5.0
+  2 Bhaskara, Yash         ICKKI539  1355  1382/345  W11 L3  W13 W12 W8  4.0
+  3 Zandanov, Leonid       ENADK31Q  1287  1399/142  W7  W2  L1  W10 D4  3.5
+  4 Ghosh, Snehil          CBRF738T  1409  1407/193  D10 W8  W12 L1  D3  3.0
+  5 Nawagamudewage, Inura  MDEIJ11V  1269  1255/ 20  W15 L12 W9  W6  L1  3.0
+  6 Yen, Apollo            REJHG78H   820   921/125  L9  BYE W14 L5  W12 3.0
+  7 Pan, Peng-ruei         SSMF759R  1621  1556/187  L3  W15 D10 L8  W13 2.5
+  8 Nawagamudewage, NaadithMELFJ11W  1476  1436/ 20  D13 L4  W15 W7  L2  2.5
+  9 Deng, Arthur           OPWDC90Y  1284  1263/145  W6  L1  L5  W11 HPB 2.5
+ 10 Chaurasia, Vihaan      HMNHH65G  1129  1161/160  D4  D13 D7  L3  W14 2.5
+ 11 Tsen, Eric             AGBEK18P  1096  1038/182  L2  L14 BYE L9  W15 2.0
+ 12 Thungathurthi, PranavarINGIG82R  1085  1070/ 74  BYE W5  L4  L2  L6  2.0
+ 13 Xu, Jeffery            TYEHJ88V  1126  1116/ 58  D8  D10 L2  D14 L7  1.5
+ 14 Vanavada, Kaushik      BRHHB86U   791   836/ 25  L1  W11 L6  D13 L10 1.5
+ 15 Karthik Hari, Sai      PLKIH60M   800   638/  4  L5  L7  L8  BYE L11 1.0

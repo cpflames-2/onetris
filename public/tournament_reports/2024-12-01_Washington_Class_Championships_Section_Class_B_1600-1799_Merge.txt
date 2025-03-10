@@ -1,0 +1,33 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 tot 
+  1 Nallappa, Vijay        REDJD40S  1714  1774/429  W13 D12 D16 W8  W7  W3  5.0
+  2 Nedumpurakkal Thahir, IRHJKK46Y  1771  1807/ 35  W23 W7  W21 W4  L3  W6  5.0
+  3 Johnson, Brandon       ADUNH35H  1698  1757/  5  W29 W5  W17 HPB W2  L1  4.5
+  4 Kuhner, Mary           ADUND44Q  1763  1775/ 97  W25 W15 W14 L2  D6  D11 4.0
+  5 Liu, Bichen            KKNIK00D  1648  1704/153  W11 L3  W20 D9  D16 W14 4.0
+  6 Dann, William          ADUN554B  1583  1642/ 88  D30 W32 W22 W14 D4  L2  4.0
+  7 Bhatia, Tanush         SKNL5224  1677  1704/361  W18 L2  W25 W29 L1  W16 4.0
+  8 Davies, Cedric         ADUN184T  1655  1670/ 47  L21 W28 W26 L1  W29 W17 4.0
+  9 Ayalew, Brook          DCCJJ71Q  1665  1695/ 34  W26 L14 W13 D5  D11 W19 4.0
+ 10 Gadde, Arnav           GTMGJ39D  1710  1695/207  W28 L21 W12 D16 D19 D13 3.5
+ 11 Cheng, Selina          TLMH413R  1787  1764/572  L5  D20 BYE W12 D9  D4  3.5
+ 12 Kodarapu, Neev         WLVIW11X  1461  1517/148  W32 D1  L10 L11 W31 W22 3.5
+ 13 Maharaja, Imai         HMNEK34K  1606  1634/253  L1  W23 L9  W26 W15 D10 3.5
+ 14 Rubaiyat, Rhadean      REDJD40L  1725  1710/213  W19 W9  L4  L6  W21 L5  3.0
+ 15 Anandkumar, Haituka    STLK238P  1628  1612/418  W24 L4  D31 D17 L13 W28 3.0
+ 16 Iyengar, Varun         WLVHT24A  1639  1646/146  D22 W30 D1  D10 D5  L7  3.0
+ 17 Syal, Yash             PFCGC10R  1603  1600/207  BYE D27 L3  D15 W25 L8  3.0
+ 18 Arivoli, Muthukurisil  ADUNH35E  1575  1581/  5  L7  L25 D23 W28 HPB W29 3.0
+ 19 Sankrithi, Sarang      HSCFB11D  1613  1609/283  L14 D24 W30 W31 D10 L9  3.0
+ 20 Cen, Evan              INTJI97D  1623  1619/225  D27 D11 L5  W24 D22 D21 3.0
+ 21 Mulye, Tejas           ADUNH35D  1485  1534/  6  W8  W10 L2  D22 L14 D20 3.0
+ 22 Wachira, William       ADUNJ12A  1510  1505/ 16  D16 W31 L6  D21 D20 L12 2.5
+ 23 Raja, Rian             SKWH786E  1631  1597/183  L2  L13 D18 D25 BYE D26 2.5
+ 24 Xu, Zoe                SOMFG70A  1459  1470/369  L15 D19 W32 L20 D27 HPB 2.5
+ 25 Marcelais, Kai         REDLA64J  1618  1598/183  L4  W18 L7  D23 L17 W31 2.5
+ 26 Chang, Allen           ADUNK02T  1545  1522/ 42  L9  BYE L8  L13 W32 D23 2.5
+ 27 Pitre, H G             ADUN3323  1712  1670/ 31  D20 D17 L29 HPB D24 U   2.0
+ 28 Sharma, Devansh        TSTKF88S  1587  1548/204  L10 L8  BYE L18 W30 L15 2.0
+ 29 Buck, Stephen J        ADUN8800  1600  1567/ 48  L3  BYE W27 L7  L8  L18 2.0
+ 30 Allen, Robert J        ADUNF120  1700  1635/ 29  D6  L16 L19 HPB L28 BYE 2.0
+ 31 Sankrithi, Siva        ADUNI948  1349  1325/ 75  BYE L22 D15 L19 L12 L25 1.5
+ 32 Stahl, Darren          ADUNH44N  1649  1404/  8  L12 L6  L24 BYE L26 U   1.0

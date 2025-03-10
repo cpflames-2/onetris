@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Vatsan, Maitri         SSMCK00S   360   342/ 99  U   L3  W2  1.0
+  2 Chang, Nathan          MMEDK42T   310   306/ 61  W3  U   L1  1.0
+  3 Chang, Liliana         JINBJ12S   220   243/ 17  L2  W1  U   1.0

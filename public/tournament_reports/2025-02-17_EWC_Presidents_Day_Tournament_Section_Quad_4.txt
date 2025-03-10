@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Yau, Ethan             SHSBH58F   130   346/ 12  W3  W4  W2  3.0
+  2 Mannem, Vayu           RKWBG92J   274   290/  8  W4  W3  L1  2.0
+  3 Han, Isaac             CGRBH65V   100   102/ 15  L1  L2  W4  1.0
+  4 Coskun, Ela            SHSBG75X   100   100/  3  L2  L1  L3  0.0

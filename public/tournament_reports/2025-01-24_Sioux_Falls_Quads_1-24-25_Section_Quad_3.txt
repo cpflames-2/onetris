@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Devish, Coale          SDSCZ80U   704   794/ 33  W3  W4  W2  3.0
+  2 Selken, Kordelia       SDAFX83W   665   624/161  W4  L3  L1  1.0
+  3 Mcfayden, Skylar       SFHGZ75Q   489   500/ 35  L1  W2  L4  1.0
+  4 Spaans, Kaden          SDYHX50P   609   584/ 44  L2  L1  W3  1.0

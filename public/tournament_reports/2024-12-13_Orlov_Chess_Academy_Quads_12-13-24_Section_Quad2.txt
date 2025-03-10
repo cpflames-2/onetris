@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Daniel, Lemuel         BLCDJ29L   793   806/ 30  W4  W5  U   U   U   2.0
+  2 Anand, Nivaan          MCEBH64F   363   444/ 45  U   W3  U   U   W5  2.0
+  3 Cauich-miller, Marco   CSDCJ97P   523   461/ 13  W5  L2  U   U   L4  1.0
+  4 Cauich-miller, Amalia  HSCEH79V   445   476/ 18  L1  U   U   U   W3  1.0
+  5 Tippabhotla, Akashata  HMNBH34P   456   299/  6  L3  L1  U   U   L2  0.0

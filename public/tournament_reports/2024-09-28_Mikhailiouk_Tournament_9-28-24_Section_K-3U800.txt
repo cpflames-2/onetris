@@ -1,0 +1,29 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Lagzdin, Mikhail       BCACJ96R   796   885/ 35  W22 W9  W6  W4  D2  4.5
+  2 Nishino, Anne          BCADH74F   559   780/ 42  W27 W14 W16 W11 D1  4.5
+  3 Zhang, Patrick         SSSCK01J   724   753/142  W21 W5  L4  W20 W13 4.0
+  4 Muppalla, Vyom         OPWCK19F   699   810/ 35  W11 W8  W3  L1  W9  4.0
+  5 Raman, Arjun           ETSCH96Y   584   701/ 15  W26 L3  W15 W23 W6  4.0
+  6 Srinivasan, Atul       TBKBK65P   686   693/ 59  W24 W15 L1  W7  L5  3.0
+  7 Sairam, Advaith        RBRBK01Q   523   567/106  D28 W10 D14 L6  W16 3.0
+  8 Wei, Brayden           ETSCK90F   593   619/ 72  W18 L4  D23 W14 D15 3.0
+  9 Su, Pin-ruei           RFKCH96G   565   613/ 30  W13 L1  W19 W18 L4  3.0
+ 10 Parpuri, Aarav         FRVDH76T   484   510/ 21  W17 L7  L13 W24 W20 3.0
+ 11 Dasari, Arjun          RSADK64P   462   577/ 20  L4  W21 W17 L2  W18 3.0
+ 12 Goyal, Avyukt          CNHBJ65X   377   434/ 64  L15 W24 L18 W19 W21 3.0
+ 13 Dixit, Ved             ENSDH63Q   191   458/  8  L9  W28 W10 W16 L3  3.0
+ 14 Bogomolov, Henry       SSMCJ72J   696   657/ 66  W20 L2  D7  L8  W23 2.5
+ 15 Daniel, Lemuel         BLCDJ29L   672   651/ 16  W12 L6  L5  W17 D8  2.5
+ 16 Hu, Ryan               OPWBJ97N   789   691/ 83  W19 W23 L2  L13 L7  2.0
+ 17 Charuvil Vinu, Suryen  RSHBJ89R   713   609/ 58  L10 W26 L11 L15 W25 2.0
+ 18 Aslan, Derin           NCSDH60Y   534   470/ 10  L8  W27 W12 L9  L11 2.0
+ 19 Alle, Vihaan Shaurya   MLECJ72B   502   456/ 47  L16 W25 L9  L12 W26 2.0
+ 20 Siva, Vikaat           DISBJ30L   456   443/ 65  L14 W22 W28 L3  L10 2.0
+ 21 Ram, Krishna           EBSDH76B   322   345/ 39  L3  L11 W27 W22 L12 2.0
+ 22 Dhillon, Veer          BNTBJ02P   530   438/ 25  L1  L20 W25 L21 D24 1.5
+ 23 Ranjith, Janani        SHVCK65E   429   431/109  W25 L16 D8  L5  L14 1.5
+ 24 Gupta, Ishka           RSHCJ19R   100   168/ 17  L6  L12 W26 L10 D22 1.5
+ 25 Stallard, Calvin       HSCDH73H   408   318/ 12  L23 L19 L22 W28 L17 1.0
+ 26 Abimanyu, Siddharth    LMABH60T   243   206/ 10  L5  L17 L24 W27 L19 1.0
+ 27 Sirsat, Sanya          BCACH60Z   238   179/ 10  L2  L18 L21 L26 W28 1.0
+ 28 Stuart, Alicia         REEDK41M   328   241/ 68  D7  L13 L20 L25 L27 0.5

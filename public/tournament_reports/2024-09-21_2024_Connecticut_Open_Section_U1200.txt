@@ -1,0 +1,25 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Coggin, Paul Mikhail   CTXHX03X  1137  1172/107  W23 W12 D8  W9  3.5
+  2 Kuzmin, Aleksandr      CTXJX12A  1102  1167/104  W13 W10 W17 D4  3.5
+  3 Nandecha, Sumanyu      CTXIX12F  1134  1157/104  D15 W18 W19 W8  3.5
+  4 Todd, Forde            PAXNX12N  1411  1407/  4  W11 W5  W9  D2  3.5
+  5 Siragusa, Paul         CTXNX03S  1026  1112/  8  W16 L4  W13 W12 3.0
+  6 Vignesh Nagarajan VidyaCTXGX12R   890   937/104  L9  W24 W22 W11 3.0
+  7 Frunzio, Roberto       CTXLX11W  1067  1047/104  L14 D15 W18 W17 2.5
+  8 Lee, Nathan Eunchong   CTXNX12D  1300  1075/  3  WF  W19 D1  L3  2.5
+  9 Regan, Maceo           CTXIX12L  1112  1115/104  W6  W14 L4  L1  2.0
+ 10 Estrella, Wilson       CTXNX03Y   961   952/108  W21 L2  L14 W20 2.0
+ 11 Deroma, Max            CTXJX11U  1008  1004/104  L4  W20 W15 L6  2.0
+ 12 Pandey, Pragyan        CTXGX12H   951   949/104  W24 L1  W16 L5  2.0
+ 13 Hu, Evan               NYXDX11Y   828   839/104  L2  W21 L5  W22 2.0
+ 14 Wang, Timothy S        NYXFX12S   881   982/103  W7  L9  W10 U   2.0
+ 15 Xing, Leonard          CTXIX12T   872   898/104  D3  D7  L11 W21 2.0
+ 16 Pearl, Roman           CTXNX12J   774   787/104  L5  W23 L12 W19 2.0
+ 17 Kochuba, Timothy John  CTXNX11Z  1140   839/  4  D18 W22 L2  L7  1.5
+ 18 Krechet, Mark          CTXEX01U   861   843/110  D17 L3  L7  W24 1.5
+ 19 Lee, Holden Tae Hee    CTXNX12B  1053   807/  4  W20 L8  L3  L16 1.0
+ 20 Mishra, Slok           CTXGX02E   916   840/112  L19 L11 W24 L10 1.0
+ 21 Mbewe, Luke Alexander  CTXEX12E   651   612/103  L10 L13 BYE L15 1.0
+ 22 Cunningham, Michael D  CTXNX03W   661   615/107  BYE L17 L6  L13 1.0
+ 23 Torres, Aaron AlejandroCTXHX12P   881   462/  2  L1  L16 U   U   0.0
+ 24 Sylvia, Nickolas       MAXNX12M   400   459/  4  L12 L6  L20 L18 0.0

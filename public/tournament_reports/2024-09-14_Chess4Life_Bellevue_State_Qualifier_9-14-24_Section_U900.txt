@@ -1,0 +1,19 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Bui, Edwin             FRVFK90H   884   997/ 81  W5  W10 W11 W3  W4  5.0
+  2 Paine, Clara           TLIFK01Z   693   774/ 56  W7  L3  W5  W10 W6  4.0
+  3 Zeitlin, Tom           WOBFI56H   832   855/ 81  W8  W2  D4  L1  W11 3.5
+  4 Friesen, Eli           LAVEK27G   785   805/ 56  W15 W9  D3  W11 L1  3.5
+  5 Luo, Steven            TBKFH97A   501   544/ 18  L1  W16 L2  W14 W10 3.0
+  6 Chahlia, Dax           REEEH62P   400   600/  5  L10 W15 W9  W7  L2  3.0
+  7 Luo, Larry             STVDH62N   300   584/  5  L2  W8  W12 L6  W13 3.0
+  8 Tripathi, Naksh        BRHDJ98P   428   454/ 83  L3  L7  W17 W16 W12 3.0
+  9 Arvizu, Kristoff       CEYGH65L   562   508/  8  W14 L4  L6  W13 W18 3.0
+ 10 Talukdar, Yuvaan       NCABH76K   603   582/ 27  W6  L1  W14 L2  L5  2.0
+ 11 Deshmukh, Dhruv        ENDEH79Q   699   667/ 47  W17 W12 L1  L4  L3  2.0
+ 12 Tao, Hongxi            LTLBH98A   575   461/ 10  W13 L11 L7  W15 L8  2.0
+ 13 Serna Mengual, Adriana OPWEH62M   400   196/  5  L12 D17 W16 L9  L7  1.5
+ 14 Kesher, Zavi           BENEH62L   400   216/  5  L9  W18 L10 L5  D16 1.5
+ 15 Chen, Yisu             RKWBH78H   176   177/ 16  L4  L6  W18 L12 D17 1.5
+ 16 Liu, Darwin            WOBBJ44Q   158   151/ 20  W18 L5  L13 L8  D14 1.5
+ 17 Jain, Armaan           SFRBH62K   100   100/  5  L11 D13 L8  L18 D15 1.0
+ 18 Serna Mengual, Andrea  FRDGH62H   600   100/  5  L16 L14 L15 W17 L9  1.0

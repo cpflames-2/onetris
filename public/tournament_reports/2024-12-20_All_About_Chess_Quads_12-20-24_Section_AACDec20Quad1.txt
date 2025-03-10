@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chen, William          INGI550N  1555  1585/245  W4  W2  W3  3.0
+  2 Ye, Alex               ENDFH51L  1173  1194/184  W3  L1  L4  1.0
+  3 Pan, Peng-ruei         SSMF759R  1588  1539/224  L2  W4  L1  1.0
+  4 Ge, Jeremy             SOMCJ88K  1249  1256/243  L1  L3  W2  1.0

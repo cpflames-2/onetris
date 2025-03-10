@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Barker, Harvey         HTNGH06X  1000   964/  7  W4  W3  D2  2.5
+  2 Paley, Harold          IMSGH70Q   863   824/  8  D3  W4  D1  2.0
+  3 Tentor, Jalil          BFDFK39U   442   480/ 16  D2  L1  W4  1.5
+  4 Watson, Milan          THOEH06P   100   100/  6  L1  L2  L3  0.0

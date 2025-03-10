@@ -1,0 +1,44 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Nandeesh, Tavishna     CAVEH61E   509   923/ 25  W6  W11 W25 W9  W8  5.0
+  2 Szeto, Martina         MITFZ73S  1178  1199/ 11  W29 W13 W16 W5  W7  5.0
+  3 Gaddam, Vihaan         SSMEJ28E   747   790/ 30  W20 L15 W30 W26 W10 4.0
+  4 Verma, Satvik          WONDG80T   732   787/ 75  W21 L16 W29 W15 W11 4.0
+  5 Jayasinghe, Sihas      TMBGJ83E   725   827/ 33  W31 W26 W17 L2  W12 4.0
+  6 Phadnis, Neil          DISEK44Y   723   809/ 52  L1  W24 W19 W25 W13 4.0
+  7 Luo, Leo               BUSEH45C   622   800/ 11  W18 W12 W15 W8  L2  4.0
+  8 Wang, Aaron            HMND631T   782   780/104  W30 W14 W27 L7  L1  3.0
+  9 Prasanna, Charan       LMAEJ46Z   776   764/ 42  W19 L25 W28 L1  W20 3.0
+ 10 Dragusanu, Clara       SSMFH81S   715   709/ 39  W32 L17 W21 W16 L3  3.0
+ 11 Xiong, Maxwell         CSIDK92H   697   715/ 57  W23 L1  W31 W17 L4  3.0
+ 12 Battula, Keerthi Sri SiCMCG733D   695   693/ 25  W40 L7  W32 W27 L5  3.0
+ 13 Fernandes, Caleb       MCEEH52V   693   726/ 10  W41 L2  W22 W18 L6  3.0
+ 14 Zhen, Liam             DCCD622V   688   660/152  W33 L8  W41 L20 W29 3.0
+ 15 Xu, Derek              SSMEK24Q   680   696/ 53  W42 W3  L7  L4  W30 3.0
+ 16 Gorski, Corvin         KSTEJ74N   670   695/ 38  W39 W4  L2  L10 W31 3.0
+ 17 Battala, Pradhyun Sai  SSMDJ29A   598   621/ 30  W43 W10 L5  L11 W32 3.0
+ 18 Sajeeth, Samay         RKWFJ82R   575   591/ 38  L7  W40 W39 L13 W25 3.0
+ 19 Dai, Gordon            ENDDK87Y   535   556/ 41  L9  W36 L6  W37 W26 3.0
+ 20 Lee, Julianus          CDWEK90C   529   622/ 48  L3  W33 W35 W14 L9  3.0
+ 21 Xu, William            DCTEK93M   519   536/121  L4  W38 L10 W43 W28 3.0
+ 22 Rabena, Akira          MAHFH44G   500   579/  5  L35 W34 L13 W33 W27 3.0
+ 23 Anant Sundaram, Parth  SSMEJ56Q   460   515/ 40  L11 L29 W24 W39 W35 3.0
+ 24 Kamasani, Dharshith    BLWEJ06Q   462   462/ 19  D28 L6  L23 W42 W40 2.5
+ 25 Sabharwal, Vihaan      DCTDK87T   681   649/ 62  W36 W9  L1  L6  L18 2.0
+ 26 Sane, Anay             SSMEJ56T   668   609/ 45  W34 L5  W37 L3  L19 2.0
+ 27 Tecle, Zekarias        THUFH54X   613   545/ 10  W38 W35 L8  L12 L22 2.0
+ 28 Tang, Khai             THUFJ48Q   612   552/ 35  D24 W37 L9  D35 L21 2.0
+ 29 Liu, Aaron             SSMDH52C   560   556/ 10  L2  W23 L4  W36 L14 2.0
+ 30 Esparza-chen, Lucien   WMNEJ98Z   556   519/ 67  L8  WF  L3  W40 L15 2.0
+ 31 Tan, Mathew            DCCEJ76C   510   487/ 45  L5  W42 L11 W41 L16 2.0
+ 32 Navya Jeevan, Rutvi    BRHEK31B   470   449/ 50  L10 W43 L12 W34 L17 2.0
+ 33 Sakthivel, Aadhira     SWLFH58Q   278   289/ 15  L14 L20 W38 L22 W43 2.0
+ 34 Murfitt, Miles         MESEH44F   400   272/  4  L26 L22 WF  L32 W41 2.0
+ 35 Battala, Havish Reddy  SSMFJ28J   723   617/ 20  W22 L27 L20 D28 L23 1.5
+ 36 Zhong, Joey            SSMEH52M   273   222/  9  L25 L19 WF  L29 D38 1.5
+ 37 Peng, Zhenlong         DCCEJ48G   164   141/ 22  BYE L28 L26 L19 D39 1.5
+ 38 Kangas, Roland         MESDH44E   300   100/  4  L27 L21 L33 BYE D36 1.5
+ 39 Haroon, Zidan          SWLEH44D   400   145/  4  L16 BYE L18 L23 D37 1.5
+ 40 Mahadikar, Pratvi      JUAEJ31A   322   286/ 31  L12 L18 W42 L30 L24 1.0
+ 41 Zhao, Jinyi            DCCFJ03M   295   236/ 12  L13 WF  L14 L31 L34 1.0
+ 42 Wells, Julia           NHRDH63T   228   122/  7  L15 L31 L40 L24 BYE 1.0
+ 43 Dedrick-gorman, Grace  MESFH44C   500   100/  4  L17 L32 BYE L21 L33 1.0

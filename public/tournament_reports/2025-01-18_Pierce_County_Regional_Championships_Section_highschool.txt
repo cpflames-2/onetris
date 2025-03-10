@@ -1,0 +1,54 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Pen-phakoxay, Caden    MTTKH10U  1000  1819/  5  W32 W25 W10 W3  W5  5.0
+  2 Lowe, Titus            ETVKK76T   991  1166/ 29  W52 D4  W33 W14 W16 4.5
+  3 Van Gorkom, Joshua RyanCHWKB02N  1345  1378/ 83  W36 W6  W13 L1  W22 4.0
+  4 Truong, Nicholas       MTTKH10T  1000  1368/  5  W18 D2  W11 W26 D9  4.0
+  5 Remington, Jayden      ERDMJ22R  1181  1293/ 10  W35 W17 W15 W9  L1  4.0
+  6 Larson, Oscar          SMZLK80P  1199  1262/ 30  W8  L3  W21 W31 W14 4.0
+  7 Michaels, Ian          SMZJH10R   900  1241/  5  L15 W32 W35 W13 W17 4.0
+  8 Bennett-warner, DominicETVJJ21X  1034  1096/  9  L6  BYE W38 W44 W18 4.0
+  9 Young, Judah           HSCJH10Q   900  1271/  5  W23 W37 W12 L5  D4  3.5
+ 10 Gregory, Lucas         HSCKJ22S  1442  1427/ 10  W34 W27 L1  W19 D12 3.5
+ 11 Amon, Hans             ETVMK78L  1007  1111/ 33  W19 D30 L4  W38 W26 3.5
+ 12 Mullen, Hana           SMZLK81C  1261  1255/ 56  W45 W28 L9  W15 D10 3.5
+ 13 Johnson, Gabriel       IDAMH10P  1200  1209/  5  W16 W20 L3  L7  W33 3.0
+ 14 Pham, Hayden           MTTLJ22H  1077  1103/ 15  W41 W21 W31 L2  L6  3.0
+ 15 Chau, Phu              MTTLJ22N   836   953/ 16  W7  W43 L5  L12 W37 3.0
+ 16 Wanjiru, Marcelina     MTTKH10M  1000  1093/  5  L13 W40 W29 W36 L2  3.0
+ 17 Folks, Damon           BOLMH10L  1200  1062/  5  W50 L5  W24 W34 L7  3.0
+ 18 Jarrett, Vincent       ERDLH10K  1100  1104/  5  L4  W52 W20 W27 L8  3.0
+ 19 Kabiru, Jayden         PHSLH10J  1100  1171/  5  L11 W48 W25 L10 W31 3.0
+ 20 Sta Ana, Elijah        CPKLH10H  1100  1023/  5  W40 L13 L18 W35 W36 3.0
+ 21 Crabbe, Tyler          CPKM655P  1119  1091/103  W49 L14 L6  W40 W44 3.0
+ 22 Marshall, Logan        SMZJH10G   900   986/  5  W47 L31 W41 W28 L3  3.0
+ 23 Jones, Carson          ETVKJ22E   807   855/ 10  L9  W42 L34 W45 W39 3.0
+ 24 Griffin, Connor        SISJH10E   900   863/  5  L27 W50 L17 W47 W34 3.0
+ 25 Buhr, Kyle             TSALH10D  1100  1027/  5  W38 L1  L19 W41 D29 2.5
+ 26 Hernandez, Simon       HPRKH10C  1000  1029/  5  W39 D33 W30 L4  L11 2.5
+ 27 Soma, Kedar            BOLJH10B   900   964/  5  W24 L10 W43 L18 D28 2.5
+ 28 Dao, Phu Minh          MTTKJ22G   569   703/ 10  W53 L12 W37 L22 D27 2.5
+ 29 Kuntrapaku, Rishith    GVJJH10A   900   903/  5  L31 W45 L16 W46 D25 2.5
+ 30 Nguyen, Hayden         MTTMJ22L  1094  1059/ 15  W46 D11 L26 D33 HPB 2.5
+ 31 Ali, Syed Mustafa      SISLH09Z  1100   987/  5  W29 W22 L14 L6  L19 2.0
+ 32 Dempsey, Corey         ETVLH09X  1100   802/  5  L1  L7  W42 L39 W49 2.0
+ 33 Spegele, Michaela      ERDLH09W  1100   918/  5  W51 D26 L2  D30 L13 2.0
+ 34 Shaeffer, Jj           IDAKK75X   946   894/ 10  L10 W51 W23 L17 L24 2.0
+ 35 Gamad, Liam            IDAJJ39H   510   600/ 15  L5  W49 L7  L20 W45 2.0
+ 36 Joefield, Connor       PNUKH09V  1000   849/  5  L3  W47 W39 L16 L20 2.0
+ 37 Manda, Clyde           SMZKJ22D   696   723/ 10  W42 L9  L28 W48 L15 2.0
+ 38 Mansker, Liam          ERDKH09U  1000   859/  5  L25 W46 L8  L11 W48 2.0
+ 39 Stecker, Kaelic        ETVKH09T  1000   727/  5  L26 W44 L36 W32 L23 2.0
+ 40 Howard, Jakob          ETVJH09R   900   826/  5  L20 L16 W52 L21 W46 2.0
+ 41 Flores, Gabriel        CPKMH09P  1200   741/  5  L14 W53 L22 L25 W47 2.0
+ 42 Bin, Tyler             MTTLH09N  1100   604/  5  L37 L23 L32 W53 W51 2.0
+ 43 Muller, Tegan          TSALH09M  1100   716/  3  W48 L15 L27 HPB HPB 2.0
+ 44 Brimmage, Connor       MTTLJ21Z   182   224/ 15  HPB L39 W50 L8  L21 1.5
+ 45 Chhun, Daren           MTTLH09L  1100   526/  5  L12 L29 W51 L23 L35 1.0
+ 46 Croppi, Teagan         ETVJH09J   900   604/  5  L30 L38 W49 L29 L40 1.0
+ 47 Callon, Joseph         ETVMJ76S   538   506/ 22  L22 L36 BYE L24 L41 1.0
+ 48 Coonrod, Grace         ETVLH09H  1100   490/  5  L43 L19 W53 L37 L38 1.0
+ 49 Murray, Samantha       MTTMH09G  1200   515/  5  L21 L35 L46 W52 L32 1.0
+ 50 Rausch, Shelby         GRKKK60Y   181   137/ 14  L17 L24 L44 L51 BYE 1.0
+ 51 Hays, Lily             ETVKH09F  1000   333/  5  L33 L34 L45 W50 L42 1.0
+ 52 Browning, Ella         SMZMH09E  1200   301/  5  L2  L18 L40 L49 D53 0.5
+ 53 Murdough, Alexander    IDAJH09D   900   356/  5  L28 L41 L48 L42 D52 0.5

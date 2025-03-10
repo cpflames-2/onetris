@@ -1,0 +1,29 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Gui, Joyce             OPWCH92C   893   941/ 95  W19 W13 W8  W2  L5  4.0
+  2 Frenk, Rafael          CSICJ75L  1010  1004/ 45  W24 W14 W4  L1  W13 4.0
+  3 Bangard, Dhruv         TBKCK65D   878   892/125  W17 W12 W11 L5  W9  4.0
+  4 Zhang, Patrick         SSSCK01J   850   856/220  W7  W9  L2  W16 W10 4.0
+  5 Ahsant, Nickrad        WELCJ56K  1113  1095/ 45  W25 L11 W16 W3  W1  4.0
+  6 Chennadi, Varush       TBKCH04H   200   485/  5  D15 L16 W23 W25 W7  3.5
+  7 Stark, Lachlan         LKDCK28V   193   405/ 35  L4  W28 W12 W11 L6  3.0
+  8 Ma, Caroline           BCSCK93V   728   699/ 74  W18 W10 L1  L9  W16 3.0
+  9 Singhal, Sanyukt       FRVCJ30P   470   555/ 29  W28 L4  W17 W8  L3  3.0
+ 10 Baer, Naava            EVGCK85Q   338   460/ 45  W21 L8  W22 W14 L4  3.0
+ 11 Yao, Roger Yutang      THOCK88C   699   695/ 99  W27 W5  L3  L7  W20 3.0
+ 12 Wang, Edda             FRWCK34Z   462   470/ 70  W20 L3  L7  W15 W21 3.0
+ 13 Sharma, Sidarth        EVGCJ75G   477   498/ 79  W23 L1  W24 W18 L2  3.0
+ 14 Gu, Leo                SCDCK31Y   728   684/ 63  W26 L2  W25 L10 W17 3.0
+ 15 Sharma, Samarth        EVGCJ75K   411   380/ 69  D6  L19 W26 L12 W18 2.5
+ 16 Armstrong, Josephine   EVGCK86A   443   467/ 85  W22 W6  L5  L4  L8  2.0
+ 17 Bartram, Clark         DCTCJ47Q   224   328/  9  L3  W20 L9  W22 L14 2.0
+ 18 Myaskovsky, Evan       CNCCJ96E   100   239/  8  L8  W21 W19 L13 L15 2.0
+ 19 Stawitz, Bohdan        BRYCK92E   424   371/ 63  L1  W15 L18 L20 W27 2.0
+ 20 Lider, Alexander       CNCCH04G   200   306/  5  L12 L17 W27 W19 L11 2.0
+ 21 Huang, Lucas           EVGCH97S   100   153/ 10  L10 L18 W28 W24 L12 2.0
+ 22 Miller, Bennett        CNCCH04F   200   224/  5  L16 W26 L10 L17 W24 2.0
+ 23 Creighton, Jack        DCTCH04E   200   105/  4  L13 L24 L6  W26 BYE 2.0
+ 24 Bhatia, Ansh           REECH33H   294   181/ 10  L2  W23 L13 L21 L22 1.0
+ 25 Drake, Matthew         DCTCJ68D   313   253/ 18  L5  W27 L14 L6  L26 1.0
+ 26 Kalyanasundaram, SrinivCNCCH48Q   100   100/ 15  L14 L22 L15 L23 W25 1.0
+ 27 Karanam, Dhruthi       LCSCH10X   100   100/  8  L11 L25 L20 BYE L19 1.0
+ 28 Assawaruangchai, JeanniDCTCH04D   200   100/  3  L9  L7  L21 U   U   0.0

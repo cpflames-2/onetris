@@ -1,0 +1,51 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Ramirez, Kane          WIWEJ72E   622   844/108  W4  W12 W3  W16 W8  5.0
+  2 Zavala, Daniel         MCUEJ44V   297   522/ 34  D35 W48 W40 W18 W11 4.5
+  3 Menjivar, Valery       RFREJ78D   670   740/ 54  W14 W21 L1  W26 W7  4.0
+  4 Garcia, Sebastian      BMCEJ78G   448   588/ 50  L1  W14 W24 W37 W13 4.0
+  5 Farias Martinez, Enoel RFREJ00Y   615   696/ 25  W39 W11 W12 L7  W19 4.0
+  6 Lopez Villanueva, NatalRFREH43A   487   604/ 10  L12 W9  W30 W29 W16 4.0
+  7 Valadez, George        BMCEH27C   400   699/  4  W31 W15 X49 W5  L3  4.0
+  8 Duarte, Jonathan       MCUEJ44T   304   488/ 34  W17 D24 W10 W25 L1  3.5
+  9 Hiivala, Annaleigh     CRPEJ00L   417   457/ 25  W13 L6  D18 W28 W15 3.5
+ 10 Mendoza, Zaira         RCEEJ52Z   352   413/ 35  D22 W34 L8  W40 W25 3.5
+ 11 Geelhood, Beckett      KCCEK96U   646   632/ 57  W24 L5  W21 W23 L2  3.0
+ 12 Marroquin, Chase       CRPEJ62A   736   709/ 53  W6  L1  L5  W33 W29 3.0
+ 13 Campbell, Arianna J    RFREJ00E   318   382/ 20  L9  W23 W39 W32 L4  3.0
+ 14 Nelson, Miloe          CRPE915Y   531   518/ 76  L3  L4  W20 W43 W32 3.0
+ 15 Garcia Salas, Emmanuel RFPEJ53H   100   285/  9  W44 L7  W27 W17 L9  3.0
+ 16 Castaneda, Amaure Jr   RFPEH27B   400   459/  5  W46 W47 W33 L1  L6  3.0
+ 17 Arrington, Ashton      MTPEJ78F   374   379/ 45  L8  W33 W34 L15 W26 3.0
+ 18 Rangel, Marianna       MTPEJ78J   191   327/ 39  W50 W41 D9  L2  D20 3.0
+ 19 Byrnes, Patrick        LIBEH42V   264   327/ 10  W41 D29 D22 W36 L5  3.0
+ 20 Davey, Cj              ESGEH42X   300   390/ 10  D40 W22 L14 W30 D18 3.0
+ 21 Rinehart, Christian    CRPEH56J   603   595/ 15  W30 L3  L11 W49 W31 3.0
+ 22 Vasquez, Josue         MCUEJ53D   302   322/ 40  D10 L20 D19 W44 W38 3.0
+ 23 Galbraith, Seth        MTPEH56B   222   275/ 15  W43 L13 W32 L11 W36 3.0
+ 24 Billings, Atlas        MCGEJ44X   471   448/ 34  L11 D8  L4  W45 W37 2.5
+ 25 Trejo, Moises          ESGEH27A   400   270/  5  D36 W45 W42 L8  L10 2.5
+ 26 Frias, Andres          CRPEH90B   180   227/ 14  D49 W43 W48 L3  L17 2.5
+ 27 Tha, Joseph            ESGEH26Z   400   215/  5  W28 L44 L15 D41 W40 2.5
+ 28 Beckley, Mason         LIVEH26Y   400   210/  5  L27 D46 W45 L9  W41 2.5
+ 29 Shipley, James         MTPEH55U   189   241/ 15  W42 D19 D35 L6  L12 2.0
+ 30 Ruiz, Andre            BMCEJ53K   755   642/ 25  L21 W39 L6  L20 W42 2.0
+ 31 Ramos, Mateo           RCEEH42R   100   174/ 10  L7  L38 W46 W34 L21 2.0
+ 32 Hernandez, Jordan      RCEEJ53B   100   131/ 16  W38 W50 L23 L13 L14 2.0
+ 33 Cardenas, Brian        RCEEH90C   235   234/ 14  W47 L17 L16 L12 W44 2.0
+ 34 Gonzales, Ezra         CRPEJ61Y   314   264/ 43  W48 L10 L17 L31 W49 2.0
+ 35 Rodriguez, Gael        RCEEH42W   324   254/ 10  D2  L40 D29 L38 W47 2.0
+ 36 Guizar, Angelina       RFPEH26X   400   143/  5  D25 D37 W50 L19 L23 2.0
+ 37 Lynch, Vincente        LIBEH42P   100   142/ 10  D45 D36 W47 L4  L24 2.0
+ 38 Penrod, Benson         RFPEH26W   400   115/  5  L32 W31 L43 W35 L22 2.0
+ 39 Van, Minh              CRPEJ23N   441   394/ 35  L5  L30 L13 W50 W43 2.0
+ 40 Franco, Rozlind        MTPEJ78S   340   292/ 30  D20 W35 L2  L10 L27 1.5
+ 41 Mendoza, Lorenzo       MCUEH42U   274   178/ 10  L19 L18 W44 D27 L28 1.5
+ 42 Bravo Rosales, Juan PabRFREH56E   257   199/ 15  L29 D49 L25 W46 L30 1.5
+ 43 Ottem, John            LIBEH56D   151   118/ 15  L23 L26 W38 L14 L39 1.0
+ 44 Ramos, Allison         CRPEH89V   100   100/ 18  L15 W27 L41 L22 L33 1.0
+ 45 Schenk, Grayson        RFPEH26V   400   100/  5  D37 L25 L28 L24 D46 1.0
+ 46 Jackman, Samuel        MCPEH26U   400   100/  5  L16 D28 L31 L42 D45 1.0
+ 47 Frias, Fabiola         CRPEH42T   185   100/ 10  L33 L16 L37 W48 L35 1.0
+ 48 Bawden, Whyatt         LIVEH42Y   417   224/ 10  L34 L2  L26 L47 W50 1.0
+ 49 Chavez, Alex           LIVEH56C   228   195/ 14  D26 D42 F7  L21 L34 1.0
+ 50 Gomez, Victor          ESGEH42N   100   100/ 10  L18 L32 L36 L39 L48 0.0

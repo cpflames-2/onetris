@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhang, Kevin           WOBG809Y  1166  1179/133  W3  W4  W2  3.0
+  2 Xu, Ethan              BENFK98S   865   856/123  D4  W3  L1  1.5
+  3 Nguyen, William        CNHEH63M   608   669/  6  L1  L2  W4  1.0
+  4 Doronin, Victor        BMNH335T   696   672/113  D2  L1  L3  0.5

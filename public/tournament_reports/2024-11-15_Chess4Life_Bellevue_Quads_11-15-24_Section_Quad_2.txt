@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Anbuselvam, Mithran    HEAGH61F   860   921/ 60  D2  W3  W4  2.5
+  2 Tharian, Isaac         TOPEK39K   814   820/ 45  D1  L4  W3  1.5
+  3 Gui, Joyce             OPWCH92C   779   768/ 58  W4  L1  L2  1.0
+  4 Gokul, Shravan         EVJHJ89U   863   827/ 33  L3  W2  L1  1.0

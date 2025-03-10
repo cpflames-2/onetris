@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zarate, Christian      ADUNH59J  2291  2291/  6  W3  W4  W2  3.0
+  2 Ackerman, Ryan         ADUNC514  1816  1815/285  W4  W3  L1  2.0
+  3 Hu, Yi-en Pi           BCAEK35P  1101  1114/ 86  L1  L2  W4  1.0
+  4 Hu, Yi-en              BCAEG40B   940   924/ 12  L2  L1  L3  0.0

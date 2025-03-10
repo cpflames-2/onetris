@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sathyamurthy, Sreeshan EVJIJ24M   937   958/157  W2  L4  W3  2.0
+  2 Mangla, Atharv         GRREK07C   889   931/174  L1  W3  W4  2.0
+  3 Nandakiran, Vidyuth    SSMF617C   933   903/185  W4  L2  L1  1.0
+  4 Shah, Rachit           BNTEK44K   906   884/ 98  L3  W1  L2  1.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Easterday, Cary Ray    ADUNG80F  1522  1522/  3  W4  W2  W3  3.0
+  2 Ovetskiy, Peter        HZFCG80E   200  1169/  3  W3  L1  W4  2.0
+  3 Ovetsky, Mark          HZFBG80D   100   425/  3  L2  W4  L1  1.0
+  4 Ovetsky, Igor          ADUNG80B  1300   350/  3  L1  L3  L2  0.0

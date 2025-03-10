@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Panigrahi, Nikhil      CTXJZ758   900  1000/  4  W4  W5  W2  D3  3.5
+  2 Venkatraman, SriranganaCTXCZ757   200  1000/  4  W6  W3  L1  W5  3.0
+  3 Poissonier, Joshua AlexCTXNZ74Y  1300   880/  4  W5  L2  W4  D1  2.5
+  4 Kelman, Avery Robert   CTXHZ74X   700   572/  4  L1  W6  L3  W6  2.0
+  5 Errabelly, Varshit     CTXFZ74W   500   567/  4  L3  L1  W6  L2  1.0
+  6 Skiba, Catherine       CTXHZ74V   700   100/  4  L2  L4  L5  L4  0.0
+
+ All Unrated-player Section: Ratings capped at 1000

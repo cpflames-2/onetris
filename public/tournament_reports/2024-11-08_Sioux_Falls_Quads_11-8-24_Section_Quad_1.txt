@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wilber, Christopher    SFXJZ20V  1447  1565/133  W3  W2  W4  3.0
+  2 Yusuf, Elham           SD6MZ84A  1603  1587/ 25  D4  L1  W3  1.5
+  3 Welch, James           HSSJF53F  1587  1556/228  L1  W4  L2  1.0
+  4 Yusuf, Farzaan         BVIGZ84D  1380  1369/ 36  D2  L3  L1  0.5

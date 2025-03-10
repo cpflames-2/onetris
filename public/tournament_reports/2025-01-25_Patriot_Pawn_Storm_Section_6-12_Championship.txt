@@ -1,0 +1,30 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Deng, Stanley          LLMGK22E  1581  1579/358  W16 W2  W11 D4  W6  4.5
+  2 Mosqueda, Luke         LIBEH90L  1108  1178/ 50  W22 L1  W14 W9  W13 4.0
+  3 Cress, Emmett          JMLIH54B  1221  1236/ 90  L9  W19 W21 W20 W4  4.0
+  4 Mendoza, Oscar         CWHLI229  1166  1197/327  W21 W13 W8  D1  L3  3.5
+  5 Naungayan, Landon      RRGGJ80K  1108  1150/ 60  L18 W25 W10 W7  D8  3.5
+  6 Kaiphanliam, Kieren SisCWHKK52X  1276  1281/ 68  WF  W23 D7  W12 L1  3.5
+  7 Nolan, Brendan         TCPM476K  1125  1167/ 49  W26 W10 D6  L5  W15 3.5
+  8 Ramos, Zachary         DEHHK71L  1039  1097/ 66  W28 W12 L4  W18 D5  3.5
+  9 Williams, Wyatt        SODJH13N   981  1083/ 10  W3  W15 L12 L2  W18 3.0
+ 10 Ramirez, Aaron         CWHJK97W   925  1042/ 86  W24 L7  L5  W23 W19 3.0
+ 11 Ybarra, Caleb          SODJK96F  1148  1131/ 71  W29 W18 L1  L13 W21 3.0
+ 12 Arias, Jose            CWHMK71M  1103  1112/  8  W27 L8  W9  L6  W17 3.0
+ 13 Crotty, Kieran         ACKHK31S   400   720/  9  WF  L4  W25 W11 L2  3.0
+ 14 Hall, Grayden          JMLIK68M   984  1003/ 81  L15 W27 L2  W26 W22 3.0
+ 15 Lum, Boaz              LIBDJ62C  1159  1130/ 67  W14 L9  D16 W24 L7  2.5
+ 16 Fultz, Heath           JMLI853S  1024  1037/ 99  L1  W26 D15 L19 W20 2.5
+ 17 Johnson, Eli           KCCIJ24B   993   966/ 30  WF  L20 D19 W29 L12 2.5
+ 18 Hong, Sidney           JMLH478H   860   922/147  W5  L11 W23 L8  L9  2.0
+ 19 Barnett, Eli           HSCJJ81S  1022  1020/ 43  D25 L3  D17 W16 L10 2.0
+ 20 Anbuselvan, Mithran    HEAGH61F   932   948/111  L23 W17 W24 L3  L16 2.0
+ 21 Nguyen, Tyler          RRGI715J   954   948/ 81  L4  W28 L3  W27 L11 2.0
+ 22 Han, Austin            TCPJD919   901   917/105  L2  L24 W28 W25 L14 2.0
+ 23 Lukson, Luka           CMLGF91D  1045  1005/ 75  W20 L6  L18 L10 W28 2.0
+ 24 Vanderschoor, Peyton   JMLG490Y  1134  1067/ 94  L10 W22 L20 L15 W26 2.0
+ 25 Alford, Isaiah         CWHM925Y  1297  1177/ 55  D19 L5  L13 L22 W27 1.5
+ 26 Menjivar, Bryan        OCHGJ80L   877   850/ 60  L7  L16 W29 L14 L24 1.0
+ 27 Hall, Paxton           LLMIH14U   813   767/ 80  L12 L14 BYE L21 L25 1.0
+ 28 Schutz, Henry          KCCGJ80M   842   775/ 62  L8  L21 L22 BYE L23 1.0
+ 29 Nguyen, Caitlyn        RRGG663J   952   874/ 73  L11 U   L26 L17 BYE 1.0

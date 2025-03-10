@@ -1,0 +1,8 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Huang, Allen           PAXNZ74U  1300  1000/  4  W5  W2  W3  W4  4.0
+  2 Ustanny, Jahlani       CTXNZ74T  1300  1000/  4  W3  L1  W4  W5  3.0
+  3 Rojas, Daniel          CTXNZ74S  1300   994/  3  L2  W5  L1  BYE 2.0
+  4 Aparicio, Belen        CTXNZ74R  1300   956/  2  BYE HPB L2  L1  1.5
+  5 Lesser, Sasha Peter    CTXEZ74Q   400   600/  3  L1  L3  BYE L2  1.0
+
+ All Unrated-player Section: Ratings capped at 1000

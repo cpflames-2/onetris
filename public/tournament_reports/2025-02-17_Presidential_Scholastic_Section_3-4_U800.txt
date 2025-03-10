@@ -1,0 +1,38 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Liu, Aaron             SSMDH52C   750   984/ 25  W25 W11 W9  W3  W2  5.0
+  2 Lin, Cody              RCRDZ679   300   974/  5  W19 W5  W26 W10 L1  4.0
+  3 Lin, Brody             RCRDZ678   300   967/  5  W22 W18 W17 L1  W10 4.0
+  4 Prasanna, Charan       LMAEJ46Z   703   728/ 57  W20 L8  W32 W24 W12 4.0
+  5 Datta, Ishana          KKNDH60X   662   762/ 20  W34 L2  W25 W13 W16 4.0
+  6 Xu, Derek              SSMEK24Q   792   807/ 68  L11 W31 W28 W9  W8  4.0
+  7 Gorski, Corvin         KSTEJ74N   752   739/ 48  W32 L12 W27 D19 W15 3.5
+  8 Tulsukchuentanat, PearlWOBEH63A   351   534/ 15  W29 W4  L13 W14 L6  3.0
+  9 Gaddam, Aryan          RKWCJ99T   635   684/ 41  W30 W13 L1  L6  W24 3.0
+ 10 Lin, Evan              SOMCJ72G   747   768/ 76  W31 W21 W12 L2  L3  3.0
+ 11 Kedia, Karan           CMCF874T   585   651/ 18  W6  L1  L14 W33 W26 3.0
+ 12 Devavarapu, Ananya SresCMCDH54Z   627   658/ 46  W36 W7  L10 W17 L4  3.0
+ 13 Bansal, Neev           KKNDH05Z   867   787/ 10  W28 L9  W8  L5  W19 3.0
+ 14 Verma, Satvik          WONDG80T   681   660/ 88  L15 W20 W11 L8  W27 3.0
+ 15 Nguyen, Michael        SOMDK64B   240   452/ 20  W14 L26 W21 W29 L7  3.0
+ 16 Prashant, Tejas        LAVEG74Z   400   644/  4  L27 BYE W18 W26 L5  3.0
+ 17 Pan, Peng-chi          SSMDK24N   718   685/182  W33 W27 L3  L12 D23 2.5
+ 18 Anant Sundaram, Parth  SSMEJ56Q   695   664/ 55  W24 L3  L16 W28 D20 2.5
+ 19 Guity, Sage            SYRE251G   582   581/ 89  L2  W37 W33 D7  L13 2.5
+ 20 Wang, Kenzo            BLOEK03Z   220   312/ 34  L4  L14 W36 W37 D18 2.5
+ 21 Sane, Anay             SSMEJ56T   585   558/ 60  W35 L10 L15 D31 W32 2.5
+ 22 Sarangi, Samarth       CBREH69F   626   600/ 76  L3  L24 W34 D32 W31 2.5
+ 23 Lee, Julianus          CDWEK90C   622   614/ 52  U   W30 L24 W25 D17 2.5
+ 24 Choudhary, Pratyush    FRVEG74Y   400   569/  5  L18 W22 W23 L4  L9  2.0
+ 25 Kamasani, Dharshith    BLWEJ06Q   476   461/ 37  L1  W35 L5  L23 W33 2.0
+ 26 Yao, Roger Yutang      THOCK88C   695   640/104  W37 W15 L2  L16 L11 2.0
+ 27 Xu, William            DCTEK93M   552   536/141  W16 L17 L7  W35 L14 2.0
+ 28 Dhole, Arjun           DISE752D   512   475/ 55  L13 WF  L6  L18 W35 2.0
+ 29 Thoppay, Hrithick      BRHEH35N   722   241/  8  L8  L33 W37 L15 W36 2.0
+ 30 Szeto, Yingyao         MEDDH04J   117   192/ 14  L9  L23 L31 W34 W37 2.0
+ 31 Michael, Sophia        DCCE704F   641   572/ 84  L10 L6  W30 D21 L22 1.5
+ 32 Cauich-miller, Amalia  HSCEH79V   476   446/ 23  L7  W34 L4  D22 L21 1.5
+ 33 Wang, Kiara            EVGDK04A   169   175/ 40  L17 W29 L19 L11 L25 1.0
+ 34 Li, John               EMNDH05V   100   100/  9  L5  L32 L22 L30 BYE 1.0
+ 35 Agastya, Smera         LTEDG74W   300   100/  4  L21 L25 BYE L27 L28 1.0
+ 36 Ponugoti, Ganavi Reddy MOBEG74V   400   100/  3  L12 LF  L20 BYE L29 1.0
+ 37 Siddhartha, Sanjana    SDVDH64Z   211   108/ 21  L26 L19 L29 L20 L30 0.0

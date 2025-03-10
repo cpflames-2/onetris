@@ -1,0 +1,13 @@
+pos last name first       id numb   start end/#gms  rd1 tot 
+  1 Razmov, Valentin       ADUNB02T  1861  1863/168  W10 1.0
+  2 Jones, Davey V         ADUNC10L  1703  1704/ 44  W12 1.0
+  3 Allen, Robert J        ADUNF120  1635  1635/ 30  W11 1.0
+  4 Chang, Allen           ADUNK02T  1522  1558/ 43  W9  1.0
+  5 Raja, Rian             SKWH786E  1597  1585/184  D6  0.5
+  6 Avula, Guru Harshith ReBRHF633Y  1359  1373/167  D5  0.5
+  7 Patnaik, Rishabhdeva   PLKGG72D  1292  1266/202  D8  0.5
+  8 Chim, Zander           XXXIH34X   546   626/  6  D7  0.5
+  9 Polich, Duane J        ADUN9785  1798  1771/  2  L4  0.0
+ 10 Stahl, Darren          ADUNH44N  1404  1404/  9  L1  0.0
+ 11 Davies, Damien         HEAGK68U   745   745/ 98  L3  0.0
+ 12 Black, Justin          ADONW79G  1030  1030/  4  L2  0.0

@@ -1,0 +1,34 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Ma, Caroline           BCSCK93V   585   728/ 69  W31 W30 W10 W15 W4  5.0
+  2 Surapaneni, Manoah     PRODH77Z   697   693/ 14  W12 L10 W11 W9  W15 4.0
+  3 Ta, Jaxson             KSTDJ54Z   643   668/ 39  W11 W8  W17 L4  W14 4.0
+  4 Hurd, Charles          PKRCJ72C   496   598/ 34  W28 W26 W16 W3  L1  4.0
+  5 Singhal, Sanyukt       FRVCJ30P   474   509/ 20  W19 L16 W26 W10 W12 4.0
+  6 Douglas, Timothy       BNTCK28Z   456   548/ 38  W13 L15 W23 W21 W8  4.0
+  7 Kaviyarasan, Jai       SSMDJ29E   534   512/ 30  W22 W21 L15 L14 W18 3.0
+  8 Churchill, Camden      LAVDK47J   435   451/ 30  W32 L3  W27 W16 L6  3.0
+  9 Espinosa, Lorenzo      RSACJ30M   417   446/ 10  L14 W27 W24 L2  W21 3.0
+ 10 Reddy, Aariv           GRRCK34T   333   448/ 25  W20 W2  L1  L5  W22 3.0
+ 11 Suhasan, Nehaa         FRVCJ30B   307   361/ 25  L3  W32 L2  W23 W27 3.0
+ 12 Chen, Landon           DCSCK34Q   201   302/ 18  L2  BYE W31 W17 L5  3.0
+ 13 Wong, Aaron Trevor     CHRDH36U   300   422/  5  L6  D18 W25 W20 D17 3.0
+ 14 Dhabade, Aprameya      BNTCH36S   200   534/  5  W9  L17 W30 W7  L3  3.0
+ 15 Hamid, Ibrahim         EBSCH36R   200   602/  4  WF  W6  W7  L1  L2  3.0
+ 16 Iyer, Anirudh          RSACH36Q   200   495/  5  W18 W5  L4  L8  W24 3.0
+ 17 Nevisi, Ali            MEDDH52A   480   453/ 10  W23 W14 L3  L12 D13 2.5
+ 18 Yao, Zana              EBSDH82J   230   289/  9  L16 D13 W28 W30 L7  2.5
+ 19 Jain, Adhrit           SPTCH36P   200   225/  5  L5  D25 L20 W31 W29 2.5
+ 20 Manglani, Krisha       EBSDH36M   300   280/  5  L10 D31 W19 L13 W30 2.5
+ 21 Venkatesh, Anya        HMNCJ30F   331   316/ 67  W24 L7  W33 L6  L9  2.0
+ 22 Karthik, Arjun         RSACH36L   200   200/  5  L7  L24 W32 W33 L10 2.0
+ 23 Filonov, Mikhail       CAVCH36K   200   232/  5  L17 W29 L6  L11 W33 2.0
+ 24 Gautam, Aarya          EBSDH36J   300   237/  5  L21 W22 L9  W26 L16 2.0
+ 25 Ranjan, Sanmay         EBSCH36H   200   121/  5  L27 D19 L13 D28 W32 2.0
+ 26 Venkata, Vedant        RSADJ47Y   263   214/ 15  W29 L4  L5  L24 D31 1.5
+ 27 Kraft, Regie           CSBCJ29R   220   189/ 13  W25 L9  L8  D29 L11 1.5
+ 28 Chinn, Gus             CLHCH36G   200   100/  4  L4  L33 L18 D25 BYE 1.5
+ 29 Ebrahimi, Nickan       EBSDH36F   300   100/  4  L26 L23 BYE D27 L19 1.5
+ 30 Yang, Andrew           NOWCK28U   309   241/ 30  W33 L1  L14 L18 L20 1.0
+ 31 Huang, Alvin           HMNDH36E   300   100/  5  L1  D20 L12 L19 D26 1.0
+ 32 Banthia, Ranveer       CAVCH36D   200   100/  4  L8  L11 L22 BYE L25 1.0
+ 33 Buragadda, Naga Kovidh XXXCH36C   200   100/  5  L30 W28 L21 L22 L23 1.0

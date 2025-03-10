@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Tanenbaum, Zachary     CTXNX00E  2396  2403/116  W6  L3  W7  W5  3.0
+  2 Moor, Nathaniel Ph     CTXNZ69H  2355  2364/  4  W8  L5  W6  W3  3.0
+  3 Kudrin, Sergey         CTXNX00D  2370  2370/127  W7  W1  D5  L2  2.5
+  4 Uwakwe, Michael        CTXNX00L  2054  2069/121  D5  L6  W8  W7  2.5
+  5 Groff, Jordan          CTXNX00K  2279  2281/116  D4  W2  D3  L1  2.0
+  6 Lu, Maximillian        CTXNX10P  2490  2472/108  L1  W4  L2  W8  2.0
+  7 Adu-poku, Kwabena      CTXNZ73P  1871  1891/  8  L3  W8  L1  L4  1.0
+  8 Upadhyay, Punyavrat    CTXMX00X  1810  1791/127  L2  L7  L4  L6  0.0

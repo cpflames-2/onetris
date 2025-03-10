@@ -1,0 +1,10 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Rangel, Adrian         CQHHN66G   621   745/ 24  W5  W8  D3  W4  W2  4.5
+  2 Hughes, Ruckus Charles SMDGW86C   650   669/ 35  D6  W5  W9  W3  L1  3.5
+  3 White-ross, Skyler     HSOJW81S   654   665/ 22  BYE W4  D1  L2  W7  3.5
+  4 Johnson, Bradley       CQEFW83D   426   478/ 18  W7  L3  W6  L1  D5  2.5
+  5 Huff, David            MYCGW792   600   467/  4  L1  L2  BYE W8  D4  2.5
+  6 Johnson, Kenneth       CQHJW78Z   900   424/  4  D2  L7  L4  BYE W9  2.5
+  7 Bryant, Richard        CQHJW78Y   900   402/  5  L4  W6  W8  L9  L3  2.0
+  8 Tew, Matrim            HSOEW78X   400   313/  4  W9  L1  L7  L5  BYE 2.0
+  9 Davis, Jack            BDHEW97G   507   433/ 25  L8  BYE L2  W7  L6  2.0

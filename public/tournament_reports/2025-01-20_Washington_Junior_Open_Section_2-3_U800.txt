@@ -1,0 +1,43 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Dixit, Ved             ENSDH63Q   613   855/ 29  W39 W20 W2  W11 W4  5.0
+  2 Bigelow, Atlas         WMECJ61F   789   811/ 61  W12 W16 L1  W25 W15 4.0
+  3 Bansal, Neev           KKNDH05Z   300   867/  5  L10 W30 W16 W14 W11 4.0
+  4 Sabharwal, Vihaan      DCTDK87T   649   737/ 67  W37 W21 W24 W10 L1  4.0
+  5 Su, Pin-ruei           RFKCH96G   755   762/ 60  L24 W33 W21 W12 W10 4.0
+  6 Senapati, Swayam       MOBDH44Z   338   601/ 20  W9  W26 L11 WF  W13 4.0
+  7 Sankar, Laya           EBSCK11E   398   648/ 40  W29 W19 D13 D20 D8  3.5
+  8 Liu, Louis             CNHCJ75J   602   670/ 70  D33 W29 W17 D13 D7  3.5
+  9 Ta, Jaxson             KSTDJ54Z   668   663/ 44  L6  W41 D22 W24 W20 3.5
+ 10 Velichko, Kristina     ASACK07V   495   695/122  W3  W32 W14 L4  L5  3.0
+ 11 Ip, Egan               SOMCK41L   569   649/ 37  W41 W17 W6  L1  L3  3.0
+ 12 Gaddam, Viraj          SSMCJ29S   433   555/ 35  L2  W35 W18 L5  W26 3.0
+ 13 Gaddam, Aryan          RKWCJ99T   644   635/ 36  W35 W27 D7  D8  L6  3.0
+ 14 Vivek, Thanish BhavanamAUDCH74G   848   804/ 24  W25 W15 L10 L3  W24 3.0
+ 15 Lalithmani, Vidyuth    WDECJ99V   556   582/ 39  W40 L14 W28 W19 L2  3.0
+ 16 Devavarapu, Ananya SresCMCDH54Z   542   601/ 36  W28 L2  L3  W37 W29 3.0
+ 17 Jin, Yi                MEDDE79S   781   723/ 60  W38 L11 L8  W27 W22 3.0
+ 18 Zhen, Liam             DCCD622V   692   643/167  W31 L24 L12 W28 W25 3.0
+ 19 Hurd, Charles          PKRCJ72C   598   572/ 39  W42 L7  W37 L15 W30 3.0
+ 20 Surapaneni, Manoah     PRODH77Z   693   661/ 19  W22 L1  W38 D7  L9  2.5
+ 21 Taskar, Ethan          MYHDJ55J   533   503/ 15  W34 L4  L5  D23 W33 2.5
+ 22 Zhang, Jerry           CBRDK64C   372   404/ 38  L20 W40 D9  W33 L17 2.5
+ 23 Wang, Shayne           RSACH05Y   200   311/  5  L27 L37 W41 D21 W34 2.5
+ 24 Datta, Ishana          KKNDH60X   414   513/ 10  W5  W18 L4  L9  L14 2.0
+ 25 Goncharenko, Peter     CMCCH44B   342   398/ 20  L14 W34 W26 L2  L18 2.0
+ 26 Wei, Brayden           ETSCK90F   645   554/ 92  W30 L6  L25 W31 L12 2.0
+ 27 Armstrong, Josephine   EVGCK86A   444   443/ 80  W23 L13 L32 L17 W37 2.0
+ 28 Khachatryan, Daniel    WAXDH05X   300   425/  5  L16 W31 L15 L18 W38 2.0
+ 29 Sairam, Advaith        RBRBK01Q   725   636/138  L7  L8  W42 W38 L16 2.0
+ 30 Nie, Elena             SOMCH78J   255   292/ 10  L26 L3  W40 W35 L19 2.0
+ 31 Fong, Ethan            CMCCH58B   347   319/ 12  L18 L28 W39 L26 W40 2.0
+ 32 Udelson, Wyatt         LAVDA96H   714   697/ 61  W36 L10 W27 LF  U   2.0
+ 33 Nguyen, Michael        SOMDK64B   180   240/ 15  D8  L5  W36 L22 L21 1.5
+ 34 Thomas, Tricia         WLDDH05W   300   185/  5  L21 L25 D35 W36 L23 1.5
+ 35 Arun, Prithvi          SSMDH51R   168   181/ 15  L13 L12 D34 L30 W42 1.5
+ 36 Li, Jeremy             SOMCJ87A   393   296/ 30  L32 D42 L33 L34 W39 1.5
+ 37 Xu, Ruiping            SSMCH87E   336   313/ 20  L4  W23 L19 L16 L27 1.0
+ 38 Ranjith, Janani        SHVCK65E   422   365/120  L17 W39 L20 L29 L28 1.0
+ 39 Lu, Andy               JINDJ02X   101   107/ 17  L1  L38 L31 W42 L36 1.0
+ 40 Li, John               EMNDH05V   300   100/  5  L15 L22 L30 W41 L31 1.0
+ 41 Shusterman, Sam        SYRCH37U   114   100/  9  L11 L9  L23 L40 BYE 1.0
+ 42 Nandakiran, Advaith    SSMCJ88H   386   255/120  L19 D36 L29 L39 L35 0.5

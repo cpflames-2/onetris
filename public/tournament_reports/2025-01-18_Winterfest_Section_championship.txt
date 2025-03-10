@@ -1,0 +1,17 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Reddy, Eshan           SGSJ336Y  1665  1690/320  W3  W8  W6  W2  W5  5.0
+  2 Li, Jessie             IDXGY99Q  1414  1454/ 35  W13 W10 W7  L1  W9  4.0
+  3 Brown, Brody           HDPLK98B   978  1195/ 10  L1  W12 W10 D9  W7  3.5
+  4 Elkins, Indiana        HSCJC15D  1066  1092/ 96  W14 D7  L8  W11 W13 3.5
+  5 Van Wormer, Tobias     DPHJH25F   983  1163/ 10  W9  L6  W11 W8  L1  3.0
+  6 Mcintyre, John B       HSCGJ63F  1183  1190/ 65  W15 W5  L1  L7  W14 3.0
+  7 Wilson, Nicholas D     LBYIJ58B  1239  1220/ 50  W11 D4  L2  W6  L3  2.5
+  8 Li, Roy                IDXDY99P  1169  1161/ 35  W12 L1  W4  L5  D10 2.5
+  9 Bell, Ryan             HSCGJ63J  1674  1564/ 20  L5  W15 W13 D3  L2  2.5
+ 10 Grace, Leo Griffin     HSCEH68U  1061  1061/ 24  W16 L2  L3  W12 D8  2.5
+ 11 Aguayo, Chase          LSPIH66L   872   871/ 34  L7  W14 L5  L4  W16 2.0
+ 12 Wang, Kelby            SKKE796Y   853   854/166  L8  L3  W16 L10 W15 2.0
+ 13 Bai, Kelin             SKKGD75J   969   940/242  L2  W16 L9  D14 L4  1.5
+ 14 Avey, Jesse            MDRHK50F   794   798/ 98  L4  L11 W15 D13 L6  1.5
+ 15 Mynham, Nishanth       SUPHE13Y   867   806/ 28  L6  L9  L14 W16 L12 1.0
+ 16 Suarez, Brady          DPHLH07S  1100   411/  5  L10 L13 L12 L15 L11 0.0

@@ -1,0 +1,13 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Chu, Skylar            SOMD579R  1044  1149/ 76  W11 W7  W8  W4  D2  4.5
+  2 Sathyamurthy, Sreeshan EVJIJ24M   784  1001/139  W10 L3  W9  W7  D1  3.5
+  3 Mangla, Atharv         GRREK07C  1027  1058/145  D4  W2  L7  W8  W9  3.5
+  4 Krogstad, Jaxon        NCSDJ88M  1078  1090/137  D3  W10 D5  L1  W11 3.0
+  5 Dhameeja, Ved          GRRFJ98F  1248  1202/139  W9  L8  D4  D10 W7  3.0
+  6 Bhandari, Aarav        CBREJ06H   693   782/ 76  L8  L9  W12 W11 D10 2.5
+  7 Nandakiran, Vidyuth    SSMF617C  1016   999/149  W12 L1  W3  L2  L5  2.0
+  8 Bysani, Aakash         SSMCK01D   968   952/226  W6  W5  L1  L3  L12 2.0
+  9 Desai, Vivaan          BCABJ49H   865   871/ 53  L5  W6  L2  W12 L3  2.0
+ 10 Bhasin, Palash         ISMGH95H  1083  1030/ 88  L2  L4  W11 D5  D6  2.0
+ 11 Huang, Jaden           ENDDJ63S   759   743/152  L1  W12 L10 L6  L4  1.0
+ 12 Mahale, Avneesh        CNHC993F   876   796/202  L7  L11 L6  L9  W8  1.0

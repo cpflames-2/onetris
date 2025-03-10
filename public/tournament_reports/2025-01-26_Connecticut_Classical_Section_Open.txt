@@ -1,0 +1,23 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Zhao, Kevin            MAXGX10Y  2146  2156/106  W20 W6  W5  D2  3.5
+  2 Aravindakshan, Sah     NJXJZ67V  2107  2122/  4  W9  W18 W8  D1  3.5
+  3 Ingargiola, Max        CTXLX10G  2120  2120/116  L5  W11 W18 W10 3.0
+  4 Bhargava, Kushagra     CTXHX00P  2018  2016/119  L14 W17 W9  W8  3.0
+  5 Kaczmarczyk, Truman    CTXIX00R  1889  1933/108  W3  W10 L1  D12 2.5
+  6 Gillott, Miles Wil     CTXLZ67U  1893  1938/  4  W22 L1  W15 D7  2.5
+  7 Zhang, Royce           RIXEX10W  1976  1994/107  HPB W12 D13 D6  2.5
+  8 Wang, Lacey            CTXGX05K  1942  1944/108  W16 W15 L2  L4  2.0
+  9 Wei, Robert Fanjun     NYXNX10V  1764  1776/110  L2  W21 L4  W19 2.0
+ 10 Maralappanavar, Omkar  CTXNX02W  1992  1980/124  W17 L5  W19 L3  2.0
+ 11 Chan, Matt             CTXNX07P  1907  1919/107  D13 L3  W21 D15 2.0
+ 12 Drillich, Gilad Gi     NJXNZ67T  1927  1924/  3  HPB L7  W14 D5  2.0
+ 13 Groff, Jordan          CTXNX00K  2291  2279/119  D11 W14 D7  U   2.0
+ 14 Wu, Cody               CTXFX11H  1744  1758/116  W4  L13 L12 D17 1.5
+ 15 Santos, Natasha MoralesCTXNX00G  2111  2078/111  W19 L8  L6  D11 1.5
+ 16 Joyce, Jackson         NYXHX06T  1429  1436/ 60  L8  L19 D17 BYE 1.5
+ 17 Sengupta, Nevan        CTXEZ69E  1695  1677/  8  L10 L4  D16 D14 1.0
+ 18 Varada, Praharsh       CTXIX01B  1903  1892/111  W21 L2  L3  U   1.0
+ 19 Wang, William Heti     MAXEZ67S  1863  1827/  4  L15 W16 L10 L9  1.0
+ 20 Dubrovsky, Seann       CTXIX06F  1723  1720/105  L1  HPB U   U   0.5
+ 21 Zecena-aquino, Jose R  MAXNZ67R  1300  1369/  3  L18 L9  L11 U   0.0
+ 22 Tyagi, Kushan          IAXNZ67Q  2237  2220/  1  L6  U   U   U   0.0

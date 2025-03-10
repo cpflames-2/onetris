@@ -1,0 +1,13 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Scott, Ruth            CQEDW85Z   523   746/ 46  W7  W4  W3  W6  W2  5.0
+  2 Tew, Matrim            HSOEW78X   423   566/ 14  W5  D6  W9  W3  L1  3.5
+  3 Johnson, Bradley       CQEFW83D   609   604/ 28  W10 W8  L1  L2  W6  3.0
+  4 Tew, Perrin            HSOAW78R   264   289/ 13  BYE L1  L5  W7  W9  3.0
+  5 Weeks, Maggie          CQEDW78L   281   313/ 15  L2  L9  W4  W11 W10 3.0
+  6 Tew, Rand              HSOCW78W   729   659/ 15  W9  D2  W10 L1  L3  2.5
+  7 Gant, Lorenzo          HSOCW78S   100   160/  8  L1  BYE D8  L4  W11 2.5
+  8 Moody, Zoey            CQEFW77K   497   357/  9  W11 L3  D7  L10 BYE 2.5
+  9 Bowman, Draven         CQEFW867   295   274/ 26  L6  W5  L2  BYE L4  2.0
+ 10 Fritz, Jackson         MYCDW81Q   166   223/ 24  L3  W11 L6  W8  L5  2.0
+ 11 Bowman, Jayden         CQEDW866   165   100/ 25  L8  L10 BYE L5  L7  1.0
+

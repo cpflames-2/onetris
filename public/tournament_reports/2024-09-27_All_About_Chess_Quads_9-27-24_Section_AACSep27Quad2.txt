@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Cheng, Alan            LMSGJ71K  1265  1325/161  W3  W4  W2  3.0
+  2 Ge, Jeremy             SOMCJ88K  1194  1211/195  W4  W3  L1  2.0
+  3 Dharamshi, Anay        CBRDK42U  1057  1061/134  L1  L2  W4  1.0
+  4 Li, Harry              BCAFG30G  1156  1089/404  L2  L1  L3  0.0

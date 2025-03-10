@@ -1,0 +1,26 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 tot 
+  1 Dsa, Orwin             ADUNH35A  1300  1158/  5  BYE W20 W16 W9  L3  W12 5.0
+  2 Foster, Chad           ADUNH69R   746  1033/ 15  L5  W6  W14 W7  W12 W3  5.0
+  3 Han, Kaiyi             SOMCK42P   987  1084/105  W23 W19 W11 W4  W1  L2  5.0
+  4 Jacob, Salome          ADUNJ69Q   973  1050/ 11  W25 W16 W5  L3  HPB W8  4.5
+  5 Liguori, Catherine     ADUNH59A   946  1046/ 11  W2  W13 L4  D18 W9  W10 4.5
+  6 Randall, Simon         TWAIW79F   863   891/  6  L13 L2  W25 W17 W20 W14 4.0
+  7 Gu, Vincent            OPWBK00L   873   858/ 71  L21 W22 W17 L2  D11 W20 3.5
+  8 Wu, Jayden             UCDD495Q   922   924/125  W22 W10 D9  L12 W18 L4  3.5
+  9 Razmov, Siana          HSCCK93Y   980   981/158  W18 W14 D8  L1  L5  W13 3.5
+ 10 Jem, Ann               ADUNH63F   840   861/ 10  W17 L8  W24 W13 HPB L5  3.5
+ 11 Ge, Emma               SSMCJ56J   852   844/116  L19 W23 L3  W22 D7  W18 3.5
+ 12 Anbuselvam, Mithran    HEAGH61F   783   867/ 82  HPB W15 W19 W8  L2  L1  3.5
+ 13 Zhang, Patrick         SSSCK01J   830   843/196  W6  L5  W21 L10 W16 L9  3.0
+ 14 Wong, Claire           BCACK86D   808   785/122  WF  L9  L2  W21 W15 L6  3.0
+ 15 Covey, Lashawna        ADUNH79W   620   618/ 18  BYE L12 HPB HPB L14 W24 3.0
+ 16 Wu, Jonathan           UCDDK14H   893   857/ 52  WF  L4  L1  W24 L13 W22 3.0
+ 17 Astafyeva, Olga        ADUNH34Y  1300   593/  5  L10 BYE L7  L6  D24 W21 2.5
+ 18 Yu, Meng               ADUNH44L   801   796/ 10  L9  W21 W20 D5  L8  L11 2.5
+ 19 Davies, Damien         HEAGK68U   812   745/ 97  W11 L3  L12 L20 L22 BYE 2.0
+ 20 Tsay, Elon             LKDEK07B   915   841/120  W24 L1  L18 W19 L6  L7  2.0
+ 21 Chim, Zander           XXXIH34X   800   546/  5  W7  L18 L13 L14 BYE L17 2.0
+ 22 Astafiev, Vitaly       MRPEH52U   609   606/ 15  L8  L7  BYE L11 W19 L16 2.0
+ 23 Wheeler, Eliza         ADUNH34W  1300   457/  2  L3  L11 BYE HPB U   U   1.5
+ 24 O'sullivan, Colin      ADUNH86L   606   584/ 23  L20 W25 L10 L16 D17 L15 1.5
+ 25 Deepak, Sairaghav      PLKJA52Q   748   676/ 81  L4  L24 L6  BYE U   U   1.0

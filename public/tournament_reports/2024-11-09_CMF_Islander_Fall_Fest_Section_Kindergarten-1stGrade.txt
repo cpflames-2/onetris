@@ -1,0 +1,27 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Hu, Ryan               OPWBJ97N   691   805/ 98  W13 W11 D4  W3  W2  4.5
+  2 Ren, Easton            CMCBH68Z   810   819/ 44  W12 W10 W9  W6  L1  4.0
+  3 Sairam, Advaith        RBRBK01Q   657   670/116  W17 W8  W20 L1  W13 4.0
+  4 Kulkarni, Savitru      MYHBJ30N   512   645/ 25  W18 W21 D1  W9  D6  4.0
+  5 Zhang, Leon            CLHBH47E   100   523/  5  W14 L9  W26 W23 W12 4.0
+  6 Koster, John           SPTBJ88T   733   718/ 90  W24 W15 W7  L2  D4  3.5
+  7 Chen, Yisu             RKWBH78H   259   403/ 44  W23 W16 L6  W17 D8  3.5
+  8 Jiang, Callie          UCDAH47C   100   497/  5  W16 L3  W22 W15 D7  3.5
+  9 Zamora-kapoor, Eva     STTBJ41W   607   599/ 45  W21 W5  L2  L4  W14 3.0
+ 10 Adoc, Lluc             PERBJ54N   429   425/ 25  W19 L2  L13 W16 W20 3.0
+ 11 Kondapalli, Keyura     EVGBJ67E   425   412/ 35  W25 L1  L17 W21 W15 3.0
+ 12 Young, Mariella        NWOBJ54Q   233   323/ 15  L2  W18 W24 W20 L5  3.0
+ 13 Zhao, Jerry            EVGAH97K   206   346/ 20  L1  W22 W10 W26 L3  3.0
+ 14 Lawardy, Calya         BRYBJ66A   253   263/ 14  L5  W26 D21 W22 L9  2.5
+ 15 Li, Ryder              MEDBJ66R   319   303/ 59  W26 L6  W18 L8  L11 2.0
+ 16 Ahmadi, Andrew         LKDBJ66H   258   253/ 15  L8  L7  W25 L10 W17 2.0
+ 17 Tzeng, Caden           LKDBH92V   197   236/ 10  L3  W25 W11 L7  L16 2.0
+ 18 Karaca, Jasmine        LKDBJ66B   150   170/ 40  L4  L12 L15 W19 W25 2.0
+ 19 Swigon, Bruno          WEDBH92N   100   141/  9  L10 W24 W23 L18 U   2.0
+ 20 Shih, Alan             EVGAH47A   100   235/  5  W22 W23 L3  L12 L10 2.0
+ 21 Huang, Elliot          LKDBJ54D   160   174/ 15  L9  L4  D14 L11 W24 1.5
+ 22 Karaca, Aslan          LKDAH50Z   100   100/ 10  L20 L13 L8  L14 W26 1.0
+ 23 Smith, Woodley         LKDAH46Z   100   100/  4  L7  L20 L19 L5  BYE 1.0
+ 24 Hungwe, Rukudzo        LKDBH92X   208   100/ 10  L6  L19 L12 D25 L21 0.5
+ 25 Robinson, Emefa        EVGBH78D   100   100/ 13  L11 L17 L16 D24 L18 0.5
+ 26 Allen, Henry           LKDBJ54J   100   100/ 19  L15 L14 L5  L13 L22 0.0

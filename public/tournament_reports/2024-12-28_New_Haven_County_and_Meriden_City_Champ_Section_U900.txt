@@ -1,0 +1,8 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Bourgoin, Adam         CTXNZ68V   826   894/  4  W6  W4  W2  L3  3.0
+  2 Bist, Samar Singh      CTXIX04B   974  1004/ 11  W3  BYE L1  W4  3.0
+  3 Malevych, Serhii       CTXNZ68U  1300   984/  4  L2  W6  W5  W1  3.0
+  4 Venkatraman, SriranganaCTXCZ757  1000   879/  8  W5  L1  W7  L2  2.0
+  5 Kalra, Mehek           CTXEX07H   607   607/ 32  L4  W7  L3  BYE 2.0
+  6 Medisetti, Rithwik     CTXGZ68T   600   391/  3  L1  L3  BYE D7  1.5
+  7 Shah, Rahil            CTXHZ68S   700   361/  3  BYE L5  L4  D6  1.5

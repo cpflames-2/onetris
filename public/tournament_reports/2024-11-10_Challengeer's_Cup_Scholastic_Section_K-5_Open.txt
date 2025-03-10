@@ -1,0 +1,25 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chen, Felix Y          DISEA67A  1228  1301/ 98  W10 W7  W6  3.0
+  2 He, Jizhou             MEDD789B  1251  1274/114  W16 W13 D4  2.5
+  3 Wu, Shanna             CNHEJ72M  1237  1264/ 30  W9  W14 D5  2.5
+  4 Xu, Yang               EVGF649B  1205  1244/191  W11 W15 D2  2.5
+  5 Lan, Jonathan          MEDE968F  1191  1241/150  W12 W8  D3  2.5
+  6 Upasani, Neil          SSMFJ57C  1157  1169/ 84  W17 W18 L1  2.0
+  7 Flores Uriegas, Andres HLYF159F  1081  1099/ 80  W20 L1  W17 2.0
+  8 Yu, Eric               SOMCK25N  1058  1075/102  W24 L5  W18 2.0
+  9 Xu, Natalie            CNHD137A  1050  1068/105  L3  W19 W21 2.0
+ 10 Chou, Eugene           SSMEJ56Y  1047  1083/ 92  L1  W20 W14 2.0
+ 11 Su, Oliver             JINED01U  1018  1064/157  L4  W23 W13 2.0
+ 12 Lin, Luna              OPWDK01W   991  1060/130  L5  W22 W15 2.0
+ 13 Jiang, Kyle            MEDCK35B  1112  1084/126  W19 L2  L11 1.0
+ 14 Chen, Max Y            DISFK76L  1118  1084/ 98  W23 L3  L10 1.0
+ 15 Huang, Clora           SOMFK31H  1062  1032/157  W21 L4  L12 1.0
+ 16 Sembium, Aditi         BCAEK25W  1057  1027/312  L2  L17 W23 1.0
+ 17 Han, Kaiyi             SOMCK42P   991   987/ 99  L6  W16 L7  1.0
+ 18 Tsen, Eric             AGBEK18P   987   981/204  W22 L6  L8  1.0
+ 19 Ge, Emma               SSMCJ56J   955   950/ 97  L13 L9  W22 1.0
+ 20 Ajay, Aria             LCSCK07M   875   847/ 85  L7  L10 BYE 1.0
+ 21 Hoang, Leonard Bach    MRPBK88E   833   804/ 45  L15 BYE L9  1.0
+ 22 Li, Harry              BCAFG30G  1125  1023/422  L18 L12 L19 0.0
+ 23 Nishino, Anne          BCADH74F   933   878/ 69  L14 L11 L16 0.0
+ 24 Gui, Joyce             OPWCH92C   826   812/ 50  L8  U   U   0.0

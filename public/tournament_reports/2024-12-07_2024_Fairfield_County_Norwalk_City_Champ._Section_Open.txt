@@ -1,0 +1,14 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Groff, Jordan          CTXNX00K  2256  2271/112  D11 W13 W5  W4  3.5
+  2 Emmons, Alex           CTXNX00F  2161  2165/112  W10 W8  L4  W9  3.0
+  3 Ingargiola, Max        CTXLX10G  2102  2120/112  D4  W12 D7  W10 3.0
+  4 Kudrin, Sergey         CTXNX00D  2380  2370/123  D3  W9  W2  L1  2.5
+  5 Chernin, Oliver        CTXNX07M  2200  2191/104  D12 W11 L1  D7  2.0
+  6 Dedona, Mark           NYXNX02P  2208  2187/114  L8  L7  BYE W11 2.0
+  7 Ling, Chenxuan         NYXFX10N  2216  2205/108  L9  W6  D3  D5  2.0
+  8 Chu, Leon              NYXHX05N  1850  1869/108  W6  L2  L9  W13 2.0
+  9 Pagan, Ismael D        CTXNX11E  1840  1885/111  W7  L4  W8  L2  2.0
+ 10 Upadhyay, Punyavrat    CTXMX00X  1797  1808/122  L2  BYE W12 L3  2.0
+ 11 Uwakwe, Michael        CTXNX00L  2059  2054/117  D1  L5  W13 L6  1.5
+ 12 Zheng, Ryan            CTXBX04Y  1871  1859/108  D5  L3  L10 BYE 1.5
+ 13 Wei, Robert Fanjun     NYXNX10V  1784  1764/106  HPB L1  L11 L8  0.5

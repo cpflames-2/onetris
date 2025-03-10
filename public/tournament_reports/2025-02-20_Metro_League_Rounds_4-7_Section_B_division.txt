@@ -1,0 +1,41 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 rd7 rd8 tot 
+  1 Tan, Johnny            CLELJ72U  1572  1538/ 15  W23 W23 D13 W13 U   U   W9  D9  5.0
+  2 Elias, Aleister        GARKH22Y  1113  1100/ 20  L13 L13 W14 W14 U   U   W31 W31 4.0
+  3 Porad-brand, Lewis     CLEKH22V  1044   986/ 10  W22 W22 W26 L26 U   U   W23 L23 4.0
+  4 Wilcox, Daelen         CLEJ748C  1238  1232/ 85  W36 W36 D15 L15 U   U   W15 D15 4.0
+  5 Wen, Steven            GARJH22N   441   644/ 10  L25 W25 W24 W24 U   U   W22 L22 4.0
+  6 Cole, Reece            GARL3567  1241  1255/169  U   U   W10 W10 U   U   W36 W36 4.0
+  7 De Botton, Javari      INMLJ20V   819   900/ 14  W38 W38 W22 W22 U   U   U   U   4.0
+  8 Groebner, Teddy        INMLJ76X  1033  1064/ 29  W39 W39 W36 W36 U   U   U   U   4.0
+  9 Nessan, Simon          INMK4001   679   710/ 23  W34 D34 D31 W31 U   U   L1  D1  3.5
+ 10 Wu, Wei Hua            GARJH22K   666   773/ 10  D33 W33 L6  L6  U   U   W32 W32 3.5
+ 11 Fedotov, Dmitrii       LCOJG75U   900  1183/  4  W31 W31 D20 W20 U   U   U   U   3.5
+ 12 Coberly, Silas         CLEJH22W   831   687/ 10  W37 W37 L16 L16 U   U   W24 L24 3.0
+ 13 Bablani, Arnav         LSSJ1146  1203  1263/245  W2  W2  D1  L1  U   U   U   U   2.5
+ 14 Munger, Andrew         CLELH22L   814   655/  8  D32 W32 L2  L2  U   U   W30 L30 2.5
+ 15 Kedu, Sona             LSSKH23E  1159  1188/  9  U   U   D4  W4  U   U   L4  D4  2.0
+ 16 Seth, Aaryav           LSSJI143   875   908/ 57  U   U   W12 W12 U   U   U   U   2.0
+ 17 Vangala, Agastya       LSSMB39V  1247  1263/297  W40 W40 U   U   U   U   U   U   2.0
+ 18 Moynihan, Carter       INMLJ20S  1150  1150/  7  U   U   W37 W37 U   U   U   U   2.0
+ 19 Goss, Henry            INMMJ21D   973   998/ 10  U   U   W32 W32 U   U   U   U   2.0
+ 20 Huynh, Kenny           GARKG75T  1000   960/  4  L29 W29 D11 L11 U   U   U   U   1.5
+ 21 Zhao, Derek            GARKS46L   769   767/ 38  U   U   U   U   U   U   W35 D35 1.5
+ 22 Gonzalez-diaz, JeronimoSPRJH22Q   481   496/ 20  L3  L3  L7  L7  U   U   L5  W5  1.0
+ 23 Moraleja, Juan Rufino  SPRLB32V   929   933/129  L1  L1  U   U   U   U   L3  W3  1.0
+ 24 Mallari, Joaquin       SPRJG75R   900   485/  4  U   U   L5  L5  U   U   L12 W12 1.0
+ 25 Walsh, Anjali          LSSMC095  1118  1070/361  W5  L5  U   U   U   U   U   U   1.0
+ 26 Miller, Chloe          LSSL2385   887   903/145  U   U   L3  W3  U   U   U   U   1.0
+ 27 Mathly, Jabril         FRAMJ59S   374   436/ 17  U   U   U   U   W28 L28 U   U   1.0
+ 28 Loya, Henry            FRAM3183   810   758/ 20  U   U   U   U   L27 W27 U   U   1.0
+ 29 Peng, Emily            LSSMG75Q  1200   983/  2  W20 L20 U   U   U   U   U   U   1.0
+ 30 Olukoya, Emmanuel      SPRJH05A   100   233/  8  U   U   U   U   U   U   L14 W14 1.0
+ 31 Mitchell, Joshua       SPRJH05B   560   557/ 14  L11 L11 D9  L9  U   U   L2  L2  0.5
+ 32 Drew, Harrington       SPRJH22U   854   719/ 14  D14 L14 L19 L19 U   U   L10 L10 0.5
+ 33 Reed, John             LSSMG75P  1200   659/  2  D10 L10 U   U   U   U   U   U   0.5
+ 34 Sofronas, Anthony      LCOJG75N   900   546/  2  L9  D9  U   U   U   U   U   U   0.5
+ 35 Jones, Cordell         SPRJ1290   564   566/ 29  U   U   U   U   U   U   L21 D21 0.5
+ 36 Burns, Connor          SPRLH22S   741   718/ 20  L4  L4  L8  L8  U   U   L6  L6  0.0
+ 37 Yohannes, Senay        SPRKJ50F   418   395/ 40  L12 L12 L18 L18 U   U   U   U   0.0
+ 38 Lach, Maxim            LCOKH22P   875   767/  6  L7  L7  U   U   U   U   U   U   0.0
+ 39 Atashi, Arya           LCOKH22M   831   758/  4  L8  L8  U   U   U   U   U   U   0.0
+ 40 Uldrikis, Lukas        GARMH99Y  1049   960/  4  L17 L17 U   U   U   U   U   U   0.0

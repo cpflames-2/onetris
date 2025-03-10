@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 tot 
+  1 Kelliher, Owen         MAXNX02T  1790  1790/103  U   W3  1.0
+  2 Medonis, Treyden       CTXNX03K  1049  1055/104  W4  U   1.0
+  3 Mishra, Slok           CTXGX02E   917   916/108  U   L1  0.0
+  4 Cunningham, Michael D  CTXNX03W   668   661/104  L2  U   0.0

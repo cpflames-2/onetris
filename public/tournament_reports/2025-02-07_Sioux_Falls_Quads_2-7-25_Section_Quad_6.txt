@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Mcfayden, Skylar       SFHGZ75Q   500   689/ 38  W3  W4  W2  3.0
+  2 Terpstra, John         SDSFZ845   502   577/ 67  W4  W3  L1  2.0
+  3 Selken, Kordelia       SDAFX83W   624   578/164  L1  L2  W4  1.0
+  4 Michael, Phillip       SDAEZ887   538   458/ 36  L2  L1  L3  0.0

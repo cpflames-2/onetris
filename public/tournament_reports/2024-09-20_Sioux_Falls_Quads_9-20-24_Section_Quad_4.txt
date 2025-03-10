@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Jordahl, Jack          SFMEZ99Y   886  1021/ 70  W3  W4  W2  3.0
+  2 Kiessel, Katherine     SDAGZ13X   959   919/143  W4  L3  L1  1.0
+  3 Bergan, Quiana         SDAGX76U   876   858/178  L1  W2  L4  1.0
+  4 Buysse, Parker         SDAHZ95U   843   835/ 39  L2  L1  W3  1.0

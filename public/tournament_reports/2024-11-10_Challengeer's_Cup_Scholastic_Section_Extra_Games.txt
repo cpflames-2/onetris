@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 tot 
+  1 Agarwal, Kavir         MEDF152U   908   917/ 55  W3  1.0
+  2 Gupta, Akshay          HMNCF62T   597   606/ 87  W4  1.0
+  3 Sarkar, Hridik         FRVFK04W   600   589/ 61  L1  0.0
+  4 Pan, Jingyi            SSMCH76N   258   247/ 15  L2  0.0

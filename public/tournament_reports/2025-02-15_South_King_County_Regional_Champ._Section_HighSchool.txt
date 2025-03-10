@@ -1,0 +1,24 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Heo, Nash              TJHMJ88F  1400  1411/ 51  HPB W8  W2  D6  W3  4.0
+  2 Aister, Aj             TJHMJ76T  1099  1162/ 41  W19 W15 L1  W14 W7  4.0
+  3 Ahya, Vishnu           HZNKK04U  1148  1229/ 10  W22 W20 W4  W7  L1  4.0
+  4 Martin, Vainoa         TJHMK56Q  1178  1190/ 46  W9  W14 L3  W15 D5  3.5
+  5 Pham, Calvin           TJHMJ77Q  1181  1177/ 31  W16 W11 L7  W13 D4  3.5
+  6 Mcreynolds, Zack       AUBL405K  1198  1194/ 17  L14 W19 W9  D1  W12 3.5
+  7 Le, Kyler              HZNJG77X   900  1152/  5  W12 W13 W5  L3  L2  3.0
+  8 Dubbaka, Yudhistar     HZNL805S   646   751/ 13  W18 L1  L10 W16 W14 3.0
+  9 Daquil, Sean Paul      AUBMG77S  1200  1032/  5  L4  W10 L6  W19 W13 3.0
+ 10 Garcia, Daniel         TJHLH05G   472   702/ 15  L13 L9  W8  W17 W21 3.0
+ 11 Ricardo, David         HZNLG77Q  1100   978/  5  W23 L5  L13 W20 W15 3.0
+ 12 Akbari, Dhairy         TJHJH46A   805   834/ 18  L7  W22 W16 W21 L6  3.0
+ 13 Mcreynolds, Chase      AUBK532R   866   887/ 17  W10 L7  W11 L5  L9  2.0
+ 14 Wayment, Emmery        HZNLG77P  1100   920/  5  W6  L4  W21 L2  L8  2.0
+ 15 Roberts, Kaleb         HZNLG77N  1100   887/  5  W21 L2  W20 L4  L11 2.0
+ 16 Martyniuk, Maksym      AUBKG77L  1000   680/  5  L5  W17 L12 L8  W22 2.0
+ 17 Thompson, Liam         HZNMG77H  1200   597/  5  L20 L16 W22 L10 W19 2.0
+ 18 Binoy, Elijah          THMJG77G   900   593/  5  L8  L21 L19 W22 W20 2.0
+ 19 Ng, Nathan             HZNJG77F   900   663/  5  L2  L6  W18 L9  L17 1.0
+ 20 Lo, Sovatha            AUBMG77C  1200   634/  5  W17 L3  L15 L11 L18 1.0
+ 21 Sarinana, Jared        AUBMH97D   803   684/  9  L15 W18 L14 L12 L10 1.0
+ 22 Seligman, Conner       HSCJG77B   900   271/  5  L3  L12 L17 L18 L16 0.0
+ 23 Colins, Ryan           TAFJG77A   900   634/  1  L11 U   U   U   U   0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Li, Ethan James        SOMCK00K   629   721/ 79  W4  W3  W2  3.0
+  2 Bhandari, Aarav        CBREJ06H   601   555/ 50  L3  W4  L1  1.0
+  3 Sivakumar, Vedant      INGHH63H   502   486/ 17  W2  L1  L4  1.0
+  4 Nam, Alex              BLWEH75Q   426   433/ 56  L1  L2  W3  1.0

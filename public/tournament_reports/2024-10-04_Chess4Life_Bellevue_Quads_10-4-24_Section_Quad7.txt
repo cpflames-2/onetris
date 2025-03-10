@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 So, Brandon            CCDDK01X   538   582/ 55  W4  L2  W3  2.0
+  2 Bose, Suhan            BRHDH65Z   490   565/ 15  L3  W1  W4  2.0
+  3 Magnin, Hugo           FAPCH94D   519   532/ 26  W2  D4  L1  1.5
+  4 Sang, Andy             IMBCK65W   638   553/ 54  L1  D3  L2  0.5

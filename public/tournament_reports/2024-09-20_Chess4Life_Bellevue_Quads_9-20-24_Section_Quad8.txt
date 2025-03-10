@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kesher, Zavi           BENEH62L   216   363/  8  W2  W4  W3  3.0
+  2 K, Arjun               FRWDH61L   300   354/  3  L1  W3  W4  2.0
+  3 Balan, Vidyut          LAVEH68B   212   188/  9  W4  L2  L1  1.0
+  4 Kamaraju, Akhil        DISEH66C   200   116/ 11  L3  L1  L2  0.0

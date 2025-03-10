@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Xiong, Maxwell         CSIDK92H   619   681/ 49  W2  W3  W4  3.0
+  2 Anbuselvam, Mithran    HEAGH61F   533   544/ 26  L1  W4  W3  2.0
+  3 Rao, Jaiden            JINBH62B   365   365/  9  W4  L1  L2  1.0
+  4 Zeeshan, Hamza         CRKEJ15N   324   273/ 32  L3  L2  L1  0.0

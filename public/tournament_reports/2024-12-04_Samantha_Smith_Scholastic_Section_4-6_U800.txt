@@ -1,0 +1,29 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Gaddam, Vihaan         SSMFJ28E   790   871/ 35  W12 W9  W8  W4  D2  4.5
+  2 Xu, Derek              SSMEK24Q   696   853/ 58  W14 W10 W11 W5  D1  4.5
+  3 Burmistrov, Maya       SSMFJ19Z   632   714/ 30  W13 W18 L4  W10 W9  4.0
+  4 Peng, Eric             INGGJ31E   567   677/ 64  W27 W23 W3  L1  W13 4.0
+  5 Anant Sundaram, Parth  SSMEJ56Q   515   746/ 45  W16 W6  W15 L2  W17 4.0
+  6 Sane, Anay             SSMEJ56T   609   632/ 50  W20 L5  W14 W18 D7  3.5
+  7 Phaneesh, Saanvi       SSMF983M   572   591/ 79  L22 W26 W23 W12 D6  3.5
+  8 Venkatesan, Vaibhav    SSMEJ56L   592   591/ 61  W26 W22 L1  L13 W18 3.0
+  9 Sajeeth, Samay         RKWFJ82R   591   612/ 43  W24 L1  W22 W11 L3  3.0
+ 10 Khanzode, Advait       SSMEJ56W   561   567/ 59  W28 L2  W21 L3  W23 3.0
+ 11 Kini, Arjun            SSMFH88B   556   615/ 30  W21 W17 L2  L9  W15 3.0
+ 12 Nayagam, Anantika      SSMFH62E   532   571/ 12  L1  W24 W17 L7  W16 3.0
+ 13 Sharma, Akshay         CMCFK27J   440   513/  9  L3  W25 W19 W8  L4  3.0
+ 14 Pareek, Aarohi         SSMFJ55S   470   457/ 31  L2  W28 L6  D23 W20 2.5
+ 15 Kang, Mason            SSMEJ29J   723   667/ 55  U   W27 L5  W26 L11 2.0
+ 16 Pai, Samiksha          SSMEJ19X   676   596/ 76  L5  W20 L18 W22 L12 2.0
+ 17 Battala, Havish Reddy  SSMFJ28J   617   568/ 25  W19 L11 L12 W21 L5  2.0
+ 18 Chirita, Adrian        CBEFJ93A   448   450/ 43  W25 L3  W16 L6  L8  2.0
+ 19 Rathee, Karandeep      SSMFA57J   412   360/ 18  L17 L21 L13 W28 W27 2.0
+ 20 Zhong, Joey            SSMEH52M   222   237/ 14  L6  L16 W24 W27 L14 2.0
+ 21 Damania, Tanya         SSMFH30B   500   395/  5  L11 W19 L10 L17 W26 2.0
+ 22 Dicosola, Max          SSMFH30A   500   426/  5  W7  L8  L9  L16 W25 2.0
+ 23 Kamasani, Dharshith    BLWEJ06Q   448   394/ 27  BYE L4  L7  D14 L10 1.5
+ 24 Davila, Angel Juarez   SSMFH29Y   500   100/  5  L9  L12 L20 L25 W28 1.0
+ 25 Chung, Ryan            CMCFH29X   500   123/  5  L18 L13 L26 W24 L22 1.0
+ 26 Jasti, Shivani         SSMFH29W   500   243/  5  L8  L7  W25 L15 L21 1.0
+ 27 Seth, Avyaan           SSMEH89C   100   100/ 17  L4  L15 D28 L20 L19 0.5
+ 28 Krishnan, Eshan        SSMEH29U   400   100/  5  L10 L14 D27 L19 L24 0.5

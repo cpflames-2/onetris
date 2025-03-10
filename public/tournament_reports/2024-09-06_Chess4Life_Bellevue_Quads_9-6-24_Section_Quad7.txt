@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Gao, Eason             CHREH75U   335   469/ 27  W4  W2  W3  3.0
+  2 Sankar, Laya           EBSCK11E   322   348/ 21  W3  L1  W4  2.0
+  3 Xu, Jacky Y            SOMCJ59K   334   292/ 26  L2  W4  L1  1.0
+  4 Kachachi, Nicolas      OPWAH63K   100   100/  3  L1  L3  L2  0.0

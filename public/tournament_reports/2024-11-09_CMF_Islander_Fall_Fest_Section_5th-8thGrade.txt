@@ -1,0 +1,20 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Patnaik, Rishabhdeva   PLKGG72D  1382  1371/196  W10 L4  W9  W2  W6  4.0
+  2 Westover, Charlotte    IMSI365V  1274  1281/308  W13 W17 W3  L1  W4  4.0
+  3 Kalian, Illia          WHIGI13T   999  1005/108  W19 D9  L2  W11 W8  3.5
+  4 Ward, Benjamin         IMSHK32Q   973  1092/ 49  W14 W1  D6  W5  L2  3.5
+  5 Kumar, Rishuraj        HEAGK45Y  1084  1040/ 99  W11 L7  W10 L4  W14 3.0
+  6 Lam, Myron             LKDF605K  1070  1066/ 25  W12 D8  D4  W7  L1  3.0
+  7 Reimer, Oliver         IMSGG59D   844   875/ 82  W16 W5  D8  L6  D9  3.0
+  8 Xia, Jethro            BCSFK47R   815   843/107  WF  D6  D7  W13 L3  3.0
+  9 Smith, Peter           IMSG751W   767   838/ 61  W18 D3  L1  W17 D7  3.0
+ 10 Mehta, Shaan           IMSHK27A   721   775/ 44  L1  W14 L5  W15 W13 3.0
+ 11 Bui, Bryant            RDSFH52W   719   713/ 10  L5  W16 D17 L3  W18 2.5
+ 12 Smacinih, Alexander    SOMGG83H   599   611/ 95  L6  W15 L13 D18 W17 2.5
+ 13 Kapoor, Rishaan        PLKHJ28K   763   737/ 40  L2  W19 W12 L8  L10 2.0
+ 14 Takala, Greysen        WHIGE55T   560   562/ 88  L4  L10 W18 W16 L5  2.0
+ 15 Demopulos, Alexander   EVGFF98Z   425   425/ 34  L17 L12 W19 L10 BYE 2.0
+ 16 Gereda-galvis, Lorenzo EHAFH94L   390   393/ 14  L7  L11 BYE L14 W19 2.0
+ 17 Gereda-galvis, JeronimoEHAHH94Q   878   797/ 20  W15 L2  D11 L9  L12 1.5
+ 18 Halabi, Daniel         EHAFH94J   110   133/ 13  L9  BYE L14 D12 L11 1.5
+ 19 Kuo, Mila              NOWFH94K   505   401/ 12  L3  L13 L15 BYE L16 1.0

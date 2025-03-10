@@ -1,0 +1,37 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Zhang, William         ISECJ58L   477   809/ 31  W24 W7  W3  W4  W2  5.0
+  2 Ramana, Vihaan         KKNCJ99P   718   740/ 67  W31 W13 W8  W10 L1  4.0
+  3 Nair, Vihaan           FRWBJ97F   589   667/ 58  W30 W15 L1  W18 W10 4.0
+  4 Gaddam, Viraj          SSMCJ29S   555   616/ 40  W27 W14 W16 L1  W22 4.0
+  5 Prasad, Ishaan         MOBCH61A   319   564/ 30  L6  W29 W11 W13 W12 4.0
+  6 Ip, Egan               SOMCK41L   649   678/ 42  W5  L10 W17 W22 W19 4.0
+  7 Sairam, Advaith        RBRBK01Q   636   637/143  W25 L1  W23 D20 W15 3.5
+  8 Anand, Nivaan          MCEBH64F   487   547/ 82  W33 W21 L2  D15 W17 3.5
+  9 Chai, Bobby            FAPBH05T   551   527/ 10  D19 L16 W36 W23 W20 3.5
+ 10 Premjith, Arnav        FRVCJ20D   507   574/ 24  W26 W6  W12 L2  L3  3.0
+ 11 Pan, Jingyi            SSMCH76N   486   473/ 42  L16 W19 L5  W24 W25 3.0
+ 12 Niu, Edwin             SOMBH73D   590   565/ 46  W35 W22 L10 W14 L5  3.0
+ 13 Cauich-miller, Marco   CSDCJ97P   461   460/ 18  W36 L2  W31 L5  W26 3.0
+ 14 Goncharenko, Peter     CMCCH44B   398   396/ 25  W34 L4  W32 L12 W29 3.0
+ 15 De, Adwik              SSMBJ29V   404   436/ 65  W28 L3  W21 D8  L7  2.5
+ 16 Liu, Steven            CNHCJ02Z   179   372/ 15  W11 W9  L4  L17 D23 2.5
+ 17 Sankar, Laya R         EBSCK11E   615   565/ 48  W18 D23 L6  W16 L8  2.5
+ 18 Li, Jeremy             SOMCJ87A   296   344/ 35  L17 W26 W28 L3  D21 2.5
+ 19 Zhang, Kyle            OPWBJ19N   244   318/ 42  D9  L11 W35 W27 L6  2.5
+ 20 Wang, Max              CGRBK03S   447   424/ 33  L21 W33 W27 D7  L9  2.5
+ 21 Sadhanala, Jaithra     XXXBG74U   100   393/  5  W20 L8  L15 W31 D18 2.5
+ 22 Chen, Yisu             RKWBH78H   435   411/ 58  W32 L12 W25 L6  L4  2.0
+ 23 Hu, Hannah             CMCCG92U   489   426/ 10  W29 D17 L7  L9  D16 2.0
+ 24 Judun Karthick Kumar, ABENBH54W   148   234/ 18  L1  L25 W30 L11 W31 2.0
+ 25 Wang, Shayne           RSACH05Y   311   301/ 10  L7  W24 L22 W32 L11 2.0
+ 26 Poka, Hanish           MOBCH50Y   201   222/ 14  L10 L18 W34 W28 L13 2.0
+ 27 Rajeswaran, Mithran    BENBH35R   247   242/ 14  L4  W34 L20 L19 W35 2.0
+ 28 Harikrishnan, SrivathsaBRHBG78U   311   254/  8  L15 W30 L18 L26 W34 2.0
+ 29 Lew, Theodore          OPWCK28X   150   153/ 88  L23 L5  W33 WF  L14 2.0
+ 30 Nandakiran, Advaith    SSMCJ88H   503   403/134  L3  L28 L24 W33 W32 2.0
+ 31 Xu, Ruiping            SSMCH87E   313   221/ 24  L2  WF  L13 L21 L24 1.0
+ 32 Sharma, Ishaani        FRWCG74T   200   100/  5  L22 W35 L14 L25 L30 1.0
+ 33 Brakenridge, Ryan      SOMBK05L   227   143/ 56  L8  L20 L29 L30 BYE 1.0
+ 34 Kumar, Aarav           NLMBG74R   100   100/  5  L14 L27 L26 D35 L28 0.5
+ 35 Ghosh, Oishani         CBRBJ56E   283   156/ 54  L12 L32 L19 D34 L27 0.5
+ 36 Tulsukchuentanat, PremeWOBBH62Y   100   100/ 10  L13 HPB L9  LF  U   0.5

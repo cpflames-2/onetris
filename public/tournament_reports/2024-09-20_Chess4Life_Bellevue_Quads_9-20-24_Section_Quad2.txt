@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Lin, Luna              OPWDK01W   953  1010/109  W3  L2  W4  2.0
+  2 Zhao, Dennis           OPWI525E  1201  1158/369  D4  W1  L3  1.5
+  3 Plesko, Francis        HSCFK03B   972   984/ 35  L1  D4  W2  1.5
+  4 Yang, Michael          SOMGK00G   918   919/ 45  D2  D3  L1  1.0

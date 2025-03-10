@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chang, Nathan          MMEDK42T   265   356/ 56  D4  W3  W5  2.5
+  2 Sathyamurthy, Shreyus  BLWCJ60Z   303   297/ 86  L3  BYE W4  2.0
+  3 Ram, Yaalini           SNECH87H   178   212/ 11  W2  L1  BYE 2.0
+  4 Vatsan, Maitri         SSMCK00S   398   360/ 97  D1  W5  L2  1.5
+  5 Nandakiran, Advaith    SSMCJ88H   100   100/ 64  BYE L4  L1  1.0

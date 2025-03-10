@@ -1,0 +1,24 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Studer, Nolan          MCIDH65W   644   759/ 18  W6  W7  D2  W4  W8  4.5
+  2 Mirchandani, Kiaan     MEDEK92Z   582   676/ 93  BYE W8  D1  D3  W6  4.0
+  3 Sharma, Kabir          CKNGG78M   600   721/  5  D12 W5  W14 D2  W7  4.0
+  4 Kalla, Manvith         DISDG78L   300   683/  5  D5  W12 W9  L1  W13 3.5
+  5 Swagath, Pranav        BCAEK23N   411   506/ 36  D4  L3  W15 W14 D9  3.0
+  6 Bansal, Aarav          HSCCH28J   308   409/ 11  L1  W22 W10 W16 L2  3.0
+  7 Mcguire, Grace         HSCGH57R   422   456/ 15  W23 L1  W21 W13 L3  3.0
+  8 Xu, Jacky Y            SOMCJ59K   511   515/ 72  W22 L2  W20 W17 L1  3.0
+  9 Lee, Zachary           STTAH63W   519   508/ 28  D19 W15 L4  W12 D5  3.0
+ 10 Mirchandani, Kavir     MEDCJ97A   485   434/ 82  L15 W23 L6  W18 W17 3.0
+ 11 Chin, Kheiron          HSCAJ19P   522   458/ 85  W21 L16 L17 W23 W15 3.0
+ 12 Shetty, Adwik          BNTGH79N   394   420/ 20  D3  L4  W19 L9  W16 2.5
+ 13 Holostov, Benjamin     CRKEJ94A   566   514/ 55  W18 D14 W16 L7  L4  2.5
+ 14 Srinivasan, Ashvin     ISECH10Y   359   381/ 24  W20 D13 L3  L5  W21 2.5
+ 15 Naredi, Anahita        CRKEJ93X   125   254/ 14  W10 L9  L5  W20 L11 2.0
+ 16 Shen, Nolan            CDIEJ28A   383   369/ 26  W17 W11 L13 L6  L12 2.0
+ 17 Thallam, Surya         BCABG78K   100   297/  5  L16 W18 W11 L8  L10 2.0
+ 18 Pan, Charles           SCDAH75R   129   126/ 17  L13 L17 BYE L10 W23 2.0
+ 19 Mcguire, Sophia        HSCEH57G   127   124/ 14  D9  L20 L12 D21 BYE 2.0
+ 20 Mohankumar, Kabilan    CNCCG92V   585   357/ 10  L14 W19 L8  L15 D22 1.5
+ 21 Swagath, Varun         BCABJ11P   100   100/ 10  L11 BYE L7  D19 L14 1.5
+ 22 Kilari, Navaneeth      CDVBG78J   100   100/  4  L8  L6  L23 BYE D20 1.5
+ 23 Naredi, Ishanvi        CRKBG78G   100   100/  5  L7  L10 W22 L11 L18 1.0

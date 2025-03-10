@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chevuri, Tattva        REJHC06V  1288  1296/427  W4  D3  W2  2.5
+  2 Wang, Jasper           ENDEK01P  1171  1180/ 41  W3  W4  L1  2.0
+  3 Sampathi Rao, Sri JayraEVJGK37Y  1044  1059/ 87  L2  D1  W4  1.5
+  4 Becklund, Ezra         JDSIH11H  1000   890/  6  L1  L2  L3  0.0

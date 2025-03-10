@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Tripathi, Aditya       ARMEJ96M   228   316/ 26  D2  W4  W3  2.5
+  2 Kumar, Ayaansh         GRRCG92B   200   317/  3  D1  D3  W4  2.0
+  3 Madadi, Hannah         CGRCH65Y   121   159/ 18  W4  D2  L1  1.5
+  4 Gupta, Aariv           BCABJ99N   100   100/ 17  L3  L1  L2  0.0

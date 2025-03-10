@@ -1,0 +1,15 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Vanderdoes, Hunter     PPADH25L   300   565/  5  W12 W8  W2  W5  D3  4.5
+  2 Hooker, Apryl          GRCGJ93P   290   414/ 38  W6  W9  L1  W7  W5  4.0
+  3 Hooker, Jaina          GRCCJ93L   100   303/ 29  W7  W4  L5  W9  D1  3.5
+  4 Wendler, Fallyn        NSVDH40Q   110   175/ 10  W10 L3  D13 W8  D7  3.0
+  5 Hopkins, Beatrice      MCSFK48P   100   259/ 14  W14 W11 W3  L1  L2  3.0
+  6 Johnson, Austin        NSVEH49W   298   282/ 10  L2  W10 L7  W13 W9  3.0
+  7 Donahoe, Alice         ALTCK48Y   263   255/ 18  L3  W14 W6  L2  D4  2.5
+  8 Frostad, Eleanor       FKSCJ03Y   100   100/ 14  W13 L1  L9  L4  W14 2.0
+  9 Schipf, Abraham        SCBBH25K   100   151/  5  W11 L2  W8  L3  L6  2.0
+ 10 Hertlein, Daniel       SJVFH25J   500   100/  5  L4  L6  W11 W14 L12 2.0
+ 11 Lashley, Aunah         NSVDH49P   114   100/ 13  L9  L5  L10 D12 W13 1.5
+ 12 Holcomb, Calder        SGSAH41C   100   100/  8  L1  L13 L14 D11 W10 1.5
+ 13 Chi, Chase             HUTBH25H   100   100/  5  L8  W12 D4  L6  L11 1.5
+ 14 Wendler, Maverick      NSVBH25G   100   100/  5  L5  L7  W12 L10 L8  1.0

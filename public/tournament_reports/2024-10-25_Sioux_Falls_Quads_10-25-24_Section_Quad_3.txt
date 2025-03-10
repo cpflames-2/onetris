@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Haines, Warren         SXBCZ81U   987  1096/ 99  W2  W4  W3  3.0
+  2 Kocer, Radek           BVIGX75B   932   943/ 93  L1  W3  D4  1.5
+  3 Albrecht, Ian          SDCFZ98P   961   938/106  W4  L2  L1  1.0
+  4 Winter, Noah           SDCFZ88H   957   909/ 65  L3  L1  D2  0.5

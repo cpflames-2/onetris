@@ -1,0 +1,26 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Du, Charles            SOMFA15U   845   975/127  W4  W17 W3  W5  D2  4.5
+  2 Hong, Jamie            CHOG577Q   844   894/ 72  W25 D13 W10 W6  D1  4.0
+  3 Xia, Jethro            BCSFK47R   790   815/103  W19 W23 L1  W9  W10 4.0
+  4 Malhotra, Sartaj       KNDGK69K   614   762/ 82  L1  W22 W23 W12 W8  4.0
+  5 Panda, Sourish         NJHGK98E   822   849/ 38  W9  W15 D11 L1  W13 3.5
+  6 Gattamneni, Viraj      OPWE934M   818   845/ 54  D7  W14 W13 L2  W11 3.5
+  7 Arvapalli, Trinath AashPLKHJ31L   564   717/ 10  D6  L12 W24 W16 W17 3.5
+  8 Kukreja, Aarav         SOMG433H   855   827/ 78  L13 W25 W15 W11 L4  3.0
+  9 Tao, Gary              OPWEI76J   578   660/ 43  L5  W16 W20 L3  W18 3.0
+ 10 Kuo, Mila              NOWFH94K   259   505/  8  BYE W24 L2  W17 L3  3.0
+ 11 Zhang, Amy             SOMEC03P   793   764/135  W18 W20 D5  L8  L6  2.5
+ 12 Singhal, Aryash        HIEF595L   773   727/ 98  L20 W7  W18 L4  D15 2.5
+ 13 Judd, George           PURFJ57F   646   721/ 25  W8  D2  L6  W14 L5  2.5
+ 14 Brar, Angad            PIOEJ52A   589   610/ 45  D24 L6  W21 L13 W20 2.5
+ 15 Tham, Lucas            EVGE984X   546   615/ 39  W16 L5  L8  W23 D12 2.5
+ 16 Shah, Rachit           BNTEK44K   793   699/ 67  L15 L9  W22 L7  W23 2.0
+ 17 Gorski, Corvin         KSTEJ74N   737   670/ 33  W22 L1  W19 L10 L7  2.0
+ 18 Land, Kai              EVGEK54P   488   506/ 30  L11 W21 L12 W19 L9  2.0
+ 19 Armstrong, Benjamin    EVGEK54R   452   439/ 38  L3  BYE L17 L18 W21 2.0
+ 20 Anbuselvam, Mithran    HEAGH61F   484   487/ 18  W12 L11 L9  WF  L14 2.0
+ 21 Sivanand, Raga         OPWEG97Z   660   510/ 40  L23 L18 L14 W22 L19 1.0
+ 22 Mehta, Sanjay          OPWEH60A   400   105/  4  L17 L4  L16 L21 BYE 1.0
+ 23 Rathee, Karandeep      SSMFA57J   400   423/  8  W21 L3  L4  L15 L16 1.0
+ 24 Bondalakunta, Krishna  CNCGK25A   830   728/ 82  D14 L10 L7  LF  U   0.5
+ 25 Venkatesan, Vaibhav    SSMEJ56L   613   583/ 51  L2  L8  U   U   U   0.0

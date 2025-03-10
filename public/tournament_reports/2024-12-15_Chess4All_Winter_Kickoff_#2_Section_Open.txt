@@ -1,0 +1,20 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Bondar, Aliaksei       ADUNH23H  1300  2150/  5  W7  W6  D2  W11 W5  4.5
+  2 Nedumpurakkal Thahir, IRHJKK46Y  1822  1872/ 45  W18 W12 D1  W5  W6  4.5
+  3 Michailov, Robert      LWAM7862  1589  1707/293  W14 W4  L5  W12 W11 4.0
+  4 Yu, Peter              ADUNJ50C  2068  2048/ 43  W8  L3  D11 W7  W12 3.5
+  5 Ackerman, Ryan         ADUNC514  1825  1825/275  W13 W9  W3  L2  L1  3.0
+  6 Lee, Sam               ADUNJ50B  1706  1728/  9  W16 L1  W8  W9  L2  3.0
+  7 Joseph, Veronique      SJOFJ04S  1548  1558/218  L1  W16 W17 L4  W13 3.0
+  8 Rao, Deepak Sri KartikeBPSI517J  1455  1461/190  L4  W10 L6  W19 W15 3.0
+  9 Yuodelis, Kenneth      NPRL3681  1553  1540/465  W19 L5  W15 L6  W14 3.0
+ 10 Zandanov, Leonid       ENADK31Q  1319  1320/167  D11 L8  W19 L13 W18 2.5
+ 11 Kaelin, Alexander      ADUN8539  2007  1970/222  D10 W15 D4  L1  L3  2.0
+ 12 Raja, Rian             SKWH786E  1585  1574/189  W17 L2  W13 L3  L4  2.0
+ 13 Sriram, Aahan          OVLFC03K  1308  1322/ 83  L5  W14 L12 W10 L7  2.0
+ 14 Sreraman, Rohit        BCAEG92Q  1094  1101/286  L3  L13 BYE W17 L9  2.0
+ 15 Bondar, Dmitriy        REDJI117   755   827/ 23  BYE L11 L9  W16 L8  2.0
+ 16 Chaurasia, Vihaan      REJHH65G  1166  1149/200  L6  L7  W18 L15 W19 2.0
+ 17 Latuskiewicz, Matthew  EPSGK21S  1058  1062/ 62  L12 W18 L7  L14 BYE 2.0
+ 18 Soukal, Martin         ADULE76L  1234  1154/ 68  L2  L17 L16 BYE L10 1.0
+ 19 Yellappa, Nandeesh     ADUNH44K   893   873/ 13  L9  BYE L10 L8  L16 1.0

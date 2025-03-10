@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Li, Cody               MAYFH60K   500   933/  3  W3  D2  W5  2.5
+  2 Cai, Emily             CNHDH60H   300   750/  3  W6  D1  W4  2.5
+  3 Alam, Hamza            ADUNH60E  1300   508/  3  L1  W4  W6  2.0
+  4 Huang, Mayson          BRWDH60C   300   340/  3  W5  L3  L2  1.0
+  5 Nori, Vishnu Vallabha  CBRBJ06A   100   115/ 16  L4  W6  L1  1.0
+  6 Lu, Olivia             ETSBJ12P   100   100/ 14  L2  L5  L3  0.0

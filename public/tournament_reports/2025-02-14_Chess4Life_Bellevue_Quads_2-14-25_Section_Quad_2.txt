@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Yang, Michael          SOMGK00G   987  1078/ 69  W2  D3  W4  2.5
+  2 Sampathi Rao, Sri JayraEVJGK37Y  1059  1075/ 90  L1  W4  W3  2.0
+  3 Tsay, Elon             LKDEK07B  1081  1067/129  W4  D1  L2  1.5
+  4 Du, Charles            SOMFA15U   934   881/144  L3  L2  L1  0.0

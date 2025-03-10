@@ -1,0 +1,24 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Bala Gowda, Nibha V    CTXIX04C   639   777/108  W17 W22 W8  W9  4.0
+  2 Sedor, Maxwell Stephen CTXNX13G  1300  1490/  4  W7  W10 W9  W3  4.0
+  3 Arunachalam, Tarunika  CTXHX02H   566   725/  8  W12 W13 W14 L2  3.0
+  4 Bakal, Noah            NYXGX12V   678   652/  4  W23 L14 W18 W13 3.0
+  5 Panigrahi, Nikhil      CTXJZ758  1000   903/  7  L9  BYE W22 W14 3.0
+  6 Costa Ii, Christopher JMAXNX12Z   700   760/  3  W19 L9  WF  W12 3.0
+  7 Tang, Kristal          CTXGX13P   533   551/104  L2  D17 W23 W18 2.5
+  8 Bala Gowda, Nihal V    CTXGX04F   484   502/108  W21 D18 L1  W17 2.5
+  9 Gudipati, Aadvik KrishnCTXFX13C   655   748/104  W5  W6  L2  L1  2.0
+ 10 Cornwell, Elijah Don   CTXNX12Y   526   880/  3  W15 L2  LF  W22 2.0
+ 11 Tuktamyshov, Timur     CTXFX13Q   462   412/104  L18 W21 L13 W23 2.0
+ 12 Stotskyy, Daniel       CTXIX13N   434   565/104  L3  W19 W15 L6  2.0
+ 13 Giannopoulos, Angelo   CTXFX13B   264   529/  3  BYE L3  W11 L4  2.0
+ 14 Baker, Michael         CTXNX12X  1365   759/  4  W16 W4  L3  L5  2.0
+ 15 Poissonier, Joshua AlexCTXNZ74Y   880   772/  8  L10 W20 L12 W19 2.0
+ 16 Alluri, Sayujya        MAXBX12U   483   435/104  L14 D23 L17 W20 1.5
+ 17 Kleindienst, Ryan      CTXNX13D   400   465/  4  L1  D7  W16 L8  1.5
+ 18 Diluna, Arjun Rohan    CTXJX13A   400   464/  4  W11 D8  L4  L7  1.5
+ 19 Lysenko, Maxim         CTXCX13F   662   576/104  L6  L12 W21 L15 1.0
+ 20 Lysenko, David         CTXEX13E   503   406/103  L22 L15 BYE L16 1.0
+ 21 Shakeel, Faizan        CTXKX13M   346   100/  3  L8  L11 L19 BYE 1.0
+ 22 Patil, Anvi Sandeep    CTXHX04E   402   464/  8  W20 L1  L5  L10 1.0
+ 23 Lora, Radwal           CTXMX04J   142   168/  8  L4  D16 L7  L11 0.5

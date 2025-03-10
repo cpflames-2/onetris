@@ -1,0 +1,21 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Davis, Milo            HSCBH07M   100   891/  5  W16 W6  W12 W4  W3  5.0
+  2 Whitney, Jamen         HSCFH07L   500   844/  5  W12 W13 W10 W5  W7  5.0
+  3 Elkins, Skywalker      HSCBH54M   291   447/ 15  W15 W9  W5  W11 L1  4.0
+  4 Davis, Logan           HSCEH07K   400   530/  5  W11 D10 W6  L1  W14 3.5
+  5 Jimenez, Malcolm       NSVEJ26U   252   340/ 20  W18 W8  L3  L2  W13 3.0
+  6 Richards, Benjamin     NSVDH49S   213   341/ 15  W14 L1  L4  W15 W10 3.0
+  7 Bowman, Gibson         HSCBH07H   100   461/  5  L10 W16 W13 W8  L2  3.0
+  8 Whitney, Kaiden        HSCCH07G   200   303/  5  W19 L5  W18 L7  W11 3.0
+  9 Rogers, Mason          FARDH07E   300   288/  5  W17 L3  L11 W19 W16 3.0
+ 10 Ikehara, Asher         CEVCH91W   398   423/ 15  W7  D4  L2  W12 L6  2.5
+ 11 Wendler, Fallyn        NSVDH40Q   175   196/ 15  L4  W15 W9  L3  L8  2.0
+ 12 Duncan, Aj             MCSEH49T   375   358/ 17  L2  W20 L1  L10 W18 2.0
+ 13 Gambill, Amelia        ORSDH07B   300   233/  5  W20 L2  L7  W17 L5  2.0
+ 14 Whitney, Evan          HSCDH07A   300   169/  5  L6  D17 D16 W18 L4  2.0
+ 15 Malmquist, Greyson     CATCH06Z   200   150/  5  L3  L11 W20 L6  W19 2.0
+ 16 Johnson, Austin        NSVEH49W   282   233/ 15  L1  L7  D14 W20 L9  1.5
+ 17 Farr Warner, Micah     NSVCH41H   100   100/ 10  L9  D14 L19 L13 W20 1.5
+ 18 Hinton, Ryker          ORSCH06Y   200   100/  5  L5  W19 L8  L14 L12 1.0
+ 19 Frostad, Eleanor       FKSCJ03Y   100   100/ 19  L8  L18 W17 L9  L15 1.0
+ 20 Wendler, Maverick      NSVBH25G   100   100/ 10  L13 L12 L15 L16 L17 0.0

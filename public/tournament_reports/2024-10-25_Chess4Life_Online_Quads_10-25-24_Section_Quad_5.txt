@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Anbuselvam, Mithran    HEAGH61F   586   620/ 36  W3  W4  L2  2.0
+  2 Liao, Joe              MEDHE93Z   717   679/ 67  L4  D3  W1  1.5
+  3 Rajeesh, Sourav        GTMI562H   576   581/ 43  L1  D2  W4  1.5
+  4 Suresh, Shruti         MTWF650Q   477   484/ 40  W2  L1  L3  1.0

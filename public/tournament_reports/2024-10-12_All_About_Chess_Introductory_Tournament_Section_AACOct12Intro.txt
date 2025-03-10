@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Mazer, Harvey          SNEEJ59E   644   647/ 24  L3  W6  WF  W4  3.0
+  2 Nam, Alex              BLWEH75Q   433   484/ 60  W10 L5  W9  W7  3.0
+  3 Madsen, Levi           BLWDH80Z   268   505/  8  W1  L8  W7  W5  3.0
+  4 Charles, Benjamin      SOMBJ06G   686   673/ 48  W8  W7  D5  L1  2.5
+  5 Li, Ethan James        SOMCK00K   721   689/ 83  W9  W2  D4  L3  2.5
+  6 Chai, Aaron            SSMCH58L   200   331/  4  L7  L1  W10 W9  2.0
+  7 Bhandari, Aarav        CBREJ06H   555   481/ 54  W6  L4  L3  L2  1.0
+  8 Zhang, Chuxuan         GRRGK02N   383   425/ 21  L4  W3  LF  U   1.0
+  9 Gu, Ximu               ENDBJ05X   126   134/ 19  L5  W10 L2  L6  1.0
+ 10 Rajan, Yash            CDIDH58J   300   100/  3  L2  L9  L6  BYE 1.0

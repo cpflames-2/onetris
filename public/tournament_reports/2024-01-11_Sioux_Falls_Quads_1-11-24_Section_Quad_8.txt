@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Mcfayden, Skylar       SDBHZ75Q   250   412/ 27  W3  W4  W2  3.0
+  2 Friman, Jamison        SFNCZ69N   200   167/  3  W4  L3  L1  1.0
+  3 Burgers, Taylee        SDCHZ768   295   251/ 13  L1  W2  L4  1.0
+  4 Fiorita, Gus           SDGCZ76F   299   233/  7  L2  L1  W3  1.0

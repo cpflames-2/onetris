@@ -1,0 +1,17 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Mazer, Harvey          SNEEJ59E   637   660/ 42  W16 W5  W4  L3  3.0
+  2 Gu, Ximu               ENDBJ05X   153   371/ 26  W3  W6  L8  W12 3.0
+  3 Anthony, Kellan        CKNGH14W   805   693/  7  L2  W13 W11 W1  3.0
+  4 Charles, Benjamin      SOMBJ06G   707   685/ 85  W15 W8  L1  W9  3.0
+  5 Xiong, Aria            DISBH14J   288   432/  7  W9  L1  W12 W8  3.0
+  6 Zhu, Anna              SOMDH30X   208   252/ 11  W13 L2  W10 D7  2.5
+  7 Karthikeyan, Akhilan   CRKFH13C   500   262/  4  D12 D10 W13 D6  2.5
+  8 Ram, Yaalini           SNECH87H   308   335/ 41  W14 L4  W2  L5  2.0
+  9 Sealey, Isaac          SNIEK43S   228   252/ 22  L5  W14 W16 L4  2.0
+ 10 Balaji, Vaibhav        SSMCH28Z   118   144/ 20  D11 D7  L6  W16 2.0
+ 11 Burks, Phillip         SNIEK43P   105   111/ 20  D10 D12 L3  D14 1.5
+ 12 Nandakiran, Advaith    SSMCJ88H   212   176/112  D7  D11 L5  L2  1.0
+ 13 Yan, Dana              SOMEH13B   400   100/  4  L6  L3  L7  W15 1.0
+ 14 Yan, Nolan             SOMBH13A   100   100/  4  L8  L9  D15 D11 1.0
+ 15 Bhatia, Harmaan        SSMCH29D   100   100/  9  L4  D16 D14 L13 1.0
+ 16 Zhu, Aron              SOMCH30W   135   100/ 11  L1  D15 L9  L10 0.5

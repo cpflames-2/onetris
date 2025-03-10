@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Deshmukh, Dhruv        ENDEH79Q   605   816/ 81  W3  W4  W2  3.0
+  2 Doshi, Ishaan          LAVFJ54C   684   731/ 26  W4  W5  L1  2.0
+  3 Dasari, Ranveer        SSMGJ31X   657   707/ 28  L1  W6  W5  2.0
+  4 Kesher, Zavi           BENEH62L   685   657/ 32  L2  L1  W6  1.0
+  5 Tripathi, Naksh        BRHDJ98P   702   660/ 97  W6  L2  L3  1.0
+  6 Bawa, Neer             LAVDE81P   673   576/ 51  L5  L3  L4  0.0

@@ -1,0 +1,13 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Qian, Jack Letian      CTXGX04Z  1709  1724/111  W9  W3  W2  W4  4.0
+  2 Ghosh, Arush           CTXIX00W  1530  1517/115  W7  W11 L1  D3  2.5
+  3 Coggin, Paul Mikhail   CTXHX03X  1193  1244/118  W12 L1  W11 D2  2.5
+  4 Edelschick, Daniel     NYXJZ67P   900  1397/  3  HPB W8  W10 L1  2.5
+  5 Piao, Aaron Chawyn     CTXIX01X  1240  1246/111  HPB L6  W12 W10 2.5
+  6 Potts, Christopher     CTXNZ67N  1770  1770/  2  HPB W5  U   W7  2.5
+  7 Chung Ii, Michael      NYXNZ67M  1189  1196/  3  L2  BYE W9  L6  2.0
+  8 Middleton, Christo     CTXHZ67L  1092  1071/  3  L11 L4  BYE W12 2.0
+  9 Rundle, Nathaniel      MAXNZ67K  1300   830/  3  L1  D12 L7  BYE 1.5
+ 10 O'doherty, Orhan G     NYXFZ67J   500   848/  2  BYE HPB L4  L5  1.5
+ 11 Hernandez, Jorge H     MDXNZ67H  1300  1151/  3  W8  L2  L3  U   1.0
+ 12 Wilson, Warren Jr      NYXNZ67G  1300   817/  4  L3  D9  L5  L8  0.5

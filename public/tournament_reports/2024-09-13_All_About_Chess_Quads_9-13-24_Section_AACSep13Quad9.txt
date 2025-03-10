@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Paidapathi, Kiaan      SHSCJ99C   377   523/114  W4  W2  W3  3.0
+  2 Vatsan, Maitri         SSMCK00S   351   398/ 94  W3  L1  W4  2.0
+  3 Sathyamurthy, Shreyus  BLWCJ60Z   366   303/ 84  L2  D4  L1  0.5
+  4 Chang, Nathan          MMEDK42T   310   265/ 53  L1  D3  L2  0.5

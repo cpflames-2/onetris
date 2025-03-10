@@ -1,0 +1,8 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 tot 
+  1 Sankar, Deethya        EBSBH63X   488   556/ 12  W3  D4  W2  W6  W7  W5  5.5
+  2 Chin, Kheiron          HSCAJ19P   651   635/ 65  W7  W6  L1  W3  W4  BYE 5.0
+  3 Song, Leonardo         CCDAH73E   341   382/ 10  L1  W5  W4  L2  BYE W6  4.0
+  4 Tie, Samuel            XXXAH44T   100   284/  5  W5  D1  L3  BYE L2  D7  3.0
+  5 Reddy, Aishini         DHLAH44S   100   197/  5  L4  L3  BYE W7  W6  L1  3.0
+  6 Sagar, Rhea            DHLBJ92U   100   100/ 24  BYE L2  W7  L1  L5  L3  2.0
+  7 Avuthu, Sreesha Reddy  DHLAH44R   100   100/  5  L2  BYE L6  L5  L1  D4  1.5

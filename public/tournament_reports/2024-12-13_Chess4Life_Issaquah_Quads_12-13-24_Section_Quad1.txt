@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhou, Sean             ICSIH56S  1268  1258/ 11  U   D3  W2  1.5
+  2 Leon, Nikhil           TMBG587T  1106  1100/145  W3  U   L1  1.0
+  3 Anbuselvam, Mithran    HEAGH61F   842   857/ 92  L2  D1  U   0.5

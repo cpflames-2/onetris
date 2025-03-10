@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Peterson, Caden        BHMLJ85V   648   722/ 29  W6  D5  W2  2.5
+  2 Phillips, Lucas        BLHM696K   648   675/ 37  W7  W3  L1  2.0
+  3 Oscarson, Ethan        SQULK99S   617   655/ 19  W4  L2  W5  2.0
+  4 Harris, Eli            MRDMJ85Q   530   588/ 21  L3  W7  W6  2.0
+  5 Lee, Jensen            MRDL947B   594   597/ 43  W8  D1  L3  1.5
+  6 Kerr, Ethan            BLHMJ06N   562   536/ 44  L1  W8  L4  1.0
+  7 Becker, Griffin        SHMKJ59Z   545   516/ 11  L2  L4  W8  1.0
+  8 Moran, Kristopher      SHMJK97H   544   445/ 13  L5  L6  L7  0.0

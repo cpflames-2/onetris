@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Neff, Evan             HSSKF02C   777   772/ 81  W4  W3  L2  2.0
+  2 Bergan, Rachel         SFZFZ45U   687   709/108  W3  L4  W1  2.0
+  3 White, Emma            SDAFZ34W   631   613/ 79  L2  L1  W4  1.0
+  4 Terpstra, John         SDSFZ845   574   574/ 46  L1  W2  L3  1.0

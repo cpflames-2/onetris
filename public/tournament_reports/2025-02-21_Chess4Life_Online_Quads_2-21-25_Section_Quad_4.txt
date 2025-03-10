@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ramana, Vihaan         KKNCJ99P   740   822/ 70  D2  W4  W3  2.5
+  2 Kulkarni, Samik        KKNBH67M   695   803/ 29  D1  W3  W4  2.5
+  3 Arvind, Neeti          SHSHG66L   813   765/ 45  W4  L2  L1  1.0
+  4 Singh, Rishima         TWFHH67N   632   577/ 14  L3  L1  L2  0.0

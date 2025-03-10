@@ -1,0 +1,27 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Aguayo, Chase          LSPIH66L   668   809/ 15  W18 W17 W8  W7  W2  5.0
+  2 Clark, Phineas         HSCGJ05Q   627   760/ 30  W5  W21 W4  W6  L1  4.0
+  3 Young, Daniel          TNTHJ96U   576   648/ 60  W11 W13 L6  W12 W10 4.0
+  4 Autry-dalsanders, Reed MMDGK48X   566   584/ 57  W24 W20 L2  W19 W16 4.0
+  5 Scordino, Oscar        LBYHH50G   700   728/  5  L2  W25 W20 W14 W7  4.0
+  6 Rushton, Finley        LBYHH50E   700   773/  5  W21 W18 W3  L2  W8  4.0
+  7 Brown, Claire          CATEJ62Y   585   597/ 35  W19 W10 W14 L1  L5  3.0
+  8 Aguilar, Alexander     MMJFJ26P   423   482/ 20  W12 W22 L1  W11 L6  3.0
+  9 Stewart, Ben           SJVEJ87Y   226   289/ 20  W25 L14 L12 W26 W20 3.0
+ 10 Dinesh Babu, Darshini  GNAEH50D   400   505/  5  W26 L7  W21 W13 L3  3.0
+ 11 Walters, Conner        HSCJH50C   900   435/  5  L3  W16 W17 L8  W26 3.0
+ 12 Rawlings, Alexander    HSCEH49Z   400   437/  5  L8  W23 W9  L3  W17 3.0
+ 13 Odell, Eric            LLKDH49Y   300   483/  5  W16 L3  W15 L10 W19 3.0
+ 14 Proulx, Aidan          MMJGH49X   600   444/  5  W23 W9  L7  L5  W25 3.0
+ 15 Elkins, Skywalker      HSCBH54M   329   291/ 10  L20 W24 L13 D21 W23 2.5
+ 16 Aguilar, Christian     MMJDJ26T   268   276/ 20  L13 L11 W18 W22 L4  2.0
+ 17 Richard, Wyatt         SWEFJ05B   200   183/  8  BYE L1  L11 W23 L12 2.0
+ 18 Johnson, Austin        NSVEH49W   400   298/  5  L1  L6  L16 W24 W22 2.0
+ 19 Smith, Wesley          LBYEH49V   400   290/  5  L7  W26 W25 L4  L13 2.0
+ 20 Duncan, Aj             MCSEH49T   400   318/  5  W15 L4  L5  W25 L9  2.0
+ 21 Richards, Benjamin     NSVDH49S   300   291/  5  L6  L2  L10 D15 W24 1.5
+ 22 Gichuki, Cheyenne      ALTEH49R   400   101/  4  HPB L8  W26 L16 L18 1.5
+ 23 Lashley, Aunah         NSVDH49P   300   100/  5  L14 L12 W24 L17 L15 1.0
+ 24 Bergom, Everett        SWECH49N   200   100/  5  L4  L15 L23 L18 L21 0.0
+ 25 Johnson, Owen          NSVCH49M   200   100/  5  L9  L5  L19 L20 L14 0.0
+ 26 Fryer-nagel, Jaedan    NSVDH49L   300   100/  5  L10 L19 L22 L9  L11 0.0

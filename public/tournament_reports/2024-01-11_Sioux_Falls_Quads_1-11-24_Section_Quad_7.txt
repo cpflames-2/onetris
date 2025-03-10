@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Mills, Ta'te           SDYHZ98Q   367   531/ 41  W4  W2  W3  3.0
+  2 Schwab, Brady          SDYHZ96V   417   439/ 26  W3  L1  W4  2.0
+  3 Headley, Austin        SDADZ802   308   302/ 24  L2  W4  L1  1.0
+  4 Burgers, Brexton       SDCEZ764   378   286/ 14  L1  L3  L2  0.0

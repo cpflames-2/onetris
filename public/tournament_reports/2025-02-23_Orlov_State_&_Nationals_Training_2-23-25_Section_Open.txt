@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 tot 
+  1 Li, Anyi               LKDDJ55F  1271  1292/135  W5  1.0
+  2 Lai, Ryan              SHSBH70N  1159  1187/ 80  W6  1.0
+  3 Ruan, Jiyong           SHSDJ19W   964   962/ 51  D4  0.5
+  4 Zhang, Patrick         SSSCK01J   943   945/237  D3  0.5
+  5 Zhang, Kevin           WOBG809Y  1220  1198/166  L1  0.0
+  6 Chou, Eugene           SSMEJ56Y  1174  1146/107  L2  0.0

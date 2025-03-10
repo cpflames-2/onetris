@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Vehar, Jonah           SDBGZ96S   767   788/ 61  W3  W4  L2  2.0
+  2 Jensen, Maxwell        SDRGX88L   831   833/ 83  W4  L3  W1  2.0
+  3 Davis, Lincoln         SDSEZ99N   711   693/ 92  L1  W2  L4  1.0
+  4 Selken, Kordelia       SDAFX83W   670   665/158  L2  L1  W3  1.0

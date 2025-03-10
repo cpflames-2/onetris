@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Charles, Benjamin      SOMBJ06G   552   661/ 75  W3  W4  W2  3.0
+  2 Sathyamurthy, Shreyus  BLWCJ60Z   629   621/104  W4  W3  L1  2.0
+  3 Nandakiran, Advaith    SSMCJ88H   305   326/ 97  L1  L2  W4  1.0
+  4 Chang, Nathan          MMEDK42T   421   347/ 97  L2  L1  L3  0.0

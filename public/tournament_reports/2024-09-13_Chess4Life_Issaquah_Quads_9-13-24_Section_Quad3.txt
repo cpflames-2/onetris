@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Gao, Eason             CHREH75U   469   551/ 29  W3  U   W2  2.0
+  2 Chen, Alex             ENDDK03T   632   605/ 40  U   W3  L1  1.0
+  3 Goyal, Avyukt          CNHBJ65X   462   411/ 54  L1  L2  U   0.0

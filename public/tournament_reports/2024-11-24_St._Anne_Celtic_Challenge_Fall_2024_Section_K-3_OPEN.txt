@@ -1,0 +1,10 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Liu, Kyle              CNHCK00Z   820  1006/ 30  W4  W3  L2  W7  W9  4.0
+  2 Chen, Eason            SOMBJ59F   844  1003/ 87  W7  W8  W1  L3  W4  4.0
+  3 Lai, Ryan              SHSBH70N  1064  1048/ 34  WF  L1  D5  W2  W8  3.5
+  4 Ruan, Jiyong           SHSDJ19W   938   926/ 30  L1  D5  W8  W6  L2  2.5
+  5 Byelashova, Sofia      SGHCK01K   794   806/104  D6  D4  D3  L9  BYE 2.5
+  6 Bolisetty, Varun       CBRDJ73Z   969   906/112  D5  L9  BYE L4  W7  2.5
+  7 Gui, Joyce             OPWCH92C   768   763/ 62  L2  BYE W9  L1  L6  2.0
+  8 Daniel, Lemuel         BLCDJ29L   809   795/ 23  W9  L2  L4  BYE L3  2.0
+  9 Krogstad, Jaxon        NCSDJ88M   927   878/120  L8  W6  L7  W5  L1  2.0

@@ -1,0 +1,8 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Tomarong, Shane        RRHMH57X  1488  1498/ 10  W5  W4  W2  W3  W6  5.0
+  2 Murphy, Tristan        YELJK18X  1060  1094/ 39  W3  W7  L1  BYE W5  4.0
+  3 Tokgoz, Devin          BEPJH38R   900  1037/  5  L2  W6  W5  L1  W7  3.0
+  4 Indovina, Jacob        BEPJH38Q   900   816/  4  W6  L1  W7  L5  BYE 3.0
+  5 Diloy, Sylvester       BRMKH80P   810   817/ 14  L1  BYE L3  W4  L2  2.0
+  6 Dela Pena, Brandon     CKHKH80R   848   807/ 14  L4  L3  BYE W7  L1  2.0
+  7 Mcguire, Estelle       HSCJH57U   427   407/  9  BYE L2  L4  L6  L3  1.0

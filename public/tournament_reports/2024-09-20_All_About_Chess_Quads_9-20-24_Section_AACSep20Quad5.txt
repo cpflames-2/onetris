@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chai, Chloe            NCSDJ59R   906   991/108  W3  D2  W4  2.5
+  2 Bolisetty, Varun       CBRDJ73Z   866   925/ 80  D4  D1  W3  2.0
+  3 Sathyamurthy, Sreeshan EVJIJ24M   904   884/111  L1  W4  L2  1.0
+  4 Pan, Peng-chi          SSMDK24N   973   908/134  D2  L3  L1  0.5

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhang, Eli             BCACH69C   290   456/ 24  W3  W4  W2  3.0
+  2 Beasley, Chloe         LLFEH65R   233   224/  9  W4  L3  L1  1.0
+  3 Xu, Jacky Y            SOMCJ59K   292   265/ 29  L1  W2  L4  1.0
+  4 Lai, Brycen            WLBEK02D   341   297/ 27  L2  L1  W3  1.0

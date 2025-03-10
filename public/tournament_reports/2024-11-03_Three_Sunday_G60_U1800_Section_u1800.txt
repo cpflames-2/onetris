@@ -1,0 +1,14 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 tot 
+  1 Seshadri, Sridhar      ADUNC121  1600  1613/ 91  W11 W6  W3  W2  W4  W5  6.0
+  2 Flores Uriegas, Andres HLYF159F  1097  1081/ 77  W12 W4  W6  L1  W5  L3  4.0
+  3 Wani, Vivaan Vikram    GTMJK15E   999   999/ 58  W10 W7  L1  L4  W8  W2  4.0
+  4 Vuta, Bhuvana          FRWFH63D   728   820/ 19  BYE L2  W11 W3  L1  W6  4.0
+  5 Charuvil Vinu, Suryen  RSHBJ89R   678   691/ 67  HPB HPB W13 W7  L2  L1  3.0
+  6 Tummuru, Nirvan        FRWEK06N   616   630/ 31  W13 L1  L2  W11 W7  L4  3.0
+  7 Alle, Vihaan Shaurya   MLECJ72B   456   506/ 53  W8  L3  W10 L5  L6  W11 3.0
+  8 Aphale, Rugved         KKNBH48S   100   315/  5  L7  D13 W12 W9  L3  HPB 3.0
+  9 Duraikondaar, Dhaswin  FRWCH75Y   152   143/ 25  HPB HPB HPB L8  L11 W12 2.5
+ 10 Ramana, Vihaan         KKNCJ99P   630   583/ 54  L3  BYE L7  W13 U   U   2.0
+ 11 Narayan Komara, VasishtFRWFH48R   500   345/  6  L1  W12 L4  L6  W9  L7  2.0
+ 12 Kalyanasundaram, SrinivCNCCH48Q   200   100/  5  L2  L11 L8  BYE W13 L9  2.0
+ 13 Konduri, Agasthya      KKNAH51G   134   100/ 10  L6  D8  L5  L10 L12 BYE 1.5

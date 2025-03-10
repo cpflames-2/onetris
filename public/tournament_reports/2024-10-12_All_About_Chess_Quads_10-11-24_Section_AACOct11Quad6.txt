@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Desai, Vivaan          BCABJ49H   727   861/ 42  W3  W2  W4  3.0
+  2 Malhotra, Dilraj       MAHCK02Y   662   730/ 70  W4  L1  W3  2.0
+  3 Charles, Benjamin      SOMBJ06G   708   686/ 44  L1  W4  L2  1.0
+  4 Zhang, Patrick         SSSCK01J   737   650/152  L2  L3  L1  0.0

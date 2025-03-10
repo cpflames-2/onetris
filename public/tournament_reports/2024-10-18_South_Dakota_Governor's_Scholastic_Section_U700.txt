@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Linder, Rye            HSSEZ98G   620   692/ 13  W6  W5  W4  W2  L3  4.0
+  2 Brown, Gabe            DPBDZ81Y   282   485/ 10  W7  W6  W5  L1  W8  4.0
+  3 Alagankancharla, SashwiXXZDZ73V   300   754/  4  BYE L4  W7  W6  W1  4.0
+  4 Beal, Case             SDAGZ69B   665   648/ 37  W8  W3  L1  W7  L6  3.0
+  5 Backstrom, Tidus       SDABH75M   573   536/ 12  WF  L1  L2  W8  W7  3.0
+  6 Guetter, Nolan         BVIFZ95Z   393   387/ 31  L1  L2  D8  L3  W4  1.5
+  7 Beynon, Jaxon          SDSDZ89P   655   536/ 76  L2  W8  L3  L4  L5  1.0
+  8 Bassett, Ryker         BVIFZ73U   500   183/  5  L4  L7  D6  L5  L2  0.5

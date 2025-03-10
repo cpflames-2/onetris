@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bravenboer, Jake       OPWEJ97Y  1058  1119/100  W4  D6  W3  2.5
+  2 Chaporkar, Nihar       ENSEK65B  1129  1131/ 74  W6  L3  W4  2.0
+  3 Wang, Evan             PLKIB88C   986  1045/ 82  W5  W2  L1  2.0
+  4 He, Jizhou             MEDD789B  1110  1073/ 97  L1  W5  L2  1.0
+  5 George, Ameya          EBSFK88Y   916   911/ 87  L3  L4  W6  1.0
+  6 Lin, Luna              OPWDK01W   994   953/106  L2  D1  L5  0.5

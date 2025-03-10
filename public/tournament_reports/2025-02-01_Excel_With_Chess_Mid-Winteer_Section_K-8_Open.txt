@@ -1,0 +1,29 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Ghosh, Snehil          CBRF738T  1391  1403/222  D17 W25 W18 W4  W2  4.5
+  2 Kim, Dylan             TYEGK38L  1281  1329/196  W21 W10 W9  W3  L1  4.0
+  3 Gagnier, Ian           HSCGC72H  1459  1449/219  W19 W11 W5  L2  W6  4.0
+  4 Mohapatra, Aditya      PLKHH25D   763  1056/ 10  W8  W7  W6  L1  W13 4.0
+  5 Damrau, Austin         ELKGK95E  1090  1167/ 90  W14 W20 L3  W17 W7  4.0
+  6 Hu, Yi-en Pi           BCAEK35P  1114  1123/ 91  W23 W13 L4  W10 L3  3.0
+  7 Leon, Nikhil           TMBG587T  1100  1097/150  W27 L4  W19 W9  L5  3.0
+  8 Ivanov, Matvei         EABDK34E  1020  1017/ 93  L4  W23 D14 W20 D12 3.0
+  9 Huang, Edwin           OMSH616M  1037  1066/ 95  W26 W18 L2  L7  W17 3.0
+ 10 Iyer, Hrishaan Arjun   BISGJ57L  1026  1054/ 41  W28 L2  W21 L6  W18 3.0
+ 11 Rachiba, Alisa         EVPEK08E  1067  1073/187  W22 L3  L17 W21 W19 3.0
+ 12 Delacroix, Styles      HSCHG93F   700  1008/  5  L13 W27 D15 W16 D8  3.0
+ 13 Kayali, Kana           EBSDJ29N   980   993/ 30  W12 L6  D16 W15 L4  2.5
+ 14 Liu, Alvin             RSAFH37P   846   929/  9  L5  W24 D8  L18 W23 2.5
+ 15 Swain, Samarth         MMECJ58S  1015   979/228  D25 D17 D12 L13 W20 2.5
+ 16 Chadha, Saahan         ENDEK64R   883   908/ 51  L18 W26 D13 L12 W24 2.5
+ 17 Xia, Jethro            BCSFK47R   946   975/141  D1  D15 W11 L5  L9  2.0
+ 18 Lagzdin, Mikhail       BCACJ96R  1161  1114/ 60  W16 L9  L1  W14 L10 2.0
+ 19 Fan, Theodore          LTLCK42S   968   959/ 90  L3  W22 L7  W26 L11 2.0
+ 20 Guruprasad, Saketh     RBRFE50W   726   774/ 41  W24 L5  W25 L8  L15 2.0
+ 21 Guzman, Nate           TPSG939A   922   916/156  L2  W28 L10 L11 W26 2.0
+ 22 Jayasinghe, Sihas      TMBGJ83E   842   812/ 51  L11 L19 L24 WF  W27 2.0
+ 23 Jibin, Kevin           REJHH82A   860   833/ 25  L6  L8  W28 D24 L14 1.5
+ 24 Davenport, Raymond     INGHD41L   991   901/ 69  L20 L14 W22 D23 L16 1.5
+ 25 Hasson, Ari            SJCBJ47L   733   700/ 49  D15 L1  L20 L27 BYE 1.5
+ 26 Kennedy, Owen          TWFHH14N   852   802/ 22  L9  L16 W27 L19 L21 1.0
+ 27 Nishino, Anne          BCADH74F   844   780/105  L7  L12 L26 W25 L22 1.0
+ 28 Dixit, Shivaan         CMCEK18F   786   731/ 23  L10 L21 L23 LF  U   0.0

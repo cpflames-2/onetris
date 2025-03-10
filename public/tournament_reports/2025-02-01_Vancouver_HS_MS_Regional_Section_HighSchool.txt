@@ -1,0 +1,30 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Heath, Derek           CMHJ1458  2074  2075/311  WF  W10 W18 W2  W3  5.0
+  2 Cruz, Justin           PRHLJ91C  1076  1314/ 31  W12 W4  W6  L1  W8  4.0
+  3 Raj, Jayahari          UHVK227V  1363  1399/176  W15 W19 W7  W8  L1  4.0
+  4 Gomez-paz, Alex        SENMH99S  1214  1238/ 11  W25 L2  W20 W9  W7  4.0
+  5 Carbajal-vargas, Eric  PRHLK78R  1043  1152/ 21  W20 L6  W26 W16 W11 4.0
+  6 Vansickle, Blake       PCIMK81L  1495  1467/ 19  W23 W5  L2  D10 W18 3.5
+  7 Truong, Tein           PRHLK11W   725   971/ 35  W17 W11 L3  W18 L4  3.0
+  8 Sears, Luke            PRHMK12B  1430  1399/ 36  W21 W9  W16 L3  L2  3.0
+  9 Crum, Connor           SENKK76S  1043  1106/ 21  W13 L8  W12 L4  W21 3.0
+ 10 Hernandez-robledo, MariITPLK81F  1085  1159/ 15  W22 L1  W17 D6  D16 3.0
+ 11 Johnson, Charles       SENLK81V  1208  1177/ 26  W29 L7  W15 W13 L5  3.0
+ 12 Nelson, Brandon        BATLG94X  1100  1092/  5  L2  W21 L9  W25 W19 3.0
+ 13 Kennedy, Kian          ITPJG94W   900  1007/  5  L9  W27 W14 L11 W23 3.0
+ 14 Garcia, Diego          PRHLJ41D   957   969/ 21  W26 L18 L13 W19 W22 3.0
+ 15 Penner, Brandon        CRXKG94V  1000  1035/  5  L3  W22 L11 D17 W25 2.5
+ 16 White, Preston         CORMK81J  1160  1131/ 20  W28 WF  L8  L5  D10 2.5
+ 17 Sanders, Lincoln       SENMG94U  1200   911/  5  L7  W28 L10 D15 W27 2.5
+ 18 Young Byle, Tynan      SENKK829  1276  1237/160  W27 W14 L1  L7  L6  2.0
+ 19 Nieda, Zach            SENMK56D   726   781/ 15  W24 L3  W25 L14 L12 2.0
+ 20 Manzano, Shane         CRXLG94S  1100   800/  5  L5  W23 L4  L21 W26 2.0
+ 21 Vopalka, Vojtech       CORMG94R  1200   889/  5  L8  L12 W28 W20 L9  2.0
+ 22 Krieger, Derek         PCIIG94Q   800   807/  5  L10 L15 W29 W24 L14 2.0
+ 23 Dominge, Andy          SENK486W   400   449/ 24  L6  L20 BYE W26 L13 2.0
+ 24 Wasswa, Noah           BATLG94P  1100   676/  5  L19 L25 W27 L22 W28 2.0
+ 25 Bolin, Sylas           HSCMG94N  1200   729/  5  L4  W24 L19 L12 L15 1.0
+ 26 Sims, Joshua           SENKG94M  1000   405/  5  L14 W29 L5  L23 L20 1.0
+ 27 Wickersham, Jordan     PCIMG94L  1200   550/  5  L18 L13 L24 W29 L17 1.0
+ 28 Becker, Kayleb         CRXLG94J  1100   377/  4  L16 L17 L21 BYE L24 1.0
+ 29 Blackmer, Janie        CRXLG94H  1100   150/  4  L11 L26 L22 L27 BYE 1.0

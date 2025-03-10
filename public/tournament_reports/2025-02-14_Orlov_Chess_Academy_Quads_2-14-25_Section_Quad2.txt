@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Komara, Vasishta       FRWFG78R   500   691/  3  U   W5  W3  L2  U   2.0
+  2 Nishino, Anne          BCADH74F   728   775/113  W3  U   U   W1  U   2.0
+  3 Zeeshan, Hamza         CRKEJ15N   535   511/ 64  L2  W4  L1  U   U   1.0
+  4 Zeeshan, Harris        CRIBH61J   100   165/ 32  W5  L3  U   U   U   1.0
+  5 Dayani, Viraj          SRAF118W   487   407/ 19  L4  L1  U   U   U   0.0

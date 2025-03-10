@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Xing, Andrew           CNHDK62E   962  1038/131  W2  W4  D3  2.5
+  2 Li, Harry              BCAFG30G   953   986/441  L1  W3  W4  2.0
+  3 Yu, Eric               SOMCK25N   997   964/110  D4  L2  D1  1.0
+  4 Huang, Jaden           ENDDJ63S   935   893/138  D3  L1  L2  0.5

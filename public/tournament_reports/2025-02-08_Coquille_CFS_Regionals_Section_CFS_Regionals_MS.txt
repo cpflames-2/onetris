@@ -1,0 +1,10 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 White-ross, Skyler     HSOIW81S   899   968/ 32  W2  W5  W3  W8  W7  5.0
+  2 Huff, David            MPHHW792   435   721/ 14  L1  W9  W7  W3  W5  4.0
+  3 Fanno, Abigail         CQEGW97U   732   732/ 59  W4  W7  L1  L2  W9  3.0
+  4 Davis, Jack            BDHGW97G   433   454/ 29  L3  BYE L6  W9  W8  3.0
+  5 Howell, Charley        CQEGW83K   546   559/ 15  W9  L1  D8  W6  L2  2.5
+  6 Hughes, Ruckus Charles SMDGW86C   588   530/ 44  L7  D8  W4  L5  BYE 2.5
+  7 Florez, Malichai       CQEGV48S   672   632/ 87  W6  L3  L2  BYE L1  2.0
+  8 Florez, Caine          CQEGW86D   320   338/ 31  BYE D6  D5  L1  L4  2.0
+  9 Auld, Kai              CQEGW77N   664   473/  9  L5  L2  BYE L4  L3  1.0

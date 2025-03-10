@@ -1,0 +1,26 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 tot 
+  1 Szeto, Martina         MITFZ73S   500  1178/  6  D9  W13 W7  W3  W4  W5  5.5
+  2 Szeto, Jordan          JAWGZ73R   600  1050/  6  W18 W6  L5  W12 W14 W4  5.0
+  3 Li, Emma               THREJ98A   874   914/ 59  W15 D7  W20 L1  W13 W11 4.5
+  4 Agarwal, Kavir         MEDF152U   852   908/ 54  WF  W8  W11 W5  L1  L2  4.0
+  5 Lai, Ryan              SHSBH70N   841   901/ 25  W16 W21 W2  L4  W6  L1  4.0
+  6 George, Ameya          EBSFK88Y   810   834/116  W23 L2  W21 W11 L5  W12 4.0
+  7 Liu, Jace              CHREK00Y   805   832/ 25  W25 D3  L1  D9  W21 W14 4.0
+  8 Hoffman, David         PERFJ98J   745   729/ 20  W17 L4  D24 D15 D9  W20 3.5
+  9 Yorks, Cameron         CSIEJ74Q   674   739/ 36  D1  L12 W16 D7  D8  W18 3.5
+ 10 Gui, Joyce             OPWCH92C   812   779/ 55  U   W22 D12 L14 W15 D13 3.0
+ 11 Chang, Lucas           REJGK46F   817   789/ 42  W22 W14 L4  L6  W20 L3  3.0
+ 12 Agrawal, Sakash        MEDFC98H   750   741/157  D19 W9  D10 L2  W17 L6  3.0
+ 13 Devireddy, Jaya BhaveesXXXEH58Z   705   692/ 10  D20 L1  W19 W24 L3  D10 3.0
+ 14 Singhal, Aryash        SYCF595L   682   694/108  W24 L11 W17 W10 L2  L7  3.0
+ 15 Gridasov, Robert       LAVEJ03F   517   581/ 16  L3  W25 D18 D8  L10 W21 3.0
+ 16 Kakar, Ryan            DHLFJ03T   450   481/ 11  L5  L17 L9  W19 W23 W22 3.0
+ 17 Sameneni, Shivanga     TYEGJ39W   600   508/  5  L8  W16 L14 W22 L12 BYE 3.0
+ 18 Bui, Bryant            RDSFH52W   713   653/ 16  L2  W23 D15 L20 W24 L9  2.5
+ 19 Khan, Yusef            CNHEH45D   400   410/  5  D12 L20 L13 L16 BYE W24 2.5
+ 20 Luo, Leo               BUSEH45C   400   622/  6  D13 W19 L3  W18 L11 L8  2.5
+ 21 Sarkar, Hridik         FRVFK04W   671   600/ 60  WF  L5  L6  W25 L7  L15 2.0
+ 22 Mahadikar, Pratvi      JUAEJ31A   325   322/ 26  L11 L10 W23 L17 W25 L16 2.0
+ 23 Jamalpur, Sthavisht    EBSFH52K   100   142/ 10  L6  L18 L22 BYE L16 W25 2.0
+ 24 Suen, Daniel           CNHFH45B   500   308/  5  L14 BYE D8  L13 L18 L19 1.5
+ 25 Ayalew, Amen           DCCGH89R   351   246/ 14  L7  L15 BYE L21 L22 L23 1.0

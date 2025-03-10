@@ -1,0 +1,27 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Whittaker, Mason       SANGK91Z   515   610/ 25  D14 W13 W5  W4  W6  4.5
+  2 Donovan, Christian     SANH328M   352   590/ 15  W4  W6  U   W10 W12 4.0
+  3 Branlund, Jack         SANCH96W   100   233/  9  W21 W20 D16 W18 U   3.5
+  4 Reisinger, Alex        SANDH17E   300   491/  5  L2  W14 W11 L1  W15 3.0
+  5 Medley, Henrick        SANDH17D   300   454/  3  U   W7  L1  BYE W8  3.0
+  6 Mahapatra, Sophia      SANCJ73K   100   224/ 10  W10 L2  D19 W7  L1  2.5
+  7 Oliphant, Nora         SANEH17C   400   203/  5  D19 L5  W25 L6  W9  2.5
+  8 Arnold, Jack           SANCH17B   200   143/  5  W11 L9  L10 W20 L5  2.0
+  9 Lundquist, Matthew     SANCH96X   100   130/ 10  D16 W8  L12 D15 L7  2.0
+ 10 Blois, Vera            SANHH16Z   700   269/  4  L6  W17 W8  L2  U   2.0
+ 11 Reisenauer, Ernie      SANDH16Y   300   204/  4  L8  W18 L4  W16 U   2.0
+ 12 Thorrington, James     SANG547U   605   580/ 69  U   W24 W9  U   L2  2.0
+ 13 Fritzky, Blake         SANFH43H   321   341/ 23  W17 L1  U   U   W16 2.0
+ 14 Santiago, Joseph       SANDJ74B   470   433/ 18  D1  L4  L22 U   W19 1.5
+ 15 Jones-espinel, FranciscSANDH16X   300   232/  3  U   U   W26 D9  L4  1.5
+ 16 Moritz, Konrad         SANCH16W   200   100/  4  D9  U   D3  L11 L13 1.0
+ 17 Barber, Soloman        SANEH16V   400   100/  4  L13 L10 L20 W26 U   1.0
+ 18 Cooney, Cyrus          SANCK89P   100   100/ 23  U   L11 W21 L3  U   1.0
+ 19 Doyle, Sarah           SANCH16U   200   142/  3  D7  U   D6  U   L14 1.0
+ 20 Gilliland, Johnny      SANDK89K   100   100/  8  U   L3  W17 L8  U   1.0
+ 21 Fritzky, Isla          SANCH16T   200   100/  3  L3  U   L18 U   W26 1.0
+ 22 Kelly, Liam            SANG359W   534   562/ 56  U   U   W14 U   U   1.0
+ 23 Ellison, Anders        SANCH16S   200   500/  1  U   U   U   U   W24 1.0
+ 24 Guenther, Hugo         SANCK89H   100   100/  7  D25 L12 U   U   L23 0.5
+ 25 Thorrington, Smith     SANAH16R   100   100/  2  D24 U   L7  U   U   0.5
+ 26 Albainy, Hugo          SANFH16Q   500   100/  3  U   U   L15 L17 L21 0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Hosford, Michael J     ADUNF263  1952  1952/170  W4  W3  W2  3.0
+  2 Zhang, Arwen           SOMF484A   638   638/125  U   U   L1  0.0
+  3 Jem, Ann               ADUNH63F   840   840/  5  U   L1  U   0.0
+  4 Tulsukchuentanat, ProudWOBGH63C   660   660/  9  L1  U   U   0.0

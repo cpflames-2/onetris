@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sarangi, Samarth       CBREH69F   266   314/ 28  W2  U   W3  2.0
+  2 Gangineni, Sarvesh     MMEBH62Q   100   142/  5  L1  W3  U   1.0
+  3 Zeeshan, Harris        CRIBH61J   100   100/  5  U   L2  L1  0.0

@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Giacalone, Lucas Quinn ADUNH06S   895  1042/ 11  W5  W2  W3  W4  W6  5.0
+  2 Boyer-montgomery, WilliADUNG79X  1300  1029/  5  W4  L1  W5  W6  W3  4.0
+  3 Wagner, Drew           ADUNH06R   787   817/ 14  W6  W4  L1  W5  L2  3.0
+  4 Jariwala, Vidur        THOEK87P   726   725/ 71  L2  L3  W6  L1  W5  2.0
+  5 Paley, Harold          IMSGH70Q   824   725/ 13  L1  W6  L2  L3  L4  1.0
+  6 Huynh, Daniel          DCTDK87U   465   432/ 27  L3  L5  L4  L2  L1  0.0

@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Guity, Walter          ADUND92T  1603  1591/ 22  W5  D2  U   1.5
+  2 Nair, Ishan            SKIH670E  1207  1230/173  U   D1  U   0.5
+  3 Hedstrom, Elliot       WEDDK92C   831   802/ 67  U   U   D4  0.5
+  4 Nair, Vihaan           FRWBJ97F   367   404/ 34  U   U   D3  0.5
+  5 Schasteen, Noble       DCCEA04C  1195  1189/ 52  L1  U   U   0.0

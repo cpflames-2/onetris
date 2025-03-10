@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kennedy, Owen          TWFHH14N   700   850/  3  W4  W3  W2  3.0
+  2 Mohammed, Farhan       CKIEH14M   400   475/  3  W5  W4  L1  2.0
+  3 Chen, Carson           NCSCH14L   200   463/  2  BYE L1  W5  2.0
+  4 Castro, Philip         APODH34Q   100   100/  5  L1  L2  BYE 1.0
+  5 Fang, Roger            ENABH14K   100   100/  2  L2  BYE L3  1.0

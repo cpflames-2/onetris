@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Havaldar, Karsh        CSBFI03F  1577  1549/ 58  W8  W4  D2  D3  W5  4.0
+  2 Nagarkar, Arhant       NCSHB82K  1150  1198/ 60  D5  W3  D1  W6  W4  4.0
+  3 Sreraman, Rohit        BCAEG92Q  1052  1094/282  W6  L2  W5  D1  W7  3.5
+  4 Sreraman, Rahul        BCAEJ42L   917   927/267  W7  L1  D6  W8  L2  2.5
+  5 Mukherjee, Anjalika    UPAHJ94B   845   900/ 33  D2  W8  L3  W7  L1  2.5
+  6 Gong, Fedora           RSMEK37C   746   821/ 33  L3  W7  D4  L2  W8  2.5
+  7 Su, Vincent            AJSIA52P   707   692/ 26  L4  L6  W8  L5  L3  1.0
+  8 Holostov, Michael      PLKHJ94C   900   783/ 50  L1  L5  L7  L4  L6  0.0

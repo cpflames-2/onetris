@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chu, Skylar            SOMD579R   872   881/ 48  W4  W3  L2  2.0
+  2 Mahale, Avneesh        CNHC993F   801   835/182  L3  W4  W1  2.0
+  3 Bysani, Aakash         SSMCK01D   799   776/192  W2  L1  L4  1.0
+  4 Zhang, Patrick         SSSCK01J   778   761/174  L1  L2  W3  1.0

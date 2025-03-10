@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Gollapally, Akhil      CRIF502R   326   448/ 15  W4  W3  W2  3.0
+  2 Lai, Brycen            CLHEK02D   250   257/ 37  BYE W4  L1  2.0
+  3 Tun, Harrison          BRWFJ57B   288   288/ 10  W5  L1  BYE 2.0
+  4 Prakar, Sai Chatura    CRIFH16H   500   144/  3  L1  L2  W5  1.0
+  5 Nadimpalli, Saathvik   CNCDH16G   300   100/  2  L3  BYE L4  1.0

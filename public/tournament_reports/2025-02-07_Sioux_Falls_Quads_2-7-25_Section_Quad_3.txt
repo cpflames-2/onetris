@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Nguyen, Charlie        SDRFZ06D  1291  1368/192  W2  W4  W3  3.0
+  2 Oppold, Sage           SDLJZ281  1231  1256/177  L1  W3  W4  2.0
+  3 Chaplin, Seth          HSSJI92C  1295  1261/110  W4  L2  L1  1.0
+  4 Winter, Noah           SDCFZ88H  1116  1074/ 88  L3  L1  L2  0.0

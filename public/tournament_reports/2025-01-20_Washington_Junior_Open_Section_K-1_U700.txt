@@ -1,0 +1,32 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Nair, Vihaan           FRWBJ97F   673   732/ 44  W27 W9  W12 D3  W2  4.5
+  2 Abimanyu, Siddharth    LMABH60T   434   641/ 34  W26 W6  W7  W10 L1  4.0
+  3 Anand, Krishna         RSABJ95V   524   657/ 49  W28 W4  W8  D1  D6  4.0
+  4 Zeng, Liam             XXXAH05U   100   628/  5  W25 L3  W20 W9  W8  4.0
+  5 Chai, Bobby            FAPBH05T   100   551/  5  W18 L12 W27 W17 W14 4.0
+  6 Siva, Vikaat           DISBJ30L   663   653/101  W20 L2  W21 W13 D3  3.5
+  7 Huang, Ryan            CNHBJ56H   556   553/ 42  W23 W13 L2  D11 W15 3.5
+  8 Wang, Max              CGRBK03S   306   447/ 28  W14 W17 L3  W21 L4  3.0
+  9 Liang, Dangdang        MEDBJ12R   390   404/ 30  W22 L1  W24 L4  W23 3.0
+ 10 Goyal, Avyukt          CNHBJ65X   644   591/101  D15 W16 W19 L2  D11 3.0
+ 11 Song, Leonardo         CCDAH73E   382   404/ 15  L16 W15 W22 D7  D10 3.0
+ 12 Sankar, Deethya R      EBSAH05R   100   460/  5  W31 W5  L1  L14 W20 3.0
+ 13 Yin, Nolan             CCDBH64W   351   374/ 25  W30 L7  W16 L6  W22 3.0
+ 14 Anthony-mazzola, LeonarUCDAH05Q   100   406/  4  L8  BYE W18 W12 L5  3.0
+ 15 Hu, Ethan              CNHBH35U   171   285/ 10  D10 L11 W25 W19 L7  2.5
+ 16 Rajeswaran, Mithran    BENBH35R   100   247/  9  W11 L10 L13 W24 D21 2.5
+ 17 De, Adwik              SSMBJ29V   460   404/ 60  W24 L8  W28 L5  D18 2.5
+ 18 Lin, Hannah            MEDBJ86X   260   270/ 35  L5  W31 L14 W28 D17 2.5
+ 19 Engelberg, Ziggy       UCDBH05N   100   253/  4  BYE D21 L10 L15 W27 2.5
+ 20 Karaca, Aslan          LKDAH50Z   269   269/ 20  L6  W26 L4  W29 L12 2.0
+ 21 Anand, Nivaan          MCEBH64F   437   374/ 62  W29 D19 L6  L8  D16 2.0
+ 22 Judun Karthick Kumar, ABENBH54W   100   148/ 13  L9  W23 L11 W27 L13 2.0
+ 23 Chanda, Rishabh        BCAAH72X   166   164/ 17  L7  L22 W26 W30 L9  2.0
+ 24 Ghosh, Oishani         CBRBJ56E   153   159/ 40  L17 W30 L9  L16 W28 2.0
+ 25 Zhang, Kyle            OPWBJ19N   302   244/ 37  L4  L28 L15 W31 W29 2.0
+ 26 Dai, Kevin             CMCAH23V   100   100/  9  L2  L20 L23 BYE W31 2.0
+ 27 Sterba, Pavel          NOWBK34L   281   208/ 52  L1  W29 L5  L22 L19 1.0
+ 28 Konduri, Agasthya      KKNAH51G   100   100/ 19  L3  W25 L17 L18 L24 1.0
+ 29 Sriranjini, Sinchan    SSMAH50U   100   100/ 15  L21 L27 W31 L20 L25 1.0
+ 30 Udelson, Grant         LAVAH05M   100   100/  3  L13 L24 BYE L23 U   1.0
+ 31 Sagar, Rhea            MOBAJ92U   100   100/ 41  L12 L18 L29 L25 L26 0.0

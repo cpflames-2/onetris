@@ -1,0 +1,14 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Singh, Ayush           CTXLX04W  1278  1347/104  W11 W13 W2  W3  4.0
+  2 Agrawal, Priyanshu     CTXNX04N  1247  1273/104  W8  W4  L1  W6  3.0
+  3 Maheshkumar, Tanuj     CTXIX11N  1113  1213/108  W9  W10 W5  L1  3.0
+  4 Lyons, Daniel AlexanderMAXNX11M  1108  1161/  8  W10 L2  W12 W9  3.0
+  5 Wood, Evan             CTXNX04P  1382  1347/104  W7  D6  L3  W11 2.5
+  6 Jay, Robbie K          CTXMX11T  1189  1192/108  W12 D5  W8  L2  2.5
+  7 Estrella, Wilson       CTXNX03Y   952   966/112  L5  L8  W10 W13 2.0
+  8 Krechet, Mark          CTXEX01U   843   910/114  L2  W7  L6  W12 2.0
+  9 Barandon, Nathan A     CTXNZ75F  1000  1041/  8  L3  W11 W13 L4  2.0
+ 10 Ing, Ethan             CTXBX05B  1046   981/103  L4  L3  L7  BYE 1.0
+ 11 Pandey, Pragyan        CTXGX12H   949   919/107  L1  L9  BYE L5  1.0
+ 12 Arora, Aaryan          CTXMX04S   788   756/103  L6  BYE L4  L8  1.0
+ 13 Lee, Nathan Eunchong   CTXNX12D  1075   894/  6  WF  L1  L9  L7  1.0

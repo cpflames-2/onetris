@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Du, Charles            SOMFA15U   842   845/122  W3  D2  W4  2.5
+  2 Daniel, Lemuel         BLCDJ29L   637   672/ 11  W4  D1  D3  2.0
+  3 Nishino, Anne          BCADH74F   501   553/ 25  L1  W4  D2  1.5
+  4 Zhang, David           SOMCK41P   567   499/117  L2  L3  L1  0.0

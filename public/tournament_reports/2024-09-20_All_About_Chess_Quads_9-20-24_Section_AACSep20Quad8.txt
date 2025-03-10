@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Malka, Anirudh         TIMH259H   539   736/ 41  W3  W2  W4  3.0
+  2 Zhang, Patrick         SSSCK01J   701   710/129  W4  L1  W3  2.0
+  3 Bhandari, Aarav        CBREJ06H   651   616/ 44  L1  W4  L2  1.0
+  4 Paidapathi, Kiaan      SHSCJ99C   523   465/117  L2  L3  L1  0.0

@@ -1,0 +1,16 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Ashcroft, Austen       HSCIH02R  1308  1320/  9  W10 W9  D8  W6  W2  4.5
+  2 Kelley, Jacob          HSCKG87E  1000  1301/  5  W8  W15 W10 W3  L1  4.0
+  3 Mcintyre, John B       HSCGJ63F  1188  1217/ 73  W14 W6  W5  L2  W9  4.0
+  4 Grace, Leo Griffin     HSCBH68U  1061  1075/ 29  W15 L8  W14 W12 W5  4.0
+  5 Wilson, Nicholas D     LBYIJ58B  1318  1268/ 60  W7  W11 L3  W9  L4  3.0
+  6 Higgins, Peter         GONGJ57Y   860   904/ 49  W13 L3  W11 L1  W10 3.0
+  7 Mckinnon, Grady        HSCJH03F   833   904/ 10  L5  W13 L9  W8  W11 3.0
+  8 Dinesh Babu, Darshini  GNAEH50D   971   993/ 30  L2  W4  D1  L7  W14 2.5
+  9 Edlund, Caleb          WAXHJ88D   919   931/ 62  W12 L1  W7  L5  L3  2.0
+ 10 Avey, Jesse            MDRHK50F   798   795/103  L1  W12 L2  W13 L6  2.0
+ 11 Grace, Sophia          HSCCH68T   803   777/ 26  BYE L5  L6  W14 L7  2.0
+ 12 Hollis, Sawyer         SIAMG87D  1200   491/  4  L9  L10 W15 L4  BYE 2.0
+ 13 Byrd, Logan            SMOGG87C   600   491/  4  L6  L7  BYE L10 W15 2.0
+ 14 Autry-dalsanders, Reed MMCGK48X   696   655/ 89  L3  BYE L4  L11 L8  1.0
+ 15 Rieper, Tavish         SMOGG87B   600   123/  4  L4  L2  L12 BYE L13 1.0

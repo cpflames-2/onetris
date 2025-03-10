@@ -1,0 +1,45 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Fojas, Caden           KAMMK59K  1407  1435/ 31  W38 W26 W16 W10 W36 5.0
+  2 Chillakuru, Hem        JACKK08D  1118  1142/ 18  D15 W34 W31 W21 W42 4.5
+  3 Guilliams, Avery       KAMM231A  1142  1234/ 63  W39 D9  W33 W7  W13 4.5
+  4 Hildenbrand, Blane     STNJ122V  1463  1485/387  L5  W33 W14 W23 W11 4.0
+  5 Shinkarev, Slava       KAMKJ77F  1553  1541/ 59  W4  W11 W22 D14 L23 3.5
+  6 Ngo, Joshua            EDWLB43H   917   990/ 97  L7  D20 W34 W28 W31 3.5
+  7 Tsang, Ian             JACMK59F  1166  1174/ 16  W6  W27 U   L3  W30 3.0
+  8 Mccullough, Drew       STNJJ93T  1185  1157/ 18  W35 W28 L17 W37 L12 3.0
+  9 Banchero, Andrew       EDWKJ46Q  1046  1062/ 10  L17 D3  W36 D33 W27 3.0
+ 10 Geng, Tommy            JACLF12Q  1041  1043/ 67  L26 W37 W25 L1  W33 3.0
+ 11 Einfeld, Ethan         EDWKG79Q  1000  1414/  5  W14 L5  W23 W22 L4  3.0
+ 12 Hasse, Nikos           EDWMB11Q   970  1098/ 29  U   L18 W37 W16 W8  3.0
+ 13 Rines, Oliver          KAMJI303  1266  1276/196  W33 W17 U   W25 L3  3.0
+ 14 Li, Richard            JACMC87V  1404  1390/ 49  L11 W23 L4  D5  W22 2.5
+ 15 Pape, Neil             JACMK59R   802   898/ 15  D2  U   W40 W32 U   2.5
+ 16 Duong, Duc             MRRLH46G  1077  1085/ 10  W36 W25 L1  L12 D17 2.5
+ 17 Bates, Killian         JACJK18M  1314  1296/ 63  W9  L13 W8  L18 D16 2.5
+ 18 Zhang, Victor          KAML5390  1775  1778/201  U   W12 U   W17 U   2.0
+ 19 Kupchenkoi, Illia      STNKJ64B   566   629/ 13  W44 W30 U   U   U   2.0
+ 20 Hutahaen, Patrick      KAMLG79P  1100  1107/  2  U   D6  U   U   W34 1.5
+ 21 Nguyenphuoc, Timon     KAMMD25H  1209  1183/ 43  U   U   U   L2  W37 1.0
+ 22 Kum, Leon              MRRJH46X  1156  1158/  9  W23 U   L5  L11 L14 1.0
+ 23 Taylor, Ryder          KAML385C  1104  1108/411  L22 L14 L11 L4  W5  1.0
+ 24 Mittal, Sanyam         JACM2663  1116  1117/108  U   W40 U   U   U   1.0
+ 25 Adedoyin, Pelumi       STNKG79N  1000   900/  4  U   L16 L10 L13 W26 1.0
+ 26 Kirschten, Jacob       EDWMC85L  1007   997/ 24  W10 L1  U   U   L25 1.0
+ 27 Whitaker, Nic          STNJG79M   900   749/  4  L32 L7  U   W36 L9  1.0
+ 28 Robles, Osmar          MRRLJ77D   835   837/ 17  W34 L8  U   L6  U   1.0
+ 29 Karthik, Shreya        JACMA701   842   844/ 62  U   U   U   U   W41 1.0
+ 30 Espinales, Rafael      MRRLJ19K   825   775/ 12  W43 L19 U   U   L7  1.0
+ 31 Owen, Righley          STNJG79L   900   659/  3  W42 U   L2  U   L6  1.0
+ 32 Haukaas, Asher         MRRLG79K  1100   875/  2  W27 U   U   L15 U   1.0
+ 33 Bun, Peter             MRRM761P   954   927/ 41  L13 L4  L3  D9  L10 0.5
+ 34 Calico, Mac            KAMLJ19H  1352   816/  5  L28 L2  L6  U   L20 0.0
+ 35 Le, Benjamin           KAMM339F   910   897/ 21  L8  U   U   U   U   0.0
+ 36 Ho, Kevin              KAMLJ64E   841   745/  9  L16 U   L9  L27 L1  0.0
+ 37 Ding, Calvin           KAMLJ19E   620   607/ 16  U   L10 L12 L8  L21 0.0
+ 38 Boluji, Oluwapelumi    STNKG79G  1000  1025/  1  L1  U   U   U   U   0.0
+ 39 Tran, Kyle             STNJJ93U   524   524/  9  L3  U   U   U   U   0.0
+ 40 Phan, Randy            KAMMG79F  1200   553/  2  U   L24 L15 U   U   0.0
+ 41 Sanchez, Rafael        MRRMK58R   221   219/ 18  U   U   U   U   L29 0.0
+ 42 Tally, Brena           MRRMK59D   193   184/ 16  L31 U   U   U   L2  0.0
+ 43 Ha, Daniel             KAMKG79D  1000   385/  1  L30 U   U   U   U   0.0
+ 44 Severance, Theodore    KAMMG79B  1200   261/  1  L19 U   U   U   U   0.0

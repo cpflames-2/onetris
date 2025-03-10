@@ -1,0 +1,14 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Leibfried, Hunter      PDHMK98A  1266  1373/ 15  W13 W2  W4  D3  W8  4.5
+  2 Davis, Aiden Daniel    ADCLK70N  1437  1431/ 62  BYE L1  W9  W6  W3  4.0
+  3 Wilson, Nicholas D     LBYIJ58B  1210  1239/ 45  W11 W9  W8  D1  L2  3.5
+  4 Zhou, Bryan            LBYHK50Q  1132  1147/ 35  W6  W10 L1  W5  L7  3.0
+  5 Mcintyre, John B       HSCGJ63F  1194  1183/ 60  D8  D12 W7  L4  W9  3.0
+  6 Bingo, Julian Ray      LBYFK50N  1011  1038/ 35  L4  W13 W10 L2  W12 3.0
+  7 Grace, Leo Griffin     HSCEH68U  1069  1061/ 19  L9  BYE L5  W13 W4  3.0
+  8 Eskic, Marko           PDHMH16K  1200  1114/  5  D5  W11 L3  W12 L1  2.5
+  9 Peterson, Aiden Elias  ADCLH13G  1064  1065/ 40  W7  L3  L2  W10 L5  2.0
+ 10 Aguayo, Chase          LSPIH66L   869   872/ 29  W12 L4  L6  L9  BYE 2.0
+ 11 Zhang, Alex Sun        SKKDJ88B   435   431/ 27  L3  L8  L12 BYE WF  2.0
+ 12 Huang, Matthew         LBYIJ05S  1150  1061/ 20  L10 D5  W11 L8  L6  1.5
+ 13 Ma, William            HETDH16J   300   640/  3  L1  L6  BYE L7  LF  1.0

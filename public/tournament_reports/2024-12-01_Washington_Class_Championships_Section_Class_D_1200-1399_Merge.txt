@@ -1,0 +1,23 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 tot 
+  1 Jordan, Christian      ADUN5057  1347  1450/144  D8  W6  W14 W16 W4  D2  5.0
+  2 Stroud, James          ADUNH71E  1352  1443/ 17  W19 W9  W7  L4  W6  D1  4.5
+  3 Narkhede, Kshitij      CRKDA27K  1348  1389/131  L12 D18 W17 W21 W16 W9  4.5
+  4 Zhang, Bowen           RKWGK55F  1289  1406/ 48  W17 W12 D16 W2  L1  W7  4.5
+  5 Alvarado, Alexander    ADUNJ69R  1317  1350/ 32  L9  W22 W15 L6  W11 W8  4.0
+  6 Mishra, Aakash         EBSF439K  1201  1301/141  BYE L1  W11 W5  L2  W14 4.0
+  7 Yun, Daniel D          LAVDK87Z  1367  1374/356  W13 W15 L2  D8  W12 L4  3.5
+  8 Zou, Jinhan            SSMEH14T  1312  1338/153  D1  W20 W10 D7  D9  L5  3.5
+  9 Avula, Varshith Reddy  RHJI110R  1205  1302/257  W5  L2  W21 W14 D8  L3  3.5
+ 10 Lopez, Daniel          ADUNH35C  1366  1340/  6  L14 W19 L8  D15 W22 D12 3.0
+ 11 Ma, Ziliang            DCCHA69N  1354  1331/118  W21 L14 L6  W18 L5  W19 3.0
+ 12 He, Jizhou             MEDD789B  1274  1298/120  W3  L4  D18 W22 L7  D10 3.0
+ 13 Keane, Brendan         RASJK04V  1296  1289/ 41  L7  L21 W19 L20 W18 W16 3.0
+ 14 Wang, Harvey           OPWCJ68G  1235  1263/148  W10 W11 L1  L9  W20 L6  3.0
+ 15 Choi, Hunter           UPAHE80A  1270  1264/240  W22 L7  L5  D10 HPB HPB 2.5
+ 16 Xu, Yang               EVGF649B  1244  1258/197  W18 W17 D4  L1  L3  L13 2.5
+ 17 Patnaik, Rishabhdeva   CRKGG72D  1371  1292/201  L4  L16 L3  L19 BYE W20 2.0
+ 18 Deng, Arthur           OPWDC90Y  1325  1281/159  L16 D3  D12 L11 L13 W22 2.0
+ 19 Wang, Hengsheen        BASC704V  1231  1223/136  L2  L10 L13 W17 W21 L11 2.0
+ 20 Randall, Dylan         TWAGW79H  1272  1213/  9  HPB L8  L22 W13 L14 L17 1.5
+ 21 Martin, Olin           ADUNK09N  1393  1311/ 22  L11 W13 L9  L3  L19 U   1.0
+ 22 Fobian, Christian      ADUNJ00H  1384  1279/ 24  L15 L5  W20 L12 L10 L18 1.0

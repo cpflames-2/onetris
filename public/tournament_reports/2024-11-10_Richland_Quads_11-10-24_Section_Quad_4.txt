@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Mosqueda, Luke         LIBEH90L   707   830/ 27  W4  W2  W3  3.0
+  2 Hemperly, Harper       HSCFI09E   670   710/ 89  W3  L1  W4  2.0
+  3 Geelhood, Beckett      CDKEK96U   678   623/ 47  L2  D4  L1  0.5
+  4 Ramirez, Kane          WIWEJ72E   639   596/ 94  L1  D3  L2  0.5

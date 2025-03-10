@@ -1,0 +1,32 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Su, Pin-ruei           RFKCH96G   572   788/ 45  W25 W28 W5  W6  W4  5.0
+  2 Bigelow, Atlas         WMECJ61F   658   779/ 47  W27 W12 W3  D4  W9  4.5
+  3 Li, Bryan              MEDBJ75H   593   652/ 88  W16 W22 L2  W15 W11 4.0
+  4 Lin, Evan              SOMCJ72G   681   723/ 56  W13 W10 W9  D2  L1  3.5
+  5 Sairam, Advaith        RBRBK01Q   670   659/121  D14 W23 L1  W26 W13 3.5
+  6 Zhang, David           SOMCK41P   616   629/132  D23 W14 W18 L1  W16 3.5
+  7 Liu, Louis             CNHCJ75J   690   667/ 55  W24 D8  D20 D16 W18 3.5
+  8 Pan, Jingyi            SSMCH76N   247   538/ 20  W19 D7  W10 L9  W20 3.5
+  9 Wright, William        THUCB71M   642   650/118  W15 W11 L4  W8  L2  3.0
+ 10 Velichko, Kristina     ASACK07V   531   523/107  W29 L4  L8  W23 W25 3.0
+ 11 De, Adwik              SSMBJ29V   529   512/ 47  W30 L9  W28 W25 L3  3.0
+ 12 Premjith, Arnav        FRVCJ20D   529   507/ 19  W31 L2  L15 W28 W22 3.0
+ 13 Dhillon, Veer          BNTBJ02P   438   488/ 30  L4  W17 W24 W20 L5  3.0
+ 14 Esparza-chen, Elysia   WMNCJ73M   431   419/ 50  D5  L6  L25 W31 W27 2.5
+ 15 Kachachi, Alexander    OPWCK31U   332   366/ 34  L9  W30 W12 L3  D17 2.5
+ 16 Yin, Nolan             CCDBH64W   213   352/ 16  L3  W31 W22 D7  L6  2.5
+ 17 Nandakiran, Advaith    SSMCJ88H   103   247/ 78  L20 L13 W30 W21 D15 2.5
+ 18 Goncharenko, Peter     CMCCH44B   200   466/  5  W21 D20 L6  W27 L7  2.5
+ 19 Gaddam, Viraj          SSMCJ29S   537   432/ 25  L8  L24 L23 W29 W31 2.0
+ 20 Wei, Brayden           ETSCK90F   533   494/ 82  W17 D18 D7  L13 L8  2.0
+ 21 Zhang, Leon            CLHBH47E   523   354/ 10  L18 L25 W29 L17 W30 2.0
+ 22 Abimanyu, Siddharth    LMABH60T   494   434/ 29  W26 L3  L16 W24 L12 2.0
+ 23 Prasad, Ishaan         CHKCH61A   297   335/ 15  D6  L5  W19 L10 D26 2.0
+ 24 Phadnis, Akash         DISBJ27M   186   262/ 24  L7  W19 L13 L22 W28 2.0
+ 25 Sterba, Pavel          NOWBK34L   169   292/ 44  L1  W21 W14 L11 L10 2.0
+ 26 Cai, Emily             CNHCH60H   259   247/ 24  L22 BYE D27 L5  D23 2.0
+ 27 Georgievski, Brock     WELCJ73P   353   311/ 24  L2  W29 D26 L18 L14 1.5
+ 28 Esparza-chen, Katya    WMNCJ73L   267   206/ 48  WF  L1  L11 L12 L24 1.0
+ 29 Sagar, Rhea            DHLBJ92U   100   100/ 28  L10 L27 L21 L19 BYE 1.0
+ 30 Konduri, Agasthya      KKNAH51G   100   100/ 14  L11 L15 L17 BYE L21 1.0
+ 31 Kalyanasundaram, SrinivCNCCH48Q   100   100/  9  L12 L16 BYE L14 L19 1.0

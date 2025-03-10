@@ -1,0 +1,12 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Rathinasabapathy, VarsiINGHJ60E   452   623/ 27  L7  W10 W5  W11 W6  4.0
+  2 Phadnis, Neil          DISEK44Y   736   723/ 47  W10 W9  L6  W7  D3  3.5
+  3 Sajeeth, Samay         RKWFJ82R   466   575/ 33  L4  W8  W9  W6  D2  3.5
+  4 Sarychev, Aleksei      GEKKJ98N   876   902/178  W3  W5  U   HPB HPB 3.0
+  5 Jayasinghe, Sihas      RSAGJ83E   713   706/ 23  W8  L4  L1  W10 W7  3.0
+  6 Bhandari, Aarav        CBREJ06H   553   606/ 62  W11 W7  W2  L3  L1  3.0
+  7 Huang, Jaden           ENDDJ63S   924   811/123  W1  L6  W11 L2  L5  2.0
+  8 Phadnis, Akash         DISBJ27M   163   186/ 19  L5  L3  W10 L9  W11 2.0
+  9 Dragan, Alexander      MCICH67A   100   157/  6  BYE L2  L3  W8  L10 2.0
+ 10 Chen, Yisu             RKWBH78H   300   259/ 39  L2  L1  L8  L5  W9  1.0
+ 11 Dragan, Sara           BCSFH67B   100   100/  6  L6  BYE L7  L1  L8  1.0

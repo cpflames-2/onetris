@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Rao, Jaiden            JINBH62B   365   516/ 12  W4  W3  W2  3.0
+  2 Balaji, Pranav         INGHJ96J   408   426/ 26  W3  W4  L1  2.0
+  3 Ram, Yaalini           SNECH87H   329   308/ 37  L2  L1  W4  1.0
+  4 Zhu, Anna              SOMDH30X   344   208/  7  L1  L2  L3  0.0

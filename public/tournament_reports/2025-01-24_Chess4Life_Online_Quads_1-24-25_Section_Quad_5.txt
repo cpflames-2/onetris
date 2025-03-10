@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Armitage-selig, PhoenixSUZBJ31Z   643   690/ 62  W4  W2  L3  2.0
+  2 Kulkarni, Samik        KKNBH67M   613   679/ 23  W3  L1  W4  2.0
+  3 Gupta, Vaishnavi       EVJIH60P   801   729/  6  L2  D4  W1  1.5
+  4 Borkar, Rohan          WDMD243X   634   588/ 29  L1  D3  L2  0.5

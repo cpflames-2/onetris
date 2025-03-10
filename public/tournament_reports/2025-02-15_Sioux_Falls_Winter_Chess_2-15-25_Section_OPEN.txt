@@ -1,0 +1,19 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Neff, Joel             ABEHF99X  1617  1708/309  W17 W8  W3  D2  W6  4.5
+  2 Neff, Caleb            ABEKG72N  1938  1929/398  W7  W9  W6  D1  D3  4.0
+  3 Yusuf, Elham           SD6MZ84A  1626  1645/ 47  W10 W13 L1  W9  D2  3.5
+  4 Yusuf, Farzaan         BVIGZ84D  1507  1513/ 58  L13 W11 W7  D5  W9  3.5
+  5 Wilber, Christopher    SDWJZ20V  1484  1503/156  W18 L6  W10 D4  W12 3.5
+  6 Welch, James           HSSJF53F  1653  1654/256  W15 W5  L2  W12 L1  3.0
+  7 Wynstra, Daniel        SDEHZ94M  1399  1411/116  L2  W16 L4  W11 W14 3.0
+  8 Pawariya, Vihaan       SDYHZ98W  1465  1451/ 89  W14 L1  L11 W16 W10 3.0
+  9 Casanova, Carlos       OGJJZ99X  1489  1475/100  W16 L2  W15 L3  L4  2.0
+ 10 Wynstra, Joseph        SD5JX05J  1345  1341/ 73  L3  W14 L5  W13 L8  2.0
+ 11 Neff, Katrina          ABEF159Y  1061  1162/246  W12 L4  W8  L7  L15 2.0
+ 12 Casanova, Vicente      OGHHZ99T  1433  1398/104  L11 W17 W13 L6  L5  2.0
+ 13 Neff, Enoch            ABEEF95Q  1294  1296/197  W4  L3  L12 L10 W18 2.0
+ 14 Jordahl, Jack          SFMEZ99Y  1097  1155/ 81  L8  L10 W17 W15 L7  2.0
+ 15 Nguyen, Charlie        SDRFZ06D  1368  1332/197  L6  W18 L9  L14 W11 2.0
+ 16 Neff, Nadine           ABEIC79W  1209  1215/403  L9  L7  W18 L8  W17 2.0
+ 17 Oppold, Sage           SDLJZ281  1256  1200/182  L1  L12 L14 W18 L16 1.0
+ 18 Hoellein, Carter       SDDFZ96L  1106  1048/144  L5  L15 L16 L17 L13 0.0

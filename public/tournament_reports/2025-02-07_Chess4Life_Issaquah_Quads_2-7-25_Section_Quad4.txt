@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Masuda, Ikaika         INGGH61X   503   537/ 17  L2  W4  W3  2.0
+  2 Kunz, Anikin           BURKH44A   519   514/ 26  W1  D3  L4  1.5
+  3 Kamaraju, Akhil        DISEH66C   435   460/ 44  W4  D2  L1  1.5
+  4 Sankar, Deethya R      EBSAH63X   556   509/ 20  L3  L1  W2  1.0

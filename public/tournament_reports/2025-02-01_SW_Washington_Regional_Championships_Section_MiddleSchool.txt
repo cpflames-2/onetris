@@ -1,0 +1,30 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Keogh, Seiya           NOVGJ51N  1015  1112/ 45  W17 W23 W2  W8  W3  5.0
+  2 Zhong, Sebastian       NOVGK24D   802   920/ 50  W18 W4  L1  W13 W9  4.0
+  3 Meka, Suhaas           NOVGJ51J   901   929/ 87  W27 W12 W10 W9  L1  4.0
+  4 Matsuda, Milo          PNRIG95S   800  1044/  5  W6  L2  W19 W16 W8  4.0
+  5 Satish Kumar, Sai NavanJFMGH21Y  1260  1230/ 94  W25 W16 L8  W11 W10 4.0
+  6 Melendrez, Cohen       TWMGG95R   600   837/  5  L4  W27 D7  W15 W18 3.5
+  7 Tran, Fin              WMOHG95Q   700   825/  5  L8  W18 D6  W24 W16 3.5
+  8 Little, Wyatt          NOVGJ51H   882   952/ 40  W7  W11 W5  L1  L4  3.0
+  9 Elkins, Trendan        MRXIK73Z   627   705/ 10  W14 W20 W15 L3  L2  3.0
+ 10 Meyer, Brendyn         YLMIJ90J   810   818/ 30  W21 W13 L3  W20 L5  3.0
+ 11 Pester, Joseph         CHLIG95P   800   821/  5  W28 L8  W12 L5  W17 3.0
+ 12 Catayas, Ianess        APRIK51M   325   490/ 31  W19 L3  L11 W23 W24 3.0
+ 13 St Clair, Lucas        RMIGG95N   600   624/  5  W29 L10 W26 L2  W21 3.0
+ 14 Allen, Landon          NOVGG95M   600   516/  4  L9  L24 BYE W19 W20 3.0
+ 15 Olson, Tucker          CHLIJ39B   790   680/  9  ZPB W28 L9  L6  W23 2.5
+ 16 Gornushenko, Samuel    RMSIK73G   484   540/ 15  W24 L5  W17 L4  L7  2.0
+ 17 Anoop, Ishaan          JFMIG95K   800   517/  5  L1  W22 L16 W25 L11 2.0
+ 18 Fredericks, Wyatt      GVWHG95J   700   488/  5  L2  L7  W28 W26 L6  2.0
+ 19 Adams, Jordan          STSIG95H   800   418/  5  L12 W21 L4  L14 W29 2.0
+ 20 Grudin, Tove           NOVIG95G   800   441/  5  W26 L9  W25 L10 L14 2.0
+ 21 Clark, Benjamin        NOVHG95E   700   474/  5  L10 L19 W22 W27 L13 2.0
+ 22 Knapp, Westen          PNRGG95D   600   307/  5  L23 L17 L21 W28 W27 2.0
+ 23 Barnes, Victor         MNJHJ37Q   212   285/ 10  W22 L1  D24 L12 L15 1.5
+ 24 Zambrano, Ty           PNRIG95C   800   370/  5  L16 W14 D23 L7  L12 1.5
+ 25 Mendel, Miles          STSIG95B   800   242/  5  L5  W29 L20 L17 D26 1.5
+ 26 Obrien, Brooklyn       RMSGH57M   100   132/  8  L20 BYE L13 L18 D25 1.5
+ 27 Mendel, Grant          STSHG95A   700   212/  5  L3  L6  W29 L21 L22 1.0
+ 28 Peralta, Alexander     RGYGG94Z   600   100/  4  L11 L15 L18 L22 BYE 1.0
+ 29 Guyer, Jacob           PNRGG94Y   600   100/  4  L13 L25 L27 BYE L19 1.0

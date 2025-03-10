@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Hu, Yi-en Pi           BCAEK35P  1095  1115/ 78  W3  W4  L2  2.0
+  2 De, Rishik             INGIJ87T  1151  1132/101  D4  L3  W1  1.5
+  3 Sampathi Rao, Sri JayraSSMGK37Y  1055  1061/ 79  L1  W2  D4  1.5
+  4 Ivanov, Matvei         EABDK34E  1009  1003/ 83  D2  L1  D3  1.0

@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kesher, Zavi           BENEH62L   363   437/ 10  WF  W2  W3  3.0
+  2 Li, Ryder              MEDBJ66R   316   332/ 45  W3  L1  WF  2.0
+  3 Sood, Ayansh           BCAEH76H   425   341/ 30  L2  WF  L1  1.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Upasani, Neil          SSMFJ57C  1014  1160/ 73  W2  W3  W4  3.0
+  2 Pan, Peng-yu           SSMDK24P  1065  1091/145  L1  W4  W3  2.0
+  3 Li, Anyi               LKDDJ55F  1084  1032/ 71  D4  L1  L2  0.5
+  4 Ye, Alex               ENDFH51L  1050  1006/132  D3  L2  L1  0.5

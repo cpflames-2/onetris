@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Abdukarimov, Samin     BENAH67S   247   315/ 48  D3  W4  W2  2.5
+  2 Masuda, Ikaika         INGGH61X   228   216/  6  D4  W3  L1  1.5
+  3 Chanda, Rishabh        BCAAH72X   144   166/ 12  D1  L2  W4  1.5
+  4 Zuehlsdorff, Theo      ISEBH74V   181   122/ 19  D2  L1  L3  0.5

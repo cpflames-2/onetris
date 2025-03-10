@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ackerman, Ryan         ADUNC514  1814  1828/294  W4  W3  D2  2.5
+  2 Zarate, Christian      ADUNH59J  2291  2247/ 12  W3  W4  D1  2.5
+  3 Heydarov, Rasul        BLWGH95F  1048  1062/ 36  L2  L1  W4  1.0
+  4 Jang, Jinwon           VIEH561P   895   879/113  L1  L2  L3  0.0

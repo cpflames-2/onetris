@@ -1,0 +1,21 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Shan, Jie              ADUNH70B  1156  1202/ 14  W9  D4  W14 W8  W6  4.5
+  2 Miller, Ryan           EALKH58W  1134  1091/ 15  D16 L14 W17 W13 W7  3.5
+  3 Vinoth Ganapathy, PavitAUDFH96J  1050  1025/ 30  W17 L7  W18 D5  W10 3.5
+  4 Ravindran, Riyaan      REJGJ57K  1015  1076/ 10  W18 D1  W13 L6  W8  3.5
+  5 Marella, Akhil         CHRFK93L   643   808/ 67  L6  W15 W9  D3  W14 3.5
+  6 Black, Stas            WPPG368F  1130  1111/150  W5  L8  W11 W4  L1  3.0
+  7 Golan, Elliot          ADUNH58X   964   956/ 10  W12 W3  L8  W14 L2  3.0
+  8 Ge, Emma               SSMCJ56J   877   955/ 94  W15 W6  W7  L1  L4  3.0
+  9 Soykal, Toprak         MMEEK25R   700   719/ 46  L1  W19 L5  W16 W15 3.0
+ 10 Miller, John           ADUNH58U   998   933/ 14  D19 L13 W12 W11 L3  2.5
+ 11 Kuluru, Samith Reddy   LEOGH48L   600   831/  5  D13 W16 L6  L10 W17 2.5
+ 12 Sankara, Prithvi       EVJIH96Q   310   421/  9  L7  D17 L10 W20 W18 2.5
+ 13 Meka, Suhaas           NOVGJ51J   975   961/ 67  D11 W10 L4  L2  W16 2.5
+ 14 Jayasinghe, Sihas      TMBGJ83E   706   725/ 28  W20 W2  L1  L7  L5  2.0
+ 15 Sirsat, Chetak         ADUNH48H  1300   483/  5  L8  L5  W20 W18 L9  2.0
+ 16 Deng, Lucas            DISDH87X   670   654/ 29  D2  L11 W19 L9  L13 1.5
+ 17 Tan, Talen             DCCHH53A   528   534/ 10  L3  D12 L2  W19 L11 1.5
+ 18 Devavarapu, Ananya SresCMCDH54Z   352   293/ 10  L4  W20 L3  L15 L12 1.0
+ 19 Ram, Krishna           EBSDH76B   345   341/ 43  D10 L9  L16 L17 HPB 1.0
+ 20 Turapov, Hakan         XXXDH48G   300   100/  4  L14 L18 L15 L12 BYE 1.0

@@ -1,0 +1,28 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Rushton, Finley        LBYHH50E   773   898/ 10  W27 W14 W6  W25 W24 5.0
+  2 Autry-dalsanders, Reed MDREK48X   703   783/ 72  W22 W23 W9  W27 W25 5.0
+  3 Higgins, Peter         GONGJ57Y   753   752/ 39  D15 W18 W27 W24 W23 4.5
+  4 Fuchs, Ethan           LBSH849Z   611   667/ 35  W24 D20 W15 W22 W27 4.5
+  5 Dinesh Babu, Darshini  GNAEH50D   453   706/ 14  W10 L9  W17 W14 W22 4.0
+  6 Van Worner, Tobias     DPHJH25F   900   983/  5  W12 W17 L1  W9  W10 4.0
+  7 Stark, Owen            RVBEH79D   604   626/ 13  W25 W8  L12 W18 D20 3.5
+  8 Grace, Sophia          HSCCH68T   857   833/ 17  W13 L7  W20 HPB HPB 3.0
+  9 Lund, Connor           ICPMY66Q   842   823/ 33  W26 W5  L2  L6  W19 3.0
+ 10 Eberlein, Jacob        ICPKY99M   870   837/ 20  L5  W21 W19 W11 L6  3.0
+ 11 Odell, Eric            LLKDH49Y   597   585/ 20  L20 W22 W24 L10 W18 3.0
+ 12 Falstrom, Lawrence     ICPIY96G   376   505/ 10  L6  L19 W7  W26 W16 3.0
+ 13 Donahoe, James         ALTEK49E   537   573/ 19  L8  W27 L14 W15 W17 3.0
+ 14 Mccullagh, Theo        ICPHY96K   645   611/ 10  W21 L1  W13 L5  D26 2.5
+ 15 Centers, Lorenzo       ICPHY985   465   538/ 24  D3  W16 L4  L13 W21 2.5
+ 16 Donahoe, Archie        ALTGK50K   663   570/ 19  L23 L15 W25 W20 L12 2.0
+ 17 Eberlein, Joseph       ICPHY98J   653   624/ 20  W19 L6  L5  W21 L13 2.0
+ 18 Silvent, Cajetan       ICPGY96C   268   288/  9  BYE L3  W26 L7  L11 2.0
+ 19 Varghese, Joshua Luke  HSCIH25E   800   542/  5  L17 W12 L10 W23 L9  2.0
+ 20 Ferguson, Jordan       ICPMY99N   659   629/ 24  W11 D4  L8  L16 D7  2.0
+ 21 Rawlings, Alexander    HSCEH49Z   502   442/ 15  L14 L10 W23 L17 L15 1.0
+ 22 Bullington, Emeric     ICPHY98A   362   326/  9  L2  L11 BYE L4  L5  1.0
+ 23 Spindler, Patrick      ICPHY98E   339   341/ 15  W16 L2  L21 L19 L3  1.0
+ 24 Lamothe, Robert        ICPKY99H   318   311/ 15  L4  W26 L11 L3  L1  1.0
+ 25 Dituri, Sam            ICPHY97Z   224   213/  9  L7  BYE L16 L1  L2  1.0
+ 26 Richard, Wyatt         SWEFJ05B   189   161/ 18  L9  L24 L18 L12 D14 0.5
+ 27 Counts, Gabriel        ICPGY964   600   196/  5  L1  L13 L3  L2  L4  0.0

@@ -1,0 +1,36 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Kunisetty, Chekresh    REJGK99L  1461  1467/104  W13 W4  W9  D2  W3  4.5
+  2 Damrau, Austin         ELKGK95E  1218  1276/100  W18 W6  W21 D1  W9  4.5
+  3 Satish Kumar, Sai NavanJFMGH21Y  1230  1249/ 99  W19 W14 W5  W12 L1  4.0
+  4 Casino, Eli            STCGI15Q   938   969/ 61  W30 L1  W22 W25 W15 4.0
+  5 Nguyen, Richard        STCGH47W  1031  1084/ 10  W31 W23 L3  W10 W12 4.0
+  6 Brouner, Simon         KLLHH47V   879   942/ 10  W35 L2  W24 W21 D7  3.5
+  7 Byelashova, Sofia      SGHCK01K   908   901/147  L23 W31 W18 W16 D6  3.5
+  8 Rehberger, Jack        STCI916D   838   882/ 39  W33 D11 L10 W20 W21 3.5
+  9 Byelashova, Darya      SGHEK51X  1099  1107/181  W15 W16 L1  W14 L2  3.0
+ 10 Meka, Suhaas           NOVGJ51J   929   935/ 92  D20 W22 W8  L5  D11 3.0
+ 11 Keogh, Seiya           NOVGJ51N  1112  1061/ 50  W24 D8  L12 W19 D10 3.0
+ 12 Little, Wyatt          NOVGJ51H   929   944/ 50  W28 W32 W11 L3  L5  3.0
+ 13 Schulte, Joey          STCID62Q   687   710/ 51  L1  W30 L15 W27 W26 3.0
+ 14 Zhong, Sebastian       NOVGK24D   920   919/ 55  W27 L3  W23 L9  W22 3.0
+ 15 Odupitan, Oliver       STCH964H   614   741/ 39  L9  W34 W13 W29 L4  3.0
+ 16 Young, Asher S         ELKIH08R   832   825/ 10  W34 L9  W17 L7  W24 3.0
+ 17 Ramirez, Peyton        STCHK61L   573   657/ 29  L21 W26 L16 W32 W25 3.0
+ 18 Shields, Conor         KOPHK51J   672   695/ 58  L2  W35 L7  D30 W29 2.5
+ 19 Carrell, Samuel        STCH150C   681   719/ 47  L3  W28 D29 L11 W30 2.5
+ 20 Ang, Jessy             STCGH47U   449   565/ 10  D10 L29 W32 L8  W31 2.5
+ 21 Reimer, Oliver         IMSGG59D   999   945/102  W17 W25 L2  L6  L8  2.0
+ 22 Paras, Liam            STCHK61Q   645   673/ 29  W29 L10 L4  W35 L14 2.0
+ 23 Lundquist, Lucas       SGEHG99Y   491   565/  9  W7  L5  L14 L26 WF  2.0
+ 24 Flinders, Thayden      STCHJ19A   586   584/ 20  L11 W27 L6  W33 L16 2.0
+ 25 Einarson, Aiden        OBKGD84D   698   675/172  W26 L21 W33 L4  L17 2.0
+ 26 Medici, John Maverick  ELKIH08Q   812   674/ 10  L25 L17 W28 W23 L13 2.0
+ 27 Seaholm, Liam          STCGK61P   401   418/ 20  L14 L24 W31 L13 W32 2.0
+ 28 Ramirez, Quintin       STCGH47T   456   378/  8  L12 L19 L26 BYE W33 2.0
+ 29 Nishio, Risko          LIYHH09B  1159  1016/ 18  L22 W20 D19 L15 L18 1.5
+ 30 Mcguire, Grace         HSCGH57R   456   456/ 20  L4  L13 W34 D18 L19 1.5
+ 31 Ruda, Greyson          ELKGK51P   537   469/ 25  L5  L7  L27 W34 L20 1.0
+ 32 Johnson, Zoey          ELKGK51E   100   100/ 18  BYE L12 L20 L17 L27 1.0
+ 33 Townsend, Howard       ELKIK60U   168   145/ 23  L8  BYE L25 L24 L28 1.0
+ 34 Gunaseelan, Arun       JFMGG74H   600   100/  4  L16 L15 L30 L31 BYE 1.0
+ 35 Odupitan, Olivia       STCIJ50X   241   229/ 21  L6  L18 BYE L22 LF  1.0

@@ -1,0 +1,34 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Vertkin, Sergey        MAXNX05R  2133  2135/104  W4  W7  D3  W9  3.5
+  2 Maralappanavar, Omkar  CTXNX02W  1859  1889/116  W20 W26 D10 W8  3.5
+  3 Kaczmarczyk, Truma     CTXJX05Y  1796  1883/104  W18 W25 D1  D5  3.0
+  4 Beauvais, Matthew      MAXMX00S  1806  1826/108  L1  W22 W16 W10 3.0
+  5 Bihlmeyer, Joseph      CTXNX02R  1975  1976/111  D29 W13 W6  D3  3.0
+  6 Hartman, Nadav Munro   CTXIX01E  1728  1786/116  W19 W32 L5  W17 3.0
+  7 Varada, Praharsh       CTXIX01B  1798  1840/108  W32 L1  W28 W15 3.0
+  8 Adu-poku, Kwabena      CTXNZ73P  1300  1871/  4  W15 D9  W11 L2  2.5
+  9 Johnson, Will          CTXNX06D  1729  1767/104  W16 D8  W21 L1  2.5
+ 10 Bhargava, Vedanta      CTXMX11A  1728  1763/108  W31 W33 D2  L4  2.5
+ 11 Wu, Cody               CTXFX11H  1729  1748/108  D12 W27 L8  W21 2.5
+ 12 Wohlhieter, Ian        CTXNX03E  1619  1657/112  D11 L15 W27 W20 2.5
+ 13 Shi, Evan              MAXGX06B  1734  1752/104  D21 L5  W29 W22 2.5
+ 14 Wang, Max              CTXIX01F  1401  1466/113  BYE L20 D24 W23 2.5
+ 15 Dubrovsky, Seann       CTXIX06F  1684  1702/104  L8  W12 W25 L7  2.0
+ 16 Herve-mignucci, CallistHSCIJ95N  1558  1594/ 18  L9  W19 L4  W25 2.0
+ 17 Zhu, Kenson            NYXEX06G  1641  1652/103  WF  L18 W26 L6  2.0
+ 18 Brooks, Chris          NYXNX05V  2054  2042/103  L3  W17 W23 U   2.0
+ 19 Alvares-filshtein, AlexCTXLX04X  1535  1556/108  L6  L16 W31 W29 2.0
+ 20 Patil, Jhavin Jura     RIXKX06A  1738  1704/104  L2  W14 D22 L12 1.5
+ 21 Rajesh, Rishan         NJXKX05X  1854  1822/104  D13 W29 L9  L11 1.5
+ 22 Ghosh, Arush           CTXIX00W  1426  1470/111  W27 L4  D20 L13 1.5
+ 23 Nguyen, Duy Tuong      MAXFX06E  1715  1700/104  W28 D30 L18 L14 1.5
+ 24 Wu, Darren             NYXCX06C  1732  1728/102  LF  W31 D14 U   1.5
+ 25 Upadhyay, Punyavrat    CTXMX00X  1805  1777/119  W33 L3  L15 L16 1.0
+ 26 Businger, Theodore     MAXNX05Z  1784  1775/103  W30 L2  L17 U   1.0
+ 27 Nagel, Arthur C        CTXNX02Z  1700  1649/110  L22 L11 L12 W31 1.0
+ 28 Newell, Wyelin Olufemi CTXLX01H  1465  1451/110  L23 BYE L7  U   1.0
+ 29 Qian, Jack Letian      CTXGX04Z  1753  1709/107  D5  L21 L13 L19 0.5
+ 30 Bourque, Mark R        CTXNX05W  2004  1974/102  L26 D23 U   U   0.5
+ 31 Ma, Yunhui             NYXGX06J  1536  1487/104  L10 L24 L19 L27 0.0
+ 32 Meredith, Matthew      CTXNX05T  2086  2048/102  L7  L6  U   U   0.0
+ 33 Dudley, Ian W          VTXNX05P  2189  2152/102  L25 L10 U   U   0.0

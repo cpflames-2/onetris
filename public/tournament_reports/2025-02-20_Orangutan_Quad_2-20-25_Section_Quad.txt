@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Easterday, Cary Ray    ADUNG80F  1522  1522/  6  W4  W3  W2  3.0
+  2 Huynh, Daniel          DCTDK87U   432   452/ 30  W3  W4  L1  2.0
+  3 Huang, Cameron         THOBJ47G   119   145/ 12  L2  L1  W4  1.0
+  4 Lalonde, Franklin      OCXDG74J   300   100/  3  L1  L2  L3  0.0

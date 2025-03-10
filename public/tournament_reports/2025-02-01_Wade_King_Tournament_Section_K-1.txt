@@ -1,0 +1,10 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Goodwin, Bodhi         FACBH39B   212   334/ 10  W4  W3  L2  W9  W7  4.0
+  2 Campbell, Crinan       FACBJ64M   137   344/ 14  W7  W8  W1  W6  L3  4.0
+  3 Pauley, Evan           WKEBG97Q   100   455/  5  W6  L1  W5  W4  W2  4.0
+  4 Hamilton, Harlan       WKEBG97N   100   235/  4  L1  W5  W8  L3  BYE 3.0
+  5 Sullivan, Finnegan     WKEAG97M   100   190/  4  W9  L4  L3  BYE W6  3.0
+  6 Askew, Reid            WKEAG97L   100   132/  5  L3  W9  W7  L2  L5  2.0
+  7 Nayfield, Koa          WKEAG97J   100   100/  4  L2  BYE L6  W8  L1  2.0
+  8 Yunge, Reed            WKEAG97H   100   100/  4  BYE L2  L4  L7  W9  2.0
+  9 Ethier, June           WKEAG97G   100   100/  4  L5  L6  BYE L1  L8  1.0

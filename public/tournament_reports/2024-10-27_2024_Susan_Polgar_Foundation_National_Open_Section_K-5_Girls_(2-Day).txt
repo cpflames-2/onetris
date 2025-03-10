@@ -1,0 +1,16 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Byelashova, Darya      SGHEK51X  1024  1070/128  W10 W8  D2  W3  D4  4.0
+  2 Khudyev, Elina         EPICJ97Q   920  1052/ 47  W11 W4  D1  HPB W7  4.0
+  3 Sembium, Aditi         BCAEK25W  1044  1057/309  D9  W7  W12 L1  W8  3.5
+  4 Razmov, Siana          HSCCK93Y   852   877/147  W15 L2  W13 W12 D1  3.5
+  5 Lew, Abigail           OPWE645P   919   888/164  L12 W15 L8  W10 W9  3.0
+  6 Ge, Emma               SSMCJ56J   887   877/ 89  W13 L12 L9  W11 W14 3.0
+  7 Huang, Clora           SOMFK31H  1098  1062/154  HPB L3  W15 W14 L2  2.5
+  8 Wong, Claire           BCACK86D   851   905/113  W14 L1  W5  D9  L3  2.5
+  9 Li, Rebecca            SCDDJ62B   804   870/138  D3  D14 W6  D8  L5  2.5
+ 10 Luo, Vivienne          NPTD703P   711   670/139  L1  L11 BYE L5  W13 2.0
+ 11 Byelashova, Sofia      SGHCK01K   687   686/ 92  L2  W10 L14 L6  WF  2.0
+ 12 Vuta, Bhuvana          FRWFH63D   577   728/ 14  W5  W6  L3  L4  LF  2.0
+ 13 Walton, Cara           HSCDK52K   517   490/ 39  L6  BYE L4  W15 L10 2.0
+ 14 Tare, Eevie            SBOFW80B  1142  1029/ 19  L8  D9  W11 L7  L6  1.5
+ 15 Kolos, Solomiia        BKWFW79L   500   102/  4  L4  L5  L7  L13 BYE 1.0

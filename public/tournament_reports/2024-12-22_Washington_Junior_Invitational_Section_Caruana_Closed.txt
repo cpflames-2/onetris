@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Liu, Austin            SKNK530J  2186  2199/365  W4  W5  W6  D2  D3  4.0
+  2 Min, Ryan              INTK5430  2128  2141/438  D3  W4  D5  D1  W6  3.5
+  3 Karthikeyan, HarishkumaREDJJ81A  2021  2043/241  D2  W6  D4  D5  D1  3.0
+  4 Kona, Vidip            TIMGI26J  2201  2176/372  L1  L2  D3  D6  W5  2.0
+  5 Jammalamadaka, Vihaan  WPPHJ90F  2016  2005/392  D6  L1  D2  D3  L4  1.5
+  6 Patankar, Vijay        KMNKC78Y  1939  1929/305  D5  L3  L1  D4  L2  1.0

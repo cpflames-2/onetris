@@ -1,0 +1,15 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Neff, Caleb            ABEKG72N  1915  1940/390  W11 W2  W4  W3  W5  5.0
+  2 Welch, James           HSSJF53F  1587  1629/245  W8  L1  W10 W4  W3  4.0
+  3 Yusuf, Elham           SD6MZ84A  1607  1612/ 39  W10 W6  W9  L1  L2  3.0
+  4 Pawariya, Vihaan       SDYHZ98W  1424  1465/ 84  W14 W5  L1  L2  W9  3.0
+  5 Ristau, William        SDQLX37G  1602  1598/146  W13 L4  W8  W6  L1  3.0
+  6 Neff, Joel             ABEHF99X  1592  1571/301  W12 L3  W13 L5  W8  3.0
+  7 Yusuf, Farzaan         BVIGZ84D  1549  1514/ 50  L9  L8  W12 W10 W11 3.0
+  8 Chaplin, Seth          HSSJI92C  1226  1295/107  L2  W7  L5  W9  L6  2.0
+  9 Neff, Enoch            ABEEF95Q  1310  1327/189  W7  W11 L3  L8  L4  2.0
+ 10 Nguyen, Charlie        SDRFZ06D  1281  1291/189  L3  W12 L2  L7  W14 2.0
+ 11 Chaplin, Owen          HSSFD36Q  1414  1388/105  L1  L9  W14 W13 L7  2.0
+ 12 Oppold, Sage           SDLJZ281  1222  1228/171  L6  L10 L7  W14 W13 2.0
+ 13 Neff, Nadine           ABEIC79W  1241  1209/398  L5  W14 L6  L11 L12 1.0
+ 14 Mcdowell, John         BVIHZ89F  1170  1101/ 76  L4  L13 L11 L12 L10 0.0

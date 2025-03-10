@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Prasad, Shrey          EPSIK46U   762   917/ 12  W4  W3  W2  3.0
+  2 George, Ameya          EBSFK88Y   779   810/110  W3  W4  L1  2.0
+  3 Mamadgi, Uthkarsh      PLKHJ47A   825   788/ 18  L2  L1  W4  1.0
+  4 Chandana, Arnav        EVJHH58E   833   608/  5  L1  L2  L3  0.0

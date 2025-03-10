@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chen, Alex             ENDDK03T   508   631/ 48  W4  W2  W3  3.0
+  2 Shrivastava, Amogh     SHSFJ11M   474   505/ 32  W3  L1  W4  2.0
+  3 Gao, Eason             CHREH75U   484   449/ 38  L2  W4  L1  1.0
+  4 Kim, Jiwoon            CHADH62X   378   296/  9  L1  L3  L2  0.0

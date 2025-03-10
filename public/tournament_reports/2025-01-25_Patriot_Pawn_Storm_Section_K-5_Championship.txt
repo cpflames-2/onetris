@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Phillips, Henry        MCGFH43N   933  1097/ 20  W8  W5  W4  W3  W6  5.0
+  2 Carranza, Aly Omar     RCEEJ78V   754   962/ 50  L3  W6  W7  W4  W5  4.0
+  3 Chavez, Israel         MCUFK69M   876   931/ 80  W2  L4  W5  L1  W7  3.0
+  4 Hong, Samira           MCGEB77R   960   967/107  W6  W3  L1  L2  W8  3.0
+  5 Wang, Evan             LECEJ78X   800   806/ 67  W7  L1  L3  W8  L2  2.0
+  6 Singh, Yuvraj          LIBDH56L   870   857/ 19  L4  L2  W8  W7  L1  2.0
+  7 Vasquez, Mateo         MCUFK26G   946   838/135  L5  W8  L2  L6  L3  1.0
+  8 Hemperly, Harper       HSCFI09E   776   686/107  L1  L7  L6  L5  L4  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Barker, Harvey         HTNGH06X   964  1064/ 10  W2  W4  W3  3.0
+  2 Lee, Angie             CSIEG79W   400  1029/  3  L1  W3  W4  2.0
+  3 Ovetskiy, Peter        HZFCG80E  1169   974/  6  W4  L2  L1  1.0
+  4 Yee, Philip            ADUNG79V  1300   563/  3  L3  L1  L2  0.0

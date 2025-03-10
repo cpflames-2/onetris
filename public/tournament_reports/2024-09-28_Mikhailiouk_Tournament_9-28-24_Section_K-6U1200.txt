@@ -1,0 +1,38 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Roy Chowdhury, Avyaan  THRDH82M   934  1096/ 25  W30 W5  W11 W7  D3  4.5
+  2 Zou, Jinhan            SSMEH14T  1195  1205/127  W15 D4  W20 D6  W16 4.0
+  3 Vinoth Ganapathy, PavitAUDFH96J   780  1050/ 25  W18 D12 W14 W4  D1  4.0
+  4 Dhameeja, Ved          GRRFJ98F  1141  1144/118  W24 D2  W12 L3  W20 3.5
+  5 Li, Anyi               LKDDJ55F  1134  1135/ 84  W16 L1  W15 W13 D6  3.5
+  6 Shaikot, Sabeer        ENSG147Q  1032  1078/251  W32 W13 D8  D2  D5  3.5
+  7 Pan, Peng-chi          SSMDK24N   908   923/139  W33 W37 W26 L1  D8  3.5
+  8 Meka, Suhaas           REOGJ51J   948   975/ 62  W27 W23 D6  D10 D7  3.5
+  9 George, Ameya          EBSFK88Y   889   879/ 98  W19 L26 W28 W35 D11 3.5
+ 10 Bao, Edmund            CRIFH68L   910   933/ 11  W29 L11 W22 D8  W17 3.5
+ 11 Lew, Abigail           OPWE645P   863   919/155  W35 W10 L1  W26 D9  3.5
+ 12 Shapiro, Maksim        LMAFK10R  1024  1005/ 68  W17 D3  L4  D14 W31 3.0
+ 13 Oh, Seojoon            SSMEJ70T   994   978/ 54  W28 L6  W31 L5  W25 3.0
+ 14 Panda, Sourish         NJHGK98E   825   822/ 33  D21 W34 L3  D12 W27 3.0
+ 15 Mei, Felicity          MMECK89R   824   882/ 74  L2  W19 L5  W24 W23 3.0
+ 16 Ruan, Jiyong           SHSDJ19W   736   872/ 15  L5  W30 W24 W18 L2  3.0
+ 17 Bhatt, Rayaan          EPSGH76P   728   729/ 10  L12 W35 W30 W36 L10 3.0
+ 18 Pan, Peng-yu           SSMDK24P  1125  1072/153  L3  W25 W36 L16 W26 3.0
+ 19 Venkatesan, Vaibhav    SSMEJ56L   565   613/ 49  L9  L15 BYE W37 W22 3.0
+ 20 Bolisetty, Varun       CBRDJ73Z   907   896/ 88  D34 W22 L2  W27 L4  2.5
+ 21 Anbuselvam, Mithran    HEAGH61F   332   428/ 11  D14 L36 D34 D31 W32 2.5
+ 22 Hong, Jamie            CHOG577Q   923   844/ 67  W31 L20 L10 W32 L19 2.0
+ 23 Ren, Easton            CMCBH68Z   868   798/ 24  W36 L8  L27 W28 L15 2.0
+ 24 Shah, Rachit           BNTEK44K   820   793/ 62  L4  W32 L16 L15 W35 2.0
+ 25 Aslan, Deniz           OPWGH61G   785   740/ 10  L26 L18 W33 W34 L13 2.0
+ 26 Ge, Emma               SSMCJ56J   782   796/ 79  W25 W9  L7  L11 L18 2.0
+ 27 Tummuru, Nirvan        FRWEK06N   600   616/ 25  L8  BYE W23 L20 L14 2.0
+ 28 Bilguun, Telmuun       PKWFK18D   633   626/ 25  L13 W33 L9  L23 W37 2.0
+ 29 Kini, Arjun            SSMFH88B   537   538/ 20  L10 L31 L32 W33 W34 2.0
+ 30 Sarkar, Hridik         FRVFK04W   644   602/ 50  L1  L16 L17 BYE HPB 1.5
+ 31 Peng, Eric             INGGJ31E   471   492/ 49  L22 W29 L13 D21 L12 1.5
+ 32 Bangard, Dhruv         TBKCK65D   788   695/104  L6  L24 W29 L22 L21 1.0
+ 33 Koul, Navika           RSAEJ83L   686   589/ 45  L7  L28 L25 L29 W36 1.0
+ 34 Sajeeth, Samay         RKWFJ82R   489   466/ 28  D20 L14 D21 L25 L29 1.0
+ 35 Wernsing, Michael      SSMFJ93Y   411   409/ 10  L11 L17 W37 L9  L24 1.0
+ 36 Pentam, Avish          BCAEJ97W   175   270/ 10  L23 W21 L18 L17 L33 1.0
+ 37 Seth, Avyaan           SSMEH89C   100   100/  8  BYE L7  L35 L19 L28 1.0

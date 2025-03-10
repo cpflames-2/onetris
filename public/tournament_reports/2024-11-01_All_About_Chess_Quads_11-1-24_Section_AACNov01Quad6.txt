@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sivakumar, Vedant      INGHH63H   546   675/ 26  W5  W2  W3  3.0
+  2 Bhandari, Aarav        CBREJ06H   606   599/ 65  W4  L1  W5  2.0
+  3 Zhang, Eric            SOMDK64M   499   505/ 32  W6  W4  L1  2.0
+  4 Chang, Nathan          MMEDK42T   319   305/ 70  L2  L3  W6  1.0
+  5 Shin, Joshua           CRKCJ63R   286   289/ 90  L1  W6  L2  1.0
+  6 Vatsan, Maitri         SSMCK00S   182   121/110  L3  L5  L4  0.0

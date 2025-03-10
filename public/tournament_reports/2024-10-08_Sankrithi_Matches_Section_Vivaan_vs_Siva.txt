@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 rd7 rd8 rd9 r10 r11 r12 
+ pos last name first       id numb   start end/#gms  tot 
+  1 Sankrithi, Siva        ADUNI948  1399  1350/ 65  L2  D2  W2  W2  L2  W2  W2  W2  L2  L2  W2  W2  7.5
+  2 Sankrithi, Vivaan      HSCBK61R  1020  1143/110  W1  D1  L1  L1  W1  L1  L1  L1  W1  W1  L1  L1  4.5

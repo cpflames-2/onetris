@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Byelashova, Sofia      SGHCK01K   704   731/ 83  W2  W4  W3  3.0
+  2 Nishino, Anne          BCADH74F   555   556/ 32  L1  W3  W4  2.0
+  3 Zeeshan, Hamza         CRKEJ15N   272   283/ 26  W4  L2  L1  1.0
+  4 Anand, Nivaan          MCEBH64F   232   187/ 18  L3  L1  L2  0.0

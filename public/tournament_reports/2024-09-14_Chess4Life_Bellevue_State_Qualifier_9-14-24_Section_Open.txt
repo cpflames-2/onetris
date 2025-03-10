@@ -1,0 +1,14 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Ma, Lewis              SOMD587M  1493  1524/177  W9  W5  W3  W2  W4  5.0
+  2 Wang, Jacob            BLWHD74Y  1235  1265/245  W11 W7  W4  L1  W3  4.0
+  3 Singh, Atharva         SKIIK06G  1076  1097/ 53  W12 W8  L1  W10 L2  3.0
+  4 Menon, Ritwik          WLDH974D  1025  1084/ 63  U   W9  L2  W5  L1  2.0
+  5 Sreraman, Rohit        BCAEG92Q  1151  1127/267  W6  L1  W11 L4  W13 3.0
+  6 Ganguly, Arjun         BCAH816G   400   606/ 14  L5  U   W8  L7  W10 2.0
+  7 Helmy, Yaseen          HSCFH64B  1130   949/  8  W13 L2  L10 W6  W12 3.0
+  8 Shaikot, Sabeer        ENSG147Q  1200  1125/242  W10 L3  L6  W11 D9  2.5
+  9 Sreraman, Rahul        BCAEJ42L  1006   997/250  L1  L4  U   W12 D8  1.5
+ 10 Liao, Joe              MEDHE93Z   736   748/ 61  L8  W12 W7  L3  L6  2.0
+ 11 Yen, Apollo            REJHG78H   840   820/121  L2  W13 L5  L8  U   1.0
+ 12 Luo, Louis             ODEHH62G   700   528/  5  L3  L10 W13 L9  L7  1.0
+ 13 Serna Mengual, Aida    FRDIH62F   800   218/  4  L7  L11 L12 U   L5  0.0

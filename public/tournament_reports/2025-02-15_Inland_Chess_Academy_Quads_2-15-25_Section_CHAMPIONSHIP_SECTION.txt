@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Deng, Stanley          LLMGK22E  1610  1620/365  W2  BYE W3  3.0
+  2 Keener, Karl           HLHJY40G  1294  1308/170  L1  W3  BYE 2.0
+  3 Wilson, Nicholas D     LBYIJ58B  1268  1240/ 62  BYE L2  L1  1.0

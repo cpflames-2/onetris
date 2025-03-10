@@ -1,0 +1,55 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Bui, Bryant            RDSFH52W   735  1008/ 26  W43 W13 W9  W3  W4  5.0
+  2 Sameneni, Shivanga     TYEGJ39W   820   921/ 20  W46 W18 W16 D6  W13 4.5
+  3 Hoffman, David         PERFJ98J   729   865/ 25  W38 W7  W12 L1  W19 4.0
+  4 Dong, Daniel           BCXIZ71X   800   980/  5  W8  W39 W33 W19 L1  4.0
+  5 Yorks, Cameron         CSIEJ74Q   739   859/ 41  W29 D9  W10 W25 D6  4.0
+  6 Singhal, Aryash        HIEF595L   752   830/118  W42 W48 W15 D2  D5  4.0
+  7 Jariwala, Vidur        THOEK87P   546   768/ 53  W20 L3  W47 W33 W17 4.0
+  8 Pan, Jingyuan          EVJHH73P   644   705/ 18  L4  W44 W38 W34 W16 4.0
+  9 Marriott, Nicolas      HTNGH52X   859   870/ 10  W27 D5  L1  W14 W32 3.5
+ 10 Xia, Jethro            BCSFK47R   807   810/117  W14 D11 L5  W26 W27 3.5
+ 11 Gridasov, Robert       LAVEJ03F   581   704/ 21  W28 D10 L25 W30 W15 3.5
+ 12 Gokul, Shravan         EVJHJ89U   827   818/ 38  W35 W32 L3  D27 W25 3.5
+ 13 Chenchu Arun, Krish    SSMFJ74U   850   839/ 49  W45 L1  W22 W21 L2  3.0
+ 14 Namburi, Shriniketh    TMBIJ20A   274   539/ 14  L10 W23 W18 L9  W40 3.0
+ 15 Liu, Jace              CHREK00Y   832   796/ 30  W41 W21 L6  W32 L11 3.0
+ 16 Prasanna, Charan       LMAEJ46Z   764   740/ 47  W51 W26 L2  W37 L8  3.0
+ 17 Slettebak, Jordan      EMSH604V   815   776/ 63  W34 W31 L19 W36 L7  3.0
+ 18 Gupta, Shivam          EVJH474W   835   786/ 98  W22 L2  L14 W48 W34 3.0
+ 19 Lin, Evan              SOMCJ72G   723   724/ 61  W53 W47 W17 L4  L3  3.0
+ 20 Lo, Ella               SOMGB94E   871   818/ 51  L7  L25 W44 W45 W36 3.0
+ 21 Guity, Sage            SYRE251G   618   612/ 79  W50 L15 W42 L13 W37 3.0
+ 22 Kelly, Liam            SANG359W   468   534/ 55  L18 W46 L13 W47 W33 3.0
+ 23 Wu, Benjamin           AKKHH38E   700   537/  5  L32 L14 W53 W35 W39 3.0
+ 24 Dong, Oliver           WBREZ71W   400   375/  5  L26 L42 W54 W49 W45 3.0
+ 25 Singla, Atharv         TWFHF53S   781   764/ 47  D44 W20 W11 L5  L12 2.5
+ 26 Tang, Khai             THUFJ48Q   552   556/ 40  W24 L16 D30 L10 W43 2.5
+ 27 Tecle, Zekarias        THUFH54X   545   559/ 15  L9  W54 W28 D12 L10 2.5
+ 28 Cha, Kenshiro          AKKGH38D   600   386/  5  L11 W51 L27 D42 W44 2.5
+ 29 Apfel, Max             AKKHH38C   700   422/  5  L5  D45 L40 W51 W42 2.5
+ 30 Cao, Amy               DPIEH38B   400   554/  4  U   W35 D26 L11 W49 2.5
+ 31 Whittaker, Mason       SANGK91Z   570   515/ 20  W52 L17 L37 D43 W48 2.5
+ 32 Jiang, Mason           LMSFH66Y   603   594/ 37  W23 L12 W41 L15 L9  2.0
+ 33 Eustis, Owen           SCDE195W   763   698/ 56  W49 W36 L4  L7  L22 2.0
+ 34 Adane, Joseph          AKKGK13W   286   367/ 17  L17 W52 W39 L8  L18 2.0
+ 35 Too, Amelia            THUEK87Q   381   360/ 38  L12 L30 W46 L23 W50 2.0
+ 36 Chirita, Adrian        CBEFJ93A   548   547/ 33  W37 L33 W43 L17 L20 2.0
+ 37 Christensen, Finn      EMSHH38A   700   441/  5  L36 W49 W31 L16 L21 2.0
+ 38 Balaji, Lakshanya      TMBGH65B   116   186/ 16  L3  W50 L8  L44 W47 2.0
+ 39 Thorrington, James     SASG547U   694   605/ 66  W54 L4  L34 W41 L23 2.0
+ 40 Tan, Talen             DCCHH53A   597   494/ 19  L47 L43 W29 W50 L14 2.0
+ 41 Lam, Nicholas          DPIEH384   400   353/  5  L15 W53 L32 L39 W52 2.0
+ 42 Nandeesh, Tapasya      SMSIH62Z   117   198/ 25  L6  W24 L21 D28 L29 1.5
+ 43 Bisset, Finnian        AKKIH37Z   800   435/  5  L1  W40 L36 D31 L26 1.5
+ 44 Mansfield, Jared       AKKIK30J   269   289/ 19  D25 L8  L20 W38 L28 1.5
+ 45 Tan, Mathew            THUEJ76C   487   433/ 50  L13 D29 W48 L20 L24 1.5
+ 46 Zobatunga, Debora      AKKGH37Y   600   183/  5  L2  L22 L35 D53 W54 1.5
+ 47 Spitzenberger, Gwen    AKKIH89L   204   233/ 10  W40 L19 L7  L22 L38 1.0
+ 48 Looney, Aishanique     AKKHH96M   100   100/ 13  BYE L6  L45 L18 L31 1.0
+ 49 Dutton, August         AKKHH89G   161   160/ 10  L33 L37 W52 L24 L30 1.0
+ 50 Nguyen, Duc            AKKGH37W   600   104/  5  L21 L38 W51 L40 L35 1.0
+ 51 Ferzli, Claire         QAEF350W   191   140/ 25  L16 L28 L50 L29 W53 1.0
+ 52 Byambasaikhan, EnkhtulgSYREH37V   400   100/  5  L31 L34 L49 W54 L41 1.0
+ 53 Gardner, Teagan        SYREJ42V   100   100/ 19  L19 L41 L23 D46 L51 0.5
+ 54 Trump, Hugo            AKKIH96L   100   100/ 15  L39 L27 L24 L52 L46 0.0

@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Lam, Sebastian         OPWCJ97R   673   661/ 58  W2  U   L3  1.0
+  2 Tripathi, Naksh        BRHDJ98P   573   588/ 91  L1  W3  U   1.0
+  3 Huang, Ryan            CNHBJ56H   632   630/ 26  U   L2  W1  1.0

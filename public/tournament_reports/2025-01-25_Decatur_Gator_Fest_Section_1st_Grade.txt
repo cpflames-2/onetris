@@ -1,0 +1,15 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Gray, Carter           COSBH33E   684   859/ 10  W8  W12 W4  W2  W3  5.0
+  2 Hasson, Ari            SJCBJ47L   631   733/ 45  W10 W11 W3  L1  W4  4.0
+  3 Desai, Vivaan          BCABJ49H   840   789/ 61  W6  W5  L2  W10 L1  3.0
+  4 Nair, Vihaan           FRWBJ97F   732   696/ 48  WF  W9  L1  W5  L2  3.0
+  5 Sheehy, Julian         BRYBJ67A   388   428/ 30  W7  L3  W8  L4  W10 3.0
+  6 Glaser, Dylan          BUSBH32T   204   284/ 10  L3  W13 W9  L11 W12 3.0
+  7 Swigon, Bruno          WEDBH92N   100   254/ 19  L5  L8  W14 W9  W11 3.0
+  8 Vanderhoeven, Thomas   BUSBH51A   195   221/ 14  L1  W7  L5  W13 L9  2.0
+  9 Liang, Dangdang        MEDBJ12R   404   338/ 35  W13 L4  L6  L7  W8  2.0
+ 10 Waters, Emerson        WEDBH32U   106   205/ 10  L2  W14 W11 L3  L5  2.0
+ 11 Zhou, George           BRYBJ65T   251   236/ 40  W14 L2  L10 W6  L7  2.0
+ 12 Pleasants, Sophia GraceTHUBK03X   100   100/  7  BYE L1  L13 W14 L6  2.0
+ 13 Stidham, Bowie         WEDBH32G   100   113/ 10  L9  L6  W12 L8  W14 2.0
+ 14 Freeman, Judah         PCMBH04C   100   100/  5  L11 L10 L7  L12 L13 0.0

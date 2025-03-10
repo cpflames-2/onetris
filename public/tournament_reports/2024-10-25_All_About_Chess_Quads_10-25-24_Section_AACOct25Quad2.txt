@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Jahani, Nikan          SNIGK89A   914  1027/119  W4  W3  W2  3.0
+  2 Agarwal, Avyaan        RCSEW81K   912   881/ 26  W3  L4  L1  1.0
+  3 Sathyamurthy, Sreeshan EVJIJ24M   812   810/122  L2  L1  W4  1.0
+  4 Sarychev, Aleksei      GEKKJ98N   904   876/176  L1  W2  L3  1.0

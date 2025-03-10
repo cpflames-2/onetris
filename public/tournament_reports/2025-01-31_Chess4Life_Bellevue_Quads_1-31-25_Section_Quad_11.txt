@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Srinivasan, Ashvin     ISECH10Y   236   282/ 11  D3  W2  W4  2.5
+  2 Dong, Joanna           BCACH50L   100   187/ 15  W4  L1  W3  2.0
+  3 Gill, Vardaan          CHRCH00A   200   100/  3  D1  D4  L2  1.0
+  4 Bach, Lan              MCIBH74U   196   120/ 20  L2  D3  L1  0.5

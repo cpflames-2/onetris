@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 tot 
+  1 Sankrithi, Siva        ADUNI948  1277  1288/ 83  W4  1.0
+  2 Byelashova, Darya      SGHEK51X  1036  1072/160  W3  1.0
+  3 Qin, Skyler            OPWBJ97T  1125  1091/ 98  L2  0.0
+  4 Sabarish, Ananya       BCAEG02Z  1049  1036/172  L1  0.0

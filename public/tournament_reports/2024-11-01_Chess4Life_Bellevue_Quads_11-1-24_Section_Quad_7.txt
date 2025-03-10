@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Xu, Jacky Y            SOMCJ59K   345   454/ 41  W3  W4  W2  3.0
+  2 Zhang, Eli             BCACH69C   346   354/ 33  W4  W3  L1  2.0
+  3 Beasley, Chloe         LLFEH65R   224   172/ 12  L1  L2  D4  0.5
+  4 Alam, Mahira           LTLDH61S   100   100/  8  L2  L1  D3  0.5

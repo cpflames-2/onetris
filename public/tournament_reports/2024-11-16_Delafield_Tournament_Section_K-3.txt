@@ -1,0 +1,52 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Lum, Boaz              LIBDJ62C   951   986/ 49  W17 W11 W14 W7  W6  5.0
+  2 Singh, Yuvraj          LIBDH56L   663   767/  9  W29 W13 W15 W3  W9  5.0
+  3 Einarson, Finn         OBKD256K   570   642/109  W28 W5  W18 L2  W14 4.0
+  4 Johnson, Ramses        MCGCK53Q   478   569/ 60  W36 W12 L7  W15 W21 4.0
+  5 Rosenbaum, Conlee      MCGDJ22Z   446   509/ 30  W43 L3  W37 W32 W10 4.0
+  6 Dutcher, Hudson        MCGDJ77X   442   604/ 49  W30 W10 W21 W8  L1  4.0
+  7 Mckenzie, Aaron        LIBDH42H   300   801/  5  W23 W36 W4  L1  W11 4.0
+  8 Webb, Bode             LIBBJ77Y   291   407/ 53  D19 W35 W24 L6  W30 3.5
+  9 Boschert, Jake         LIBDH42G   300   483/  5  D33 W39 W34 W16 L2  3.5
+ 10 Hahl, Mason            BMCDJ52X   517   495/ 30  W42 L6  W28 W19 L5  3.0
+ 11 Turner, Micah          MCGDJ22X   471   499/ 20  W47 L1  W44 W18 L7  3.0
+ 12 Dahl, August           MTPDJ78U   450   418/ 34  W48 L4  D30 W41 D17 3.0
+ 13 Reagan, Paxton         MCGDK96W   370   384/ 70  W37 L2  W31 L21 W27 3.0
+ 14 Correa, River          MCGCJ23C   322   405/ 25  W31 W22 L1  W35 L3  3.0
+ 15 Gutierrez, Ivan        BMCCJ45X   260   340/ 10  W38 W46 L2  L4  W35 3.0
+ 16 Worthington, Andrew    LIBCJ52Q   253   280/ 36  W49 D24 W41 L9  D20 3.0
+ 17 Mcwhirk, Jace          RFPBJ77T   100   257/ 27  L1  D27 W40 W46 D12 3.0
+ 18 Mckenzie, Bennett      LIBDH42F   300   452/  5  W22 W26 L3  L11 W33 3.0
+ 19 Gadd, Marshall         MCGCH42E   200   356/  5  D8  D43 W33 L10 W38 3.0
+ 20 Santana, Jonathan      ESGDH42D   300   298/  5  L24 W49 D25 W23 D16 3.0
+ 21 Gallegos, Angel J      RFRDH42C   300   439/  5  W27 W47 L6  W13 L4  3.0
+ 22 Bright, Wyatt          MTPDJ52V   386   343/ 34  L18 L14 W47 W36 D28 2.5
+ 23 Andring, Jesse         MTPDJ00T   265   257/ 15  L7  W44 D38 L20 W42 2.5
+ 24 Pena, Leo              HTECJ00S   228   247/ 24  W20 D16 L8  L30 W43 2.5
+ 25 Bawden, Sawyer         MCUCJ45U   185   197/ 28  D39 D33 D20 D38 D32 2.5
+ 26 Shipley, John          MTPDH55Z   156   178/ 10  D40 L18 D43 D31 W41 2.5
+ 27 Hernandez, Ezekiel     MTPDJ78B   105   206/ 34  L21 D17 W39 W34 L13 2.5
+ 28 Jacobson, Oliver       LIBCH55S   100   210/ 10  L3  W48 L10 W44 D22 2.5
+ 29 Mcwhirk, Tristan       RFPD669F   100   183/ 34  L2  L30 W49 W48 D34 2.5
+ 30 Jenkins, Cade          BMCCH42B   200   361/  5  L6  W29 D12 W24 L8  2.5
+ 31 Hoff, Lewis            SAECH42A   200   235/  5  L14 W40 L13 D26 W45 2.5
+ 32 Peraza, Etson          MTPDH41Z   300   226/  5  L34 W51 W46 L5  D25 2.5
+ 33 Epperson, Owen         MTPDJ52U   276   269/ 29  D9  D25 L19 W37 L18 2.0
+ 34 Badillo-chavez, LeandroMCUDJ78C   243   210/ 38  W32 D41 L9  L27 D29 2.0
+ 35 Morado, Derrick        MTPDH55X   184   187/ 10  W51 L8  W45 L14 L15 2.0
+ 36 Mejia, Victor          CRPDJ77W   100   158/ 28  L4  L7  W51 L22 W50 2.0
+ 37 Mcmurphy, Golden       CRPDH41Y   300   193/  5  L13 W42 L5  L33 W46 2.0
+ 38 Hernandez, Matthias    MTPDH41X   300   172/  5  L15 W50 D23 D25 L19 2.0
+ 39 Santiago, Martin       ESGCH41W   200   130/  5  D25 L9  L27 D43 W47 2.0
+ 40 Castro-gudino, SebastiaESGBH41V   100   100/  5  D26 L31 L17 D49 W48 2.0
+ 41 Schlegel, Atticus      MCGDJ77V   184   142/ 34  W45 D34 L16 L12 L26 1.5
+ 42 Nalley, Wyatt          LIBBH55R   100   100/ 10  L10 L37 W50 D45 L23 1.5
+ 43 Epperson, Peyton       MTPCH55Q   100   109/ 10  L5  D19 D26 D39 L24 1.5
+ 44 Perez, Antonella       MCGCJ45V   100   100/ 19  BYE L23 L11 L28 D49 1.5
+ 45 Leal-ortiz, Kataleya   MTPCH41U   200   100/  4  L41 BYE L35 D42 L31 1.5
+ 46 Kniveton, Logan        MTPCH56H   240   116/ 10  W50 L15 L32 L17 L37 1.0
+ 47 Simpkins, Wesson       MTPCH55N   100   100/  9  L11 L21 L22 BYE L39 1.0
+ 48 Marroquin, Owen        CRPBH55M   100   100/  9  L12 L28 BYE L29 L40 1.0
+ 49 Simmons, Roslyn        LIVDH41T   300   100/  5  L16 L20 L29 D40 D44 1.0
+ 50 Chavez, Sandro         LIVCH41R   200   100/  5  L46 L38 L42 W51 L36 1.0
+ 51 Walker, Jianna         LIBDH41Q   300   100/  4  L35 L32 L36 L50 BYE 1.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bysani, Aakash         SSMCK01D   716   847/177  W3  W4  W2  3.0
+  2 Mangla, Atharv         GRREK07C   739   760/125  W4  W3  L1  2.0
+  3 Malka, Anirudh         CKNH259H   713   684/ 47  L1  L2  W4  1.0
+  4 Abhilash, Lavina       CRIFK07R   618   558/126  L2  L1  L3  0.0

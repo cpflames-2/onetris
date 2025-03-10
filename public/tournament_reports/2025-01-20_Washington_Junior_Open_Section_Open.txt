@@ -1,0 +1,29 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Chen, Andy             SOMEK05J  1588  1645/ 92  W21 W22 D3  W6  3.5
+  2 Subramanian, Thrinay   SPTJ466R  1590  1649/153  D20 W12 W14 W5  3.5
+  3 Shi, Gavin             LCOKH855  1560  1608/442  W15 W9  D1  D11 3.0
+  4 Syal, Yash             PFCGC10R  1600  1602/211  L24 W28 W20 W15 3.0
+  5 Li, Shawn              SOMDJ11N  1536  1564/ 66  W13 D7  W23 L2  2.5
+  6 Koripella, Dheeran     INGI610W  1541  1561/ 80  W17 W24 D11 L1  2.5
+  7 Zhou, Yuchen           CHRFJ42H  1688  1674/618  W25 D5  D8  D10 2.5
+  8 Raja, Rian             SKWH786E  1540  1563/198  W26 D11 D7  D9  2.5
+  9 Das, Sambuddha Sekhar  ENDEK47S  1425  1485/183  W16 L3  W24 D8  2.5
+ 10 Ma, Lewis              SOMD587M  1453  1501/208  D12 D20 W17 D7  2.5
+ 11 Ayalew, Brook          DCCJJ71Q  1712  1697/ 43  W27 D8  D6  D3  2.5
+ 12 Maharaja, Imai         HMNEK34K  1618  1612/261  D10 L2  W27 W21 2.5
+ 13 Gao, Ziqian            BLWFK10U  1404  1480/ 70  L5  W25 D18 W23 2.5
+ 14 Ganesan, Vidur         RBRF940K  1507  1526/298  W18 D23 L2  D16 2.0
+ 15 Zhu, Aiden             SOMEC77X  1439  1440/146  L3  WF  W22 L4  2.0
+ 16 Cheng, Alan            LMSGJ71K  1549  1531/170  L9  W26 D21 D14 2.0
+ 17 Chaudhuri, Arihant     CHAF703E  1416  1427/297  L6  W27 L10 W25 2.0
+ 18 Cheng, Selina          TLMH413R  1737  1706/580  L14 HPB D13 W24 2.0
+ 19 Raj, Skandha           EVGCK55U  1407  1410/156  L22 L21 W28 W27 2.0
+ 20 Pai, Vihaan            CHAFK17C  1444  1450/272  D2  D10 L4  D22 1.5
+ 21 He, Oliver             ENDEK71V  1445  1447/398  L1  W19 D16 L12 1.5
+ 22 Pan, Peng-ruei         SSMF759R  1539  1509/228  W19 L1  L15 D20 1.5
+ 23 Tan, Nathan            UCDF412Y  1553  1521/199  W28 D14 L5  L13 1.5
+ 24 Li, Edgar              SOME883Y  1445  1435/243  W4  L6  L9  L18 1.0
+ 25 Evin, Terrick          EBSDC54L  1472  1437/230  L7  L13 W26 L17 1.0
+ 26 Wu, Shanna             CNHEJ72M  1415  1387/ 45  L8  L16 L25 W28 1.0
+ 27 Yang, Jimmy            BASFG45S  1424  1366/237  L11 L17 L12 L19 0.0
+ 28 Meyerzon, Daniel       INTLJ242  1434  1363/451  L23 L4  L19 L26 0.0

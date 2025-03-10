@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Oppold, Sage           SDYJZ281  1024  1080/153  W4  L2  W3  2.0
+  2 Hoellein, Carter       SDDFZ96L  1157  1163/123  L3  W1  W4  2.0
+  3 Albrecht, Ian          SDCFZ98P  1009  1006/115  W2  L4  L1  1.0
+  4 Neff, Katrina          ABEF159Y  1145  1107/220  L1  W3  L2  1.0

@@ -1,0 +1,16 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Polonsky, Daniel       LIHL946P  1394  1422/ 87  W7  W5  W4  W3  D2  4.5
+  2 Chien, Jeffrey         OVLHF41X  1349  1333/175  L11 W8  W12 W6  D1  3.5
+  3 Xu, Alex               EMSI500U  1207  1232/160  W8  W11 W6  L1  D4  3.5
+  4 Chaurasia, Vihaan      HMNHH65G  1102  1147/177  W12 W15 L1  W9  D3  3.5
+  5 De, Rishik             INGIJ87T  1102  1151/ 98  W13 L1  W15 W10 D9  3.5
+  6 Dragusanu, Stephane    EVJIH75V  1026  1171/ 15  W10 W9  L3  L2  W11 3.0
+  7 Nachiappan, Lakshmanan RHJIJ87Q  1017  1064/ 38  L1  W13 L9  W12 W10 3.0
+  8 Olson, Ben             BLCJG50S   942   949/161  L3  L2  W14 W15 BYE 3.0
+  9 Chopra, Aaryaman       BISJK30K  1280  1231/ 86  W14 L6  W7  L4  D5  2.5
+ 10 Chevuri, Tattva        REJHC06V  1429  1336/417  L6  W14 W11 L5  L7  2.0
+ 11 Yu, Michael            EVJHK95D   980  1001/ 20  W2  L3  L10 W13 L6  2.0
+ 12 Singla, Atharv         TWFHF53S   799   781/ 42  L4  WF  L2  L7  W15 2.0
+ 13 Tan, Talen             DCCHH53A   534   597/ 14  L5  L7  BYE L11 W14 2.0
+ 14 Yen, Apollo            REJHG78H   951   864/134  L9  L10 L8  BYE L13 1.0
+ 15 Nandeesh, Tapasya      SMSIH62Z   119   117/ 20  BYE L4  L5  L8  L12 1.0

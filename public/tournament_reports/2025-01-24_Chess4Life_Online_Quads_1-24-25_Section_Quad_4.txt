@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sreraman, Rahul        BCAEJ42L   897   937/283  W3  W2  L4  2.0
+  2 Borkar, Siddharth      MRLGJ29B   924   950/ 30  W4  L1  W3  2.0
+  3 Mcintyre, Isaac        ETSF466S   920   895/239  L1  W4  L2  1.0
+  4 Khandelwal, Anay       OMSHA10L   947   914/ 72  L2  L3  W1  1.0

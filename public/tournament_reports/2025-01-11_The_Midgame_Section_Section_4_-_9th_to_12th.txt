@@ -1,0 +1,13 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Gorlachev, David       FMPJK30B   955  1123/ 35  W12 W10 W7  W2  D3  4.5
+  2 Nelson, Brandon        BATLG94X  1092  1169/ 10  W8  W7  W4  L1  W6  4.0
+  3 Cruz, Justin           PRHLJ91C  1314  1282/ 36  L10 W12 W5  W4  D1  3.5
+  4 Carbajal-vargas, Eric  PRHLK78R  1152  1141/ 26  W11 W5  L2  L3  W8  3.0
+  5 Kephart, Stepfon       HSCJK29V   768   885/ 10  W9  L4  L3  W7  W11 3.0
+  6 Holten, David          COELJ90X   806   863/ 20  L7  W8  W11 W9  L2  3.0
+  7 Boyes, Elijah          HSCMG82Y  1200   916/  5  W6  L2  L1  L5  W10 2.0
+  8 Brinson, Ozzy          FMPKJ91B  1093  1026/ 19  L2  L6  W12 W11 L4  2.0
+  9 Boyes, Jonny           HSCJG82X   900   719/  5  L5  L11 W10 L6  W12 2.0
+ 10 Truong, Tein           PRHLK11W   971   884/ 40  W3  L1  L9  L12 L7  1.0
+ 11 Nelson, Bryce          BATJG82W   900   683/  5  L4  W9  L6  L8  L5  1.0
+ 12 Williams, Joseph       FMPKJ90P   649   659/ 20  L1  L3  L8  W10 L9  1.0

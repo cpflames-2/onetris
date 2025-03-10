@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Talukdar, Yuvaan       RBRBH76K   582   671/ 30  W4  W3  D2  2.5
+  2 Jain, Anvay            TMBH874Z   572   668/ 80  W3  W4  D1  2.5
+  3 Hu, Maxwell            BCABK03N   570   546/ 46  L2  L1  W4  1.0
+  4 Gao, Eason             CHREH75U   551   472/ 32  L1  L2  L3  0.0

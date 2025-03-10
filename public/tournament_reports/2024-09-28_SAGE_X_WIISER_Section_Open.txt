@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Pleasants, Gabriel     THUE149G  1087  1146/ 88  L2  W3  W4  W5  ZPB 3.0
+  2 Nair, Ishan            SKIH670E  1193  1207/172  W1  ZPB L3  W4  W5  3.0
+  3 Wadhwani, Ren          DCCEK13K   975  1009/ 58  W5  L1  W2  ZPB L4  2.0
+  4 Schasteen, Noble       DCCEA04C  1234  1195/ 51  ZPB W5  L1  L2  W3  2.0
+  5 Hedstrom, Elliot       WEDDK92C   872   831/ 66  L3  L4  ZPB L1  L2  0.0

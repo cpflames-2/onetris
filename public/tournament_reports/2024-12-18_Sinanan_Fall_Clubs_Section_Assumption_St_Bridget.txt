@@ -1,0 +1,23 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Hatridge, Walter       ASNCH22H   200   600/  2  W14 W11 BYE 3.0
+  2 Bennion, Brodie        ASNDH22G   300   713/  3  W16 W5  D3  2.5
+  3 Penney, Tom            ASNDH22F   300   728/  3  W13 W4  D2  2.5
+  4 Bariault, Grayson      ASNDH22E   300   433/  3  W15 L3  W12 2.0
+  5 Bolante, Andrew        ASNCH22D   200   471/  3  W19 L2  W9  2.0
+  6 Meguerditchian, Sam    ASNCH22C   200   346/  3  L9  W10 W14 2.0
+  7 Hadfield, James        ASNCH22B   200   744/  2  W11 W8  U   2.0
+  8 Ni, Ricky              ASNAH22A   100   500/  3  W18 L7  W18 2.0
+  9 Hatridge, Bruce        ASNCH21Z   200   317/  3  W6  D12 L5  1.5
+ 10 Tellinghuisen, Anders  ASNCH21W   200   244/  3  D12 L6  W13 1.5
+ 11 Davidson, Finn         ASNCH21V   200   350/  3  L7  L1  W20 1.0
+ 12 Kocarnik, Simon        ASNEH21U   400   167/  3  D10 D9  L4  1.0
+ 13 Guidon, Vivienne       ASNDH21T   300   154/  3  L3  W15 L10 1.0
+ 14 Choate, Avery          ASNCH21S   200   225/  3  L1  W18 L6  1.0
+ 15 Garrison, Beckett      ASNCH21R   200   100/  3  L4  L13 W19 1.0
+ 16 Green, Emily           ASNCH21Q   200   369/  2  L2  W19 U   1.0
+ 17 Bottorff, Palmer       ASNCH21P   200   500/  1  U   W20 U   1.0
+ 18 Xu, Jiayi              ADUNH21N  1300   100/  3  L8  L14 L8  0.0
+ 19 Cahill, Sloane         ASNDH21M   300   100/  3  L5  L16 L15 0.0
+ 20 Misiewicz, Ella        ASNCH21J   200   100/  2  U   L17 L11 0.0
+
+ All Unrated-player Section: Ratings capped at 1000

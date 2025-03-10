@@ -1,0 +1,17 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Porter, Ryan W         ADUNF05C  2286  2285/ 38  W6  W13 D4  W2  W5  4.5
+  2 Wirkkala, Zane         HSCLC64H  1657  1743/ 59  W7  W10 W12 L1  W4  4.0
+  3 Yu, Peter              ADUNJ50C  2100  2080/ 28  L9  W16 W11 D4  W10 3.5
+  4 Gavrysh, Leonid        ADUN816H  2053  2044/101  W16 W9  D1  D3  L2  3.0
+  5 Thorwe, Pratik         ADUNK10D  1990  1969/ 34  L10 W15 W14 W9  L1  3.0
+  6 Maharaja, Imai         HMNEK34K  1572  1585/228  L1  L7  W15 W12 W13 3.0
+  7 Joseph, Veronique      SJOFJ04S  1483  1518/189  L2  W6  W16 D10 D8  3.0
+  8 Merriman, Dann         WMNFF79Y  1748  1721/612  HPB HPB L9  W14 D7  2.5
+  9 Nedumpurakkal Thahir, IRHJKK46Y  1564  1686/ 14  W3  L4  W8  L5  D12 2.5
+ 10 Nam, Jinmo             GRRKC101  1525  1569/205  W5  L2  W13 D7  L3  2.5
+ 11 Polonsky, Daniel       LIHL946P  1380  1391/ 81  BYE D12 L3  L13 W15 2.5
+ 12 Jiang, Nathan          EINIJ95G  1441  1454/ 18  W15 D11 L2  L6  D9  2.0
+ 13 Sanchez, Kyle          ADUNH59E  1300  1447/  5  W14 L1  L10 W11 L6  2.0
+ 14 Marsh, Stephen         ADUNH59D  1300  1172/  4  L13 BYE L5  L8  W16 2.0
+ 15 Rao, Atharv            TYEGB90T  1505  1444/100  L12 L5  L6  W16 L11 1.0
+ 16 James, Johnny          ADUNH59B  1300   855/  5  L4  L3  L7  L15 L14 0.0

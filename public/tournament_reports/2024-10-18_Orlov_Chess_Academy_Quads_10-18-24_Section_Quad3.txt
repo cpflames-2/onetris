@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sarangi, Samarth       CBREH69F   306   376/ 36  W4  W2  D3  2.5
+  2 Anand, Nivaan          MCEBH64F   294   317/ 27  W3  L1  W4  2.0
+  3 Zeeshan, Hamza         CRKEJ15N   273   271/ 35  L2  W4  D1  1.5
+  4 Zeeshan, Harris        CRIBH61J   100   100/ 11  L1  L3  L2  0.0

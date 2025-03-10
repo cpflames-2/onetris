@@ -1,0 +1,24 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Hopkins, Declan        REOFJ52J   774   980/ 19  W19 W11 D3  W14 W2  4.5
+  2 Damrau, Austin         PIVGK95E  1171  1156/ 65  W5  W7  W14 W4  L1  4.0
+  3 Gokulakrishnan, SriharsTMMGH60B  1137  1050/  9  D12 W10 D1  W16 W7  4.0
+  4 Little, Wyatt          REOGJ51H   779   835/ 20  W21 W23 W6  L2  W8  4.0
+  5 Zhong, Sebastian       REOGK24D   557   761/ 35  L2  W21 W13 W6  W16 4.0
+  6 Meyer, Brendlyn        YLMIJ90J   821   810/ 25  W17 W8  L4  L5  W14 3.0
+  7 Judd, George           PURFJ57F   721   735/ 30  W22 L2  W18 W10 L3  3.0
+  8 Hopkins, Spencer       ORLFJ52M   678   681/ 20  W20 L6  W19 W12 L4  3.0
+  9 Prasanna, Supriti      REOFJ52H   325   342/ 16  L11 L19 BYE W21 W20 3.0
+ 10 Arora, Gia             NOVGJ50T   255   446/  9  BYE L3  W11 L7  W17 3.0
+ 11 Shields, Conor         KOPHK51J   821   767/ 49  W9  L1  L10 W18 D13 2.5
+ 12 Einarson, Aiden        SAKGD84D   555   570/153  D3  L16 W17 L8  W19 2.5
+ 13 Rish-brown, Jackson    HMOFH57T   500   701/  5  W16 L14 L5  W15 D11 2.5
+ 14 Reimer, Oliver         LKDGG59D   791   778/ 72  W18 W13 L2  L1  L6  2.0
+ 15 Spearman, Emery        DCCH101R   693   629/ 60  LF  L18 W22 L13 W23 2.0
+ 16 Smacinih, Alexander    SOMGG83H   614   599/ 90  L13 W12 W23 L3  L5  2.0
+ 17 Rish-brown, Jacob      HMOFK61J   452   411/ 15  L6  W22 L12 W23 L10 2.0
+ 18 Guz, Phoenix           REOFH57S   500   521/  5  L14 W15 L7  L11 W22 2.0
+ 19 Mcguire, Grace         HSCGH57R   600   400/  5  L1  W9  L8  D20 L12 1.5
+ 20 Mcguire, Madeleine     HSCIH57Q   800   300/  4  L8  U   W21 D19 L9  1.5
+ 21 Bannister, Colton      HABGH57P   600   100/  4  L4  L5  L20 L9  BYE 1.0
+ 22 Courtwright, Logan     REOFH57N   600   100/  4  L7  L17 L15 BYE L18 1.0
+ 23 Obrien, Brooklyn       RMSGH57M   600   100/  4  WF  L4  L16 L17 L15 1.0

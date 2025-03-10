@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Wilson, Nicholas       LBYIJ58B  1134 1243/ 35   W3  W6  W2  W7  W4    5.0
+  2 Anderson, Christopher  HSCG712R   903 1036/ 74   W7  W5  L1  W6  W8    4.0
+  3 Moss, Solomon          HSCHH79G   982 1020/ 90   L1  W4  D7  W8  W6    3.5
+  4 Edlund, Caleb          WAXHJ88D  1018  973/ 49   L6  L3  W8  W5  L1    2.0
+  5 Caine, Spencer         SIAHJ63E   992  940/ 19   W8  L2  L6  L4  W7    2.0
+  6 Aguayo, Chase          LSPIH66L   809  870/ 20   W4  L1  W5  L2  L3    2.0
+  7 Bai, Kelin             SKKGD75J  1028  969/237   L2  W8  D3  L1  L5    1.5
+  8 Hsu, Max               LBYEK05W   717  669/ 33   L5  L7  L4  L3  L2    0.0

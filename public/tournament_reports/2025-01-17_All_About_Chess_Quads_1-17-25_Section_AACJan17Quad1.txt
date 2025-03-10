@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Burtram, Dayton        SKNJG77M  1332  1467/331  W4  W2  W3  3.0
+  2 Chen, William          INGI550N  1588  1568/253  W3  L1  WF  2.0
+  3 Ye, Alex               ENDFH51L  1277  1288/203  L2  W4  L1  1.0
+  4 Babbar, Riaan          ENDEJ98D  1437  1385/118  L1  L3  LF  0.0

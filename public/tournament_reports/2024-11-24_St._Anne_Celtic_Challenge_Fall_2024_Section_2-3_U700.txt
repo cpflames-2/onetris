@@ -1,0 +1,25 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Chien, Jasper Ning     GECCZ71U   200   898/  5  W15 W9  D6  W13 W2  4.5
+  2 Dai, Gordon            ENDDK87Y   556   750/ 46  W21 W8  W4  W3  L1  4.0
+  3 Yang, Zixuan           BCXCZ71T   200   779/  5  W18 W16 W7  L2  W6  4.0
+  4 Dong, Peixin           SLUDZ71S   300   760/  5  W17 W13 L2  W14 W8  4.0
+  5 Yang, Jonathan         LKDCK55R   620   642/ 62  W10 L7  W18 D6  W9  3.5
+  6 Zhen, Liam             DCCD622V   660   666/157  W20 W19 D1  D5  L3  3.0
+  7 Thomas, David Cijo     TBKDJ03B   344   547/ 20  W11 W5  L3  L9  W14 3.0
+  8 Yang, Ziheng           BCXCZ71R   200   625/  5  W14 L2  W16 W15 L4  3.0
+  9 Pan, Jingyi            SSMCH76N   538   559/ 25  W23 L1  W19 W7  L5  3.0
+ 10 Santiago, Joseph       SANDJ74B   296   470/ 14  L5  W11 L14 W18 W16 3.0
+ 11 Wright, William        THUCB71M   650   603/123  L7  L10 W22 W17 W13 3.0
+ 12 Tong, Mario            SRGCZ71Q   200   450/  5  L13 L17 W21 W19 W15 3.0
+ 13 Yang, Katharine        LKDCK86C   443   463/ 69  W12 L4  W20 L1  L11 2.0
+ 14 Velichko, Kristina     ASACK07V   523   495/112  L8  W21 W10 L4  L7  2.0
+ 15 Eustis, Justin         SCDCE77Z   515   479/ 30  L1  W23 W17 L8  L12 2.0
+ 16 Chauhan, Kiana         CRKCK28R   449   428/ 34  W22 L3  L8  W20 L10 2.0
+ 17 Chen, Owen             CSIDH51Y   392   392/ 10  L4  W12 L15 L11 W23 2.0
+ 18 Allyn, William         THODJ48A   432   402/ 25  L3  W22 L5  L10 W24 2.0
+ 19 Dai, Leonard           BCACK88B   404   371/ 42  W24 L6  L9  L12 W21 2.0
+ 20 Skelton, Malcolm       SNEDK41T   382   342/ 31  L6  W24 L13 L16 W22 2.0
+ 21 Taylor, Anderson       OPWCK65L   188   170/ 30  L2  L14 L12 W24 L19 1.0
+ 22 Shusterman, Sam        SYRCH37U   200   114/  5  L16 L18 L11 W23 L20 1.0
+ 23 Siddhartha, Sanjana    SDVDH64Z   155   124/ 11  L9  L15 W24 L22 L17 1.0
+ 24 Day, Auralia           SYRDH37T   300   100/  5  L19 L20 L23 L21 L18 0.0

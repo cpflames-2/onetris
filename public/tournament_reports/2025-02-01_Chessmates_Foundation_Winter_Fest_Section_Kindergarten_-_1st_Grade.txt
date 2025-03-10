@@ -1,0 +1,13 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Adoc, Lluc             PERBJ54N   444   473/ 35  W8  L4  W5  W6  W3  4.0
+  2 Liang, Dangdang        MEDBJ12R   338   440/ 40  W7  W5  L3  W9  W4  4.0
+  3 Glaser, Dylan          BUSBH32T   284   436/ 15  W11 W9  W2  W4  L1  4.0
+  4 Rorem, Kyle            BKYBH44X   217   295/ 11  W12 W1  W7  L3  L2  3.0
+  5 Smith, Soren           COSBG98X   100   358/  5  W6  L2  L1  W10 W9  3.0
+  6 Sisolak, Cole          EVGBJ66Y   234   258/ 35  L5  W11 W10 L1  W12 3.0
+  7 Neshmonin, Dimitri     JHYBG98W   100   202/  5  L2  W12 L4  D8  W10 2.5
+  8 Liang, Dingding        MEDBJ12N   108   136/ 27  L1  L10 W12 D7  W11 2.5
+  9 Zhang, Mya             EVGBJ66G   201   198/ 39  W10 L3  W11 L2  L5  2.0
+ 10 Cooper, Solomon        SGEBG98V   100   100/  5  L9  W8  L6  L5  L7  1.0
+ 11 Bateman, Jonah         SGEBG98U   100   100/  5  L3  L6  L9  W12 L8  1.0
+ 12 Cooper, Clifford       SGEAG98R   100   100/  5  L4  L7  L8  L11 L6  0.0

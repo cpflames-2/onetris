@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bysani, Aakash         SSMCK01D   847   879/180  W4  W3  L2  2.0
+  2 Sarychev, Aleksei      GEKKJ98N   846   878/170  W3  L4  W1  2.0
+  3 Agarwal, Avyaan        RCSEW81K   871   840/ 20  L2  L1  W4  1.0
+  4 Huang, Jaden           ENDDJ63S   855   829/115  L1  W2  L3  1.0

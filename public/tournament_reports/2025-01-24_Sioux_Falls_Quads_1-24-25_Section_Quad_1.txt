@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Welch, James           HSSJF53F  1629  1645/248  W4  W3  W2  3.0
+  2 Wilber, Christopher    SFXJZ20V  1486  1486/148  W3  W4  L1  2.0
+  3 Oppold, Sage           SDLJZ281  1228  1231/174  L2  L1  W4  1.0
+  4 Hoellein, Carter       SDDFZ96L  1129  1102/136  L1  L2  L3  0.0

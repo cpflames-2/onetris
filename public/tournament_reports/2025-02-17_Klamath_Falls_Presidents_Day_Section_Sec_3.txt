@@ -1,0 +1,8 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Mcclintic, Willard     KLUMW855  1535  1514/ 23  W3  W4  L2  W6  W5  4.0
+  2 Stredwick, James       ADONU92W  1037  1211/  9  W5  W6  W1  W3  L4  4.0
+  3 Mcclintic, Rob         ADONW847  1114  1136/ 21  L1  W5  W4  L2  W6  3.0
+  4 Barnes, Isaiah         ADONW76J  1300  1197/  5  W6  L1  L3  W5  W2  3.0
+  5 Henderson, Bethany     ADONW76H  1300   859/  5  L2  L3  W6  L4  L1  1.0
+  6 Lam, Laurie            ADONW76G  1300   476/  5  L4  L2  L5  L1  L3  0.0
+

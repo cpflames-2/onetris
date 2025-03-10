@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Ivanov, Matvei         EABDK34E   989   987/ 75  D3  W4  U   W5  U   2.5
+  2 Xiong, Maxwell         CSIDK92H   779   793/ 62  U   W5  U   U   W4  2.0
+  3 Zhen Rampenthal, Quinn SASIH53C   907   917/ 23  D1  U   W4  U   U   1.5
+  4 Dayani, Viraj          SRAF118W   375   375/ 11  U   L1  L3  U   L2  0.0
+  5 Anand, Nivaan          MCEBH64F   453   440/ 52  U   L2  U   L1  U   0.0

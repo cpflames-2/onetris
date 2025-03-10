@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Nelson, Sam            SDBHZ69L   700   629/  3  W4  W2  W3  3.0
+  2 Linn, Atticus          SDSCZ80S   100   214/ 25  W3  L1  W4  2.0
+  3 Dandar, Siggy          SDRCZ69K   200   154/  3  L2  W4  L1  1.0
+  4 Friman, Wesley         SFNBZ69J   100   100/  3  L1  L3  L2  0.0

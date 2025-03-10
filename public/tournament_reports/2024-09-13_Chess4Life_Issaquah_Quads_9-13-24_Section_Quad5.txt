@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Lin, Shelley           DISDH72Q   210   326/ 18  D2  W4  W3  2.5
+  2 Peng, Huiyun           CEREH66V   196   330/  6  D1  W3  W4  2.5
+  3 Shen, Nolan            CDIEJ28A   242   207/ 18  W4  L2  L1  1.0
+  4 Zhao, Jeremy           MEDBJ41R   100   100/  8  L3  L1  L2  0.0

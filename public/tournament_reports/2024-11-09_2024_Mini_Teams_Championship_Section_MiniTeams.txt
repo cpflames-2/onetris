@@ -1,0 +1,82 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Rubaiyat, Rhadean      REDJD40L  1719  1758/197  W14 W5  W33 W62 W26 5.0
+  2 Xuan, Owen             LSSL5792  1905  1917/291  W45 W24 W10 W25 D8  4.5
+  3 Nallabothula, Varin    REDL457A  1857  1868/412  W64 D4  W34 W23 W7  4.5
+  4 Razmov, Gabriel        LSSJC26K  1852  1858/359  W65 D3  W43 W41 W28 4.5
+  5 Eksarevskly, Albert    LSSK530Y  1846  1833/138  W60 L1  W35 W12 W22 4.0
+  6 Scollon, Owen          SHMJ734D  1723  1733/526  W16 W31 D15 D8  W24 4.0
+  7 Lee, Jae-yoon          SHMMC734  1652  1656/134  W40 W50 W44 W28 L3  4.0
+  8 Marcelais, Kai         REDLA64J  1572  1618/177  W38 W27 W19 D6  D2  4.0
+  9 Wang, Raymond          FRALK66P  1545  1535/ 38  W68 W69 W74 W30 L29 4.0
+ 10 Nipges, Jaxon          FERL382B  1533  1546/122  W77 W29 L2  W57 W78 4.0
+ 11 Joshi, Vyom            NRCJH81X  1317  1327/313  W53 L13 W50 W40 W32 4.0
+ 12 Love, Charles          SHMM458N  1300  1307/117  W72 W74 W62 L5  W67 4.0
+ 13 Palmer, Evan           BHMLI90S  1203  1255/194  W52 W11 L28 W65 W44 4.0
+ 14 Mccullough, Drew       STNJJ93T  1154  1185/ 13  L1  W61 W56 W58 W33 4.0
+ 15 Martin, Noa            TJHMK56Q   944  1193/ 31  W57 W46 D6  W27 D19 4.0
+ 16 Koehler, Blake         SPRMJ76R   936   997/ 35  L6  W80 W78 W73 W46 4.0
+ 17 Kum, Leon              MRRJH46X   900  1156/  5  L44 W76 W64 W43 W65 4.0
+ 18 Sidhu, Ruhaan          NRCJJ77E  1186  1191/ 15  W39 L20 W67 W54 W55 4.0
+ 19 Kozaczuk, James        BHMJ108A  1327  1323/229  W80 W73 L8  W45 D15 3.5
+ 20 Berry, Garcia          BHMMK99Z  1132  1160/ 57  W79 W18 L22 W60 D21 3.5
+ 21 Pham, Calvin           TJHMJ77Q  1061  1091/ 16  W56 W48 L26 W55 D20 3.5
+ 22 Yim, Dylan             REDKH46W  1000  1484/  5  W61 W55 W20 D26 L5  3.5
+ 23 Score, Carson          INMLH46V  1100  1515/  5  W76 W43 D41 L3  W66 3.5
+ 24 Karthikeyan, HarishkumaREJJJ81A  2001  1968/231  W30 L2  W68 W29 L6  3.0
+ 25 Stroud, Jeb            SHMJK22V  1500  1488/168  W69 W81 L29 L2  W31 3.0
+ 26 Zhang, Owen            SHMJ995H  1487  1468/321  W54 D67 W21 D22 L1  3.0
+ 27 King, Miles            NKPKK48E  1442  1404/ 58  W75 L8  W46 L15 W73 3.0
+ 28 Li, Andrew             REJL769K  1422  1427/229  W37 W32 W13 L7  L4  3.0
+ 29 Davis, Caian           FRALK67M  1421  1459/ 43  W36 L10 W25 L24 W9  3.0
+ 30 Hildenbrand, Blane     STNJ122V  1394  1391/364  L24 W38 W57 L9  W68 3.0
+ 31 Durbhakula, Lalith     REDK332Z  1328  1322/113  W81 L6  W73 W68 L25 3.0
+ 32 Rodriguez, Alec        NKPMJ93J  1021  1054/ 30  W51 L28 W47 W44 L11 3.0
+ 33 Graham, Isaac          HCCHJ42K   865   938/ 61  W58 W49 L1  W67 L14 3.0
+ 34 Yu, Jacob              HCCGK21J   859   888/ 38  W66 W51 L3  L50 W64 3.0
+ 35 Eckermann, Garrett     FERMJ60A   715   807/ 25  W70 L62 L5  W56 W39 3.0
+ 36 Cherry, Christopher    QLTLJ39Z   426   502/  9  L29 L57 W80 WF  W77 3.0
+ 37 Callaghan, Kaleb       QLTLH46U  1100   737/  4  L28 L64 BYE W80 W42 3.0
+ 38 Perez-penn, Marshall   QLTMH46T  1200  1072/  4  L8  L30 BYE W79 W69 3.0
+ 39 Soto, Carlos           QLTLH46S  1100   894/  5  L18 W70 W54 W72 L35 3.0
+ 40 Brown, Zane            HCCGH46R   600  1161/  5  L7  W52 W53 L11 W47 3.0
+ 41 Frost, Ignatius        SHMLJ64P  1508  1473/123  L42 W59 D23 L4  W50 2.5
+ 42 Holt, Michael          QLTMJ40S   639   719/ 10  W41 W66 D65 L53 L37 2.5
+ 43 Luna, Max              FERLJ85Y  1238  1213/ 48  W63 L23 L4  L17 W53 2.0
+ 44 Aister, Aj             TJHMJ76T  1116  1103/ 26  W17 W47 L7  L32 L13 2.0
+ 45 Olson, Rainn           PNRJK76K  1064  1032/ 39  L2  BYE W69 L19 L57 2.0
+ 46 Bannister, Cypress     HORHK36L   943   913/ 72  BYE L15 L27 W75 L16 2.0
+ 47 Aguila-contreras, EdgarHORIJ65J   646   673/ 71  BYE L44 L32 W51 L40 2.0
+ 48 Keele, Brendyn         HORIJ65M   641   645/ 11  BYE L21 L55 W49 L54 2.0
+ 49 Williams-penn, Thomas  QLTIH46Q   800   584/  5  L55 L33 W70 L48 W79 2.0
+ 50 Zhao, Friedrich        REDLH46P  1100  1090/  5  W59 L7  L11 W34 L41 2.0
+ 51 Sedgwick, Christopher  QLTIH46N   800   738/  5  L32 L34 W63 L47 W52 2.0
+ 52 Afterbuffalo, Ehryn    QLTHH46M   700   857/  5  L13 L40 W76 W61 L51 2.0
+ 53 Fernandez-black, Cruz  QLTLH46L  1100   934/  5  L11 W63 L40 W42 L43 2.0
+ 54 Garrison, William      HCCGH46K   600   831/  5  L26 W79 L39 L18 W48 2.0
+ 55 Kumsorn, Nawat         NKPKH46J  1000   888/  5  W49 L22 W48 L21 L18 2.0
+ 56 Trujillo-aguayo, Kevin MRRKH46H  1000   819/  5  L21 W71 L14 L35 W60 2.0
+ 57 Duong, Duc             MRRLH46G  1100  1077/  5  L15 W36 L30 L10 W45 2.0
+ 58 Nguyen, Long           FRAKH46E  1000   700/  4  L33 L72 WF  L14 W62 2.0
+ 59 Jackson, Dusty         QLTJH46D   900   572/  4  L50 L41 L66 W71 BYE 2.0
+ 60 Paicurich, Cairnen     QLTJH46C   900   747/  4  L5  BYE W72 L20 L56 2.0
+ 61 Sherrif-penn, Richard  QLTMH46B  1200   756/  4  L22 L14 BYE L52 W72 2.0
+ 62 Akbari, Dhairy         TJHJH46A   900   847/  5  W71 W35 L12 L1  L58 2.0
+ 63 Holt, Tessa            QLTIH45Y   800   661/  4  L43 L53 L51 BYE W76 2.0
+ 64 Kupchenkoi, Illia      STNKJ64B   483   566/ 11  L3  W37 L17 D66 L34 1.5
+ 65 Colberly-black, Devin  QLTLH45X  1100   746/  4  L4  BYE D42 L13 L17 1.5
+ 66 Caro-herrera, Angel    FRAKH45V  1000   621/  5  L34 L42 W59 D64 L23 1.5
+ 67 Reiter, Aleksander     REDLH45U  1100   878/  5  W74 D26 L18 L33 L12 1.5
+ 68 Rios, Nicholas         HCCHJ77M   921   915/ 24  L9  W75 L24 L31 L30 1.0
+ 69 Mason, Ryan            QLTMJ40Z   701   712/ 10  L25 L9  L45 W78 L38 1.0
+ 70 Swan, Layla            QLTGH45T   600   123/  4  L35 L39 L49 BYE L71 1.0
+ 71 Williams, Donny        QLTKH45S  1000   360/  5  L62 L56 L79 L59 W70 1.0
+ 72 Holt, Ethan            QLTKH45Q  1000   635/  5  L12 W58 L60 L39 L61 1.0
+ 73 Sahdev, Shaurya        NRCJH45P   900   773/  5  W78 L19 L31 L16 L27 1.0
+ 74 Ward-bender, Denise    QLTLH45N  1100   292/  4  L67 L12 L9  L76 BYE 1.0
+ 75 Campbell, Cameron      QLTGH45M   600   291/  5  L27 L68 W77 L46 L80 1.0
+ 76 Leclair, Jocelyn       QLTKH45L  1000   472/  5  L23 L17 L52 W74 L63 1.0
+ 77 George, Wynter         QLTIH45K   800   100/  4  L10 L78 L75 BYE L36 1.0
+ 78 Jackson, Isaiah        QLTLH45J  1100   425/  5  L73 W77 L16 L69 L10 1.0
+ 79 Pilatti, Riley         QLTGH45H   600   530/  5  L20 L54 W71 L38 L49 1.0
+ 80 Brown, Landon          QLTGH45G   600   418/  5  L19 L16 L36 L37 W75 1.0
+ 81 Cherry, Tyson          QLTJH45F   900   924/  2  L31 L25 LF  LF  BYE 1.0

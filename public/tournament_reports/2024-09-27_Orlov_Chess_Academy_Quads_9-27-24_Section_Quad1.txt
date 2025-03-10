@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Perthesevathy, Divya   ADUNH60L  1300  1283/  3  W2  W4  W3  3.0
+  2 Daniel, Lemuel         BLCDJ29L   651   809/ 19  L1  W3  W4  2.0
+  3 Hayward, Luke          FRIDH63N   973   905/  6  W4  L2  L1  1.0
+  4 Xu, Ethan              BENFK98S   847   787/129  L3  L1  L2  0.0

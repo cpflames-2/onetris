@@ -1,0 +1,23 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Iverson, Benjamin      HSSLF90J  1101  1142/ 45  W17 W11 W6  W2  W5  5.0
+  2 Kutch, Courage         HSSLJ03Z   846   887/ 64  W13 W14 W5  L1  W7  4.0
+  3 Biannas, Lyryque       PILHZ688   700   802/  5  W9  D12 D11 W8  W6  4.0
+  4 Meyer, Henry           SFHGZ83R   212   524/ 15  W10 L6  W16 W14 W12 4.0
+  5 Kocer, Radek           BVIGX75B   957   924/104  W15 W8  L2  W12 L1  3.0
+  6 Jensen, Maxwell        SDYGX88L   833   809/ 88  W20 W4  L1  W15 L3  3.0
+  7 Mcfayden, Skylar       SDTGZ75Q   412   489/ 32  W21 W9  L12 W11 L2  3.0
+  8 Thunder, Israella      PILIZ88V   379   447/ 15  W18 L5  W19 L3  W14 3.0
+  9 Red Owl, Bella         PILGZ12V   321   363/ 24  L3  L7  W22 W16 W15 3.0
+ 10 Gross, Acadian         BVIGZ687   600   320/  5  L4  W20 L15 W19 W17 3.0
+ 11 Red Owl, Bree          PILIZ88X   534   529/ 15  W19 L1  D3  L7  W18 2.5
+ 12 Hendrickson, Luke      SDEIZ65M   627   621/ 20  W22 D3  W7  L5  L4  2.5
+ 13 Bassett, Liam          BVIGZ723   100   174/  8  L2  L16 D18 W20 W19 2.5
+ 14 Mills, Ta'te           SDYIZ98Q   531   480/ 46  W16 L2  W21 L4  L8  2.0
+ 15 Kelly, Andrew          BVIGZ88A   101   178/ 13  L5  W18 W10 L6  L9  2.0
+ 16 Patnaud, Arianna       PILHZ686   700   267/  5  L14 W13 L4  L9  W21 2.0
+ 17 Whiting, Natasha       PILHZ97D   201   178/ 19  L1  L19 W20 W21 L10 2.0
+ 18 Blue Arm, Megan        PILGZ685   600   150/  5  L8  L15 D13 W22 L11 1.5
+ 19 Sallow, Pj             PILGZ684   600   100/  5  L11 W17 L8  L10 L13 1.0
+ 20 Red Horse, Holly       PILGZ83S   100   100/ 14  L6  L10 L17 L13 W22 1.0
+ 21 Biannas, Tupac         PILIZ682   800   100/  5  L7  W22 L14 L17 L16 1.0
+ 22 White Bull, Rozlynn    PILGZ67Z   600   100/  5  L12 L21 L9  L18 L20 0.0

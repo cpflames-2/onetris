@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Mehta, Anika           EBSGB71K   557   595/ 39  D3  U   W2  1.5
+  2 Armitage-selig, PhoenixSUZBJ31Z   662   641/ 69  U   W3  L1  1.0
+  3 Xu, Jacky Y            SOMCJ59K   515   499/ 74  D1  L2  U   0.5

@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Linn, Atticus          SDSCZ80S   214   390/ 28  W6  W2  W4  3.0
+  2 Dandar, Siggy          SDRCZ69K   154   282/  6  W3  L1  W5  2.0
+  3 Bassett, Killian       SFOEZ724   323   318/ 10  L2  W5  W6  2.0
+  4 Bassett, Liam          BVIGZ723   174   183/ 11  D5  W6  L1  1.5
+  5 Fiorita, Gus           SDGCZ76F   233   159/ 10  D4  L3  L2  0.5
+  6 Andrade, Xavier        SDGCZ67W   200   100/  3  L1  L4  L3  0.0

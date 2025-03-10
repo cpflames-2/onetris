@@ -1,0 +1,15 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Wang, Jasper           ENDEK01P   929  1171/ 38  W8  W7  W2  W4  W5  5.0
+  2 Helmy, Yaseen          MEDFH64B  1140  1165/ 36  W14 W3  L1  W6  W4  4.0
+  3 Lin, Luna              OPWDK01W   961  1012/148  W11 L2  D7  W10 W9  3.5
+  4 Garg, Vihaan           CMCEJ10X   947   986/254  W12 W5  W6  L1  L2  3.0
+  5 Sabarish, Ananya       BCAEG02Z  1003   988/181  W13 L4  W10 W8  L1  3.0
+  6 Sreraman, Rahul        BCAEJ42L   823   897/280  W9  W13 L4  L2  W11 3.0
+  7 Sreraman, Rohit        BCAEG92Q  1088  1042/296  W10 L1  D3  L9  W8  2.5
+  8 Riggio, Noah           SGEHK37Q   427   552/ 10  L1  BYE W9  L5  L7  2.0
+  9 Khandhedia, Dhruvin NirCNCF257G   974   915/ 79  L6  W12 L8  W7  L3  2.0
+ 10 Cheruku, Adhrith       RCSF827Q   859   832/107  L7  W11 L5  L3  BYE 2.0
+ 11 Chen, Logan            APOEJ69K   779   772/ 33  L3  L10 W13 W12 L6  2.0
+ 12 Almuayyad, Omar        RHJHJ59J   584   599/ 39  L4  L9  BYE L11 W13 2.0
+ 13 Kennedy, Owen          TWFHH14N  1009   777/ 10  L5  L6  L11 BYE L12 1.0
+ 14 Naik, Shreyas          ETAFJ98X   873   861/ 99  L2  U   U   U   U   0.0

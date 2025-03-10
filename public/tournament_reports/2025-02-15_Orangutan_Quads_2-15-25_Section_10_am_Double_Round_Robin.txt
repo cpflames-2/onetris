@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 tot 
+  1 Shing, Lucas           HZFDJ74H   618   635/ 86  W3  W3  U   U   W2  L2  3.0
+  2 Ben Simon, Golan       SJCDJ48B   640   650/ 42  U   U   W3  W3  L1  W1  3.0
+  3 Shing, Chun            ADUNG78N  1300   241/  4  L1  L1  L2  L2  U   U   0.0

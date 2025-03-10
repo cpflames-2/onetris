@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Carns, Qenam           FAPBH57E   100   824/  5  W6  W2  W5  W3  W4  5.0
+  2 Segura, Lj             COECH57C   200   495/  5  W3  L1  W4  W5  W6  4.0
+  3 Arora, Neal            ORLBH57B   100   333/  4  L2  W5  W6  L1  WF  3.0
+  4 Gadekar, Hridhaan      EOLBJ51Q   100   135/ 10  L5  W6  L2  W6  L1  2.0
+  5 Albarran, Mercutio     STSBH57A   100   124/  4  W4  L3  L1  L2  LF  1.0
+  6 Robinson, Emefa        FAPBH78D   100   100/  8  L1  L4  L3  L4  L2  0.0

@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Grimm, Rocco           EHACH50N   200   750/  3  W2  W4  W3  3.0
+  2 Liu, Mochen            SNRBH50M   100   417/  3  L1  W3  W4  2.0
+  3 Dong, Joanna           BCACH50L   200   100/  3  D4  L2  L1  0.5
+  4 Wang, Zian             BCSBH50K   100   100/  3  D3  L1  L2  0.5
+
+ All Unrated-player Section: Ratings capped at 1000

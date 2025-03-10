@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Mahale, Avneesh        CNHC993F   796   958/205  W3  W2  W4  3.0
+  2 George, Ameya          EBSFK88Y   834   873/119  W4  L1  W3  2.0
+  3 Desai, Vivaan          BCABJ49H   871   840/ 56  L1  W4  L2  1.0
+  4 Jahani, Nikan          IMSGK89A   833   758/134  L2  L3  L1  0.0

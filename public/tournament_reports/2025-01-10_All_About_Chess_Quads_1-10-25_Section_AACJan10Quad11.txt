@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Dang, Aaron            SOMCH60W   100   230/  8  W4  D5  W2  2.5
+  2 Xiong, Aria            DISBH14J   100   288/  3  W6  W3  L1  2.0
+  3 Zhu, Aron              SOMCH30W   100   135/  7  W5  L2  D4  1.5
+  4 Balaji, Vaibhav        SSMCH28Z   100   118/ 16  L1  W6  D3  1.5
+  5 Nandakiran, Advaith    SSMCJ88H   237   212/108  L3  D1  W6  1.5
+  6 Dietrich, Luka         OPWAJ27L   127   100/ 27  L2  L4  L5  0.0

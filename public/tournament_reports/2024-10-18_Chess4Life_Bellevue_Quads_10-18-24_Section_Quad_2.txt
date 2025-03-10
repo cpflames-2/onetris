@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Verma, Reyansh         RBRFJ20M  1198  1202/ 57  W4  W3  L2  2.0
+  2 Tunuguntla, Sai SrithanEMDGK78V  1134  1155/246  L3  W4  W1  2.0
+  3 De, Rishik             INGIJ87T  1113  1092/ 88  W2  L1  L4  1.0
+  4 Sabarish, Ananya       BCAEG02Z  1055  1049/171  L1  L2  W3  1.0

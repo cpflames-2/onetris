@@ -1,0 +1,19 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Wang, Max              CTXIX01F  1291  1425/104  W7  W13 W8  D3  3.5
+  2 Tae, Kevin             CTXNX01G  1491  1489/104  W9  L3  W16 W6  3.0
+  3 Newell, Wyelin Olufemi CTXLX01H  1299  1375/104  W18 W2  D6  D1  3.0
+  4 Mercado, Bryant Xavier CTXNX01K  1201  1227/104  L12 W18 W11 W9  3.0
+  5 Marks, Lokwatay        CTXIX01J  1199  1294/104  L13 W11 W12 W8  3.0
+  6 Ashton, Jordan         RIXNX01L  1374  1384/104  W16 W14 D3  L2  2.5
+  7 Maymin-tzur, Ron       CTXFX01M  1154  1248/104  L1  W17 W14 D13 2.5
+  8 Cyr, Joseph            MAXNX01N  1415  1387/104  W17 W12 L1  L5  2.0
+  9 Lakshmanan, Karthik    MAXIX01S  1184  1206/104  L2  W10 W13 L4  2.0
+ 10 Leuchanka, Hleb        CTXIX01T  1004  1020/103  L14 L9  BYE W16 2.0
+ 11 Krechet, Mark          CTXEX01U   924   936/103  W15 L5  L4  BYE 2.0
+ 12 Ferguson, Kyle Louis   CTXNX01R  1300  1201/  4  W4  L8  L5  W15 2.0
+ 13 Hetherington, Drew     CTXNX01V  1479  1422/104  W5  L1  L9  D7  1.5
+ 14 Sriram, Akshay S       CTXJX01W  1354  1310/103  W10 L6  L7  U   1.0
+ 15 Tessier, Ryan          CTXNX01Y  1300   890/  4  L11 L16 W18 L12 1.0
+ 16 Piao, Aaron Chawynn    CTXIX01X  1143  1105/104  L6  W15 L2  L10 1.0
+ 17 Chopra, Adittya        CTXLX01Z  1149  1118/102  L8  L7  U   U   0.0
+ 18 Hall, Colin            CTXNX02A  1028   971/103  L3  L4  L15 U   0.0

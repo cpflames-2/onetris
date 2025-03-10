@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Nandakiran, Vidyuth    SSMF617C   999  1149/152  W3  W4  W2  3.0
+  2 Bhasin, Palash         ISMGH95H  1030  1069/ 91  W4  W3  L1  2.0
+  3 Qin, Skyler            OPWBJ97T  1076  1047/105  L1  L2  W4  1.0
+  4 Mangla, Atharv         GRREK07C  1058   984/148  L2  L1  L3  0.0

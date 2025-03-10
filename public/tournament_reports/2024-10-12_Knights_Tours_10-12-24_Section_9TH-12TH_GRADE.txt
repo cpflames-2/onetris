@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Tomarong, Shane        RRHMH57X  1200  1488/  5  W9  D3  W8  W5  W2  4.5
+  2 Murphy, Tristan        YLMJK18X   855  1048/ 30  W10 W9  W6  W3  L1  4.0
+  3 Belgau, Stephen        JFMJK76X  1525  1496/ 75  W8  D1  W4  L2  W6  3.5
+  4 Olson, Rainn           PNRJK76K  1049  1064/ 35  W5  L6  L3  W7  W8  3.0
+  5 Bergs, Belinda         BHZLH57W  1100  1046/  5  L4  W7  W9  L1  W10 3.0
+  6 Wimberley, Zeke        RRHKH57V  1000  1052/  5  W7  W4  L2  D8  L3  2.5
+  7 Diloy, Sylvester       BRMKH80P   825   810/ 10  L6  L5  W10 L4  W9  2.0
+  8 Kostikov, Ivan         PLKJJ29Z   820   824/ 20  L3  W10 L1  D6  L4  1.5
+  9 Dela Pena, Brandon     CKHKH80R  1000   848/ 10  L1  L2  L5  W10 L7  1.0
+ 10 Mcguire, Estelle       HSCJH57U   900   427/  5  L2  L8  L7  L9  L5  0.0

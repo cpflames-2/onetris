@@ -1,0 +1,34 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Weng, Bright           BENE850P  1218  1436/100  W15 W7  W8  W9  W3  5.0
+  2 Das, Sambuddha Sekhar  ENDEK47S  1366  1377/169  W24 W12 W5  L3  W11 4.0
+  3 Narkhede, Kshitij      CRKDA27K  1253  1348/125  W14 W6  W10 W2  L1  4.0
+  4 Wu, Shanna             CNHEJ72M  1198  1237/ 27  HPB W29 D13 W24 W12 4.0
+  5 Xu, Yang               EVGF649B  1181  1205/188  W19 W26 L2  W13 D6  3.5
+  6 Mishra, Aakash         EBSF439K  1163  1233/132  W31 L3  W18 W8  D5  3.5
+  7 Rogovoy, Alexander     SNEFK14Y   945  1121/ 35  W21 L1  W23 W22 D9  3.5
+  8 Pan, Peng-ruei         SSMF759R  1571  1522/195  W23 W11 L1  L6  W17 3.0
+  9 Zhao, William          STTEH70M  1283  1276/154  HPB W32 W17 L1  D7  3.0
+ 10 Wang, Harvey           OPWCJ68G  1217  1207/137  W28 W18 L3  L12 W24 3.0
+ 11 Lan, Jonathan          MEDE968F  1174  1191/147  W30 L8  W25 W14 L2  3.0
+ 12 Jiang, Kyle            MEDCK35B  1065  1112/123  W33 L2  W15 W10 L4  3.0
+ 13 Arun, Axl              ATFDW79K  1083  1122/  5  D17 W20 D4  L5  W21 3.0
+ 14 Helmy, Yaseen          MEDFH64B  1040  1049/ 18  L3  W31 W32 L11 W23 3.0
+ 15 Qin, Skyler            OPWBJ97T   999  1030/ 86  L1  W21 L12 W32 W20 3.0
+ 16 Luo, Peter             SOMF664K  1240  1176/132  L18 L25 W30 D19 W28 2.5
+ 17 Wang, Hengsheen        BASC704V  1153  1163/125  D13 W27 L9  W28 L8  2.5
+ 18 Berjis, Adrina         MEDF230U  1017  1072/157  W16 L10 L6  HPB W27 2.5
+ 19 Han, Kaiyi             SOMCK42P   950   991/ 96  L5  HPB D20 D16 W30 2.5
+ 20 Bravenboer, Jake       OPWEJ97Y  1183  1102/119  D25 L13 D19 WF  L15 2.0
+ 21 Yeh, George            COSCH64S  1169   982/  9  L7  L15 W33 W26 L13 2.0
+ 22 Wang, Isaac            CLHFK00U  1160  1086/ 96  L26 D28 W29 L7  D25 2.0
+ 23 Chou, Eugene           SSMEJ56Y  1061  1047/ 89  L8  W30 L7  W25 L14 2.0
+ 24 Yu, Eric               SOMCK25N  1058  1032/ 96  L2  W33 W26 L4  L10 2.0
+ 25 Lin, Luna              OPWDK01W   968   991/121  D20 W16 L11 L23 D22 2.0
+ 26 Madsen, Levi           BLWDH80Z   505   618/ 13  W22 L5  L24 L21 W32 2.0
+ 27 Flores Uriegas, Andres HLYF159F  1195  1097/ 71  D29 L17 L28 W33 L18 1.5
+ 28 Zhang, Aaron           RSAFC74T   991   991/122  L10 D22 W27 L17 L16 1.5
+ 29 Wu, Jayden             UCDD495Q   984   936/114  D27 L4  L22 L30 W33 1.5
+ 30 Rahul, Rihaan          SBOBW80L   863   850/ 10  L11 L23 L16 W29 L19 1.0
+ 31 Mazalov, Denis         NLAFK10S   746   732/ 31  L6  L14 BYE LF  U   1.0
+ 32 Chen, Fred             SOMCH78N   458   413/  8  BYE L9  L14 L15 L26 1.0
+ 33 Ianitskii, Elisei      STRCH50P   200   541/  5  L12 L24 L21 L27 L29 0.0

@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Bayrambeyli, Emel      LCOKH50T  1796  1854/  5  W6  W2  W3  W5  W7  5.0
+  2 Guo, Ella              CAXLZ74C  1798  1818/  5  W8  L1  W5  W7  W3  4.0
+  3 Cheng, Selina          DCCH413R  1782  1778/564  W7  W4  L1  W6  L2  3.0
+  4 He, Bonnie             CAXHZ74B  1828  1780/  3  D5  L3  L6  BYE HPB 2.0
+  5 Deng, Lily             HHSL5007  1715  1700/376  D4  D8  L2  L1  W6  2.0
+  6 Joseph, Veronique      SJOFJ04S  1548  1555/199  L1  W7  W4  L3  L5  2.0
+  7 Deng, Alison           OMSHC56H  1078  1073/109  L3  L6  BYE L2  L1  1.0
+  8 Zhang, Iris            REDK858X  1580  1579/407  L2  D5  U   U   U   0.5

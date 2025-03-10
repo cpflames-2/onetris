@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Xu, Jacky Y            SOMCJ59K   410   511/ 67  W3  W2  D4  2.5
+  2 Li, Leo                BCAAH11J   438   434/ 11  D4  L1  W3  1.5
+  3 Abdukarimov, Samin     BENAH67S   434   400/ 68  L1  W4  L2  1.0
+  4 Yen, Lucas             ETSBH56P   376   362/ 16  D2  L3  D1  1.0

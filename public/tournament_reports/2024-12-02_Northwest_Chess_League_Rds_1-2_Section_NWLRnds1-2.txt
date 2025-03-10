@@ -1,0 +1,64 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 tot 
+  1 Lee, Jae-yoon          SHMMC734  1673  1674/139  W50 W48 2.0
+  2 Stroud, Jeb            SHMJK22V  1490  1492/184  W59 W30 2.0
+  3 Zhang, Owen            SHMJ995H  1473  1476/326  W29 W33 2.0
+  4 Love, Charles          SHMM458N  1301  1326/122  W43 W27 2.0
+  5 Berry, Garcia          BHMMK99Z  1258  1269/ 62  W31 W49 2.0
+  6 Mcconaughy, Marcus     SHML798W  1133  1150/ 45  W49 W54 2.0
+  7 Clayton, Evan          SHMMA71G   966   984/ 56  W51 W58 2.0
+  8 Moore, Aran            SHMK442N   906   928/ 28  W52 W40 2.0
+  9 Conwell, Atticus       BHMMK71E   874   910/ 19  W36 W51 2.0
+ 10 Peterson, Caden        BHMLJ85V   868   920/ 34  W47 W52 2.0
+ 11 Harris, Eli            MRDMJ85Q   722   790/ 26  W32 W35 2.0
+ 12 Oscarson, Ethan        SQULK99S   655   705/ 21  W57 W57 2.0
+ 13 Lee, Jensen            MRDL947B   545   575/ 48  W63 W41 2.0
+ 14 Wynne, Grayson         SHMKH12Q   544   621/ 22  W55 W38 2.0
+ 15 Moran, Kristopher      SHMJK97H   426   460/ 18  W60 W62 2.0
+ 16 Herboth, Quinn         SQULK99M   285   395/ 17  W34 W45 2.0
+ 17 Mcgee, Connor          MRDJH30Z   900  1861/  2  W25 W46 2.0
+ 18 Nipges, Jaxon          FERL382B  1581  1622/127  D23 W22 1.5
+ 19 Palmer, Evan           BHMLI90S  1265  1270/199  W26 D43 1.5
+ 20 Branco, Phillip        SHMJH49C   537   510/  8  D45 W63 1.5
+ 21 Delong, Sophia         BLHKK03A   343   371/ 28  D44 W61 1.5
+ 22 Roesch, Carson         BLHM120K  1919  1895/298  W46 L18 1.0
+ 23 Scollon, Owen          SHMJ734D  1725  1703/531  D18 D28 1.0
+ 24 Frost, Ignatius        SHMLJ64P  1473  1473/124  U   W53 1.0
+ 25 Kuzin, Ethan           SHMM7567  1466  1470/334  L17 W42 1.0
+ 26 Moors, Samuel          BLHKH93D  1124  1115/110  L19 W50 1.0
+ 27 Putnam, Israel         LYELA22J  1095  1101/ 39  W48 L4  1.0
+ 28 Grewal, Harshan        SQUJK33H  1049  1089/ 71  D42 D23 1.0
+ 29 Fredette, Blaise       BECGH95C   962   984/ 38  L3  W47 1.0
+ 30 Skeels, Peter          SQULK99T   929   937/ 26  W54 L2  1.0
+ 31 Aujla, Sihaan          BLHM413P   825   825/ 48  L5  W59 1.0
+ 32 Wilkinson, Anthony     SHMJD01P   763   748/ 10  L11 W56 1.0
+ 33 Tin, Isaac             SQULK99V   723   741/ 25  W58 L3  1.0
+ 34 Matthews, Xavier       BLHMH40J   710   566/  5  L16 W60 1.0
+ 35 Aujla, Verdaan         BLHKH49A   706   701/  7  W56 L11 1.0
+ 36 Phillips, Lucas        BLHM696K   674   690/ 42  L9  W37 1.0
+ 37 Fransico-woodenlegs, JoMRDM680H   628   632/ 57  W39 L36 1.0
+ 38 Kerr, Ethan            BLHMJ06N   604   577/ 49  W61 L14 1.0
+ 39 Orsino, Thomas         WHMIH40B   603   601/  7  L37 W55 1.0
+ 40 Lopez-mendez, Chelsea  LYELH48X   461   541/  8  W53 L8  1.0
+ 41 Russell, Reagan        BLHLJ72W   429   417/ 16  W62 L13 1.0
+ 42 Bosch, Declan          LYEKE38K  1239  1217/ 79  D28 L25 0.5
+ 43 Sturrock, Daniel       MRDJH40L  1152  1131/  5  L4  D19 0.5
+ 44 Cole, Lincoln          LYEKH49E   441   425/  4  D21 U   0.5
+ 45 Wiesen, Braden         LYEJH48V   360   338/  8  D20 L16 0.5
+ 46 Kozaczuk, James        BHMJ108A  1307  1303/234  L22 L17 0.0
+ 47 Gill, Shaanbir         BLHMH40G  1158   925/  5  L10 L29 0.0
+ 48 Morgen, Briar          SQUMJ72Z   979   958/ 22  L27 L1  0.0
+ 49 Siadal, Carson         MRDLK41F   960   936/ 25  L6  L5  0.0
+ 50 Eckermann, Garrett     FERMJ60A   801   791/ 29  L1  L26 0.0
+ 51 Lee, Rylan             MRDJG67J   776   740/ 24  L7  L9  0.0
+ 52 Sharouse, Mason        MRDJH48Z   773   714/  8  L8  L10 0.0
+ 53 Morse, Andrew          SQUL620B   686   638/ 13  L40 L24 0.0
+ 54 Chapina, Bryan         LYELH49H   674   651/  7  L30 L6  0.0
+ 55 Peper, James           BLHMB93F   647   572/ 37  L14 L39 0.0
+ 56 Clarke, Jonathan       BLHKG05B   635   582/ 28  L35 L32 0.0
+ 57 Valeos, Connor         MRDJK41H   617   566/ 23  L12 L12 0.0
+ 58 Lemay, Elijah          LYEJH48U   594   558/  8  L33 L7  0.0
+ 59 Crediford, Nilay       FERKF28K   376   370/ 45  L2  L31 0.0
+ 60 Ugurdan, Isilay        LYELH49F   337   280/  8  L15 L34 0.0
+ 61 Woodell, Maren         LYEJH49B   194   163/  8  L38 L21 0.0
+ 62 Simon, Fernada         LYELH48T   100   100/  5  L41 L15 0.0
+ 63 Rivera, Antonio        SQULH30Y  1100   140/  2  L13 L20 0.0

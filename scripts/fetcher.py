@@ -52,7 +52,7 @@ def scrape_tournament_reports(base_url, output_dir="../public/tournament_reports
     print(f"Found {len(tournament_info)} tournament reports")
     
     # Reduce to just the first 15 tournaments
-    tournament_info = tournament_info[:15]
+    # tournament_info = tournament_info[:15]
     
     # Process each tournament report
     for i, info in enumerate(tournament_info, 1):

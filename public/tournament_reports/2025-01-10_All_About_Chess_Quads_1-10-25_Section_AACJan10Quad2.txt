@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ye, Alex               ENDFH51L  1215  1277/200  W3  D2  W4  2.5
+  2 Ge, Jeremy             SOMCJ88K  1256  1269/246  W4  D1  D3  2.0
+  3 Dharamshi, Anay        CBRDK42U  1230  1227/157  L1  W4  D2  1.5
+  4 Nandakiran, Vidyuth    SSMF617C  1149  1096/155  L2  L3  L1  0.0

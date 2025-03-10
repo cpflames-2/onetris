@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 rd7 rd8 rd9 tot 
+  1 Ayalew, Brook          DCCJJ71Q  1697  1817/ 51  D3  W5  W8  W2  W9  W7  U   W6  W4  7.5
+  2 Mohan, Vishnu          KKNGF41R  1629  1649/175  W10 L4  L5  L1  W7  L6  W3  W8  W9  5.0
+  3 Anandkumar, Haituka    LWAK238P  1653  1682/436  D1  D8  W9  U   D4  W5  L2  W7  D6  5.0
+  4 Jones, Davey V         ADUNC10L  1677  1683/ 56  W5  W2  L7  L6  D3  W8  W9  U   L1  4.5
+  5 Merriman, Dann         WMNFF79Y  1702  1700/626  L4  L1  W2  W7  W6  L3  W8  D9  U   4.5
+  6 Shankaranand, Deeksha  EBSGI74Y  1713  1680/322  L8  L9  U   W4  L5  W2  W7  L1  D3  3.5
+  7 Kokati, Pranav         INTJ814P  1540  1537/317  D9  W10 W4  L5  L2  L1  L6  L3  D8  3.0
+  8 Chen, Andy             SOMEK05J  1666  1634/105  W6  D3  L1  W9  U   L4  L5  L2  D7  3.0
+  9 Cheng, Alan            LMSGJ71K  1531  1514/178  D7  W6  L3  L8  L1  U   L4  D5  L2  2.0
+ 10 Lee, Boas              ADUNC814  1624  1582/ 37  L2  L7  U   U   U   U   U   U   U   0.0

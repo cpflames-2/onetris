@@ -1,0 +1,13 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Gelinas, Conner Kent   MAXNX02B  1300  1420/  4  W9  W5  W2  W3  4.0
+  2 Beauvais, Marc         MAXMX02C  1200  1258/  4  W10 W4  L1  W7  3.0
+  3 Arabian, Eric          MAXNX02D   821   941/104  W7  W8  W5  L1  3.0
+  4 Mishra, Slok           CTXGX02E   739   805/104  W11 L2  W10 W8  3.0
+  5 Rowland, Maxim         CTXCX02F   866   859/104  W12 L1  L3  W10 2.0
+  6 Arunachalam, Tarunika  CTXHX02H   700   566/  4  L8  L7  W11 W9  2.0
+  7 Gottam, Bhanutej       CTXDX02J   453   600/104  L3  W6  W12 L2  2.0
+  8 Rosado Delgado, Bryan  CTXNX02G  1300   827/  4  W6  L3  W9  L4  2.0
+  9 Gionfriddo, Benjamin MiCTXNX02K  1300   613/  4  L1  W12 L8  L6  1.0
+ 10 Madhu Sudhan, DhanvanthCTXEX02L   557   540/104  L2  W11 L4  L5  1.0
+ 11 Vasanth, Keshav        CTXDX02M   400   148/  3  L4  L10 L6  BYE 1.0
+ 12 Festa, Caleb           CTXDX02N   539   475/103  L5  L9  L7  U   0.0

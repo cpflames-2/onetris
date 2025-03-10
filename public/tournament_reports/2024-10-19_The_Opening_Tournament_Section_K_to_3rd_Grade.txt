@@ -1,0 +1,17 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Maokhampio, Corina     VOSDW79T   300   790/  5  W6  D14 W11 W4  W3  4.5
+  2 Kanadhibhotla, Dhyan ShSBOBW79S   100   682/  5  W4  W12 L3  W6  W5  4.0
+  3 Mallapu, Mokshith KumarRGOCW79R   200   714/  5  W9  W7  W2  W5  L1  4.0
+  4 Einarson, Finn         OBKD256K   594   570/104  L2  W8  W14 L1  W12 3.0
+  5 Valenti, Jack          FMPDK12U   407   423/ 20  W16 W11 W7  L3  L2  3.0
+  6 Ng, Ethan              GRSDK12Y   342   385/ 19  L1  W16 W12 L2  W14 3.0
+  7 Pham, Liam             BENAH53P   100   323/  4  BYE L3  L5  W10 W9  3.0
+  8 Turudic, Raina         KLEDK12R   224   263/ 22  D11 L4  W10 W13 U   2.5
+  9 Maddox, Raelynn        FMPDJ92M   154   187/ 15  L3  W10 D13 W14 L7  2.5
+ 10 Cruz, Levi             FMPCJ92J   100   100/ 12  BYE L9  L8  L7  W16 2.0
+ 11 Belonozhko, Isaac      FMPBH53M   100   212/  5  D8  L5  L1  W15 D13 2.0
+ 12 Linder, Carson         HSCCH53L   200   269/  5  W15 L2  L6  W16 L4  2.0
+ 13 Linder, Quinton        HSCBH53K   100   107/  5  L14 W15 D9  L8  D11 2.0
+ 14 Vekhov, Samuel         FMPDH53J   300   193/  5  W13 D1  L4  L9  L6  1.5
+ 15 Hunt, Destiny          FMPCH53H   200   100/  4  L12 L13 L16 L11 BYE 1.0
+ 16 Tare, Reya             SBOBW79Q   100   100/  5  L5  L6  W15 L12 L10 1.0

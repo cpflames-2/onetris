@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Gao, Lilianna          CTXHZ68Q  1889  1890/  3  W3  W2  W4  BYE 4.0
+  2 Sajeevan, Jithya       CTXKZ68P  1510  1526/  4  W4  L1  W5  W3  3.0
+  3 Rohrs, Sophie          CTXHZ68N  1432  1413/  3  L1  W5  BYE L2  2.0
+  4 Chasmawala, Zaynab     CTXIX07B   928   945/ 32  L2  BYE L1  W5  2.0
+  5 Wiley, Rosemary        CTXLZ68L   839   813/  3  BYE L3  L2  L4  1.0

@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sang, Andy             IMBCK65W   553   615/ 56  W3  W2  U   2.0
+  2 Anbuselvam, Mithran    HEAGH61F   544   544/ 28  U   L1  W3  1.0
+  3 Kesher, Zavi           BENEH62L   532   469/ 17  L1  U   L2  0.0

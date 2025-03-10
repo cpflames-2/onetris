@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Singh, Anitej          OMSIH76J   510   526/ 18  W4  W3  L2  2.0
+  2 Lee, Zachary           STTAH63W   499   519/ 23  L3  W4  W1  2.0
+  3 Zhang, Eli             BCACH69C   449   425/ 55  W2  L1  L4  1.0
+  4 Zhang, Jake            BCACH34S   442   401/  6  L1  L2  W3  1.0

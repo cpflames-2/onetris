@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kulkarni, Samik        KKNBH67M   473   627/ 15  W3  W2  W4  3.0
+  2 Lam, Sebastian         OPWCJ97R   511   534/ 51  W4  L1  W3  2.0
+  3 Gao, Eason             CHREH75U   449   430/ 41  L1  W4  L2  1.0
+  4 Lee, Zachary           STTAH63W   443   358/ 11  L2  L3  L1  0.0

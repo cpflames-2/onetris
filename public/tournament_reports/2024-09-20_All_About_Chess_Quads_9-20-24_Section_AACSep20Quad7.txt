@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Swain, Samarth         MMECJ58S   765   784/139  D2  D4  W3  2.0
+  2 Jahani, Nikan          SNIGK89A   711   754/100  D1  D3  W4  2.0
+  3 Mangla, Atharv         GRREK07C   740   739/122  W4  D2  L1  1.5
+  4 Bysani, Aakash         SSMCK01D   717   666/171  L3  D1  L2  0.5

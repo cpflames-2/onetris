@@ -1,0 +1,17 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Mcintyre, John         HSCGJ63F  1025  1194/ 55  W12 W7  W2  W3  W5  5.0
+  2 Keener, Karl           HLHJY40G  1279  1274/162  W10 W8  L1  W6  W3  4.0
+  3 Wilson, Nicholas       LBYIJ58B  1243  1210/ 40  W9  W6  W4  L1  L2  3.0
+  4 Edlund, Caleb          WAXHJ88D   973   956/ 54  W13 W5  L3  W8  L6  3.0
+  5 Aguayo, Chase          LSPIH66L   870   869/ 25  W11 L4  W12 W7  L1  3.0
+  6 Avey, Jesse            MDRHK50F   721   814/ 90  W14 L3  W11 L2  W4  3.0
+  7 Autry-dalsanders, Reed MMDGK48X   686   703/ 67  W16 L1  W9  L5  W14 3.0
+  8 Hsu, Max               LBYEK05W   669   698/ 38  W15 L2  W14 L4  W11 3.0
+  9 Odell, Eric            LLKDH49Y   516   597/ 15  L3  W15 L7  W13 W10 3.0
+ 10 Rodwell, Oliver        MDRDJ27D   602   555/ 35  L2  L14 W16 W12 L9  2.0
+ 11 Young, Daniel          EVAHJ96U   601   573/ 69  L5  W13 L6  BYE L8  2.0
+ 12 Dinesh Babu, Darshini  GNAEH50D   505   453/  9  L1  W16 L5  L10 BYE 2.0
+ 13 Hetnar, Ryan           WVCHK49H   502   457/ 43  L4  L11 BYE L9  W16 2.0
+ 14 Zhang, Alex            SKKDJ88B   409   435/ 24  L6  W10 L8  W16 L7  2.0
+ 15 Duncan, Aj             MCSEH49T   404   375/ 12  L8  L9  U   U   U   0.0
+ 16 Wilson, Sami           LBYHJ21B   700   100/  5  L7  L12 L10 L14 L13 0.0

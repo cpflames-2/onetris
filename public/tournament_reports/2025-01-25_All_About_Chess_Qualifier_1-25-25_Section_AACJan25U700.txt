@@ -1,0 +1,12 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Pai, Samiksha          SSMEJ19X   592   835/100  W8  W9  W3  W2  W7  5.0
+  2 Li, Ethan James        SOMCK00K   681   685/121  L4  W6  W7  L1  W3  3.0
+  3 Malhotra, Dilraj       MAHCK02Y   603   631/ 82  W10 W4  L1  W9  L2  3.0
+  4 Mirchandani, Kiaan     MEDEK92Z   586   590/ 81  W2  L3  L5  W8  W10 3.0
+  5 Joseph, George         CDIDH11C   546   534/  9  L9  W10 W4  L7  BYE 3.0
+  6 Phadnis, Akash         DISBJ27M   474   468/ 33  D7  L2  D8  BYE W11 3.0
+  7 Mirchandani, Kavir     MEDCJ97A   609   590/ 69  D6  W11 L2  W5  L1  2.5
+  8 Sarangi, Samarth       CBREH69F   330   401/ 59  L1  BYE D6  L4  W9  2.5
+  9 Menezes, Kian          MEDCJ97B   668   597/ 73  W5  L1  W11 L3  L8  2.0
+ 10 Gu, Ximu               ENDBJ05X   371   340/ 30  L3  L5  BYE W11 L4  2.0
+ 11 Ghosh, Oishani         CBRBJ56E   159   119/ 44  BYE L7  L9  L10 L6  1.0

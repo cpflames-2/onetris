@@ -1,0 +1,14 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Bihlmeyer, Joseph      CTXNX02R  1976  1987/115  W11 W6  D2  W4  3.5
+  2 Chan, Matt             CTXNX07P  1871  1886/103  WF  W7  D1  W6  3.5
+  3 Mccreesh, Brent        CTXNX02V  1968  1950/112  W10 D5  L4  W7  2.5
+  4 Price, Laurence B      CTXNX07N  1900  1906/103  HPB W13 W3  L1  2.5
+  5 Wu, Cody               CTXFX11H  1748  1744/112  W8  D3  L6  W11 2.5
+  6 Cyr, Joseph            MAXNX01N  1617  1638/116  W9  L1  W5  L2  2.0
+  7 Zimmerman, Nicolas     CTXNX06M  1575  1576/108  W12 L2  W13 L3  2.0
+  8 Joyce, Jackson         NYXHX06T  1404  1394/ 57  L5  L10 BYE W13 2.0
+  9 Cheng, Liam            CTXDX07Q  1337  1364/104  L6  D11 W12 D10 2.0
+ 10 Maheshkumar, KhrishanthCTXLX11D  1519  1497/108  L3  W8  L11 D9  1.5
+ 11 Khalil, Mark           CTXNX03G  1418  1433/112  L1  D9  W10 L5  1.5
+ 12 Dai, Brian             CTXCX05A  1317  1287/104  L7  BYE L9  U   1.0
+ 13 Gao, Isabella          CTXDX07S  1257  1235/103  BYE L4  L7  L8  1.0

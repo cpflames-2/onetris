@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Clarke, Jonathan       BLHKG05B   448   635/ 26  W7  W5  W4  3.0
+  2 Macmillan, Zaiden      BLHKJ85P   376   445/ 15  L3  W7  W6  2.0
+  3 Hamilton, Kelvin       SQULH40K  1100   677/  3  W2  L4  W5  2.0
+  4 Matthews, Xavier       BLHMH40J  1200   710/  3  W6  W3  L1  2.0
+  5 Moran, Kristopher      SHMJK97H   445   426/ 16  W8  L1  L3  1.0
+  6 Wiesen, Braden         LYEJH48V   415   360/  6  L4  W8  L2  1.0
+  7 Herboth, Quinn         SQULK99M   294   285/ 15  L1  L2  W8  1.0
+  8 Montoure, Roland       BLHKH40H  1000   100/  3  L5  L6  L7  0.0

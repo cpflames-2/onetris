@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kunz, Anikin           BURKH44A   399   549/ 20  W3  W4  W2  3.0
+  2 K, Arjun               FRWDH61L   396   431/ 11  W4  W3  L1  2.0
+  3 Yen, Lucas             ETSBH56P   410   376/ 13  L1  L2  W4  1.0
+  4 Liu, Mochen            SNRBH50M   417   241/  6  L2  L1  L3  0.0

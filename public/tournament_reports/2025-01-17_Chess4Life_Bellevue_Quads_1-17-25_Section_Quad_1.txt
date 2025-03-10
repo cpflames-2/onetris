@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Joshi, Vyom            LEOJH81X  1309  1361/327  D2  W3  W4  2.5
+  2 Gollapally, Arnav      SKNK499J  1283  1287/152  D1  L4  W3  1.5
+  3 Zhou, Sean             ICSIH56S  1258  1244/ 14  W4  L1  L2  1.0
+  4 Chevuri, Tattva        REJHC06V  1336  1306/420  L3  W2  L1  1.0

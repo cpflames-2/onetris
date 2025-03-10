@@ -1,0 +1,16 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 tot 
+  1 Bates, Killian         HEAJK18M  1040  1317/ 53  W15 W14 W12 W6  W9  W3  6.0
+  2 Zhang, Michael M       MEDG668Q  1177  1200/433  W10 L5  HPB W14 HPB W6  4.0
+  3 Chaurasia, Vihaan      REJHH65G  1192  1209/192  L7  W11 W15 W5  W12 L1  4.0
+  4 Khudyev, Elina         EPICJ97Q  1080  1105/ 57  L5  L6  BYE W15 W13 W9  4.0
+  5 Mckendry, Matthew      ADUNF245  1171  1173/149  W4  W2  L9  L3  D8  W15 3.5
+  6 Qin, Skyler            OPWBJ97T  1021  1125/ 97  W9  W4  D10 L1  W7  L2  3.5
+  7 Huang, Clora           SOMFK31H  1032  1070/163  W3  D12 L8  W13 L6  W14 3.5
+  8 Kumar, Rishuraj        HEAGK45Y  1035  1035/109  L12 BYE W7  L9  D5  D10 3.0
+  9 Smith, Andrew          ADUN6334  1130  1132/ 34  L6  W10 W5  W8  L1  L4  3.0
+ 10 Black, Stas            WPPG368F  1111  1082/155  L2  L9  D6  BYE W15 D8  3.0
+ 11 Beck, Caleb            ADUNH35B  1300   973/  4  D13 L3  BYE L12 W14 U   2.5
+ 12 Liu, Bihe              KKNCB78J  1130  1102/124  W8  D7  L1  W11 L3  L13 2.5
+ 13 Sembium, Aditi         BCAEK25W  1057  1010/321  D11 L15 D14 L7  L4  W12 2.0
+ 14 Yu, Eric               SOMCK25N  1075   997/107  WF  L1  D13 L2  L11 L7  1.5
+ 15 Lin, Luna              OPWDK01W  1120  1044/139  L1  W13 L3  L4  L10 L5  1.0

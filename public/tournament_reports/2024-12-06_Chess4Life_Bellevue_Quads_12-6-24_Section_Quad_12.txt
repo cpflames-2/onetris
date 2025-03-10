@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Xu, Louis              MEDAH34T   100   758/  3  W4  W2  W3  3.0
+  2 Zhang, Jake            BCACH34S   200   442/  3  W3  L1  W4  2.0
+  3 Arora, Kyra            BCABH34R   100   229/  3  L2  W4  L1  1.0
+  4 Castro, Philip         APODH34Q   300   100/  3  L1  L3  L2  0.0
+
+ All Unrated-player Section: Ratings capped at 1000

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Huang, Jaden           ENDDJ63S   812   834/184  W3  W4  L2  2.0
+  2 Bysani, Aakash         SSMCK01D   812   834/255  W4  L3  W1  2.0
+  3 Zhang, Eric            SOMDK64M   745   800/ 67  L1  W2  W4  2.0
+  4 Charles, Benjamin      SOMBJ06G   780   700/ 94  L2  L1  L3  0.0

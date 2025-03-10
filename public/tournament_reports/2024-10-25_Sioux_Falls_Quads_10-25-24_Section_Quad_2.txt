@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Neff, Katrina          ABEF159Y  1011  1145/217  D3  W2  W4  2.5
+  2 Haines, Wheeler        SXBEZ38M  1184  1196/ 91  W4  L1  W3  2.0
+  3 Neff, Enoch            ABEEF95Q  1242  1218/166  D1  W4  L2  1.5
+  4 Kiessel, Rebekah       SD9IZ47S  1053  1002/122  L2  L3  L1  0.0

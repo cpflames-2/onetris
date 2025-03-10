@@ -1,0 +1,3 @@
+pos last name first       id numb   start end/#gms  rd1 tot 
+  1 Fritz, John            MPHJW97M   827   863/ 44  W2  1.0
+  2 Hanburg, James         CQHJW98J   869   834/ 45  L1  0.0

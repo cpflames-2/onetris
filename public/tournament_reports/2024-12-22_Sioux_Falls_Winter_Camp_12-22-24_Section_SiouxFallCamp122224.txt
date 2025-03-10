@@ -1,0 +1,14 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Neff, Joel             ABEHF99X  1513  1534/289  W4  W2  W5  W6  4.0
+  2 Hoellein, Carter       SDDFZ96L  1116  1186/130  W10 L1  W3  W7  3.0
+  3 Mcdowell, John         BVIHZ89F  1112  1170/ 71  W9  W6  L2  W5  3.0
+  4 Oppold, Sage           SDYJZ281  1181  1180/160  L1  W13 W8  W11 3.0
+  5 Neff, Nadine           ABEIC79W  1235  1217/390  W12 W7  L1  L3  2.0
+  6 Neff, Enoch            ABEEF95Q  1239  1210/178  W11 L3  W12 L1  2.0
+  7 Neff, Katrina          ABEF159Y  1119  1088/227  W8  L5  W11 L2  2.0
+  8 Fjeldheim, Caden       SFGGZ99L   321   423/ 12  L7  BYE L4  W12 2.0
+  9 Neff, Zachary          ABEBH77E   180   206/ 22  L3  L11 BYE W13 2.0
+ 10 Beynon, Jaxon          SDSDZ89P   657   632/ 82  L2  L12 W13 BYE 2.0
+ 11 Vehar, Jonah           SDBGZ96S   783   767/ 58  L6  W9  L7  L4  1.0
+ 12 Neff, Nathan           ABECK07A   785   743/ 80  L5  W10 L6  L8  1.0
+ 13 Linn, Atticus          SDSCZ80S   100   100/ 22  BYE L4  L10 L9  1.0

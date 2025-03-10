@@ -1,0 +1,15 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Smygov, David          ADUNG97D  1141  1272/  5  W11 W12 W10 W2  W3  5.0
+  2 Bondar, Dmitriy        REDJI117  1250  1300/ 38  W4  W5  W7  L1  W9  4.0
+  3 Bochner, Joshua        ADUNG97C  1300  1302/  5  D7  W8  W5  W4  L1  3.5
+  4 Kanchanakuntla, Anish RTFEGJ31G  1182  1174/ 36  L2  W13 W6  L3  W10 3.0
+  5 Zhang, Kevin           WOBG809Y  1242  1220/165  W13 L2  L3  W11 W8  3.0
+  6 Venkataraghavan, AkshayADUNG97B  1042  1048/  5  L14 W11 L4  W12 W13 3.0
+  7 Dong, Tristan          MRLFF90V  1052  1060/ 61  D3  W9  L2  L8  BYE 2.5
+  8 Golan, Elliot          ADUNH58X   910   998/ 20  D9  L3  W13 W7  L5  2.5
+  9 Shan, Jie              ADUNH70B  1202  1150/ 19  D8  L7  W12 W10 L2  2.5
+ 10 Masanagi, Arnav        SKIGG97A   600   742/  3  WF  WF  L1  L9  L4  2.0
+ 11 Ajay, Aria             LCSCK07M   801   778/ 99  L1  L6  BYE L5  D12 1.5
+ 12 Sundaresh, Ajay        ADUNH69T   774   753/  8  BYE L1  L9  L6  D11 1.5
+ 13 Appineni, Arnav        MOBFG26A   946   886/ 54  L5  L4  L8  BYE L6  1.0
+ 14 Nair, Ishan            SKIH670E  1302  1312/183  W6  LF  U   U   U   1.0

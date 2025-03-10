@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Gupta, Akshay          HMNCF62T   606   645/ 90  W3  W4  L2  2.0
+  2 Kesher, Zavi           BENEH62L   673   685/ 29  W4  L3  W1  2.0
+  3 Almuayyad, Omar        RHJHJ59J   599   642/ 42  L1  W2  W4  2.0
+  4 Pan, Jingyi            SSMCH76N   581   504/ 34  L2  L1  L3  0.0

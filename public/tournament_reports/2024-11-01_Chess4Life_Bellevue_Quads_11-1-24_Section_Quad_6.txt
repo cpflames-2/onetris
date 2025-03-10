@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kesher, Zavi           BENEH62L   469   519/ 20  W3  D2  W4  2.5
+  2 Lee, Zachary           STTAH63W   358   421/ 14  W4  D1  D3  2.0
+  3 Abdukarimov, Samin     BENAH67S   354   371/ 28  L1  W4  D2  1.5
+  4 Cai, Emily             CNHDH60H   395   303/ 16  L2  L3  L1  0.0

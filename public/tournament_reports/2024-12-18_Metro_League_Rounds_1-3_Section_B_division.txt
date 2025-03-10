@@ -1,0 +1,35 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Elias, Aleister        GARKH22Y  1000  1215/  4  W11 W11 W28 D28 3.5
+  2 Tan, Johnny            CLELJ72U  1575  1572/  9  D5  W5  W32 W32 3.5
+  3 Wilcox, Daelen         CLEJ748C  1223  1238/ 79  W31 W31 W25 L25 3.0
+  4 Goss, Henry            INMMJ21D   904   973/  8  W8  L8  W31 W31 3.0
+  5 Cole, Reece            GARL3567  1123  1200/164  D2  L2  W9  W9  2.5
+  6 Zhao, Derek            GARKS46L   728   769/ 36  W10 L10 D29 W29 2.5
+  7 Zahner, Dj             LCOKH22X  1000  1015/  4  L20 W20 D30 W30 2.5
+  8 Kedu, Sona             LSSKH23E  1391  1159/  5  L4  W4  L13 W13 2.0
+  9 Groebner, Teddy        INMLJ76X   903  1019/ 24  W14 W14 L5  L5  2.0
+ 10 Coberly, Silas         CLEJH22W   900   831/  4  L6  W6  L26 W26 2.0
+ 11 Porad-brand, Lewis     CLEKH22V  1000  1044/  4  L1  L1  W22 W22 2.0
+ 12 Drew, Harrington       SPRJH22U   900   980/  4  L15 L15 W34 W34 2.0
+ 13 Burns, Connor          SPRLH22S  1100   999/  4  W22 L22 W8  L8  2.0
+ 14 Bablani, Arnav         LSSJ1146  1277  1205/229  L9  L9  W24 W24 2.0
+ 15 Nesson, Simon          INMK4001   601   679/ 17  W12 W12 U   U   2.0
+ 16 Wesley, Conlan         INMJ368P   503   559/ 35  W21 W21 U   U   2.0
+ 17 Moynihan, Carter       INMLJ20S   873  1224/  4  W33 W33 U   U   2.0
+ 18 Dhillon, Rohan         LSSM6836  1274  1286/215  U   U   W20 W20 2.0
+ 19 Bian, Erin             LSSJI91Y  2220  2220/208  U   U   W23 W23 2.0
+ 20 Moraleja, Juan Rufino  SPRLB32V   928   929/125  W7  L7  L18 L18 1.0
+ 21 Gonzalez-diaz, JeronimoSPRJH22Q   900   437/  4  L16 L16 L27 W27 1.0
+ 22 Lach, Maxim            LCOKH22P  1000   875/  4  L13 W13 L11 L11 1.0
+ 23 Wen, Steven            GARJH22N   900   441/  4  L24 W24 L19 L19 1.0
+ 24 Yohannes, Senay        SPRKJ50F   414   413/ 26  W23 L23 L14 L14 1.0
+ 25 Yuen, Owen             LCOJA16Z  1348  1334/245  U   U   L3  W3  1.0
+ 26 Atashi, Arya           LCOKH22M  1000   831/  2  U   U   W10 L10 1.0
+ 27 Ulag, Arjun            LSSKI52C   733   685/122  U   U   W21 L21 1.0
+ 28 De Botton, Javari      INMLJ20V   774   819/ 10  LF  LF  L1  D1  0.5
+ 29 Finn, Nathan           INMMJ76Z   694   674/ 10  U   U   D6  L6  0.5
+ 30 Munger, Andrew         CLELH22L  1100   814/  2  U   U   D7  L7  0.5
+ 31 Wu, Wei Hua            GARJH22K   900   666/  4  L3  L3  L4  L4  0.0
+ 32 Preiner, Oscar         LCOJI145  1385  1362/169  U   U   L2  L2  0.0
+ 33 Miller, Chloe          LSSL2385   890   879/137  L17 L17 U   U   0.0
+ 34 Kees, Davon            GARKH22J  1000   533/  2  U   U   L12 L12 0.0

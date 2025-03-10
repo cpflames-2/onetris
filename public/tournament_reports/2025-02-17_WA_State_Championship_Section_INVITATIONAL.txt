@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 rd7 rd8 rd9 tot 
+  1 Thorwe, Pratik         ADUNK10D  1969  2033/ 53  W9  W10 W5  W7  W8  W6  D2  W4  L3  7.5
+  2 Wong-godfrey, Emerson  BUSLH83E  1900  1968/545  L3  W9  W10 W5  L7  W8  D1  W6  W4  6.5
+  3 Moroney, Timothy       ADUN276J  2072  2066/ 82  W2  L4  D6  D9  W10 D5  D7  W8  W1  6.0
+  4 Saddi, Neevan Reddy    GRRFH87M  1913  1942/289  W6  W3  D9  D10 D5  W7  W8  L1  L2  5.5
+  5 Wei, Jeffrey           SCDFH64M  1934  1934/ 29  D7  D8  L1  L2  D4  D3  W9  W10 D6  4.5
+  6 Han, Shuyi             TYEIK47W  1906  1903/361  L4  W7  D3  D8  W9  L1  D10 L2  D5  4.0
+  7 Palathingal, Rafael    KKNF196R  1976  1942/195  D5  L6  D8  L1  W2  L4  D3  L9  W10 3.5
+  8 Wang, Leonardo         CKNI233K  1888  1868/153  D10 D5  D7  D6  L1  L2  L4  L3  W9  3.0
+  9 Mishra, Abhinav        REDJB02W  1875  1859/174  L1  L2  D4  D3  L6  W10 L5  W7  L8  3.0
+ 10 Razmov, Valentin       ADUNB02T  1874  1823/182  D8  L1  L2  D4  L3  L9  D6  L5  L7  1.5

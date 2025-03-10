@@ -1,0 +1,29 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Jiang, Brandon         BLLM7768  2217  2228/545  HPB W27 W12 W10 W2  4.5
+  2 Kuipers, Miles         TSTM6766  1917  1986/588  W16 W14 W9  W4  L1  4.0
+  3 Toppen-ryan, Harrison  ADUNK815  1908  1917/266  W18 D5  D8  W21 D11 3.5
+  4 Pupols, Viktors        ADUN8503  2150  2147/ 94  W7  W11 HPB L2  W12 3.5
+  5 Wang, Leonardo         CKNI233K  1850  1879/139  W24 D3  D15 W13 D7  3.5
+  6 Vega, Isaac            ADONW943  1830  1863/135  L13 W20 D14 W27 W15 3.5
+  7 Razmov, Valentin       ADUNB02T  1863  1874/173  L4  W23 D10 W17 D5  3.0
+  8 Razmov, Gabriel        LSSJC26K  1866  1880/376  W19 D12 D3  D15 D13 3.0
+  9 Mishra, Abhinav        REDJB02W  1892  1897/160  W20 W13 L2  L12 W22 3.0
+ 10 Rosales Infante, AlbertADUNH35J  1965  1926/ 11  W28 D25 D7  L1  W21 3.0
+ 11 Wei, Jeffrey           SCDFH64M  1893  1907/ 15  W23 L4  HPB W14 D3  3.0
+ 12 Pikh, Akim             BLWFH64N  1901  1910/ 27  W22 D8  L1  W9  L4  2.5
+ 13 Gavrysh, Leonid        ADUN816H  2039  2009/122  W6  L9  W18 L5  D8  2.5
+ 14 Ramkumar, Nikhil       RBRH115E  1874  1860/282  W17 L2  D6  L11 W18 2.5
+ 15 Xu, Owen               SOMF896M  1915  1900/205  HPB W26 D5  D8  L6  2.5
+ 16 Nedumpurakkal Thahir, IRHJKK46Y  1872  1841/ 50  L2  L17 W19 D24 W23 2.5
+ 17 Anandkumar, Haituka    STLK238P  1612  1636/423  L14 W16 D26 L7  W24 2.5
+ 18 Hanson, Roger          ADUNJ69X  1397  1465/ 13  L3  W24 L13 W25 L14 2.0
+ 19 Sharma, Devansh        TSTKF88S  1532  1555/212  L8  D22 L16 D23 W25 2.0
+ 20 Maharaja, Imai         HMNEK34K  1634  1618/257  L9  L6  L23 BYE W26 2.0
+ 21 Ackerman, Ryan         ADUNC514  1825  1799/279  D26 HPB W25 L3  L10 2.0
+ 22 Pitre, H G             ADUN3323  1670  1662/ 35  L12 D19 HPB W26 L9  2.0
+ 23 Phan, James            ADUNH28R  1672  1657/ 10  L11 L7  W20 D19 L16 1.5
+ 24 Chang, Allen           ADUNK02T  1558  1528/ 47  L5  L18 BYE D16 L17 1.5
+ 25 Chan, Aiden            ISSJ917M  1600  1572/150  D27 D10 L21 L18 L19 1.0
+ 26 Arivoli, Muthukurisil  ADUNH35E  1581  1560/ 10  D21 L15 D17 L22 L20 1.0
+ 27 Lavoice, Richard       ADUNG39B  1880  1851/ 15  D25 L1  HPB L6  U   1.0
+ 28 Sankrithi, Siva        ADUNI948  1291  1290/ 79  L10 U   U   U   U   0.0

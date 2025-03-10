@@ -1,0 +1,37 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Roy Chowdhury, Avyaan  THRDH82M  1361  1386/ 44  W19 W9  W7  W2  D4  4.5
+  2 Ren, Easton            CMCBH68Z  1251  1280/ 83  W27 W17 W5  L1  W9  4.0
+  3 Srinivasan, Atul       TBKBK65P   821  1079/ 74  W11 L5  W21 W18 W10 4.0
+  4 Krogstad, Jaxon        NCSDJ88M  1151  1182/163  W29 D15 W30 W6  D1  4.0
+  5 Khudyev, Elina         EPICJ97Q  1103  1180/ 70  W35 W3  L2  W25 W12 4.0
+  6 Gu, Vincent            OPWBK00L   959  1113/ 90  W20 W10 W12 L4  D7  3.5
+  7 Liu, Bihe              KKNCB78J  1111  1140/143  W34 W24 L1  W11 D6  3.5
+  8 Ge, Jeremy             SOMCJ88K  1314  1267/270  L32 D16 W36 W22 W15 3.5
+  9 Goel, Advit            CMCDG22F  1099  1142/129  W13 L1  W33 W14 L2  3.0
+ 10 Jiang, Kyle            MEDCK35B   968   997/146  W16 L6  W32 W17 L3  3.0
+ 11 Ahsant, Nickrad        WELCJ56K  1067  1058/ 53  L3  W34 W24 L7  W26 3.0
+ 12 Lai, Ryan              SHSBH70N  1189  1159/ 79  W33 W32 L6  W15 L5  3.0
+ 13 Zhang, Patrick         SSSCK01J   835   943/236  L9  W19 L25 W24 W23 3.0
+ 14 Dharamshi, Anay        CBRDK42U  1316  1292/179  W28 BYE U   L9  W25 3.0
+ 15 Vivek, Thanish BhavanamBCACH74G   818   941/ 38  W31 D4  W22 L12 L8  2.5
+ 16 Pande, Aryan           DCSB493M   841   901/ 42  L10 D8  D23 D21 W29 2.5
+ 17 Mei, Felicity          MMECK89R   933   931/ 92  WF  L2  W26 L10 D18 2.5
+ 18 Pan, Peng-yu           SSMDK24P  1126  1070/196  L24 W26 W29 L3  D17 2.5
+ 19 Li, Rebecca            SCDDJ62B   927   941/148  L1  L13 W34 W35 D20 2.5
+ 20 Lai, Austin            EVGDK94F  1108  1056/ 99  L6  L29 W28 W30 D19 2.5
+ 21 Swain, Samarth         MMECJ58S   975   936/236  L26 W35 L3  D16 W30 2.5
+ 22 Qu, Yuwen              RSACK86G   819   899/ 97  HPB W27 L15 L8  W31 2.5
+ 23 Bolisetty, Varun       CBRDJ73Z   950   938/139  HPB HPB D16 W33 L13 2.5
+ 24 Bangard, Dhruv         TBKCK65D   892   905/130  W18 L7  L11 L13 W32 2.0
+ 25 Jiang, Yuanyi          MMEDJ58J   966   934/ 39  W36 L30 W13 L5  L14 2.0
+ 26 Desai, Vivaan          BCABJ49H   789   821/ 66  W21 L18 L17 W32 L11 2.0
+ 27 Zhang, Ryan            SHVBH60U   990   947/ 36  L2  L22 L31 W36 W33 2.0
+ 28 Daniel, Lemuel         MMEDJ29L  1024   973/ 50  L14 L36 L20 W34 W35 2.0
+ 29 Benita-nagdeep, KrishanSOMDK56N   886   882/ 81  L4  W20 L18 D31 L16 1.5
+ 30 Meenakshi Sundaram, PavCDWCJ99Z   420   501/ 14  HPB W25 L4  L20 L21 1.5
+ 31 Ruan, Jiyong           SHSDJ19W  1060   964/ 50  L15 L33 W27 D29 L22 1.5
+ 32 Wu, Jayden             UCDD495Q   903   862/135  W8  L12 L10 L26 L24 1.0
+ 33 Dixit, Ved             ENSDH63Q   855   832/ 34  L12 W31 L9  L23 L27 1.0
+ 34 Bysani, Aakash         SSMCK01D   860   816/249  L7  L11 L19 L28 W36 1.0
+ 35 Li, Alice              OPWDJ98C   847   780/ 91  L5  L21 BYE L19 L28 1.0
+ 36 Velichko, Kristina     ASACK07V   695   699/127  L25 W28 L8  L27 L34 1.0

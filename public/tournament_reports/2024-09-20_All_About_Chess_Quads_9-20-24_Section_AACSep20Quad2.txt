@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Joshi, Yash            PFCI280R  1340  1342/233  L3  W2  W4  2.0
+  2 Ge, Jeremy             SOMCJ88K  1178  1236/187  W4  L1  W3  2.0
+  3 Upasani, Neil          SSMFJ57C  1160  1227/ 76  W1  W4  L2  2.0
+  4 Burtram, Dayton        BLMJG77M  1306  1229/292  L2  L3  L1  0.0

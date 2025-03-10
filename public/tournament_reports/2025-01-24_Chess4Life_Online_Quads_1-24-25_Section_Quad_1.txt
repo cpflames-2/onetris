@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Malakar, Saarthak      SLLKM21W  1850  1859/144  W4  W2  W3  3.0
+  2 Zhong, Alan            TISMN778  1456  1501/ 85  W3  L1  W4  2.0
+  3 Jean Francois, Fritz   XXXKJ82E  1603  1507/  9  L2  D4  L1  0.5
+  4 Singh, Rushil          TWFHB52N  1384  1374/145  L1  D3  L2  0.5

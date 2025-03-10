@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wilson, Kyden          ADUNJ99B  1032  1180/ 12  W3  W2  W4  3.0
+  2 Zhen Rampenthal, Quinn SASIH53C  1011  1019/ 36  D4  L1  W3  1.5
+  3 Yang, Michael          SOMGK00G  1078  1044/ 72  L1  W4  L2  1.0
+  4 Prasad, Shrey          EPSIK46U   958   929/ 17  D2  L3  L1  0.5

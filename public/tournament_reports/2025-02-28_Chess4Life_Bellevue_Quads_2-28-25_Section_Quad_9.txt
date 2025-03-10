@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sinha, Aarav           ISMJ886W   256   313/ 30  U   W3  W2  2.0
+  2 Arora, Kyra            BCABH34R   229   154/  5  D3  U   L1  0.5
+  3 Dong, Joanna           BCACH50L   187   156/ 17  D2  L1  U   0.5

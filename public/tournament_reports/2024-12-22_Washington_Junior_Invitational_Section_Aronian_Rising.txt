@@ -1,0 +1,10 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 rd7 rd8 rd9 r10 tot 
+  1 Ren, Easton            CMCBH68Z  1178  1211/ 74  W3  W3  W7  W7  L5  W5  W4  D4  L2  D2  7.0
+  2 Liu, Bihe              KKNCB78J  1102  1124/134  W9  W9  L4  D4  W6  L6  W5  D5  W1  D1  6.5
+  3 Lai, Ryan              SHSBH70N  1063  1088/ 53  L1  L1  W8  W8  L4  W4  W9  W9  W5  D5  6.5
+  4 Ye, Alex               ENDFH51L  1194  1174/194  D5  D5  W2  D2  W3  L3  L1  D1  W8  W8  6.0
+  5 Ge, Emma               SSMCJ56J  1006  1069/131  D4  D4  W6  W6  W1  L1  L2  D2  L3  D3  5.0
+  6 Sabarish, Ananya       BCAEG02Z  1036  1003/176  HPB HPB L5  L5  L2  W2  HPB HPB BYE BYE 5.0
+  7 Qin, Skyler            OPWBJ97T  1091  1076/102  W8  W8  L1  L1  HPB HPB HPB HPB HPB HPB 5.0
+  8 Qu, Yuwen              RSACK86G   884   836/ 88  L7  L7  L3  L3  W9  W9  BYE BYE L4  L4  4.0
+  9 Tan, Talen             DCCHH53A   494   475/ 25  L2  L2  BYE BYE L8  L8  L3  L3  U   U   2.0

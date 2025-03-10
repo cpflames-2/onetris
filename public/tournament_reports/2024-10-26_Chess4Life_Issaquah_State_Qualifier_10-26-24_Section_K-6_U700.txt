@@ -1,0 +1,10 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Mishra, Angad          RKWFK70V   581   736/ 92  W9  W3  W2  W5  W7  5.0
+  2 Margo, Joshua          CHRDH72W   654   653/ 11  W6  W8  L1  W4  D3  3.5
+  3 Chen, Alex             ENDDK03T   631   617/ 53  W7  L1  D4  W6  D2  3.0
+  4 Zhang, William         ISECJ58L   469   477/ 26  D5  W6  D3  L2  BYE 3.0
+  5 Sorensen, George       VILFH53E   500   374/  5  D4  W9  W7  L1  L8  2.5
+  6 Wu, William            OACGV82H   400   363/ 23  L2  L4  BYE L3  W9  2.0
+  7 Serna Mengual, Adriana OPWDH62M   237   234/ 14  L3  BYE L5  W8  L1  2.0
+  8 Kamaraju, Akhil        DISEH66C   212   187/ 26  BYE L2  L9  L7  W5  2.0
+  9 Thakur, Abhigyan       MMEFH53D   500   175/  4  L1  L5  W8  BYE L6  2.0

@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Venugopal, Rao         ADUNH62D  1300  1090/  3  W2  W6  W3  U   3.0
+  2 Nishino, Anne          BCADH74F   553   555/ 29  L1  D4  W5  W6  2.5
+  3 Rehmeyer, Malcom       FHMHH62C   700   629/  3  W6  W5  L1  U   2.0
+  4 Esparza-chen, Lucien   WMNEJ98Z   404   440/ 50  W5  D2  U   U   1.5
+  5 Anand, Nivaan          MCEBH64F   270   232/ 15  L4  L3  L2  U   0.0
+  6 Rao, Jaiden            JINBH62B   100   154/  3  L3  L1  U   L2  0.0

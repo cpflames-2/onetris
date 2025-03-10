@@ -1,0 +1,15 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Hons, Lamai            OCIKH12Z  1000  1695/  5  W9  W8  W3  W2  W4  5.0
+  2 Vollmer, Max           OCIKH12W  1000  1353/  5  W10 W13 W5  L1  W6  4.0
+  3 Johns, Orion           OCIKH12V  1000  1233/  5  W12 W7  L1  D5  W9  3.5
+  4 Bond, Colter           OCILH12U  1100  1155/  5  W6  L5  W12 W7  L1  3.0
+  5 Jacobson, Clayton      ANALH12T  1100  1203/  4  W13 W4  L2  D3  HPB 3.0
+  6 De Almeida Nobrega, GuiOHHLH12S  1100  1007/  5  L4  W14 W8  W12 L2  3.0
+  7 Russell, Thurmond      OCILH12R  1100   986/  5  W14 L3  W9  L4  W12 3.0
+  8 Mella, Amaru           OHHKH12P  1000   842/  5  W11 L1  L6  D10 W13 2.5
+  9 Esterdahl, Phillip     OHHLH12N  1100   872/  5  L1  W10 L7  W11 L3  2.0
+ 10 Callahan, Reagan       CPVLH25X   597   630/  8  L2  L9  W14 D8  D11 2.0
+ 11 Linstad, Scotty        MOVMH12M  1200   615/  5  L8  L12 W13 L9  D10 1.5
+ 12 Sparacio, Cyrus        CPVIH25Z   698   709/  8  L3  W11 L4  L6  L7  1.0
+ 13 Spear, George          CPVLH26C   765   601/  8  L5  L2  L11 W14 L8  1.0
+ 14 Zenz, Christopher      CPVIH12L   800   274/  4  L7  L6  L10 L13 BYE 1.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Pan, Peng-ruei         SSMF759R  1536  1572/240  W3  W4  W2  3.0
+  2 Chen, William          INGI550N  1528  1524/267  W4  W3  L1  2.0
+  3 Ge, Jeremy             SOMCJ88K  1267  1272/273  L1  L2  W4  1.0
+  4 Bhasin, Palash         ISMGH95H  1257  1219/112  L2  L1  L3  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 tot 
+  1 Valentino, Ethan Roy   CTXNZ725  1300  1236/  1  W3  U   1.0
+  2 Raven, Noah James      NHXNZ73A   581   608/  4  U   W4  1.0
+  3 Bala Gowda, Nibha V    CTXIX04C   840   834/116  L1  U   0.0
+  4 Shakeel, Faizan        CTXKX13M   310   294/  6  U   L2  0.0

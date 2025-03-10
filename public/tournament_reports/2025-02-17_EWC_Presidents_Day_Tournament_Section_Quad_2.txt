@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Lee, Alexander         BENCK42K   425   506/ 11  W2  W3  W4  3.0
+  2 Premkumar, Janav       RSAEG76B   400   465/  3  L1  W4  W3  2.0
+  3 Jibin, Andrea          HMNEH82K   260   262/ 23  W4  L1  L2  1.0
+  4 Vyahalkar, Alisha      EBSDG92S   410   221/  6  L3  L2  L1  0.0

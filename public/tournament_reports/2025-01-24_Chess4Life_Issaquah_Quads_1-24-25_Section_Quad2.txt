@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Yang, Michael          SOMGK00G   934   966/ 61  W2  D4  W3  2.5
+  2 Davies, Damien         HEAGK68U   745   833/101  L1  W3  W4  2.0
+  3 Chen, Albert           LKWD728A   925   879/ 28  W4  L2  L1  1.0
+  4 Chen, Logan            APOEJ69K   772   741/ 36  L3  D1  L2  0.5

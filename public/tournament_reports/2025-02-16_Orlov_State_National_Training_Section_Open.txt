@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 tot 
+  1 Shah, Aarit            MTWG710Y  1381  1400/ 64  W5  1.0
+  2 Ruan, Jiyong           SHSDJ19W  1014  1060/ 45  W6  1.0
+  3 Gu, Vincent            OPWBK00L   928   959/ 85  W7  1.0
+  4 Zhang, Patrick         SSSCK01J   829   835/231  W8  1.0
+  5 Zou, Jinhan            SSMEH14T  1325  1305/172  L1  0.0
+  6 Lai, Ryan              SHSBH70N  1229  1189/ 74  L2  0.0
+  7 Xiong, Maxwell         CSIDK92H   941   910/ 77  L3  0.0
+  8 Choi, Jigu             LAUEG75M   400   434/  1  L4  0.0

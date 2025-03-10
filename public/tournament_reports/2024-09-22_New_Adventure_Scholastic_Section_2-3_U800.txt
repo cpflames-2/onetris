@@ -1,0 +1,27 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Qu, Yuwen              RSACK86G   729   884/ 67  W23 W19 W2  W9  W6  5.0
+  2 Zhang, Patrick         SSSCK01J   710   770/134  W21 W3  L1  W20 W9  4.0
+  3 Gu, Leo                SCDCK31Y   519   688/ 38  W16 L2  W19 W12 W13 4.0
+  4 Chen, Eason            SOMBJ59F   827   812/ 65  W22 D6  W10 L5  W14 3.5
+  5 Luo, Vivienne          NPTD703P   768   767/130  W15 L9  W17 W4  D7  3.5
+  6 Li, Bryan              MEDBJ75H   610   708/ 71  W24 D4  W14 W8  L1  3.5
+  7 Wright, William        THUCB71M   604   642/113  W18 L12 W11 W10 D5  3.5
+  8 Iakymenko, Nazar       SHSCJ19V   736   696/ 15  W11 L10 W15 L6  W19 3.0
+  9 Lin, Evan              SOMCJ72G   644   681/ 46  W26 W5  W12 L1  L2  3.0
+ 10 Verma, Satvik          WONDG80T   588   608/ 65  W25 W8  L4  L7  W20 3.0
+ 11 Berjis, Liana          MEDCB72R   357   388/125  L8  W25 L7  W18 W21 3.0
+ 12 Li, Ethan              THRBJ97M   734   680/ 66  W17 W7  L9  L3  D15 2.5
+ 13 Cauich-miller, Marco   CSDCJ97P   572   523/ 10  L19 D14 W16 W21 L3  2.5
+ 14 Nishino, Anne          BCADH74F   556   559/ 37  W20 D13 L6  W22 L4  2.5
+ 15 Savaram, Arjun         XXXCH64R   361   423/  8  L5  W26 L8  W25 D12 2.5
+ 16 Prasad, Ishaan         CHKCH61A   200   392/  5  L3  D21 L13 W23 W22 2.5
+ 17 Thomas, David Cijo     TBKDJ03B   341   344/ 15  L12 W18 L5  L19 W24 2.0
+ 18 Sirsat, Sanya          BCACH60Z   200   238/  5  L7  L17 W24 L11 W25 2.0
+ 19 Aslan, Derin           NCSDH60Y   300   534/  5  W13 L1  L3  W17 L8  2.0
+ 20 Datta, Ishana          KKNDH60X   300   414/  5  L14 W23 W22 L2  L10 2.0
+ 21 Kachachi, Alexander    OPWCK31U   182   203/ 16  L2  D16 W23 L13 L11 1.5
+ 22 Ginez, Oliver          RDSCK07H   518   405/ 13  L4  W24 L20 L14 L16 1.0
+ 23 Esparza-chen, Elysia   WMNCJ73M   206   166/ 40  L1  L20 L21 L16 W26 1.0
+ 24 Dang, Aaron            SOMCH60W   200   100/  5  L6  L22 L18 W26 L17 1.0
+ 25 Sachdeva, Aadi         LAVCH60V   200   100/  5  L10 L11 W26 L15 L18 1.0
+ 26 Satish Kumar, NithyashrCENDJ51U   157   100/ 15  L9  L15 L25 L24 L23 0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chopra, Nikita         INTL297H  1563  1580/ 85  W3  W4  W2  3.0
+  2 Meyerzon, Daniel       INTLJ242  1363  1334/454  W4  L3  L1  1.0
+  3 Vanimireddy, Shrivas   EALL833Q  1169  1180/ 22  L1  W2  L4  1.0
+  4 Verma, Reyansh         RBRFJ20M  1226  1225/ 73  L2  L1  W3  1.0

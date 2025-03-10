@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Gao, Eason             CHREH75U   433   497/ 45  W2  W3  U   2.0
+  2 Xu, Jacky Y            SOMCJ59K   454   445/ 43  L1  U   W3  1.0
+  3 Yau, Adelyn            SHSDH58C   467   314/  5  U   L1  L2  0.0

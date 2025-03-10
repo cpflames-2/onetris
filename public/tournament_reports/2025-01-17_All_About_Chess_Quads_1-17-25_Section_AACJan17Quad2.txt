@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ge, Jeremy             SOMCJ88K  1269  1330/249  W4  W3  W2  3.0
+  2 Bhasin, Palash         ISMGH95H  1195  1214/ 97  W3  W4  L1  2.0
+  3 Chu, Skylar            SOMD579R  1137  1123/ 85  L2  L1  W4  1.0
+  4 Nandakiran, Vidyuth    SSMF617C  1096  1043/158  L1  L2  L3  0.0

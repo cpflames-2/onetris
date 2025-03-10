@@ -1,0 +1,41 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Havaldar, Karsh        CSBFI03F  1549  1560/ 63  W19 W6  D7  W4  W3  4.5
+  2 Friedenson, Isaac      VVMIK21N  1488  1480/ 65  W13 W9  L5  W12 W7  4.0
+  3 Chien, Jeffrey         OVLHF41X  1333  1364/180  W20 W26 W25 W5  L1  4.0
+  4 Thungathurthi, PranavarINGIG82R  1132  1285/ 86  W32 W10 W11 L1  W14 4.0
+  5 Dragusanu, Stephane    EVJIH75V  1171  1281/ 20  W37 W28 W2  L3  W10 4.0
+  6 Lin, Ethan             TYEGJ71H  1170  1232/ 69  W36 L1  W33 W24 W11 4.0
+  7 Oh, Seojoon            SSMEJ70T  1118  1244/ 89  W33 W8  D1  W21 L2  3.5
+  8 Zhang, Kevin           WOBG809Y  1241  1242/160  W23 L7  D20 W32 W21 3.5
+  9 Lee, Justin            CNLI732V  1169  1198/113  W27 L2  D32 W20 W19 3.5
+ 10 Ye, Alex               ENDFH51L  1288  1274/208  W34 L4  W13 W16 L5  3.0
+ 11 Nagarkar, Arhant       HSCHB82K  1198  1192/ 65  W39 W22 L4  W29 L6  3.0
+ 12 Upasani, Neil          SSMFJ57C  1111  1114/108  L22 W38 W17 L2  W28 3.0
+ 13 Black, Stas            WPPG368F  1082  1112/160  L2  W37 L10 W27 W24 3.0
+ 14 Vijay, Adith           SOMED20K  1240  1219/ 73  W35 L21 W30 W25 L4  3.0
+ 15 Xu, Alex               EMSI500U  1232  1203/165  W30 L25 W27 D19 D18 3.0
+ 16 Rogovoy, Alexander     SNEFK14Y  1099  1107/ 45  D24 D17 W28 L10 W29 3.0
+ 17 Walther, William       REDLH06M  1100  1155/  4  HPB D16 L12 W35 W25 3.0
+ 18 Hu, Yi-en Pi           BCAEK35P  1115  1101/ 83  D38 L24 W34 W26 D15 3.0
+ 19 Gokulakrishnan, SriharsTMMGH60B  1093  1111/ 25  L1  W36 W22 D15 L9  2.5
+ 20 Shaikot, Sabeer        EVJG147Q  1074  1090/266  L3  W31 D8  L9  W32 2.5
+ 21 Lin, Elliot            TYEGJ71G  1116  1119/ 70  W29 W14 D24 L7  L8  2.5
+ 22 Tsen, Eric             AGBEK18P   910   992/222  W12 L11 L19 W30 D23 2.5
+ 23 Sampathi Rao, Sri JayraEVJGK37Y  1061  1044/ 84  L8  L33 W31 W34 D22 2.5
+ 24 Singhal, Aryash        HIEF595L   908   968/128  D16 W18 D21 L6  L13 2.0
+ 25 Nandakiran, Vidyuth    SSMF617C  1043  1048/163  W40 W15 L3  L14 L17 2.0
+ 26 De, Rishik             INGIJ87T  1132  1086/106  W31 L3  L29 L18 W33 2.0
+ 27 Wang, Wenyou           MEDEK93J   993   999/ 64  L9  W34 L15 L13 W35 2.0
+ 28 Rajesh, Pratvik        SFREH06K   400   905/  4  BYE L5  L16 W36 L12 2.0
+ 29 Zhen Rampenthal, Quinn SASIH53C   963   954/ 30  L21 WF  W26 L11 L16 2.0
+ 30 Bui, Bryant            RDSFH52W  1021   987/ 35  L15 WF  L14 L22 W36 2.0
+ 31 Panda, Sourish         NJHGK98E   930   911/ 56  L26 L20 L23 W38 W37 2.0
+ 32 Xia, Jethro            BCSFK47R   930   946/136  L4  W35 D9  L8  L20 1.5
+ 33 Agarwal, Kavir         MEDF152U   924   929/ 65  L7  W23 L6  D37 L26 1.5
+ 34 Mangla, Atharv         GRREK07C  1043   964/159  L10 L27 L18 L23 W38 1.0
+ 35 Puranik, Armin         SSMEJ56Z  1053   968/ 58  L14 L32 W38 L17 L27 1.0
+ 36 Thangakumar, Pranav    EVJGJ49C   995   932/ 71  L6  L19 W37 L28 L30 1.0
+ 37 Appineni, Arnav        MOBFG26A  1008   918/ 45  L5  L13 L36 D33 L31 0.5
+ 38 Suram, Ridhima         KKNE882V   400   421/ 22  D18 L12 L35 L31 L34 0.5
+ 39 Lai, Austin            EVGDK94F  1018  1000/ 84  L11 LF  U   U   U   0.0
+ 40 Siniquefield, Eli      CPLHH53B   718   707/  6  L25 LF  U   U   U   0.0

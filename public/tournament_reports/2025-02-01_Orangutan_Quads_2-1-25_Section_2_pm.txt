@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Marriott, Nicolas      HTNGH52X   870   902/ 13  W4  W3  W2  3.0
+  2 Wagner, Drew           ADUNH06R   816   767/  6  W3  W4  L1  2.0
+  3 Park-brinck, August    WEDDJ54U   458   466/ 28  L2  L1  W4  1.0
+  4 Subramaniam, Karthik   IMSHH06V   408   341/  7  L1  L2  L3  0.0

@@ -1,0 +1,66 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Hemperly, Harper       HSCFI09E   720   886/ 97  W38 W17 W3  W18 W6  5.0
+  2 Pumphrey, Brooks       CRPFJ79M   749   870/ 55  W4  W23 W7  D11 W13 4.5
+  3 Phillips, Henry        MCGFH43N   761   820/ 10  W16 W5  L1  W24 W11 4.0
+  4 Einarson, Aiden        OBKGD84D   605   688/163  L2  W14 W20 W27 W18 4.0
+  5 Hahl, Cameron          BMCFJ79N   641   721/ 45  W13 L3  W17 W42 W25 4.0
+  6 Garcia, Sergio         BMCF733M   477   668/ 65  W54 W37 W36 W8  L1  4.0
+  7 Avetisyan, Vincent     JMLGJ01Z   583   690/ 25  W37 W36 L2  W21 W19 4.0
+  8 Jackman, William       MCPFH27R   500   567/  5  W44 W46 W65 L6  W22 4.0
+  9 Mendoza, Ethan         LIVFJ01H   400   539/ 25  W65 W38 L16 W30 W26 4.0
+ 10 Smith, Lillian         LIVFH27Q   500   539/  5  W60 W55 L40 W14 W15 4.0
+ 11 Jenkins, Heber         BMCFK79E   329   551/ 44  W62 W33 W34 D2  L3  3.5
+ 12 Shaw, Ryder            RFPFJ23U   485   554/ 35  W39 D34 W35 L13 W31 3.5
+ 13 Nguyen, Jason          RRGGJ45Q   766   752/ 30  L5  W29 W23 W12 L2  3.0
+ 14 Guzman, Melany         MCUFK69G   403   444/ 75  W22 L4  W27 L10 W47 3.0
+ 15 Baxter, James          RRGGJ01W   480   490/ 25  W28 L20 W24 W47 L10 3.0
+ 16 Dahl, Heidi            JMLGH58K   641   619/ 60  L3  W41 W9  L19 W40 3.0
+ 17 Cabasug, Raphael       SJKF177N   572   588/ 37  W20 L1  L5  W60 W43 3.0
+ 18 Spurgeon, Levi         RRGGH91C   257   393/ 15  W52 W54 W41 L1  L4  3.0
+ 19 Orme, Sam              MCUFH43F   253   378/ 10  W61 L28 W30 W16 L7  3.0
+ 20 Qin, Mason             LECFK97A   670   634/ 54  L17 W15 L4  W53 W33 3.0
+ 21 Hendrickson, Landon    LEKFH27P   500   463/  5  W50 W57 L25 L7  W39 3.0
+ 22 Garcia, Emma           OCHGJ45L   350   400/ 35  L14 W42 W38 W44 L8  3.0
+ 23 Gardner, Grayson       LIBGH05D   611   621/ 60  W34 L2  L13 W59 W42 3.0
+ 24 Gallegos, Sebastian J  RFRFH43J   218   369/ 10  W53 W49 L15 L3  W37 3.0
+ 25 Garcia, Metzi          MCUFJ44Z   317   367/ 34  W46 L39 W21 W48 L5  3.0
+ 26 Santana, Luis          ESGFH27N   500   358/  5  W51 D52 D57 W40 L9  3.0
+ 27 Cano Sanchez, Jaylen   RCEFH43L   157   324/ 10  W45 W65 L14 L4  W36 3.0
+ 28 Dickinson, Alexandria  RFPFK97N   374   391/ 49  L15 W19 L37 W52 W48 3.0
+ 29 Worthington, Aaron     LIBFJ53N   490   492/ 40  L36 L13 W39 W45 W44 3.0
+ 30 Cardenas, Lukas        RFPFH27M   500   378/  5  W63 W59 L19 L9  W49 3.0
+ 31 Weninger, Liam         LIVFH90R   100   229/ 20  W48 L61 W64 W35 L12 3.0
+ 32 Vargas, Javier         MYAFH27L   500   271/  5  L59 W63 D55 D43 W41 3.0
+ 33 Corey, Owen            JMLG956S   475   447/ 74  D35 L11 W43 W56 L20 2.5
+ 34 Schutz, Henry          KCCGJ80M   751   668/ 53  L23 D12 L11 W64 W56 2.5
+ 35 Erevia, Kaliyah        MCGFJ53S   362   335/ 40  D33 W62 L12 L31 W53 2.5
+ 36 Morfin, Xavier         LIVFJ01Y   645   573/ 25  W29 L7  L6  W50 L27 2.0
+ 37 Pheysey, Jackson       CRPFE81Y   681   594/ 77  L7  L6  W28 W61 L24 2.0
+ 38 Williams, Grant        CRPFJ62J   604   530/ 35  L1  L9  L22 W55 W59 2.0
+ 39 Torres, Selena         CRPFJ45F   392   365/ 35  L12 W25 L29 W51 L21 2.0
+ 40 Monzon, Jesus Adrian   RCEFJ79J   258   269/ 37  D56 D45 W10 L26 L16 2.0
+ 41 De La Torre, Ian R     LIBFK97E   417   359/ 50  W49 L16 L18 W46 L32 2.0
+ 42 Holm, Carsen           LIVFH91B   209   233/ 20  W55 L22 W62 L5  L23 2.0
+ 43 Gonzalez, Marcus       BMCFJ62G   127   182/ 20  W57 D56 L33 D32 L17 2.0
+ 44 Hernandez, Genie       JMLGK96J   100   156/ 42  L8  W64 W58 L22 L29 2.0
+ 45 Cozad, Chloe           MCGF531M   312   265/ 80  L27 D40 D53 L29 W60 2.0
+ 46 Fultz, Parker          JMLGJ23X   175   187/ 30  L25 L8  W60 L41 W63 2.0
+ 47 Trejo, Zahir           ESGFH27K   500   189/  5  D64 W50 D52 L15 L14 2.0
+ 48 Corrales, Jorge        ESGFH27J   500   100/  4  L31 BYE W59 L25 L28 2.0
+ 49 Rodriguez, Jarret      MCUFH43M   358   266/ 10  L41 L24 W61 W58 L30 2.0
+ 50 Simpson, Zephyn        STPGH43D   100   146/  9  L21 L47 W63 L36 W62 2.0
+ 51 Stallworth, Jaylen     RFPFH27H   500   100/  4  L26 L60 BYE L39 W61 2.0
+ 52 Ewanick, Zadie         CRPFJ45B   120   118/ 25  L18 D26 D47 L28 D58 1.5
+ 53 Lorenzo, Issac         RCEFJ79C   100   120/ 20  L24 W58 D45 L20 L35 1.5
+ 54 Pena, Felipe           HTEFI88M   365   287/ 63  L6  L18 D56 L57 W64 1.5
+ 55 Shipley, Sarah         MTPFH55G   100   123/ 14  L42 L10 D32 L38 W65 1.5
+ 56 Rezendez, Emmery       CRPFH90T   127   146/ 15  D40 D43 D54 L33 L34 1.5
+ 57 Wilkinson, Ethan       LIVFH91E   290   262/ 14  L43 L21 D26 W54 U   1.5
+ 58 Hall, Greyson          MYAFH27G   500   100/  4  BYE L53 L44 L49 D52 1.5
+ 59 Hissam, Joshua         LIVFH90V   100   100/  9  W32 L30 L48 L23 L38 1.0
+ 60 Pentecost, Parker      MYAFH27F   500   100/  5  L10 W51 L46 L17 L45 1.0
+ 61 Miranda, Saul          STPGH43E   100   100/ 10  L19 W31 L49 L37 L51 1.0
+ 62 Nolan, Lyla            CTKFD97L   400   100/ 10  L11 L35 L42 W65 L50 1.0
+ 63 Rogers, Sterling       RRGGH27E   600   100/  4  L30 L32 L50 BYE L46 1.0
+ 64 Fisher, Deklan         MYAFH27D   500   100/  5  D47 L44 L31 L34 L54 0.5
+ 65 Langston, Felicity     JMLG424K   331   185/ 72  L9  L27 L8  L62 L55 0.0

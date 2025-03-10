@@ -1,0 +1,47 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Gonzalez-jacobo, Isaac STPHJ81D   702   910/ 30  W39 W26 W3  W9  W5  5.0
+  2 Sanborn, Ryder         JMLHJ81E   719   764/ 64  W23 W13 L4  W11 W16 4.0
+  3 Avetisyan, Vincent     JMLGJ01Z   649   762/ 35  W38 W15 L1  W26 W13 4.0
+  4 Barrera, Brad          CHJGJ45N   530   718/ 39  W42 W21 W2  L8  W12 4.0
+  5 Bowles, Nathaniel      JMLGJ80J   677   728/ 50  W40 W29 W28 W7  L1  4.0
+  6 Hertelendy, Chris      LIBJ832Z   709   740/ 66  W36 L10 W33 W14 W8  4.0
+  7 Kubalek, Evander       RRGHD38R   696   723/ 73  BYE W36 W12 L5  W9  4.0
+  8 Arias Padilla, Alondra CWHLK68G   760   765/ 43  D24 W20 W27 W4  L6  3.5
+  9 Gonzalez, Blanca       JMLIJ81M   650   666/ 54  W34 W32 W10 L1  L7  3.0
+ 10 Medrano, Axel          CWHKB48G   752   721/ 58  W31 W6  L9  D15 D22 3.0
+ 11 Wampole, Caleb         CWHK133K   614   629/104  W25 D19 W24 L2  D20 3.0
+ 12 Gomez, Anthony         OCHID08B   654   648/ 61  W41 W14 L7  W18 L4  3.0
+ 13 Corleto, Enzo          CTKHB11Z   699   680/ 20  W35 L2  W17 W28 L3  3.0
+ 14 Miranda, Santiago      STPI437Y   518   536/114  W18 L12 W34 L6  W27 3.0
+ 15 Bramhall, Zach         RRGGJ01U   558   582/ 25  W37 L3  W30 D10 D19 3.0
+ 16 Lara, Aliya            CWHKE20N   542   549/ 69  L27 W17 W40 W21 L2  3.0
+ 17 Garcia, Aaidyn         LIBGH55H   286   498/ 14  W19 L16 L13 W32 W28 3.0
+ 18 Smith, Jace            ENTIH01B   800   534/  5  L14 W25 W29 L12 W31 3.0
+ 19 Harmon, Aj             OCHH697N   682   644/ 69  L17 D11 W41 W24 D15 3.0
+ 20 Correa, Emily          PASKJ52K   761   710/121  D22 L8  W44 W27 D11 3.0
+ 21 Gardner, Grayson       LIBGH05D   681   638/ 70  W44 L4  W31 L16 W30 3.0
+ 22 Duarte, Carlos         OCHIK52U   440   468/ 70  D20 L24 W38 W37 D10 3.0
+ 23 Schutz, Victoria       CHJHJ59P   391   435/ 53  L2  L27 W35 W34 W26 3.0
+ 24 Jones, Devon           JMLH407J   426   467/109  D8  W22 L11 L19 W37 2.5
+ 25 Hernandez, Genie       JMLGK96J   119   265/ 52  L11 L18 W36 W44 D29 2.5
+ 26 Morris, Tyson          GVMJK68Q   778   698/ 60  W33 L1  W32 L3  L23 2.0
+ 27 Rogers, Sterling       RRGGH27E   110   289/ 14  W16 W23 L8  L20 L14 2.0
+ 28 Saenz, Abigail         STPH672R   488   452/ 74  WF  W30 L5  L13 L17 2.0
+ 29 Kulp, Harley           PASJH13H   540   428/ 10  W45 L5  L18 D39 D25 2.0
+ 30 Senda, Libni           OCHIJ81R   271   368/ 43  W46 L28 L15 W33 L21 2.0
+ 31 Purcell, Blaine        RRGHH55B   394   384/ 23  L10 W35 L21 W40 L18 2.0
+ 32 Garcia, Emma           OCHGJ45L   491   448/ 45  W43 L9  L26 L17 W40 2.0
+ 33 Evans, Daymein         PASJ267E   477   441/ 48  L26 W39 L6  L30 W42 2.0
+ 34 Szendre, Jason         RRGHJ53Y   125   176/ 23  L9  W42 L14 L23 W41 2.0
+ 35 Fultz, Parker          JMLGJ23X   297   253/ 40  L13 L31 L23 W43 D38 1.5
+ 36 Bodes, Josiah          HSCHH27U   376   286/  9  L6  L7  L25 D45 W44 1.5
+ 37 Larimer, Thomas        LLMGJ79Q   101   137/ 10  L15 D41 W42 L22 L24 1.5
+ 38 Simpson, Zephyn        STPGH43D   117   117/ 19  L3  D44 L22 D41 D35 1.5
+ 39 Wilkinson, Corban      JMLHH91N   330   326/ 17  L1  L33 W45 D29 U   1.5
+ 40 Miranda, Saul          STPGH43E   129   130/ 20  L5  W45 L16 L31 L32 1.0
+ 41 Langston, Felicity     JMLG424K   133   100/ 82  L12 D37 L19 D38 L34 1.0
+ 42 Simmons, Maxwell       JMLGJ01B   100   100/ 19  L4  L34 L37 BYE L33 1.0
+ 43 Dennis, Ethan          RRGHH01A   700   135/  3  L32 LF  U   L35 W45 1.0
+ 44 Badillo-chavez, MaddalyHGHHJ80R   152   102/ 48  L21 D38 L20 L25 L36 0.5
+ 45 Badillo-chavez, MarilynHGHHJ80P   100   100/ 49  L29 L40 L39 D36 L43 0.5
+ 46 Prasad, Sonali         JMLIK68K   681   618/ 65  L30 LF  U   U   U   0.0

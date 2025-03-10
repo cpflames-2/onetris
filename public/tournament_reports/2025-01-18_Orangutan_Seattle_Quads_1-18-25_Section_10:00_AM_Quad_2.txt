@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Lawardy, Clayton       DCTDK13P   790   838/ 47  W4  W2  W3  3.0
+  2 Ben Simon, Golan       SJCDJ48B   592   634/ 23  W3  L1  W4  2.0
+  3 Shing, Lucas           HZFDJ74H   624   592/ 73  L2  W4  L1  1.0
+  4 Allyn, William         THODJ48A   430   388/ 33  L1  L3  L2  0.0

@@ -1,0 +1,31 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Patterson, Ben         CHHMI54X  1861  1892/131  W5  W25 W7  W4  W2  5.0
+  2 Reddy, Eshan           SGSJ336Y  1690  1703/325  W16 W3  W8  W6  L1  4.0
+  3 Chen, Andrew           PULKH03U  1000  1630/  5  W27 L2  W11 W8  W7  4.0
+  4 Turneaure, Miles       PULKH03S  1000  1668/  5  W26 W21 W9  L1  W10 4.0
+  5 Wilson, Nathan         HSCMH03R  1200  1558/  5  L1  W22 W17 W9  D6  3.5
+  6 Park, Mir              PULM4692  1347  1361/ 45  W28 W24 W12 L2  D5  3.5
+  7 Carper, Jack           PULLG86W  1401  1404/185  W18 W17 L1  W13 L3  3.0
+  8 Yarbrough, Nathan      CNYJH03Q   900  1446/  5  W13 W10 L2  L3  W16 3.0
+  9 Allestad, Peter        CNYLJ84W  1474  1455/ 18  W19 W11 L4  L5  W14 3.0
+ 10 Liu, Charles           PULM600D  1293  1293/ 20  W20 L8  W16 W18 L4  3.0
+ 11 Tran, Kieu             ODSLH03P  1100  1172/  5  W14 L9  L3  W25 W19 3.0
+ 12 Meldrum, Jimmy         MHSLB57C   804   897/ 20  L24 W19 L6  W23 W20 3.0
+ 13 Nelson, Devin          ODSLH03N  1100  1193/  5  L8  W27 W24 L7  W17 3.0
+ 14 Nack, Aiden            PDHLK97Q   210   383/  9  L11 W28 WF  W20 L9  3.0
+ 15 Dituri, Dillan         CHHMH03M  1200   923/  5  L25 L16 W28 W26 W18 3.0
+ 16 Reeves, Jesse          ODSMH03L  1200  1094/  5  L2  W15 L10 W28 L8  2.0
+ 17 Martinez-scroggie, ReubCNYJH03K   900  1031/  5  W30 L7  L5  W21 L13 2.0
+ 18 Knopik, Cody           HSCLH03H  1100   961/  5  L7  W30 W21 L10 L15 2.0
+ 19 Mckinnon, Grady        HSCJH03F   900   833/  5  L9  L12 W27 W29 L11 2.0
+ 20 Grant, Dustin          COVKH03D  1000   733/  5  L10 W26 W25 L14 L12 2.0
+ 21 Bishop, Ethan          COVKH03B  1000   837/  4  W22 L4  L18 L17 WF  2.0
+ 22 Tran, Viet             ODSMH03A  1200   801/  5  L21 L5  L26 W27 W25 2.0
+ 23 Koch, Grant            CNYKH02Z  1000   856/  2  HPB HPB U   L12 W26 2.0
+ 24 Kent, Braeden          CNYJH02Y   900  1020/  3  W12 L6  L13 ZPB LF  1.5
+ 25 Dustin, James          CNYJH02X   900   735/  5  W15 L1  L20 L11 L22 1.0
+ 26 Swan, Brodin           PDHKH02W  1000   660/  5  L4  L20 W22 L15 L23 1.0
+ 27 Wirth, Mckenna         PDHKH02V  1000   598/  5  L3  L13 L19 L22 W29 1.0
+ 28 Coltayo, Wilson        RVSLH02U  1100   100/  4  L6  L14 L15 L16 BYE 1.0
+ 29 Boerger, Kenadie       CNYLH02T  1100   349/  2  HPB HPB U   L19 L27 1.0
+ 30 Hamsher, Jack          GPSLA99G   714   694/ 17  L17 L18 LF  U   U   0.0

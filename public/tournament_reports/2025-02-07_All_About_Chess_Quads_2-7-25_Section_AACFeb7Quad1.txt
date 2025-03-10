@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chen, William          INGI550N  1573  1584/259  W2  W4  D3  2.5
+  2 Bhasin, Palash         ISMGH95H  1225  1328/106  L1  W3  W4  2.0
+  3 Xu, Zoe                SOMFG70A  1545  1505/375  D4  L2  D1  1.0
+  4 Ye, Alex               ENDFH51L  1340  1318/214  D3  L1  L2  0.5

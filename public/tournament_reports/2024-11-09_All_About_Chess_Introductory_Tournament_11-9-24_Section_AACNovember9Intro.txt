@@ -1,0 +1,12 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Mirchandani, Kiaan     MEDEK92Z   492   602/ 65  W7  W11 W4  D3  3.5
+  2 Menezes, Kian          MEDCJ97B   464   605/ 65  W8  D3  W7  W4  3.5
+  3 Nayagam, Anantika      SSMFH62E   323   532/  7  W5  D2  W6  D1  3.0
+  4 Nam, Alex              BLWEH75Q   605   556/ 76  W10 W6  L1  L2  2.0
+  5 Moore, Ethan           CRKFJ49L   507   457/ 37  L3  L7  W9  W8  2.0
+  6 Mirchandani, Kavir     MEDCJ97A   395   380/ 54  W9  L4  L3  W11 2.0
+  7 Chang, Nathan          MMEDK42T   430   424/ 76  L1  W5  L2  BYE 2.0
+  8 Dragan, Alexander      MCICH67A   157   218/ 10  L2  W10 W11 L5  2.0
+  9 Rajan, Yash            CDIDH58J   100   138/  6  L6  BYE L5  W10 2.0
+ 10 Chai, Aaron            SSMCH58L   331   156/  7  L4  L8  BYE L9  1.0
+ 11 Zhu, Eddie             SOMCH48C   100   100/  6  BYE L1  L8  L6  1.0

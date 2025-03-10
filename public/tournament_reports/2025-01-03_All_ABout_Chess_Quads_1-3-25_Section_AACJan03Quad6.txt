@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sivakumar, Vedant      INGHH63H   715   770/ 54  W4  D3  D2  2.0
+  2 Huang, Jaden           ENDDJ63S   743   781/155  D3  W4  D1  2.0
+  3 Zhang, Patrick         SSSCK01J   769   738/210  D2  D1  L4  1.0
+  4 Bhandari, Aarav        CBREJ06H   782   747/ 79  L1  L2  W3  1.0

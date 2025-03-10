@@ -1,0 +1,35 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Scollon, Owen          SHMJ734D  1766  1796/549  W32 W8  W3  W2  W7  5.0
+  2 Rao, Deepak Sri KartikeBPSI517J  1464  1512/209  W34 W5  W9  L1  W10 4.0
+  3 Kolenski, Drew         LSSMI420  1344  1498/198  W22 W7  L1  W17 W20 4.0
+  4 Ma, Ziliang            DCCHA69N  1427  1461/132  W21 D16 D12 W11 W8  4.0
+  5 Chien, Jeffrey         OVLHF41X  1364  1378/185  W23 L2  D29 W18 W16 3.5
+  6 Rastogi, Atharv        PFCH377H  1400  1400/123  W27 L9  W21 D16 W19 3.5
+  7 Jiang, Nathan          EINIJ95G  1456  1460/ 26  W13 L3  W24 W19 L1  3.0
+  8 Chaurasia, Vihaan      REJHH65G  1379  1390/214  W29 L1  W27 W9  L4  3.0
+  9 Yadav, Himank          INLL399V  1152  1276/225  W14 W6  L2  L8  W25 3.0
+ 10 Singh, Rushil          TWFHB52N  1414  1417/154  W24 D19 D11 W12 L2  3.0
+ 11 Moghe, Arjun           REJHA42C  1372  1377/167  D18 W15 D10 L4  W22 3.0
+ 12 Avula, Guru Harshith ReBRHF633Y  1368  1381/186  W28 D17 D4  L10 W21 3.0
+ 13 Xu, Alex               EMSI500U  1203  1249/170  L7  W22 D18 D14 W23 3.0
+ 14 Polonsky, Daniel       LIHL946P  1520  1472/107  L9  D18 W30 D13 W24 3.0
+ 15 Deshpande, Keshav      WOBH420G  1307  1343/122  D20 L11 W33 W29 D17 3.0
+ 16 Avula, Varshith Reddy  RHJI110R  1325  1337/271  W25 D4  D17 D6  L5  2.5
+ 17 Seela, Shashank        EVJII74N  1595  1546/228  W26 D12 D16 L3  D15 2.5
+ 18 Raghavendra, Srihari   INGIH19D  1137  1205/ 79  D11 D14 D13 L5  W29 2.5
+ 19 Nair, Ishan            SKIH670E  1312  1322/188  W31 D10 W20 L7  L6  2.5
+ 20 Chen, William          INGI550N  1584  1528/264  D15 W30 L19 W23 L3  2.5
+ 21 Chen, Julian           CNHCK32C  1156  1165/110  L4  W25 L6  W28 L12 2.0
+ 22 Gould, Anderson        WAVHH38F  1011  1121/ 10  L3  L13 W32 W26 L11 2.0
+ 23 Heider, Elena          CHWKC647  1045  1100/159  L5  W34 W26 L20 L13 2.0
+ 24 Tallapaneni, Hanish    CDZHH06J  1152  1153/ 15  L10 W31 L7  W30 L14 2.0
+ 25 Delacroix, Styles      HSCHG93F  1008  1068/ 10  L16 L21 W34 W27 L9  2.0
+ 26 Choi, Hunter           UPAHE80A  1264  1220/245  L17 W28 L23 L22 W30 2.0
+ 27 Menon, Ritwik          ICKH974D  1151  1134/ 88  L6  W33 L8  L25 W31 2.0
+ 28 De, Rishik             INGIJ87T  1086  1081/111  L12 L26 W31 L21 W33 2.0
+ 29 Chillakuru, Hem        JACKK08D  1142  1147/ 23  L8  W32 D5  L15 L18 1.5
+ 30 Chaturvedi, Raghav     BISJK75J  1103  1089/147  W33 L20 L14 L24 L26 1.0
+ 31 Sadhu, Shanmukha       RHJHG75L   700   689/  4  L19 L24 L28 BYE L27 1.0
+ 32 Chintalapudi, Srihaan  CPJH662W  1312  1238/148  L1  L29 L22 D33 U   0.5
+ 33 Graves, Henry          JFMJC00C  1338  1217/ 67  L30 L27 L15 D32 L28 0.5
+ 34 Wakeman, Oliver        INLLG10Y  1223  1148/143  L2  L23 L25 U   U   0.0

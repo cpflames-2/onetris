@@ -1,0 +1,16 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Rish-brown, Jacob      HMOFK61J   465   874/ 25  D3  W11 W8  W4  W5  4.5
+  2 Rengarajan, Anirudh    LHCFZ75J  1089  1088/ 24  W5  D8  D3  W6  W4  4.0
+  3 Keogh, Seiya           NOVGJ51N   997  1015/ 40  D1  W15 D2  W7  W8  4.0
+  4 Little, Wyatt          NOVGJ51H   875   882/ 35  W10 W6  W9  L1  L2  3.0
+  5 Rish-brown, Jackson    HMOFH57T   714   741/ 15  L2  W10 W12 W9  L1  3.0
+  6 Bui, Bryant            RDSFH52W   653   735/ 21  W11 L4  W14 L2  W9  3.0
+  7 Judd, George           PURFJ57F   735   721/ 35  W12 L9  W15 L3  W13 3.0
+  8 Zhong, Sebastian       NOVGK24D   812   802/ 45  W14 D2  L1  W10 L3  2.5
+  9 Anbuselvam, Mithran    HEAGH61F   940   848/ 70  W13 W7  L4  L5  L6  2.0
+ 10 Catayas, Ianess        APRIK51M   304   325/ 26  L4  L5  BYE L8  W14 2.0
+ 11 Shields, Conor         KOPHK51J   767   672/ 53  L6  L1  L13 BYE W15 2.0
+ 12 Short, Austin          HMOFH38T   500   348/  4  L7  W13 L5  L14 BYE 2.0
+ 13 Mcguire, Grace         HSCGH57R   400   422/ 10  L9  L12 W11 W15 L7  2.0
+ 14 Mcguire, Madeleine     HSCIH57Q   300   310/  8  L8  BYE L6  W12 L10 2.0
+ 15 Kanchukatla, Kashvi    WDEFJ51Z   100   100/  9  BYE L3  L7  L13 L11 1.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Abdukarimov, Samin     BENAH67S   241   354/ 25  D4  W3  W2  2.5
+  2 Lai, Brycen            CLHEK02D   289   314/ 33  W3  W4  L1  2.0
+  3 Kachachi, Alexander    OPWCK31U   221   204/ 24  L2  L1  W4  1.0
+  4 Bach, Lan              MCIBH74U   259   196/ 17  D1  L2  L3  0.5

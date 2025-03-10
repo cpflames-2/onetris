@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Dhameeja, Ved          GRRFJ98F  1026  1172/131  W3  W4  W2  3.0
+  2 Juarez-caballero, CristISMHD76Z  1225  1169/175  W4  L3  L1  1.0
+  3 Chu, Skylar            SOMD579R  1024  1016/ 59  L1  W2  L4  1.0
+  4 Chai, Chloe            NCSDJ59R   990   990/114  L2  L1  W3  1.0

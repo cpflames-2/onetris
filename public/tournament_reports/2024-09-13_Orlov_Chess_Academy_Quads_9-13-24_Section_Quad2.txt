@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Zarate, Gabriel        EMDBH62S   100   731/  3  W5  U   W6  U   D2  2.5
+  2 Gangineni, Kumar       ADUNH62R  1300   731/  3  U   W5  U   W3  D1  2.5
+  3 Parikh, Advait         KKNFK07K   100   245/ 18  W4  U   U   L2  W6  2.0
+  4 Sarangi, Samarth       CBREH69F   139   224/ 23  L3  W6  U   U   W5  2.0
+  5 Anand, Nivaan          MCEBH64F   331   270/ 12  L1  L2  U   U   L4  0.0
+  6 Gangineni, Sarvesh     MMEBH62Q   100   100/  3  U   L4  L1  U   L3  0.0

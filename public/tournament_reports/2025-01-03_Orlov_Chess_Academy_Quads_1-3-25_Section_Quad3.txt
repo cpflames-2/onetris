@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Vivek, Thanish BhavanamAUDCH74G   419   465/  9  U   W3  W4  U   L2  2.0
+  2 Anand, Nivaan          MCEBH64F   440   435/ 54  U   L4  BYE U   W1  2.0
+  3 Esparza-chen, Lucien   WMNEJ98Z   519   487/ 69  U   L1  BYE U   W5  2.0
+  4 Krishnan, Rishi        SSMCH29T   339   370/  7  U   W2  L1  U   U   1.0
+  5 Krishnan, Eshan        SSMEH29U   100   189/  7  U   W6  U   U   L3  1.0
+  6 Esparza-chen, Elysia   WMNCJ73M   419   354/ 51  U   L5  U   U   BYE 1.0

@@ -1,0 +1,12 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Thompson, Hugo         SSNHH55A   938   981/  7  BYE W6  W8  3.0
+  2 Aguila-contreras, EdgarHORIJ65J   672   864/ 80  W3  W8  W4  3.0
+  3 Vendeland, Xander      HSCFD01Q   845   847/109  L2  W11 W10 2.0
+  4 Hauptmann, Elian       HSCIJ44N   738   741/ 13  W9  W10 L2  2.0
+  5 Orsino, Thomas         WHMIH40B   601   611/  9  L8  BYE W11 2.0
+  6 Spear, George          CPVLH26C  1100   765/  3  D11 L1  W7  1.5
+  7 Ritchie, Rowan         SMWGH40C   633   547/  8  L10 W9  L6  1.0
+  8 Sparacio, Cyrus        CPVIH25Z   800   698/  3  W5  L2  L1  1.0
+  9 Allen, Zeke            CPVLH25Y  1100   204/  2  L4  L7  BYE 1.0
+ 10 Callahan, Reagan       CPVLH25X  1100   597/  3  W7  L4  L3  1.0
+ 11 Mcneil, Mason          VSTHJ49Y   747   685/ 41  D6  L3  L5  0.5

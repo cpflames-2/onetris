@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Mangla, Atharv         GRREK07C   984  1072/151  D3  W4  W2  2.5
+  2 Sathyamurthy, Sreeshan EVJIJ24M  1001  1033/142  W4  W3  L1  2.0
+  3 Xing, Andrew           CNHDK62E  1038  1007/134  D1  L2  D4  1.0
+  4 Li, Harry              SPTFG30G  1004   957/447  L2  L1  D3  0.5

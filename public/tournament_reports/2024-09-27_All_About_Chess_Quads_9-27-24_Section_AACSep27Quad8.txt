@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Menezes, Kian          MEDCJ97B   414   506/ 58  W4  W3  W2  3.0
+  2 Shin, Joshua           CRKCJ63R   272   332/ 85  W3  W4  L1  2.0
+  3 Chang, Nathan          MMEDK42T   356   310/ 59  L2  L1  W4  1.0
+  4 Dietrich, Luka         OPWAJ27L   100   100/ 12  L1  L2  L3  0.0

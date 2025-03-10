@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Fiorita, Gus           SDGCZ76F   218   424/ 16  W4  W2  W3  3.0
+  2 Bassett, Killian       SFOEZ724   318   276/ 13  W3  L1  L4  1.0
+  3 Henningson, Jayse      SDKEZ54W   213   207/ 27  L2  W4  L1  1.0
+  4 Headley, Austin        SDADZ802   302   265/ 27  L1  L3  W2  1.0

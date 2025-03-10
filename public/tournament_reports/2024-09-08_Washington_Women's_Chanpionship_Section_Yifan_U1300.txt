@@ -1,0 +1,13 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Li, Anyi               LKDDJ55F  1055  1084/ 68  L3  W6  W11 W4  W2  4.0
+  2 Huang, Clora           SOMFK31H  1027  1079/147  W11 W10 W8  W3  L1  4.0
+  3 Han, Kaiyi             SOMCK42P   793   987/ 81  W1  HPB W7  L2  W6  3.5
+  4 Khudyev, Elina         EPICJ97Q   873   920/ 43  L7  W12 W5  L1  W8  3.0
+  5 Jem, Ann               ADUNH63F  1300   840/  4  L10 BYE L4  W9  W12 3.0
+  6 Ajay, Aria             LCSCK07M   684   770/ 78  W12 L1  HPB W8  L3  2.5
+  7 Agaian, Angela         MCRMD833  1215  1116/304  W4  L8  L3  W11 L9  2.0
+  8 Wang, Lijuan           ADUNH79Z   994   934/ 10  W9  W7  L2  L6  L4  2.0
+  9 Razmov, Siana          HZFCK93Y   886   852/142  L8  L11 W12 L5  W7  2.0
+ 10 Miller, Chloe          LSSL2385   878   890/135  W5  L2  U   HPB HPB 2.0
+ 11 Zhang, Amy             SOMEC03P   784   793/130  L2  W9  L1  L7  BYE 2.0
+ 12 Zhang, Arwen           SOMF484A   709   638/124  L6  L4  L9  BYE L5  1.0

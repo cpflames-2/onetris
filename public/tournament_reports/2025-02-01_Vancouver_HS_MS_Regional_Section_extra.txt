@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 tot 
+  1 Dominge, Andy          SENK486W   449   486/ 25  W8  1.0
+  2 Hysmith, Timmy         TRTIG93K   100   180/  5  W7  1.0
+  3 Flitcraft, Vivienne    TRTIG93L   282   326/  5  W6  1.0
+  4 White, Preston         CORMK81J  1131  1103/ 21  D5  0.5
+  5 Lannom, Thomas         LBCGG93S   356   456/  5  D4  0.5
+  6 Blackmer, Janie        CRXLG94H   150   100/  5  L3  0.0
+  7 Becker, Kayleb         CRXLG94J   377   100/  5  L2  0.0
+  8 Murphy, Elijah         TRTGG93X   505   424/  5  L1  0.0

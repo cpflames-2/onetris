@@ -1,0 +1,24 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Victor, Paul           ADUNH58Y  1300  1380/  5  W7  W5  W2  W11 W10 5.0
+  2 Ragno, Xander          HSCAH59U   402   529/ 10  W19 W22 L1  W20 W13 4.0
+  3 Golan, Elliot          ADUNH58X  1300   964/  5  W14 L4  W6  W9  W5  4.0
+  4 Miller, Ryan           EALKH58W  1000  1109/  5  W6  W3  W10 L5  W11 4.0
+  5 Foster, Chad           ADUNH69R   682   746/  9  W21 L1  W17 W4  L3  3.0
+  6 Armitage-selig, PhoenixSUZBJ31Z   616   641/ 45  L4  W16 L3  W22 W12 3.0
+  7 Nandeesh, Tavishna     CAVEH61E   479   487/ 10  L1  W19 L13 W23 W20 3.0
+  8 Savaram, Arjun         XXXCH64R   423   478/ 13  W18 L11 W23 L10 W19 3.0
+  9 Goolla, Devansh        DHLDK16Z   323   480/ 24  W20 W13 L11 L3  W16 3.0
+ 10 Mahdy, Muhannad        ADUNH58V  1300   859/  5  W12 W23 L4  W8  L1  3.0
+ 11 Miller, John           ADUNH58U  1300   828/  4  WF  W8  W9  L1  L4  3.0
+ 12 Goolla, Vihaas         DHLF487Q   614   575/ 29  L10 W21 W22 D13 L6  2.5
+ 13 Oakes, James           ADUNH58T  1300   489/  5  W15 L9  W7  D12 L2  2.5
+ 14 Koul, Navika           RSAEJ83L   589   502/ 50  L3  W18 L20 L16 W17 2.0
+ 15 Prasad, Ishaan         CHKCH61A   392   297/ 10  L13 L20 W18 L19 W22 2.0
+ 16 Abimanyu, Siddharth    LMABH60T   199   228/ 19  L23 L6  W21 W14 L9  2.0
+ 17 Sagar, Rhea            DHLBJ92U   100   100/ 16  BYE HPB L5  HPB L14 2.0
+ 18 Kameswaran, Sai Pranav DHLEH58S   400   242/  5  L8  L14 L15 W21 W23 2.0
+ 19 Sakthivel, Aadhira     SWLFH58Q   500   270/  4  L2  L7  BYE W15 L8  2.0
+ 20 Natarajan, Thakshan    TBKEH58P   400   394/  5  L9  W15 W14 L2  L7  2.0
+ 21 Nandeesh, Tapasya      SMSIH62Z   181   119/ 16  L5  L12 L16 L18 BYE 1.0
+ 22 Kuruvilla, Nathan      SWLDH58N   300   100/  4  WF  L2  L12 L6  L15 1.0
+ 23 Godugu, Shree Muktika  PPLGH58M   600   185/  5  W16 L10 L8  L7  L18 1.0

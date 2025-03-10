@@ -1,0 +1,29 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Hildenbrand, Blane     STNJ122V  1485  1534/392  W24 W6  W9  W11 W3  5.0
+  2 Geng, Tommy            JACLF12Q  1043  1270/ 72  W27 W15 W16 W7  W6  5.0
+  3 Mittal, Sanyam         JACM2663  1117  1271/113  W25 W11 W15 W4  L1  4.0
+  4 Chillakuru, Hem        JACKK08D  1147  1236/ 28  W8  W20 W22 L3  W7  4.0
+  5 Einfeld, Ethan         EDWKG79Q  1414  1459/  7  U   U   U   W12 W9  2.0
+  6 Li, Richard            JACMC87V  1390  1363/ 54  W23 L1  W17 W10 L2  3.0
+  7 Guilliams, Avery       KAMM231A  1234  1226/ 68  W26 W10 W13 L2  L4  3.0
+  8 Duong, Duc             MRRLH46G  1085  1162/ 15  L4  W25 W24 L9  W16 3.0
+  9 Bates, Killian         JACJK18M  1296  1294/ 68  W28 W18 L1  W8  L5  3.0
+ 10 Kolli, Vaibhav         JACLK905   960  1046/ 89  W14 L7  W19 L6  W15 3.0
+ 11 Bun, Peter             MRRM761P   927  1045/ 46  W22 L3  W23 L1  W20 3.0
+ 12 Karthik, Shreya        JACMA701   844   861/ 64  U   U   U   L5  W19 1.0
+ 13 Tsang, Ian             JACMK59F  1174  1170/ 19  W19 W16 L7  U   U   2.0
+ 14 Mccullough, Drew       STNJJ93T  1157  1067/ 22  L10 L17 U   L16 W21 1.0
+ 15 Kum, Leon              MRRJH46X  1158  1108/ 14  W17 L2  L3  W20 L10 2.0
+ 16 Banchero, Andrew       EDWKJ46Q  1062  1051/ 15  W21 L13 L2  W14 L8  2.0
+ 17 Ngo, Joshua            EDWLB43H   990   961/102  L15 W14 L6  L21 W27 2.0
+ 18 Adedoyin, Pelumi       STNKG79N   900   941/  7  D20 L9  W21 U   U   1.5
+ 19 Whitaker, Nic          STNJG79M   749   710/  9  L13 D21 L10 W27 L12 1.5
+ 20 Pape, Neil             JACMK59R   898   882/ 20  D18 L4  W26 L15 L11 1.5
+ 21 Haukaas, Asher         MRRLG79K   875   811/  7  L16 D19 L18 W17 L14 1.5
+ 22 Taylor, Ryder          KAML385C  1108  1065/414  L11 W26 L4  U   U   1.0
+ 23 Kirschten, Jacob       EDWKC85L   997   968/ 27  L6  W27 L11 U   U   1.0
+ 24 Hasse, Nikos           EDWMB11Q  1098  1073/ 32  L1  W28 L8  U   U   1.0
+ 25 Rines, Oliver          KAMJI303  1276  1221/199  L3  L8  W28 U   U   1.0
+ 26 Trujillo-aguayo, Kevin MRRKH46H   819   746/  8  L7  L22 L20 U   U   0.0
+ 27 Sanchez, Rafael        MRRMK58R   219   213/ 22  L2  L23 U   L19 L17 0.0
+ 28 Tally, Brena           MRRMK59D   184   183/ 19  L9  L24 L25 U   U   0.0

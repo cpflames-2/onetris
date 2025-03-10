@@ -1,0 +1,29 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Vijayakumar, Advaith   NRCM6655  2216  2222/318  W28 W11 D3  W2  W8  4.5
+  2 Min, Ryan              INTK5430  2134  2143/446  W14 W4  W16 L1  W3  4.0
+  3 Pisan, Kai             CHYL404C  1980  2000/471  W13 W7  D1  W12 L2  3.5
+  4 Roesch, Carson         BLHM120K  1898  1905/305  W23 L2  D14 W9  W12 3.5
+  5 Razmov, Gabriel        LSSJC26K  1880  1869/381  D10 W26 D9  W13 D7  3.5
+  6 Patterson, Ben         CHHMI54X  1863  1861/126  D24 W10 L8  W14 W16 3.5
+  7 Eksarevskly, Albert    LSSK530Y  1842  1854/150  W22 L3  W27 W19 D5  3.5
+  8 Scollon, Owen          SHMJ734D  1696  1772/542  W25 HPB W6  W16 L1  3.5
+  9 Yuodelis, Kenneth      NPRL3681  1557  1678/471  W19 D12 D5  L4  W18 3.0
+ 10 Bushfield, Stuart      LSSMF350  1487  1580/367  D5  L6  W17 D18 W21 3.0
+ 11 Nedumpurakkal Thahir, IRHJKK46Y  1841  1824/ 55  W17 L1  L13 W26 W20 3.0
+ 12 Mishra, Abhinav        REDJB02W  1897  1875/165  W20 D9  W18 L3  L4  2.5
+ 13 Marcelais, Kai         REDLA64J  1598  1626/188  L3  W25 W11 L5  D15 2.5
+ 14 Anandkumar, Haituka    LWAK238P  1636  1653/428  L2  W22 D4  L6  W24 2.5
+ 15 Deng, Lily             HHSL5007  1700  1690/381  W27 L16 L19 W17 D13 2.5
+ 16 Cheng, Edward          GARMC74W  1950  1917/466  W21 W15 L2  L8  L6  2.0
+ 17 Davis, Caian           FRALK67M  1444  1462/ 50  L11 W21 L10 L15 W26 2.0
+ 18 Rubaiyat, Rhadean      REDJD40L  1717  1678/223  D26 W24 L12 D10 L9  2.0
+ 19 Wong-godfrey, Emerson  BUSLH83E  1931  1900/536  L9  W23 W15 L7  U   2.0
+ 20 Siddem, Sid            LWALC34V  1498  1499/531  L12 L28 W22 W27 L11 2.0
+ 21 Nipges, Jaxon          FERL382B  1651  1613/134  L16 L17 W24 W25 L10 2.0
+ 22 King, Miles            NKPKK48E  1404  1394/ 62  L7  L14 L20 BYE W25 2.0
+ 23 Stroud, Jeb            SHMJK22V  1492  1462/191  L4  L19 L25 D24 W27 1.5
+ 24 Kuzin, Ethan           SHMM7567  1458  1445/344  D6  L18 L21 D23 L14 1.0
+ 25 Bates, Killian         JACJK18M  1317  1314/ 58  L8  L13 W23 L21 L22 1.0
+ 26 Vijeyanandh, Vishnu    REDJF63Z  1342  1339/208  D18 L5  HPB L11 L17 1.0
+ 27 Wakeman, Oliver        INLLG10Y  1246  1223/140  L15 BYE L7  L20 L23 1.0
+ 28 Nam, Jinmo             GRRKC101  1664  1673/213  L1  W20 U   U   U   1.0

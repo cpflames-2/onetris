@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhang, Patrick         SSSCK01J   574   699/122  W3  W4  W2  3.0
+  2 Charles, Benjamin      SOMBJ06G   503   517/ 32  D4  W3  L1  1.5
+  3 Li, Ethan James        SOMCK00K   545   516/ 70  L1  L2  W4  1.0
+  4 Menezes, Kian          CLHCJ97B   517   466/ 49  D2  L1  L3  0.5

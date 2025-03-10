@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Singh, Anitej          OMSIH76J   100   310/  6  W3  W2  W4  3.0
+  2 Revuru, Nimeesha       RCMFW81Y   100   190/ 22  W4  L1  W3  2.0
+  3 Kamaraju, Akhil        DISEH66C   100   100/ 19  L1  W4  L2  1.0
+  4 Alam, Mahira           LTLDH61S   142   100/  5  L2  L3  L1  0.0

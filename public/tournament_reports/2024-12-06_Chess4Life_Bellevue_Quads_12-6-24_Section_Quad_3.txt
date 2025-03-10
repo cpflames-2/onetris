@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Khandelwal, Anay       CHRHA10L   817   905/ 61  D2  W3  W4  2.5
+  2 Tharian, Isaac         TOPEK39K   820   825/ 48  D1  L4  W3  1.5
+  3 Anbuselvam, Mithran    HEAGH61F   867   831/ 85  W4  L1  L2  1.0
+  4 Durbhakula, Amogh      LMAHK63U   802   785/ 18  L3  W2  L1  1.0

@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Nair, Reyaansh         NWZDZ73X   300  1414/  5  W7  W6  W5  W2  D3  4.5
+  2 Hoellein, Carter       SDDFZ96L  1041  1206/118  W3  W7  W6  L1  W5  4.0
+  3 Prakhya, Vihaan        PRAEY96A   400  1184/  5  L2  W8  W4  D5  D1  3.0
+  4 Ekanger, Emily         XXZGZ73W   600  1068/  5  W9  L5  L3  W6  W8  3.0
+  5 Backstrom, Canaan      SDADZ825  1092  1093/ 18  W10 W4  L1  D3  L2  2.5
+  6 Mcdowell, John         BVIHZ89F  1150  1112/ 67  W8  L1  L2  L4  W7  2.0
+  7 Oppold, Sage           SDYJZ281  1052  1024/150  L1  L2  W9  W10 L6  2.0
+  8 Peterson, James        SDKGZ82U   878   875/ 21  L6  L3  W10 W9  L4  2.0
+  9 Matt, Jaden            SDAGZ81R   898   810/  9  L4  W10 L7  L8  HPB 1.5
+ 10 Davis, Lincoln         SDSEZ99N   728   671/ 83  L5  L9  L8  L7  BYE 1.0

@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Dinesh Babu, Darshini  GNAEH50D   993  1011/ 32  BYE W2  W3  3.0
+  2 Waldman, Paxton        LBYGG78P   600   774/  2  W3  L1  BYE 2.0
+  3 Zhang, Alex Sun        SKKDJ88B   566   544/ 37  L2  BYE L1  1.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Krishnakumar, Vishresh EALLJ46M  1517  1533/ 69  W4  W2  D3  2.5
+  2 Ganesan, Vidur         RBRF940K  1378  1404/258  W3  L1  W4  2.0
+  3 Chevuri, Tattva        REJHC06V  1441  1433/404  L2  W4  D1  1.5
+  4 Chaporkar, Nihar       ENSEK65B  1273  1236/ 92  L1  L3  L2  0.0

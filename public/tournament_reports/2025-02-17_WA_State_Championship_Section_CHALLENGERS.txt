@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 rd7 rd8 rd9 tot 
+  1 Pikh, Akim             BLWFH64N  1866  1890/ 41  W10 L3  L8  W4  L7  W5  W9  W6  W2  6.0
+  2 Yondon, Odbayar        INGGK97T  1861  1851/288  D6  W10 W3  W8  L4  L7  D5  WF  L1  5.0
+  3 Razmov, Gabriel        LSSJC26K  1870  1884/390  W9  W1  L2  U   D6  L8  W4  D7  W5  5.0
+  4 Nallappa, Vijay        REDJD40S  1781  1812/442  W7  D5  L9  L1  W2  U   L3  W8  W6  4.5
+  5 Bharathy Mohan, Aarav  SKIGC98B  1719  1758/405  D8  D4  D7  W6  W9  L1  D2  U   L3  4.0
+  6 Ramkumar, Nikhil       RBRH115E  1875  1863/293  D2  W7  U   L5  D3  W9  W8  L1  L4  4.0
+  7 Nedumpurakkal Thahir, IRHJKK46Y  1886  1871/ 73  L4  L6  D5  L9  W1  W2  U   D3  W8  4.0
+  8 Cheng, Selina          TLMH413R  1713  1727/593  D5  D9  W1  L2  U   W3  L6  L4  L7  3.0
+  9 Hosford, Michael J     ADUNF263  1920  1874/181  L3  D8  W4  W7  L5  L6  L1  LF  U   2.5
+ 10 Kuhner, Mary           ADUND44Q  1815  1788/ 99  L1  L2  U   U   U   U   U   U   U   0.0

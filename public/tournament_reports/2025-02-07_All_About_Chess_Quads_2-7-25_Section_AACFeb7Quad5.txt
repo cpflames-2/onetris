@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Xing, Andrew           SSSDK62E   938   922/148  W4  L3  D2  1.5
+  2 Mangla, Atharv         GRREK07C   927   914/168  W3  L4  D1  1.5
+  3 Sarychev, Aleksei      GEKKJ98N   873   876/213  L2  W1  D4  1.5
+  4 Sivakumar, Vedant      INGHH63H   793   821/ 63  L1  W2  D3  1.5

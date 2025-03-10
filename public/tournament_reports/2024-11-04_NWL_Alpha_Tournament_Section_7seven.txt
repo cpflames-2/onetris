@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Skeels, Peter          SQULK99T   507   790/ 21  W3  W7  W2  3.0
+  2 Miller, Aiden          MRDMK41B   498   641/ 14  W6  W4  L1  2.0
+  3 Chapina, Bryan         LYELH49H  1100   856/  3  L1  W5  W7  2.0
+  4 Jackson, Faye          SQUJH49G   900   642/  3  W8  L2  W6  2.0
+  5 Ugurdan, Isilay        LYELH49F  1100   491/  3  L7  L3  W8  1.0
+  6 Cole, Lincoln          LYEKH49E  1000   441/  3  L2  W8  L4  1.0
+  7 Branco, Phillip        SHMJH49C   900   653/  3  W5  L1  L3  1.0
+  8 Woodell, Maren         LYEJH49B   900   166/  3  L4  L6  L5  0.0

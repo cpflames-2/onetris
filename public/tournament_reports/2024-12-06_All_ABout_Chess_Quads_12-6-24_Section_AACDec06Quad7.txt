@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sivakumar, Vedant      INGHH63H   575   589/ 37  W3  W4  L2  2.0
+  2 Charles, Benjamin      SOMBJ06G   559   578/ 66  W4  L3  W1  2.0
+  3 Sathyamurthy, Shreyus  BLWCJ60Z   412   516/ 95  L1  W2  W4  2.0
+  4 Paidapathi, Kiaan      SHSCJ99C   507   422/138  L2  L1  L3  0.0

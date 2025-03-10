@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Nipges, Jaxon          FERL382B  1440  1458/114  W6  W2  W3  3.0
+  2 Palmer, Evan           BHMLI90S  1225  1230/186  W4  L1  W5  2.0
+  3 Ginotra, Karman        RKWFB15D  1101  1122/ 74  W5  W6  L1  2.0
+  4 Fredette, Blaise       BECGH95C   946   932/ 21  L2  L5  W6  1.0
+  5 King, Oliver           WKEFK36M   923   931/ 65  L3  W4  L2  1.0
+  6 Qureshi, Danish        BLNHF36V   951   903/151  L1  L3  L4  0.0

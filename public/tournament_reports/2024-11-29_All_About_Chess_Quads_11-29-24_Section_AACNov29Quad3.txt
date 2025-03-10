@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Huang, Jaden           ENDDJ63S   836   935/135  W3  W4  W2  3.0
+  2 Sarychev, Aleksei      GEKKJ98N   881   828/192  L4  W3  L1  1.0
+  3 Li, Ethan James        SOMCK00K   732   719/ 98  L1  L2  W4  1.0
+  4 Mazer, Harvey          SNEEJ59E   643   655/ 30  W2  L1  L3  1.0

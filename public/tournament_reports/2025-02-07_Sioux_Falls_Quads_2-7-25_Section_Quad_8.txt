@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Winner, Mason          SDAEZ73Z   270   344/ 11  W3  W4  W2  3.0
+  2 Fiorita, Gus           SDGCZ76F   159   218/ 13  W4  W3  L1  2.0
+  3 Furley, Evan           OSLFZ67D   500   100/  3  L1  L2  W4  1.0
+  4 Huynh, Logan           SFVCZ67C   200   100/  3  L2  L1  L3  0.0

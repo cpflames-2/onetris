@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Malka, Anirudh         CKNH259H   736   713/ 44  W4  L2  W3  2.0
+  2 Charles, Benjamin      SOMBJ06G   508   566/ 38  L3  W1  W4  2.0
+  3 Paidapathi, Kiaan      SHSCJ99C   465   494/120  W2  D4  L1  1.5
+  4 Nam, Alex              BLWEH75Q   482   443/ 50  L1  D3  L2  0.5

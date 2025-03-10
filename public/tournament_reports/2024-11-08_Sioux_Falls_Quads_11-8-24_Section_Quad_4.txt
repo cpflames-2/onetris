@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Haines, Wakely         SXBGZ43D   917   936/ 80  W4  W2  L3  2.0
+  2 Kiessel, Katherine     SD9GZ13X   889   917/152  W3  L1  W4  2.0
+  3 Winter, Noah           SDCFZ88H   909   931/ 68  L2  W4  W1  2.0
+  4 Vehar, Jonah           SDBGZ96S   852   783/ 54  L1  L3  L2  0.0

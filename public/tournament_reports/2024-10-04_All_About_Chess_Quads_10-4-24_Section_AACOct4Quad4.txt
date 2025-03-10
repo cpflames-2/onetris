@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Jahani, Nikan          SNIGK89A   860   998/106  W3  W4  W2  3.0
+  2 Huang, Jaden           ENDDJ63S   843   855/112  D4  W3  L1  1.5
+  3 Bhasin, Palash         SNIGH95H   868   846/ 43  L1  L2  W4  1.0
+  4 Bolisetty, Varun       CBRDJ73Z   896   839/ 91  D2  L1  L3  0.5

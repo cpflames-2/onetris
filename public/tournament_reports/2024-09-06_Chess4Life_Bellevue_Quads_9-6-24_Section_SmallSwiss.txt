@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Goyal, Avyukt          CNHBJ65X   235   462/ 52  W2  W4  W3  3.0
+  2 Zhang, Eli             BCACH69C   243   290/ 21  L1  W6  W5  2.0
+  3 Kachachi, Alexander    OPWCK31U   100   182/ 11  W6  W5  L1  2.0
+  4 Sankar, Deethya        EBSBH63X   858   488/  6  L5  L1  W6  1.0
+  5 Chen, Yisu             RKWBH78H   182   176/ 11  W4  L3  L2  1.0
+  6 Revuru, Nimeesha       RCMFW81Y   156   100/ 19  L3  L2  L4  0.0

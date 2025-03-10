@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Burtram, Dayton        BLMJG77M  1289  1306/289  D4  W2  W3  2.5
+  2 Ge, Jeremy             SOMCJ88K  1148  1178/184  W3  L1  W4  2.0
+  3 Li, Harry              BCAFG30G  1159  1138/398  L2  W4  L1  1.0
+  4 Dharamshi, Anay        CBRDK42U  1085  1058/128  D1  L3  L2  0.5

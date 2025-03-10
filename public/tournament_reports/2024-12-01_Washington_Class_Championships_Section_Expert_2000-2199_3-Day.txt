@@ -1,0 +1,20 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 tot 
+  1 Han, Shuyi             TYEIK47W  1878  1906/352  W19 W18 D8  L2  W9  D3  4.0
+  2 Kuipers, Miles         TSTM6766  1894  1917/583  D14 W12 W10 W1  L3  D4  4.0
+  3 Toppen-ryan, Harrison  ADUNK815  1886  1908/261  L16 W19 W14 D4  W2  D1  4.0
+  4 Saddi, Neevan Reddy    GRRFH87M  1882  1909/275  D7  W13 D9  D3  W10 D2  4.0
+  5 Bartron, Paul R        ADUNI325  2026  2017/ 15  D9  D14 HPB D7  D6  W8  3.5
+  6 Patankar, Vijay        KMNKC78Y  1932  1939/300  HPB HPB D7  D12 D5  W16 3.5
+  7 Bimod, Karthik         SLLIW89E  1851  1880/128  D4  W15 D6  D5  D8  D9  3.5
+  8 Palathingal, Rafael    KKNF196R  1928  1920/181  D10 W16 D1  D9  D7  L5  3.0
+  9 Gupta, Saahil          JSUJT84E  1873  1882/110  D5  W17 D4  D8  L1  D7  3.0
+ 10 Razmov, Gabriel        LSSJC26K  1860  1866/370  D8  W11 L2  W16 L4  D12 3.0
+ 11 Xu, Owen               SOMF896M  1929  1915/201  HPB L10 D16 D13 D12 W17 3.0
+ 12 Verma, Darsh           WONIB52K  1851  1860/238  D17 L2  W15 D6  D11 D10 3.0
+ 13 Ramkumar, Nikhil       RBRH115E  1890  1874/277  D15 L4  D17 D11 D14 BYE 3.0
+ 14 Yondon, Odbayar        INGGK97T  1853  1851/267  D2  D5  L3  D17 D13 D15 2.5
+ 15 Razmov, Valentin       ADUNB02T  1893  1861/167  D13 L7  L12 BYE D17 D14 2.5
+ 16 Zhang, Michelle        MEDI889L  1818  1808/356  W3  L8  D11 L10 BYE L6  2.5
+ 17 Wang, Leonardo         CKNI233K  1877  1850/134  D12 L9  D13 D14 D15 L11 2.0
+ 18 Ackerman, Ryan         ADUNC514  1872  1858/265  BYE L1  U   U   U   U   1.0
+ 19 Boey, Chad             ADUN800V  1856  1829/ 60  L1  L3  U   U   U   U   0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Petluri, Anish         HSCBH48F   100   625/  3  W3  W4  W2  3.0
+  2 Chandana, Harsha       LMAEH48E   400   261/  3  D4  W3  L1  1.5
+  3 Yau, Ethan             SHSBH58F   100   125/  6  L1  L2  W4  1.0
+  4 Chanda, Rishabh        BCABH72X   100   100/  6  D2  L1  L3  0.5

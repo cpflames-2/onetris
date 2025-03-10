@@ -1,0 +1,20 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Malhotra, Sartaj       KNDGK69K   690   760/ 89  W17 W4  W8  W5  4.0
+  2 Ip, Egan               SOMCK41L   349   569/ 32  W19 W3  D9  W6  3.5
+  3 Nam, Alex              BLWEH75Q   551   558/ 82  W11 L2  W13 W8  3.0
+  4 Nayagam, Anantika      SSMFH62E   571   594/ 16  W18 L1  W14 W9  3.0
+  5 Wang, Ethan            SOMD346A   360   463/ 14  W15 D9  W7  L1  2.5
+  6 Paidapathi, Kiaan      SHSCJ99C   464   484/145  D7  W14 W10 L2  2.5
+  7 Seidman, Asher         BLWCH23Q   200   418/  4  D6  W17 L5  W11 2.5
+  8 Chang, Nathan          MMEDK42T   393   440/ 91  W13 W10 L1  L3  2.0
+  9 Malhotra, Dilraj       MAHCK02Y   656   603/ 77  W16 D5  D2  L4  2.0
+ 10 Sun, Nora              BTHNB551   656   574/ 14  W12 L8  L6  W15 2.0
+ 11 Gu, Ximu               ENDBJ05X   134   153/ 22  L3  BYE W16 L7  2.0
+ 12 Shin, Joshua           CRKCJ63R   211   200/ 96  L10 L13 BYE W17 2.0
+ 13 Wang, Ethan [2nd]      SOMCH23P   200   224/  4  L8  W12 L3  D18 1.5
+ 14 Dragan, Sara           BCSFH67B   100   102/  9  BYE L6  L4  D16 1.5
+ 15 Paranthaman, AadhiraiyaCBRCH23N   200   210/  4  L5  D18 W19 L10 1.5
+ 16 Ghosh, Oishani         BCABJ56E   175   153/ 35  L9  W19 L11 D14 1.5
+ 17 Dragan, Alexander      MCICH67A   218   185/ 14  L1  L7  W18 L12 1.0
+ 18 Zambrano, Ivanna       ISECH23L   200   100/  4  L4  D15 L17 D13 1.0
+ 19 Yuen, Reagan           ISECH23K   200   100/  3  L2  L16 L15 BYE 1.0

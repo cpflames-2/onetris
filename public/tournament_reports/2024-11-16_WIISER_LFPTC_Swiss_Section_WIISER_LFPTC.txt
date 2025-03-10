@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Moroney, Timothy       ADUN276J  2080  2072/ 73  W4  W2  D3  W8  W6  4.5
+  2 Sankrithi, Sarang      HSCFB11D  1604  1613/277  W5  L1  W6  W4  W8  4.0
+  3 Guity, Walter          ADUND92T  1591  1619/ 25  HPB HPB D1  W6  W4  3.5
+  4 Sankrithi, Vivaan      HSCBK61R  1151  1171/120  L1  W8  W5  L2  L3  2.0
+  5 Sembium, Aditi         BCAEK25W  1027  1057/315  L2  W6  L4  HPB HPB 2.0
+  6 Sankrithi, Siva        ADUNI948  1400  1349/ 70  W8  L5  L2  L3  L1  1.0
+  7 Moroney, Kestin        WHIHH43T   700   526/  1  U   U   L8  HPB HPB 1.0
+  8 Sundararajan, GirisudhaADUNH43S  1300   906/  5  L6  L4  W7  L1  L2  1.0

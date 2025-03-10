@@ -1,0 +1,33 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 tot 
+  1 Bangard, Dhruv         TBKCK65D   695   905/110  W25 W17 W8  W5  W2  W7  6.0
+  2 Liu, Kyle              CNHCK00Z   691   820/ 25  W29 W18 W13 W11 L1  W5  5.0
+  3 Liu, Louis             CNHCJ75J   592   690/ 50  W28 L13 W20 D4  W11 W6  4.5
+  4 Siva, Vikaat           DISBJ30L   443   742/ 71  W10 W15 L11 D3  W13 W12 4.5
+  5 Krogstad, Jaxon        NCSDJ88M   849   836/112  W22 W16 W7  L1  W12 L2  4.0
+  6 Zhang, Ryan            SHVBH60U   654   633/ 16  W23 L8  W19 W9  W21 L3  4.0
+  7 Parpuri, Aarav         FRVDH76T   510   653/ 27  W32 W14 L5  W10 W8  L1  4.0
+  8 Dixit, Ved             ENSDH63Q   458   543/ 14  W24 W6  L1  W16 L7  W21 4.0
+  9 Pande, Aryan           DCSB493M   439   530/ 22  L11 W21 W23 L6  W25 W14 4.0
+ 10 Brown, Charles         ILSDH45A   300   646/  6  L4  W26 W18 L7  W16 W17 4.0
+ 11 Zhang, Patrick         SSSCK01J   790   765/185  W9  D12 W4  L2  L3  W22 3.5
+ 12 Li, Ethan              THRBJ97M   650   674/ 77  W26 D11 W14 W13 L5  L4  3.5
+ 13 Xie, Brian             RCSCJ29X   743   669/ 11  W19 W3  L2  L12 L4  W23 3.0
+ 14 Sang, Andy             IMBCK65W   732   660/ 67  W20 L7  L12 W15 W19 L9  3.0
+ 15 Gupta, Akshay          HMNCF62T   676   597/ 86  WF  L4  D22 L14 W24 D18 3.0
+ 16 Huang, Ryan            CNHBJ56H   630   567/ 32  W27 L5  W25 L8  L10 W28 3.0
+ 17 Savaram, Arjun         CHKCH64R   478   442/ 19  W30 L1  W29 L21 W20 L10 3.0
+ 18 Ding, Aiden            EVGCJ67C   460   462/ 31  W31 L2  L10 W22 D23 D15 3.0
+ 19 Sankar, Laya           EBSCK11E   417   422/ 30  L13 W28 L6  W29 L14 W25 3.0
+ 20 Ip, Egan               SOMCK41L   337   337/ 24  L14 W32 L3  W30 L17 W27 3.0
+ 21 Pan, Jingyi            SSMCH76N   162   258/ 14  WF  L9  W26 W17 L6  L8  3.0
+ 22 Ranjith, Janani        SHVCK65E   431   422/115  L5  W27 D15 L18 W29 L11 2.5
+ 23 Han, Felix             MEDBJ41U   145   250/ 15  L6  W24 L9  W32 D18 L13 2.5
+ 24 Senapati, Swayam       SWLDH44Z   300   233/  6  L8  L23 D32 W26 L15 W29 2.5
+ 25 Devavarapu, Ananya SresCMCDH54Z   293   289/ 16  L1  W30 L16 W28 L9  L19 2.0
+ 26 Gangineni, Sarvesh     MMEBH62Q   141   143/ 17  L12 L10 L21 L24 W31 W30 2.0
+ 27 Manikandan, Abhinav    DHLDH78P   100   122/  9  L16 L22 L30 W31 W32 L20 2.0
+ 28 Rorem, Kyle            BKYBH44X   100   217/  6  L3  L19 W31 L25 W30 L16 2.0
+ 29 Li, Jeremy             IMBCJ87A   274   206/ 20  L2  W31 L17 L19 L22 L24 1.0
+ 30 Ye, Matthew            XXXDH44W   300   100/  6  L17 L25 W27 L20 L28 L26 1.0
+ 31 Vasupalli, Sai Vedansh CHKCH44V   200   100/  6  L18 L29 L28 L27 L26 W32 1.0
+ 32 Khan, Naura            CNHBH44U   100   100/  6  L7  L20 D24 L23 L27 L31 0.5

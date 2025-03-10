@@ -1,0 +1,14 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Kvakhadze, Daniel      CTXGZ71K   600  1233/  4  W8  W10 W2  W4  4.0
+  2 Dirks, Owen Ueda       NYXKZ71J  1000   896/  4  W5  W9  L1  W7  3.0
+  3 Ilichev, Timur         CTXEZ71H   400   613/  4  L11 D5  W10 W9  2.5
+  4 Chung, Daniel Thom     NYXFZ71G   500   793/  4  W12 D11 W6  L1  2.5
+  5 Walker, Brendan        CTXGZ74N   552   604/ 12  L2  D3  W12 W11 2.5
+  6 Dutta, Ishaan          CTXDX08E   789   725/104  L9  W13 L4  W12 2.0
+  7 Beck, Grayson William  CTXJZ735   229   340/  8  L10 W8  W11 L2  2.0
+  8 Saundh, Riday Sing     CTXFZ71F   500   230/  3  L1  L7  BYE W13 2.0
+  9 Chung, Stephan         NYXEZ71E   400   586/  4  W6  L2  W13 L3  2.0
+ 10 Mathivanan, Rayan      CTXEX08F   453   457/103  W7  L1  L3  BYE 2.0
+ 11 Lysenko, David         CTXEX13E   487   487/112  W3  D4  L7  L5  1.5
+ 12 Lysenko, Maxim         CTXCX13F   519   465/110  L4  BYE L5  L6  1.0
+ 13 Lama, Siddhartha       CTXCZ71D   200   100/  3  BYE L6  L9  L8  1.0

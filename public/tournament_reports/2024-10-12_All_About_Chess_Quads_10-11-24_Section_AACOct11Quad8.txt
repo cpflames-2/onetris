@@ -1,0 +1,8 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Mirchandani, Kiaan     MEDEK92Z   312   463/ 53  W5  W3  W6  3.0
+  2 Mirchandani, Kavir     MEDCJ97A   228   449/ 42  W4  W6  W5  3.0
+  3 Ram, Yaalini           SNECH87H   212   249/ 13  BYE L1  W7  2.0
+  4 Vatsan, Maitri         SSMCK00S   342   313/101  L2  D7  BYE 1.5
+  5 Shin, Joshua           CRKCJ63R   332   286/ 87  L1  BYE L2  1.0
+  6 Chang, Nathan          MMEDK42T   306   303/ 64  W7  L2  L1  1.0
+  7 Paidapathi, Kiaan      SHSCJ99C   399   292/126  L6  D4  L3  0.5

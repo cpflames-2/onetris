@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Peterson, Caden        BHMLJ85V   722   868/ 32  W4  W2  W3  3.0
+  2 Nyland, Taylor         BLHM124B   715   737/ 19  W8  L1  W6  2.0
+  3 Morse, Andrew          SQUL620B   676   686/ 11  D6  W7  L1  1.5
+  4 Phillips, Lucas        BLHM696K   675   674/ 40  L1  D8  W7  1.5
+  5 Jackson, Faye          SQUJH49G   642   622/  6  D7  L6  W8  1.5
+  6 Peper, James           BLHMB93F   632   647/ 35  D3  W5  L2  1.5
+  7 Fransico-woodenlegs, JoMRDM680H   699   628/ 55  D5  L3  L4  0.5
+  8 Branco, Phillip        SHMJH49C   653   537/  6  L2  D4  L5  0.5

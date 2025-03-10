@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ackerman, Ryan         ADUNC514  1930  1905/244  W4  W3  L2  2.0
+  2 Rao, Deepak Sri KartikeBPSI517J  1439  1457/152  L3  W4  W1  2.0
+  3 Dale, Luke             MTSLJ10P  1314  1312/117  W2  L1  L4  1.0
+  4 Zhang, Kevin           WOBG809Y  1134  1166/130  L1  L2  W3  1.0

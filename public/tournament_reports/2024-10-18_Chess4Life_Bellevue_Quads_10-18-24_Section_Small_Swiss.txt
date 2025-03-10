@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Gorbatenko, Leon       CRKFH58G   612   671/  6  W4  W3  W2  3.0
+  2 Yen, Lucas             ETSBH56P   100   341/  3  D3  W5  L1  1.5
+  3 Lakshmanan, Vian       RBRBH56N   100   271/  2  D2  L1  BYE 1.5
+  4 Kachachi, Nicholas     OPWAH63K   100   100/  5  L1  BYE D5  1.5
+  5 Li, Avery              BUSDH56M   300   100/  2  LF  L2  D4  0.5

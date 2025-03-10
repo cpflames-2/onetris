@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Anthony, Kellan        CKNGH14W   600   805/  3  W3  W2  W5  3.0
+  2 Balaji, Pranav         INGHJ96J   381   408/ 23  W4  L1  W6  2.0
+  3 Chang, Nathan          MMEDK42T   347   385/100  L1  W6  W4  2.0
+  4 Nandakiran, Advaith    SSMCJ88H   231   237/105  L2  W5  L3  1.0
+  5 Sanchez, Kaylee        FRIGK08P   379   335/ 27  W6  L4  L1  1.0
+  6 Balaji, Vaibhav        SSMCH28Z   100   100/ 13  L5  L3  L2  0.0

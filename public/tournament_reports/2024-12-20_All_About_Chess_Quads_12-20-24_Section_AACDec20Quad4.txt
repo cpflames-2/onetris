@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bysani, Aakash         SSMCK01D   897   963/218  D2  W3  W4  2.5
+  2 Mangla, Atharv         GRREK07C   845   940/137  D1  W4  W3  2.5
+  3 Zhang, Patrick         SSSCK01J   859   838/204  W4  L1  L2  1.0
+  4 Sathyamurthy, Sreeshan EVJIJ24M   859   784/131  L3  L2  L1  0.0

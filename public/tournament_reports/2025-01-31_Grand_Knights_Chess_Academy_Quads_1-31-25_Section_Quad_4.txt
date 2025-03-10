@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Lichtbach, Bryce       PKRFG92F   500  1095/  3  W6  W5  W2  3.0
+  2 Goyal, Avyukt          CNHBJ65X   671   716/108  W5  W3  L1  2.0
+  3 Leon, Vikram           EBSCH74X   798   768/ 40  W4  L2  W6  2.0
+  4 Abuhuwaij, Adam        TBKCG92E   200   455/  3  L3  W6  W5  2.0
+  5 Wild, Edward           WMNAG92D   100   100/  3  L2  L1  L4  0.0
+  6 Dietrich, Luka         OPWAJ27L   100   100/ 30  L1  L4  L3  0.0

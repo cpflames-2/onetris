@@ -1,0 +1,18 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Maralappanavar, Omkar  CTXNX02W  1846  1856/108  W14 W9  D4  W7  3.5
+  2 Bhargava, Vedanta      CTXMX11A  1726  1728/104  W11 D12 D7  W8  3.0
+  3 Wohlhieter, Ian        CTXNX03E  1597  1619/108  W15 L7  W14 W9  3.0
+  4 Wu, Cody               CTXFX11H  1631  1720/104  W5  W13 D1  D6  3.0
+  5 Maheshkumar, KhrishanthCTXLX11D  1430  1517/103  L4  BYE W16 W12 3.0
+  6 Gueler, Sebastian      MAXNX11C  1997  1975/104  L9  W16 W12 D4  2.5
+  7 Herve-mignucci, CallistHSCIJ95N  1437  1551/ 10  W8  W3  D2  L1  2.5
+  8 Festa, Luca            CTXGX00T  1644  1635/111  L7  W17 W11 L2  2.0
+  9 Berkun, Joshua Neil    CTXNX10Z  1641  1667/104  W6  L1  W13 L3  2.0
+ 10 Vellanki, Devansh      MAXCX11G  1515  1529/104  L13 L11 W17 W14 2.0
+ 11 Smith, Elizabeth C     CTXNX01C  1501  1501/109  L2  W10 L8  WF  2.0
+ 12 Tae, Kevin             CTXNX01G  1510  1499/111  BYE D2  L6  L5  1.5
+ 13 Kelliher, Owen         MAXNX02T  1790  1755/106  W10 L4  L9  LF  1.0
+ 14 Fusco, David Michael   CTXNX11B  1503  1481/104  L1  W15 L3  L10 1.0
+ 15 Wang, Max              CTXIX01F  1432  1401/110  L3  L14 BYE U   1.0
+ 16 Pagan, Ismael D        CTXNX11E  1875  1829/103  D17 L6  L5  U   0.5
+ 17 Saravanan, Anish       MAXIX11F  1646  1612/103  D16 L8  L10 U   0.5

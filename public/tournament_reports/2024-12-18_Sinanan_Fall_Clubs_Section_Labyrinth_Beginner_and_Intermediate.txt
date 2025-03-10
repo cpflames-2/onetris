@@ -1,0 +1,22 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Ross, Morgan           LABCH20Y   200   908/  4  W5  W16 U   W4  W2  4.0
+  2 Geitz, Thacker         LABDH20X   300   544/  5  W19 W12 W10 D3  L1  3.5
+  3 Harada, Nicky          LABBH20W   100   589/  4  W15 W10 W6  D2  U   3.5
+  4 Robinaugh, Henry       LABCH20V   200   385/  5  L6  W15 W7  L1  W11 3.0
+  5 Chavez Lastiri, ElliottLABDH20S   300   563/  4  L1  W8  W11 W6  U   3.0
+  6 Lu, Isabelle           LABCH20R   200   345/  5  W4  W11 L3  L5  D7  2.5
+  7 Church, Lachlan        LABDH20Q   300   217/  5  L11 W18 L4  W10 D6  2.5
+  8 Koogler, Felix         LABCH20P   200   236/  5  L10 L5  W14 D12 W15 2.5
+  9 Harris-houghton, Jax   LABEH20N   400   430/  3  D12 W19 U   W15 U   2.5
+ 10 Phillippe, Esme        LABCH20M   200   226/  5  W8  L3  L2  L7  W16 2.0
+ 11 Sheil, Leela           LABCH20L   200   213/  5  W7  L6  L5  W16 L4  2.0
+ 12 Sheil, Logan           LABAH20K   100   307/  4  D9  L2  U   D8  W19 2.0
+ 13 Gaggioli, Alex         LABAH20J   100   240/  3  L16 U   U   W19 W17 2.0
+ 14 Burian, Alex           LABEH20H   400   100/  2  D17 U   L8  U   BYE 1.5
+ 15 Keniston, Wyatt        LABBH20G   100   100/  5  L3  L4  W18 L9  L8  1.0
+ 16 Bleisch, Veronica      LABEH20F   400   100/  4  W13 L1  U   L11 L10 1.0
+ 17 Gaggioli, Ava          LABBH20E   100   100/  3  D14 U   U   D18 L13 1.0
+ 18 Karthik, Navya         LABCH20D   200   100/  3  U   L7  L15 D17 U   0.5
+ 19 Bleisch, Joseph        LABFH20B   500   100/  4  L2  L9  U   L13 L12 0.0
+
+ All Unrated-player Section: Ratings capped at 1000

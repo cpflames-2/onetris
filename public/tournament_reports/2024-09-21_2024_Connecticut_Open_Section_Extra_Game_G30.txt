@@ -1,0 +1,3 @@
+pos last name first       id numb   start end/#gms  rd1 tot 
+  1 Freeman, Matthew HerberRIXNX13R  1867  1870/101  W2  1.0
+  2 Smith, Elizabeth C     CTXNX01C  1501  1497/110  L1  0.0

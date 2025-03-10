@@ -1,0 +1,54 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 tot 
+  1 Nam, Jinmo             GRRKC101  1569  1664/211  W27 W22 D14 W4  W16 W7  5.5
+  2 Chan, Aiden            ISSJ917M  1403  1600/145  W25 W47 W8  L3  W15 W9  5.0
+  3 Adair, Derek           ADUN7556  1599  1635/ 12  W19 D4  W21 W2  D9  D8  4.5
+  4 Krishnan, Advait       REJJ570Q  1470  1578/164  W30 D3  W5  L1  W22 W18 4.5
+  5 Manzon Jr, Pablo       ADUNB245  1500  1560/ 28  W38 D17 L4  W40 W29 W16 4.5
+  6 Subramanian, Thrinay   SPTJ466R  1544  1572/146  D43 L9  W36 W35 W14 W20 4.5
+  7 Yates, Daniel          ADUNE71Y  1389  1556/ 40  W39 D15 W13 W34 W17 L1  4.5
+  8 Polonsky, Daniel       LIHL946P  1527  1557/ 97  W45 W20 L2  BYE W11 D3  4.5
+  9 Venkatachalam, Kedar   TSTL947E  1554  1590/ 51  HPB W6  W24 W14 D3  L2  4.0
+ 10 Siddem, Sid            LWALC34V  1476  1505/521  W50 D13 D17 W33 D20 D12 4.0
+ 11 Raj, Skandha           EVGCK55U  1186  1407/152  W36 L34 W51 W39 L8  W25 4.0
+ 12 Lebedinsky, Alexander  EVJI958F  1455  1475/295  WF  W49 L16 HPB W34 D10 4.0
+ 13 Li, Shawn              SOMDJ11N  1547  1548/ 57  W44 D10 L7  D21 D19 W35 3.5
+ 14 Marinescu, Andra       ADUN412W  1420  1451/ 54  WF  W29 D1  L9  L6  W42 3.5
+ 15 Kumar, Ramesh          ADUNF17C  1581  1578/ 25  D31 D7  HPB W44 L2  W39 3.5
+ 16 Shuman, Steve          ADUNF29Y  1408  1477/ 30  W18 W26 W12 HPB L1  L5  3.5
+ 17 Skkandann, Kiann       NPRN644M  1585  1575/ 56  W52 D5  D10 W43 L7  D21 3.5
+ 18 Goupinets, Andrew      ADUNJ69S  1473  1485/ 55  L16 W28 W49 W37 HPB L4  3.5
+ 19 Gupta, Krishang        GTMHE37V  1470  1479/ 78  L3  W53 L46 W49 D13 W34 3.5
+ 20 Babbar, Riaan          ENDEJ98D  1468  1469/113  BYE L8  W47 W46 D10 L6  3.5
+ 21 Ganesan, Vidur         RBRF940K  1525  1525/286  D33 WF  L3  D13 W30 D17 3.5
+ 22 Yim, Dylan             REDKH46W  1484  1511/ 10  W41 L1  HPB W38 L4  W37 3.5
+ 23 Mohan, Vishnu          KKNGF41R  1571  1551/166  HPB LF  L41 W48 W46 D24 3.0
+ 24 Evin, Terrick          EBSDC54L  1470  1472/226  W32 D40 L9  L29 W45 D23 3.0
+ 25 Liu, Vincent           MBMG546Q  1521  1496/231  L2  W48 D44 D30 W43 L11 3.0
+ 26 Dhawan, Viraj          OVLII96U  1501  1485/114  W28 L16 L37 HPB W40 D27 3.0
+ 27 Wong, Kate             LMSG459M  1456  1454/204  L1  L30 D48 W52 W47 D26 3.0
+ 28 Carper, Jack           PULLG86W  1423  1401/180  L26 L18 L42 BYE W49 W46 3.0
+ 29 Stroud, Jeb            SHMJK22V  1513  1490/182  W53 L14 D38 W24 L5  D31 3.0
+ 30 Chaudhuri, Arihant     CHAF703E  1349  1397/282  L4  W27 D35 D25 L21 W43 3.0
+ 31 Ma, Lewis              SOMD587M  1468  1453/204  D15 D46 L33 D41 W38 D29 3.0
+ 32 Ghosh, Snehil          CBRF738T  1407  1395/203  L24 W42 L43 WF  D39 D36 3.0
+ 33 Lindgren, Dustin       ADINY968  1300  1481/  4  D21 D35 W31 L10 HPB HPB 3.0
+ 34 Hendricks, David       ADUNB791  1529  1494/132  D37 W11 W40 L7  L12 L19 2.5
+ 35 He, Oliver             ENDEK71V  1480  1454/389  D46 D33 D30 L6  W44 L13 2.5
+ 36 Yadlapati, Arush       TSTKA47S  1448  1428/216  L11 D51 L6  HPB W41 D32 2.5
+ 37 Gao, Ziqian            BLWFK10U  1428  1420/ 61  D34 D43 W26 L18 D42 L22 2.5
+ 38 Vijeyanandh, Vishnu    TMBJF63Z  1319  1342/204  L5  W52 D29 L22 L31 W48 2.5
+ 39 Li, Edgar              SOME883Y  1481  1445/239  L7  W45 W50 L11 D32 L15 2.5
+ 40 Kwan-uchiyama, Avery   OMSGH22T  1443  1439/122  W51 D24 L34 L5  L26 W47 2.5
+ 41 Yang, Jimmy            BASFG45S  1314  1315/228  L22 L44 W23 D31 L36 BYE 2.5
+ 42 Huang, Emily           OMSIB39A  1482  1431/344  L49 L32 W28 W50 D37 L14 2.5
+ 43 Rao, Atharv            TYEGB90T  1431  1407/115  D6  D37 W32 L17 L25 L30 2.0
+ 44 Kokati, Pranav         INTJ814P  1445  1413/298  L13 W41 D25 L15 L35 D45 2.0
+ 45 Foltenyi, Vilmos       ADUNK09V  1410  1385/ 42  L8  L39 W52 D47 L24 D44 2.0
+ 46 Wu, Shanna             CNHEJ72M  1264  1287/ 36  D35 D31 W19 L20 L23 L28 2.0
+ 47 Rao, Deepak Sri KartikeBPSI517J  1527  1455/185  W48 L2  L20 D45 L27 L40 1.5
+ 48 Avula, Guru Harshith ReBRHF633Y  1428  1359/166  L47 L25 D27 L23 BYE L38 1.5
+ 49 Hard, Adam             ADUNH79Y  1418  1370/ 37  W42 L12 L18 L19 L28 U   1.0
+ 50 Black, Justin          ADONW79G  1300  1030/  3  L10 BYE L39 L42 U   U   1.0
+ 51 Shinkarev, Slava       KAMKJ77F  1577  1515/ 36  L40 D36 L11 LF  U   U   0.5
+ 52 Foltenyi, Alex         LWANK09J  1468  1383/ 30  L17 L38 L45 L27 U   U   0.0
+ 53 Boddy, Kyle            ADUNH98N  1358  1327/ 31  L29 L19 U   U   U   U   0.0

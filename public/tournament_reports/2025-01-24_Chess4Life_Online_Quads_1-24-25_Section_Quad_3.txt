@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chen, Julian           CNHCK32C  1068  1156/105  W2  W4  W3  3.0
+  2 Garg, Vihaan           CMCEJ10X   986  1025/257  L1  W3  W4  2.0
+  3 Sreraman, Rohit        BCAEG92Q  1042  1011/299  W4  L2  L1  1.0
+  4 Thangakumar, Pranav    EVJGJ49C   932   877/ 74  L3  L1  L2  0.0

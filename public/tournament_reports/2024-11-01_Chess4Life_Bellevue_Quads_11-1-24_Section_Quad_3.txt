@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chen, Albert           LKWD728A   693   879/ 22  W4  W2  W3  3.0
+  2 Kuluru, Samith         LEOII99K   780   752/294  W3  L1  L4  1.0
+  3 Gui, Joyce             OPWCH92C   714   706/ 46  L2  W4  L1  1.0
+  4 Anbuselvam, Mithran    HEAGH61F   837   793/ 44  L1  L3  W2  1.0

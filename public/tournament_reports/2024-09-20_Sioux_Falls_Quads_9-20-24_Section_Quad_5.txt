@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Winter, Noah           SDCFZ88H   748   891/ 59  W4  W2  W3  3.0
+  2 Davis, Lincoln         SDSEZ99N   693   764/ 73  W3  L1  W4  2.0
+  3 Buysse, Penn           SDAEZ334   789   755/ 39  L2  W4  L1  1.0
+  4 Elmamouni, Adi         SDSGX58V   746   668/180  L1  L3  L2  0.0

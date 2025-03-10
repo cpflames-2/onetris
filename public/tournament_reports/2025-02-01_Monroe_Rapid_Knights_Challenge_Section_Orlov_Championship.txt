@@ -1,0 +1,14 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Wilber, Matthew        ADUNH64P  2204  2217/ 11  W10 W7  W5  W3  L2  4.0
+  2 Kona, Vidip            TIMGI26J  2176  2181/376  W8  WF  L3  W6  W1  4.0
+  3 Zhang, Derek           ADUNF710  2295  2299/299  HPB W12 W2  L1  W5  3.5
+  4 Schmidt-warnecke, Max  LSSM6188  1367  1408/202  D12 L9  W8  W10 W13 3.5
+  5 Porter, Ryan W         ADUNF05C  2272  2259/ 54  W9  W6  L1  W7  L3  3.0
+  6 Shi, Gavin             LCOKH855  1608  1621/447  W11 L5  W10 L2  W9  3.0
+  7 Guity, Walter          ADUND92T  1619  1627/ 30  W13 L1  W9  L5  W11 3.0
+  8 Kolenski, Drew         LSSMI420  1326  1330/190  L2  W11 L4  W13 W10 3.0
+  9 Kozyra, Adam           ADUNK60Q  1471  1464/ 15  L5  W4  L7  W11 L6  2.0
+ 10 Victor, Paul           ADUNH58Y  1309  1257/ 15  L1  W13 L6  L4  L8  1.0
+ 11 Bhindi, Viyaan         MOBGG97F   600   928/  5  L6  L8  W13 L9  L7  1.0
+ 12 Karthikeyan, HarishkumaREDJJ81A  2043  2027/243  D4  L3  U   U   U   0.5
+ 13 Perumalsamy, Mithran   CHKBG97E   100   526/  5  L7  L10 L11 L8  L4  0.0

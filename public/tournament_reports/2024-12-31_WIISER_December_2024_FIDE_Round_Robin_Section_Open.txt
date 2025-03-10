@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Yondon, Odbayar        INGGK97T  1851  1859/270  W2  W4  W3  3.0
+  2 Sankrithi, Sarang      HSCFB11D  1618  1618/289  L1  W3  W4  2.0
+  3 Sankrithi, Siva        ADUNI948  1290  1277/ 82  D4  L2  L1  0.5
+  4 Sankrithi, Vivaan      HSCBK61R  1212  1211/126  D3  L1  L2  0.5

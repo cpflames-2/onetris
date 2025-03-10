@@ -1,0 +1,8 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Paw Myint, John Sein   CWHKJ81W   875   871/ 29  L2  W4  W7  W3  3.0
+  2 Mosqueda, Luke         LIBEH90L   685   695/ 19  W1  L5  W6  BYE 3.0
+  3 Hemperly, Harper       HSCFI09E   639   667/ 81  D4  W7  W5  L1  2.5
+  4 Wang, Evan             TRHEJ78X   849   815/ 44  D3  L1  BYE W5  2.5
+  5 Johnson, Eli           KCCIJ24B   414   510/  9  W6  W2  L3  L4  2.0
+  6 Magdangal, Alexine     CTKEJ00W   369   365/ 21  L5  BYE L2  W7  2.0
+  7 Webb, Bode             KCCBJ77Y   329   284/ 43  BYE L3  L1  L6  1.0

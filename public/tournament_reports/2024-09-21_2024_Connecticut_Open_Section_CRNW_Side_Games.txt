@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 tot 
+  1 Huang, Allen           PAXNZ74U  1000  2176/  5  U   W3  1.0
+  2 Lysenko, David         CTXEX13E   406   418/104  W4  U   1.0
+  3 Dey, Ranjan            MAXMX10E  1809  1806/104  U   L1  0.0
+  4 Lesser, Sasha Peter    CTXEZ74Q   600   100/  4  L2  U   0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Thanikonda, Kruti      CMCEK84W  1167  1285/154  W3  W4  W2  3.0
+  2 Ye, Alex               ENDFH51L  1238  1203/163  L4  W3  L1  1.0
+  3 Ge, Jeremy             SOMCJ88K  1167  1150/218  L1  L2  W4  1.0
+  4 Li, Harry              BCAFG30G  1134  1125/419  W2  L1  L3  1.0

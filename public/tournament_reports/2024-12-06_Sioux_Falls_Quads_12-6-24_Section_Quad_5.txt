@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Mcfayden, Skylar       SDBHZ75Q   255   285/ 21  W3  W4  L2  2.0
+  2 Small Bear, Jonathan   JHAGZ766   266   291/ 22  W4  L3  W1  2.0
+  3 Winner, Mason          SDAEZ73Z   244   309/  5  L1  W2  W4  2.0
+  4 Johnson, Leo           SXKBZ74E   100   100/ 11  L2  L1  L3  0.0

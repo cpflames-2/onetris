@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Nidamarthi, Nikhil     BLWF375J  1079  1153/239  W3  W4  D2  2.5
+  2 Dharamshi, Anay        CBRDK42U  1082  1085/125  L4  W3  D1  1.5
+  3 Mahale, Avneesh        CNHC993F  1100  1074/166  L1  L2  W4  1.0
+  4 Chou, Eugene           SSMEJ56Y  1083  1061/ 84  W2  L1  L3  1.0

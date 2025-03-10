@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Menezes, Ronit         CLHFK44M   800   806/ 63  W4  D3  D2  2.0
+  2 Chen, Eason            SOMBJ59F   767   783/ 57  D3  W4  D1  2.0
+  3 Bysani, Aakash         SSMCK01D   711   717/168  D2  D1  D4  1.5
+  4 Abhilash, Lavina       CRIFK07R   635   606/119  L1  L2  D3  0.5

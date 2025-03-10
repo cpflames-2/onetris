@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 rd7 rd8 rd9 tot 
+  1 Raja, Rian             SKWH786E  1586  1623/212  L3  W2  W10 W9  D8  W7  L5  W6  W4  6.5
+  2 Wu, Shanna             CNHEJ72M  1387  1561/ 59  L4  L1  W9  W7  W6  W3  W10 D8  D5  6.0
+  3 Syal, Yash             PFCGC10R  1602  1605/220  W1  W10 D8  D5  L4  L2  W9  W7  D6  5.5
+  4 Pan, Peng-ruei         SSMF759R  1509  1536/237  W2  D9  W7  L6  W3  L10 D8  W5  L1  5.0
+  5 Das, Sambuddha Sekhar  ENDEK47S  1442  1510/197  L9  W7  L6  D3  W10 W8  W1  L4  D2  5.0
+  6 Li, Shawn              SOMDJ11N  1568  1541/ 80  W10 D8  W5  W4  L2  L9  L7  L1  D3  4.0
+  7 Sankrithi, Sarang      HSCGB11D  1617  1558/303  W8  L5  L4  L2  D9  L1  W6  L3  W10 3.5
+  8 Ma, Lewis              SOMD587M  1501  1486/217  L7  D6  D3  L10 D1  L5  D4  D2  W9  3.5
+  9 Pai, Vihaan            CHAFK17C  1456  1444/291  W5  D4  L2  L1  D7  W6  L3  L10 L8  3.0
+ 10 Maharaja, Imai         HMNEK34K  1600  1533/275  L6  L3  L1  W8  L5  W4  L2  W9  L7  3.0

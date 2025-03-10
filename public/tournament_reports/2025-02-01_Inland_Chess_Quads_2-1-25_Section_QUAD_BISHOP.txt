@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Keener, Karl           HLHJY40G  1265  1294/168  W2  W3  W4  3.0
+  2 Mcintyre, John B       HSCGJ63F  1190  1188/ 68  L1  W4  W3  2.0
+  3 Hsu, Max               LBYEK05W   716   777/ 44  W4  L1  L2  1.0
+  4 Bingo, Julian Ray      LBYGK50N  1038   968/ 38  L3  L2  L1  0.0

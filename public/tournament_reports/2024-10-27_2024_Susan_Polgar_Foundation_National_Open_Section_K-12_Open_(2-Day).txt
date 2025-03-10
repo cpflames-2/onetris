@@ -1,0 +1,84 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Willy, Stephen         HSCJH17K  2263  2287/589  W51 W48 W21 W10 W3  5.0
+  2 Wang, Ted              STTFK13D  2161  2169/304  W73 D17 W18 W13 W5  4.5
+  3 Vijayakumar, Advaith   NRCM6655  2213  2211/313  W45 W25 W22 W7  L1  4.0
+  4 Xu, Gordon Zhenyu      CAXJZ74A  2169  2155/  5  W35 W9  L7  W27 W14 4.0
+  5 Min, Ryan              INTK5430  2142  2140/426  W74 W40 W24 W8  L2  4.0
+  6 Razmov, Gabriel        LSSJC26K  1836  1852/354  W57 W44 L10 W35 W30 4.0
+  7 Summerfield, William   MCRJG77R  1826  1862/168  W58 W50 W4  L3  W34 4.0
+  8 Verma, Darsh           WONIB52K  1831  1860/229  W59 W81 W66 L5  W36 4.0
+  9 Yin, Aiden             BCXFZ75U  1719  1799/ 11  W63 L4  W54 W20 W23 4.0
+ 10 Peng, Alan B           CAXLZ746  2042  2046/  4  W36 W26 W6  L1  HPB 3.5
+ 11 Palathingal, Rafael    KKNF196R  1948  1933/170  D38 W28 W33 L14 W37 3.5
+ 12 Wong-godfrey, Emerson  BUSLH83E  1915  1909/527  W46 D49 W19 D16 D17 3.5
+ 13 Roesch, Carson         BLHM120K  1922  1921/290  W53 D33 W29 L2  W40 3.5
+ 14 Nobles, Will           LCNLM063  1891  1902/178  W54 D30 W49 W11 L4  3.5
+ 15 Ramkumar, Nikhil       SKIH115E  1850  1848/268  W55 D43 HPB W31 D16 3.5
+ 16 Yondon, Odbayar        INGGK97T  1803  1831/256  W60 D66 W43 D12 D15 3.5
+ 17 Eksarevskly, Albert    LSSK530Y  1817  1846/133  W61 D2  D20 W51 D12 3.5
+ 18 Zhou, Yuchen           CHRFJ42H  1745  1743/599  D70 W71 L2  W57 W43 3.5
+ 19 Yin, Andrew            BCXFZ75T  1714  1714/ 11  D71 W70 L12 W41 W44 3.5
+ 20 Jammalamadaka, Vihaan  WPPHJ90F  2045  2016/387  W52 D29 D17 L9  W51 3.0
+ 21 Gupta, Saahil          JSUJT84E  1880  1873/104  W82 W41 L1  D40 D29 3.0
+ 22 Wang, Leonardo         CKNI233K  1888  1873/123  W75 W32 L3  L30 W52 3.0
+ 23 Garine, Ujwal          TSTLB99A  1827  1808/250  W56 D42 D30 W32 L9  3.0
+ 24 Bharathy Mohan, Aarav  SKIGC98B  1804  1783/382  W67 W78 L5  D44 D33 3.0
+ 25 Nallappa, Vijay        REJJD40S  1759  1746/418  W62 L3  W52 L36 W54 3.0
+ 26 Pikh, Akim             BLWFH64N  1756  1743/ 11  W68 L10 W38 L37 W55 3.0
+ 27 Mishra, Abhinav        REDJB02W  1752  1738/149  D69 D38 W46 L4  W56 3.0
+ 28 Merriman, Dann         WMNFF79Y  1721  1719/615  HPB L11 HPB W71 W58 3.0
+ 29 Saddi, Neevan Reddy    GRRFH87M  1773  1787/264  W64 D20 L13 W42 D21 3.0
+ 30 Rubaiyat, Rhadean      REDJD40L  1688  1719/192  W65 D14 D23 W22 L6  3.0
+ 31 Cen, Evan              INTJI97D  1640  1623/219  L78 W69 W56 L15 W63 3.0
+ 32 Anandkumar, Haituka    LWAK238P  1622  1627/407  W47 L22 W55 L23 W57 3.0
+ 33 Iyengar, Varun         WLVHT24A  1262  1423/140  W34 D13 L11 W69 D24 3.0
+ 34 Shi, Gavin             LCOKH855  1571  1582/422  L33 W59 W68 W48 L7  3.0
+ 35 Maharaja, Imai         HMNEK34K  1567  1588/238  L4  W58 W63 L6  W64 3.0
+ 36 Mohan, Vishnu          AAPGF41R  1562  1598/158  L10 W60 W77 W25 L8  3.0
+ 37 Li, Shawn              SOMDJ11N  1542  1574/ 46  L66 W61 W80 W26 L11 3.0
+ 38 Shinkarev, Slava       KAMKJ77F  1484  1577/ 33  D11 D27 L26 W62 W48 3.0
+ 39 Li, Edgar              SOME883Y  1342  1460/228  L48 W45 D41 HPB W50 3.0
+ 40 Gadde, Arnav           GTMGJ39D  1710  1713/197  W77 L5  W75 D21 L13 2.5
+ 41 Raja, Rian             SKWH786E  1609  1590/170  W72 L21 D39 L19 W69 2.5
+ 42 Yao, Lucas             BCXFZ75S  1589  1580/ 11  W79 D23 L48 L29 W68 2.5
+ 43 Sankrithi, Sarang      HSCFB11D  1589  1604/272  W80 D15 L16 W49 L18 2.5
+ 44 Shankaranand, Deeksha  EBSGI74Y  1573  1573/300  W83 L6  W62 D24 L19 2.5
+ 45 Saloranta, Leo         MCRLB40A  1538  1514/185  L3  L39 D60 W81 W71 2.5
+ 46 Kokati, Pranav         INTJ814P  1443  1445/292  L12 W64 L27 D68 W72 2.5
+ 47 Nerella, Abhiram       INTJI18R  1298  1320/ 38  L32 L75 D67 W70 W74 2.5
+ 48 Bimod, Karthik         SLLIW89E  1803  1766/118  W39 L1  W42 L34 L38 2.0
+ 49 Ayalew, Brook          DCCJJ71Q  1692  1661/ 25  BYE D12 L14 L43 D60 2.0
+ 50 Chen, Andy             SOMEK05J  1587  1540/ 78  W76 L7  L57 W59 L39 2.0
+ 51 Rao, Deepak Sri KartikeBPSI517J  1543  1547/160  L1  W67 W78 L17 L20 2.0
+ 52 Evin, Terrick          EBSDC54L  1469  1470/220  L20 W76 L25 W61 L22 2.0
+ 53 Tie, Mike              BLMG856Y  1442  1398/163  L13 L63 L64 W83 W76 2.0
+ 54 Nawagamudewage, NaadithMELFJ11W  1436  1442/ 25  L14 W65 L9  W77 L25 2.0
+ 55 Ghosh, Snehil          CBRF738T  1407  1407/198  L15 W72 L32 W78 L26 2.0
+ 56 Ganesan, Vidur         RBRF940K  1468  1449/266  L23 W79 L31 W80 L27 2.0
+ 57 Gao, Ziqian            BLWFK10U  1387  1401/ 45  L6  W83 W50 L18 L32 2.0
+ 58 Avula, Guru Harshith ReBRHF633Y  1351  1355/156  L7  L35 W65 W79 L28 2.0
+ 59 Raj, Jayahari          UHVK227V  1373  1363/171  L8  L34 W83 L50 W78 2.0
+ 60 Chua, Zachary          BHSGX45T  1345  1380/ 19  L16 L36 D45 W82 D49 2.0
+ 61 Chaudhuri, Arihant     CHAF703E  1321  1325/271  L17 L37 W73 L52 W81 2.0
+ 62 Joshi, Vyom            NRCJH81X  1307  1317/308  L25 W74 L44 L38 W80 2.0
+ 63 Zhu, Daniel            BCXCX67L  1247  1471/ 10  L9  W53 L35 W74 L31 2.0
+ 64 Nair, Ishan            SKIH670E  1230  1286/178  L29 L46 W53 W75 L35 2.0
+ 65 Raj, Skandha           EVGCK55U  1224  1228/143  L30 L54 L58 BYE W75 2.0
+ 66 Vemparala, Nikash      OVLJI078  2244  2221/431  W37 D16 L8  U   U   1.5
+ 67 Vijeyanandh, Vishnu    REDJF63Z  1346  1321/195  L24 L51 D47 L72 W82 1.5
+ 68 Yang, Jimmy            BASFG45S  1290  1310/218  L26 W73 L34 D46 L42 1.5
+ 69 Nawagamudewage, Inura  MDEIJ11V  1255  1253/ 25  D27 L31 W81 L33 L41 1.5
+ 70 Avula, Varshith Reddy  RHJI110R  1247  1229/246  D18 L19 L71 L47 W83 1.5
+ 71 Yuan, Chen             ETSDJ15Z  1199  1234/135  D19 L18 W70 L28 L45 1.5
+ 72 Guilliams, Avery       KAMM231A  1106  1142/ 58  L41 L55 D82 W67 L46 1.5
+ 73 Ma, Lewis              SOMD587M  1495  1399/188  L2  L68 L61 L76 BYE 1.0
+ 74 Chan, Aiden            ISSJ917M  1475  1403/139  L5  L62 W76 L63 L47 1.0
+ 75 Gupta, Krishang        GTMHE37V  1419  1370/ 67  L22 W47 L40 L64 L65 1.0
+ 76 Chu, Rosalyn           CAXCZ94K   639   713/ 10  L50 L52 L74 W73 L53 1.0
+ 77 Wakeman, Oliver        INLLG10Y  1235  1246/136  L40 W82 L36 L54 U   1.0
+ 78 Nguyenphuoc, Timon     KAMMD25H  1198  1209/ 41  W31 L24 L51 L55 L59 1.0
+ 79 Gokulakrishnan, SriharsTMMGH60B  1065  1049/ 15  L42 L56 BYE L58 U   1.0
+ 80 Deepak, Sairaghav      SKNJA52Q   752   748/ 78  L43 BYE L37 L56 L62 1.0
+ 81 Ding, Calvin           KAMLJ19E   620   620/ 12  BYE L8  L69 L45 L61 1.0
+ 82 He, Oliver             ENDEK71V  1428  1337/378  L21 L77 D72 L60 L67 0.5
+ 83 Turar, Yelkhan         LWAJH50S   900   825/  5  L44 L57 L59 L53 L70 0.0

@@ -1,0 +1,46 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Li, Junyi              IDXIY99G   666   938/ 34  W23 W26 W7  W3  W2  5.0
+  2 Gonzalez, Blanca       JMLIJ81M   666   797/ 59  W15 W29 W10 W21 L1  4.0
+  3 Rangel, Valentino      JMLGJ79X   589   754/ 35  W11 W25 W28 L1  W12 4.0
+  4 Corleto, Enzo          CTKHB11Z   680   754/ 25  L7  W31 W17 W14 W9  4.0
+  5 Crotty, Kieran         DEHHK31S   720   765/ 14  W19 L9  W38 W11 W13 4.0
+  6 Larimer, Thomas        LLMGJ79Q   137   499/ 15  W42 L12 W16 W24 W21 4.0
+  7 Avetisyan, Vincent     JMLGJ01Z   762   788/ 40  W4  W16 L1  W29 D8  3.5
+  8 Gardner, Grayson       LIBGH05D   638   724/ 75  W27 L10 W20 W15 D7  3.5
+  9 Prasad, Sonali         JMLIK68K   618   664/ 70  W13 W5  L21 W10 L4  3.0
+ 10 Schutz, Henry          KCCGJ80M   775   765/ 67  W12 W8  L2  L9  W27 3.0
+ 11 Castaneda, Cristian    RRGGH75X   482   611/ 15  L3  W19 W35 L5  W23 3.0
+ 12 Munoz, Salvador        RRGGK53B   721   701/ 53  L10 W6  W39 W26 L3  3.0
+ 13 Nassaneh, George       CTKHF47K   542   562/ 13  L9  W43 W41 W23 L5  3.0
+ 14 Duarte, Carlos         OCHIK52U   468   587/ 75  W33 L23 W18 L4  W26 3.0
+ 15 Hall, Paxton           LLMIH14U   767   728/ 85  L2  W38 W34 L8  W29 3.0
+ 16 Merrill, Jude          RRGGJ01X   571   568/ 35  W24 L7  L6  W41 W28 3.0
+ 17 Spurgeon, Levi         RRGGH91C   419   511/ 25  W35 L18 L4  W39 W24 3.0
+ 18 Bowles, Nathaniel      JMLGJ80J   728   681/ 55  L25 W17 L14 W31 W33 3.0
+ 19 Moncada, Orlando       OCHGK69D   769   715/ 58  L5  L11 W40 W34 W30 3.0
+ 20 Rogers, Sterling       RRGGH27E   289   469/ 19  W36 L24 L8  W38 W25 3.0
+ 21 Garcia, Emma           OCHGJ45L   448   468/ 50  D28 W32 W9  L2  L6  2.5
+ 22 Fultz, Parker          JMLGJ23X   253   259/ 45  D40 L30 L27 W44 W32 2.5
+ 23 Sanborn, Ryder         JMLHJ81E   764   694/ 69  L1  W14 W30 L13 L11 2.0
+ 24 Harmon, Aj             OCHH697N   644   565/ 74  L16 W20 W31 L6  L17 2.0
+ 25 Gomez, Anthony         OCHID08B   648   583/ 66  W18 L3  D33 D28 L20 2.0
+ 26 Dahl, Heidi            JMLGH58K   573   539/ 69  W30 L1  WF  L12 L14 2.0
+ 27 Ramirez, Yasmine       OCHGK69C   546   494/ 64  L8  D34 W22 D33 L10 2.0
+ 28 Canseco, Sam           STPGH90Z   377   383/ 15  D21 W40 L3  D25 L16 2.0
+ 29 Miranda, Santiago      STPI437Y   536   503/118  BYE L2  W32 L7  L15 2.0
+ 30 Muniz, Christopher     RRGGJ79V   481   453/ 30  L26 W22 L23 W35 L19 2.0
+ 31 Munoz, Perla           RRGHJ81F   383   386/ 38  W39 L4  L24 L18 W42 2.0
+ 32 Plowman, Melanie       RRGHH27S   100   190/  9  W37 L21 L29 W36 L22 2.0
+ 33 Purcell, Blaine        RRGHH55B   384   394/ 28  L14 W42 D25 D27 L18 2.0
+ 34 Langston, Felicity     JMLG424K   100   219/ 87  W44 D27 L15 L19 D39 2.0
+ 35 Bodes, Josiah          HSCHH27U   286   285/ 14  L17 W44 L11 L30 W41 2.0
+ 36 Schutz, Victoria       KCCHJ59P   435   331/ 58  L20 L41 W42 L32 W44 2.0
+ 37 Hernandez, Genie       JMLGK96J   265   221/ 57  L32 L39 D44 W40 D38 2.0
+ 38 Peterman, Kennedy      CMLGJ01T   436   397/ 20  W45 L15 L5  L20 D37 1.5
+ 39 Saenz, Abigail         STPH672R   452   381/ 79  L31 W37 L12 L17 D34 1.5
+ 40 Badillo-chavez, MarilynHIGHJ80P   100   100/ 53  D22 L28 L19 L37 BYE 1.5
+ 41 Miranda, Saul          STPGH43E   130   133/ 25  L43 W36 L13 L16 L35 1.0
+ 42 Simmons, Maxwell       JMLGJ01B   100   100/ 23  L6  L33 L36 BYE L31 1.0
+ 43 Angulo, Cesar          OCHIG89N   800   363/  2  W41 L13 LF  U   U   1.0
+ 44 Badillo-chavez, MaddalyHIGHJ80R   102   100/ 53  L34 L35 D37 L22 L36 0.5
+ 45 Wilkinson, Corban      JMLHH91N   326   289/ 18  L38 U   U   U   U   0.0

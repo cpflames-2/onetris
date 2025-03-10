@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Garcia, Jose           ISECK07J   247   267/ 26  W2  D3  D4  2.0
+  2 Johnson, Bryce         OPSCK11K   165   192/  6  L1  D4  W3  1.5
+  3 Chanda, Rishabh        BCABH72X   100   144/  9  W4  D1  L2  1.5
+  4 Abdukarimov, Samin     BENAH67S   317   247/ 45  L3  D2  D1  1.0

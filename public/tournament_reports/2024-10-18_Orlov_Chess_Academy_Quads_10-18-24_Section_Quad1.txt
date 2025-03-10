@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Rao, Deepak Sri KartikeBPSI517J  1457  1543/155  W3  W4  W2  3.0
+  2 Ackerman, Ryan         ADUNC514  1903  1879/250  W4  W3  L1  2.0
+  3 Vijeyanandh, Vishnu    TMBJF63Z  1352  1346/190  L1  L2  W4  1.0
+  4 Latuskiewicz, Matthew  EPSGK21S  1085  1071/ 44  L2  L1  L3  0.0

@@ -1,0 +1,10 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Mcpherson, Aiden       PONGW85C  1211  1204/ 33  W4  D2  W3  W7  W6  4.5
+  2 Stevens, Wally         PONGW84Z   661   864/ 19  W8  D1  W6  W3  W7  4.5
+  3 Quintana, Isaiah       HSOGW78H   984   909/ 10  W7  W5  L1  L2  W8  3.0
+  4 Singer, Audric         PONGW84K   508   514/ 21  L1  W8  W9  L5  BYE 3.0
+  5 Fisher, Ayden          CAXJZ676   900   637/  5  W6  L3  L7  W4  W9  3.0
+  6 Fields, Parker         PONGW85B   707   658/ 21  L5  W9  L2  BYE L1  2.0
+  7 Henderson, Braydon     PONHW857   449   499/ 21  L3  BYE W5  L1  L2  2.0
+  8 Baracker, Emmitt       PONGW76K   600   349/  4  L2  L4  BYE W9  L3  2.0
+  9 Welsh, Blaine          PONGW858   250   163/  7  BYE L6  L4  L8  L5  1.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Casanova, Vicente      SFMHZ99T  1442  1468/ 95  W4  W2  W3  3.0
+  2 Neff, Nadine           ABEIC79W  1181  1235/386  W3  L1  W4  2.0
+  3 Neff, Enoch            ABEEF95Q  1261  1239/174  L2  W4  L1  1.0
+  4 Hoellein, Carter       SDDFZ96L  1163  1116/126  L1  L3  L2  0.0

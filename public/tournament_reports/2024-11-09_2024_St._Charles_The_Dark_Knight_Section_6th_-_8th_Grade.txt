@@ -1,0 +1,20 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Satish Kumar, Sai NavanCENGH21Y  1306  1343/ 84  W6  W13 W3  W2  W8  5.0
+  2 Damrau, Austin         ELKGK95E  1095  1111/ 80  W7  W14 W5  L1  W6  4.0
+  3 Casino, Eli            STCGI15Q   890   938/ 56  W18 W15 L1  W16 W10 4.0
+  4 Zhong, Sebastian       NOVGK24D   761   812/ 40  W9  L16 W15 D10 W14 3.5
+  5 Little, Wyatt          NOVGJ51H   859   875/ 30  W19 W8  L2  L6  W16 3.0
+  6 Rehberger, Jack        STCI916D   714   838/ 34  L1  W9  W18 W5  L2  3.0
+  7 Paras, Liam            STCHK61Q   534   645/ 24  L2  L11 BYE W13 W15 3.0
+  8 Nguyen, Richard        STCGH47W   600  1031/  5  W10 L5  W13 W11 L1  3.0
+  9 Brouner, Simon         KLLHH47V   700   879/  5  L4  L6  W19 W12 W11 3.0
+ 10 Meka, Suhaas           NOVGJ51J   961   918/ 72  L8  W19 W14 D4  L3  2.5
+ 11 Keogh, Seiya           NOVGJ51N  1096   997/ 35  L15 W7  W16 L8  L9  2.0
+ 12 Anbuselvam, Mithran    HEAGH61F  1007   886/ 54  L16 L18 W17 L9  W19 2.0
+ 13 Schulte, Joey          STCID62Q   728   687/ 46  W17 L1  L8  L7  BYE 2.0
+ 14 Carrell, Sam           STCH943D   710   677/ 21  BYE L2  L10 W18 L4  2.0
+ 15 Ramirez, Peyton        STCHK61L   549   573/ 24  W11 L3  L4  W17 L7  2.0
+ 16 Flinders, Thayden      STCHJ19A   418   586/ 15  W12 W4  L11 L3  L5  2.0
+ 17 Bannister, Colton      HABGH57P   100   222/  8  L13 BYE L12 L15 W18 2.0
+ 18 Ang, Jessy             STCGH47U   600   449/  5  L3  W12 L6  L14 L17 1.0
+ 19 Ramirez, Quintin       STCGH47T   600   456/  4  L5  L10 L9  BYE L12 1.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Shinkarev, Slava       KAMKJ77F  1356  1464/ 28  W3  W2  W4  3.0
+  2 Patel, Aarya           REEGK30E  1432  1443/181  W4  L1  W3  2.0
+  3 Ganesan, Vidur         RBRF940K  1401  1378/255  L1  W4  L2  1.0
+  4 Kandar, Aarav          FISEK21U  1314  1266/124  L2  L3  L1  0.0

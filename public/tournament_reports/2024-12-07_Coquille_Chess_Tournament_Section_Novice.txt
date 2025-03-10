@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Tew, Rand              HSOCW78W   200   688/  5  W9  W7  W3  W2  D4  4.5
+  2 Gibbs, Logan           CQEDW78V   300   550/  4  BYE W9  W5  L1  W3  4.0
+  3 Sedlemyer, Hunter      CQEFW78U   500   433/  5  W8  W4  L1  W7  L2  3.0
+  4 Dieckman, Adelynn      MYCDW78T   300   382/  5  W5  L3  D7  W6  D1  3.0
+  5 Dunning, Hailey        CQEFW82S   276   228/  9  L4  BYE L2  D8  W9  2.5
+  6 Gant, Lorenzo          HSOCW78S   200   100/  4  L7  W8  D9  L4  BYE 2.5
+  7 Fritz, Jackson         MYCDW81Q   138   166/ 19  W6  L1  D4  L3  D8  2.0
+  8 Tew, Perrin            HSOAW78R   100   100/  4  L3  L6  BYE D5  D7  2.0
+  9 Mangin, Alice          CQECW78Q   200   100/  4  L1  L2  D6  BYE L5  1.5
+

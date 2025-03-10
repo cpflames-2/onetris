@@ -1,0 +1,20 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Wilson, Nicholas D     LBYIJ58B  1220  1318/ 55  W9  W3  W2  W4  W6  5.0
+  2 Aguayo, Chase          LSPIH66L   871  1005/ 39  W5  W11 L1  W12 W7  4.0
+  3 Fuchs, Ethan           LBSH849Z   667   833/ 39  BYE L1  W18 W8  W10 4.0
+  4 Ashcroft, Austen       HSCIH02R   800  1308/  4  W18 W6  W8  L1  HPB 3.5
+  5 Fish, Collin           LBSIH02Q   800   818/  5  L2  W14 D10 W16 W13 3.5
+  6 Janout, Dushan         GONGH92B  1078  1083/ 10  W16 L4  W7  W11 L1  3.0
+  7 Huang, Matthew         LBYIJ05S  1061  1030/ 25  W17 W12 L6  W9  L2  3.0
+  8 Zhou, Bryan            LBYHK50Q  1246  1193/ 43  W15 W10 L4  L3  W12 3.0
+  9 Heal, Thomas           YSUGH02P   600   885/  5  L1  W19 W13 L7  W11 3.0
+ 10 Autry-dalsanders, Reed MMCGK48X   672   696/ 85  W13 L8  D5  W14 L3  2.5
+ 11 Pucheu, Julian         GMSHH02N   700   705/  5  W14 L2  W17 L6  L9  2.0
+ 12 Datsko, Daniel         WWMIH02L   800   732/  5  W19 L7  W16 L2  L8  2.0
+ 13 Wilson, Cody           CHZGH02K   600   471/  4  L10 BYE L9  W15 L5  2.0
+ 14 Duval, Brianna         HSCGH02J   600   470/  5  L11 L5  W19 L10 W18 2.0
+ 15 Jeary, Cassidy         MMCGH02H   600   240/  4  L8  L17 BYE L13 W19 2.0
+ 16 Loniewsky, Ava         CHSGH02E   600   503/  5  L6  W18 L12 L5  D17 1.5
+ 17 Bassett, Preston       NWDHH02D   700   400/  5  L7  W15 L11 L18 D16 1.5
+ 18 Mack, Lillian          SAWGH02C   600   381/  5  L4  L16 L3  W17 L14 1.0
+ 19 Silva, Israel          TDUGH02B   600   100/  4  L12 L9  L14 BYE L15 1.0

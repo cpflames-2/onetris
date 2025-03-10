@@ -1,0 +1,10 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Alvarado, Alexander    ADUNJ69R  1262  1317/ 26  W8  W4  W5  D2  W3  4.5
+  2 Nguyen, Alex           MERH626C  1292  1279/ 29  L4  W6  W9  D1  W7  3.5
+  3 Li, Anyi               LKDDJ55F  1178  1164/ 94  W9  L5  W4  W6  L1  3.0
+  4 Gopal, Abhishekh       ADUNH86N  1069  1094/ 19  W2  L1  L3  BYE W8  3.0
+  5 Bates, Killian         HEAJK18M  1009  1040/ 47  W7  W3  L1  L8  BYE 3.0
+  6 Phillips-acheson, SebasEMHI817T   857   896/239  BYE L2  W7  L3  WF  3.0
+  7 Zhang, Kevin           WOBG809Y  1179  1109/138  L5  W8  L6  W9  L2  2.0
+  8 Liguori, Catherine     ADUNH59A  1300   946/  4  L1  L7  BYE W5  L4  2.0
+  9 Devireddy, Jaya BhaveesXXXEH58Z   400   705/  3  L3  BYE L2  L7  LF  1.0

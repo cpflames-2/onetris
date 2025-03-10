@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Balaji, Vaibhav        SSMCH28Z   156   307/ 30  D2  W3  W4  2.5
+  2 Fong, Mercer           SOMEK43T   255   280/ 22  D1  W4  D3  2.0
+  3 Xiong, Aria            DISBH14J   260   250/ 21  W4  L1  D2  1.5
+  4 Mutha, Vihaan          CNHBH79R   100   100/ 13  L3  L2  L1  0.0

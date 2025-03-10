@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Michael, Phillip       SDAEZ887   489   587/ 30  W3  W4  W2  3.0
+  2 Devish, Coale          SDSCZ80U   394   435/ 15  W4  W3  L1  2.0
+  3 Headley, Austin        SDADZ802   309   308/ 21  L1  L2  W4  1.0
+  4 Neff, Zachary          ABEBH77E   389   299/ 16  L2  L1  L3  0.0

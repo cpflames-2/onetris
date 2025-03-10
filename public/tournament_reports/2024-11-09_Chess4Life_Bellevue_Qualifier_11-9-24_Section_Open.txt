@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Verma, Reyansh         RBRFJ20M  1174  1256/ 65  W3  W5  W2  W4  W6  5.0
+  2 Menon, Ritwik          WLDH974D  1092  1084/ 78  D6  W3  L1  D5  W4  3.0
+  3 Khandhedia, Dhruvin NirLMAF257G   992   973/ 69  L1  L2  L4  W6  W5  2.0
+  4 Mukherjee, Anjalika    UPAHJ94B   770   845/ 28  L5  W6  W3  L1  L2  2.0
+  5 Zeitlin, Tom           WOBFI56H  1044   985/ 91  W4  L1  L6  D2  L3  1.5
+  6 Chong, Jacob           RSHGF24L   911   896/134  D2  L4  W5  L3  L1  1.5

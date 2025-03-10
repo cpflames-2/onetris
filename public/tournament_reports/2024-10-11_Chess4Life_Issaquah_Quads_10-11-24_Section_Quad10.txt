@@ -1,0 +1,8 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chandana, Arnav        EVJHH58E   700   833/  2  BYE W3  W2  3.0
+  2 Yau, Adelyn            SHSDH58C   300   467/  3  W4  W5  L1  2.0
+  3 Fong, Ethan            HSCCH58B   200   467/  3  W5  L1  W4  2.0
+  4 Singh, Reyansh         HSCBH58A   100   100/  2  L2  BYE L3  1.0
+  5 Li, George             HSCAH57Y   100   100/  2  L3  L2  BYE 1.0
+
+ All Unrated-player Section: Ratings capped at 1000

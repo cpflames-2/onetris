@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Parrish, James         MVIBH01N   100   733/  3  W2  W4  W3  3.0
+  2 Townsdin, Lance        MUKAH01M   100   400/  3  L1  W3  W4  2.0
+  3 Gill, Harvey           BENBH01K   100   100/  3  D4  L2  L1  0.5
+  4 Griffin, Henry         MUEBH01J   100   100/  3  D3  L1  L2  0.5
+
+ All Unrated-player Section: Ratings capped at 1000

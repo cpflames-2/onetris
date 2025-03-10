@@ -1,0 +1,56 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Lew, Abigail           OPWE645P   888  1125/169  W38 W3  W14 W12 W2  5.0
+  2 Tirunagari, Lalith AditMEDFG93C   904  1023/ 15  W44 W20 W15 W4  L1  4.0
+  3 Mukherjee, Anjalika    UPAHJ94B   958  1008/ 53  W27 L1  W39 W34 W13 4.0
+  4 Luo, Leo               BUSEH45C   800   959/ 16  W43 W26 W28 L2  W12 4.0
+  5 Wong, Gabriel          HEAGH35K   975  1006/ 20  W39 W17 L13 W40 W10 4.0
+  6 Gridasov, Robert       LAVEJ03F   865   932/ 31  D45 W47 W9  D15 W16 4.0
+  7 Xia, Jethro            BCSFK47R   975   987/146  D35 W29 D33 W19 W17 4.0
+  8 Davies, Damien         HEAGK68U   833   922/106  W50 W16 L12 W32 W14 4.0
+  9 Panda, Sourish         NJHGK98E   911   931/ 61  W37 D18 L6  W29 W27 3.5
+ 10 Meenakshi Sundaram, AdhHEAGK00E   922   959/ 20  HPB W46 W18 W13 L5  3.5
+ 11 Chen, Kevin            AUDFJ87P   811   820/ 35  L48 W55 D45 W28 W30 3.5
+ 12 Durbhakula, Amogh      LMAHK63U   943   952/ 28  W41 W22 W8  L1  L4  3.0
+ 13 Rajeswaran, Raghav     RHJIJ57H   907   926/ 39  W23 W19 W5  L10 L3  3.0
+ 14 Puranik, Armin         SSMEJ56Z   968   962/ 63  W34 W24 L1  W33 L8  3.0
+ 15 Nandakiran, Vidyuth    SSMF617C   924   933/182  W42 W25 L2  D6  D18 3.0
+ 16 Chadha, Saahan         ENDEK64R   908   894/ 56  W36 L8  W35 W37 L6  3.0
+ 17 Yen, Apollo            REJHG78H   891   882/144  W54 L5  W23 W36 L7  3.0
+ 18 Dragusanu, Clara       SSMFH81S   888   889/ 58  W53 D9  L10 W31 D15 3.0
+ 19 Zhou, Muchen           CMCFH25C   794   792/ 20  W49 L13 W21 L7  W32 3.0
+ 20 Gaddam, Vihaan         SSMFJ28E   852   823/ 45  W21 L2  L32 W51 W36 3.0
+ 21 Mudragada, Sanjay KaushGTMGG96Y   333   572/ 10  L20 W44 L19 W35 W33 3.0
+ 22 Chenchu Arun, Krish    SSMFJ74U   866   840/ 59  W32 L12 L36 W38 W37 3.0
+ 23 Nayagam, Anantika      SSMFH62E   594   692/ 21  L13 W49 L17 W42 W40 3.0
+ 24 Balaji, Arjun          CMCEH75P   875   848/ 72  W51 L14 L37 W43 W34 3.0
+ 25 Sanganaboina, Ashrith  SKWGJ49F   897   854/ 21  W52 L15 L34 W45 W41 3.0
+ 26 Davenport, Raymond     INGHD41L   901   867/ 74  W55 L4  L27 W49 W39 3.0
+ 27 Tulsukchuentanat, ProudWOBGH63C   707   772/ 19  L3  W38 W26 D30 L9  2.5
+ 28 Sailer, Shaunak        OPWHC25Z   980   913/248  D29 W48 L4  L11 W45 2.5
+ 29 Paine, Clara           TLIFK01Z   755   765/ 72  D28 L7  W48 L9  W47 2.5
+ 30 Chen, Xinyan           SOMFI38B   969   902/ 62  D31 D35 W42 D27 L11 2.5
+ 31 Burmistrov, Maya       SSMFJ19Z   714   714/ 35  D30 L33 W47 L18 W46 2.5
+ 32 Gummineni, Charith     MOBIJ31D   435   604/  8  L22 W41 W20 L8  L19 2.0
+ 33 Lechner, Ryker         HSCG496J   822   772/117  D46 W31 D7  L14 L21 2.0
+ 34 Mallapragada, Mihir    CBRF254M   711   725/ 35  L14 W51 W25 L3  L24 2.0
+ 35 Wang, Aaron            HMND631T   728   712/114  D7  D30 L16 L21 W50 2.0
+ 36 Spearman, Emery        DCCH101R   624   643/ 76  L16 W50 W22 L17 L20 2.0
+ 37 Pan, Jingyuan          EVJHH73P   738   730/ 35  L9  W53 W24 L16 L22 2.0
+ 38 Battala, Havish Reddy  SSMFJ28J   562   586/ 35  L1  L27 W44 L22 W53 2.0
+ 39 Poka, Dinesh           MOBHH52T   746   722/ 28  L5  W54 L3  W52 L26 2.0
+ 40 Qureshi, Haroon        RBREJ95Y   805   736/ 41  D47 D45 W43 L5  L23 2.0
+ 41 Singh, Rishima         TWFGH67N   694   632/ 11  L12 L32 W46 W50 L25 2.0
+ 42 Wang, Jacob Z          EVJGE71A   774   729/157  L15 W52 L30 L23 W51 2.0
+ 43 Nandigam, Shanyu       RHJIG75G   800   552/  4  L4  BYE L40 L24 W52 2.0
+ 44 Brakenridge, Bryce     TYEGK89D   681   615/ 75  L2  L21 L38 W54 W49 2.0
+ 45 Komara, Vasishta NarayaFRWFG75F   361   474/  5  D6  D40 D11 L25 L28 1.5
+ 46 Nandeesh, Tapasya      SMSIH62Z   286   376/ 54  D33 L10 L41 W48 L31 1.5
+ 47 Sapaharam, Dhanush     GTMGG75D   600   570/  5  D40 L6  L31 W55 L29 1.5
+ 48 Dinesh, Raunak         EVJIG75C   800   520/  5  W11 L28 L29 L46 D55 1.5
+ 49 Nandigam, Arjun        RHJFG75B   500   209/  4  L19 L23 BYE L26 L44 1.0
+ 50 Susanto, Mogens        OLWFH52G   292   350/  7  L8  L36 W54 L41 L35 1.0
+ 51 Metzmaker, Kyren       OPWG430W   533   513/151  L24 L34 W55 L20 L42 1.0
+ 52 Shrivastava, Amogh     SHSFJ11M   503   467/ 50  L25 L42 W53 L39 L43 1.0
+ 53 Li, Jacob              TMBGE48C   472   403/ 13  L18 L37 L52 BYE L38 1.0
+ 54 Deshpande, Samarth PrasCHRFH25U   562   371/  7  L17 L39 L50 L44 BYE 1.0
+ 55 Sarkar, Hridik         FRVFK04W   589   500/ 66  L26 L11 L51 L47 D48 0.5

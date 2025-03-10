@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ristau, William        SDQLX37G  1632  1658/135  W2  D4  W3  2.5
+  2 Welch, James           HSSJF53F  1556  1580/231  L1  W3  W4  2.0
+  3 Yusuf, Elham           SD6MZ84A  1587  1568/ 28  W4  L2  L1  1.0
+  4 Wilber, Christopher    SFXJZ20V  1565  1532/136  L3  D1  L2  0.5

@@ -1,0 +1,28 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Li, Anyi               LKDDJ55F  1164  1263/ 99  W16 W10 W4  W2  W5  5.0
+  2 Vinoth Kumar, Yuvan AdaEVJJH88U  1193  1195/ 18  W24 W9  W11 L1  W12 4.0
+  3 Bui, Edwin             FRVFK90H  1082  1098/106  W18 L11 W6  W14 W13 4.0
+  4 Helmy, Yaseen          MEDFH64B   949  1040/ 13  W23 W8  L1  W7  W11 4.0
+  5 Miller, John           ADUNH58U   828   998/  9  W26 D14 W15 W8  L1  3.5
+  6 Kamisetty, Komansai    CDWH644X   675   858/ 15  W22 D15 L3  W23 W14 3.5
+  7 Kedarisetty, Shreyas   INGIH60G  1060  1007/170  W20 L12 W18 L4  W16 3.0
+  8 Liu, Bihe              KKNCB78J  1048  1002/108  WF  L4  W20 L5  W17 3.0
+  9 Oh, Seojoon            SSMEJ70T   978   967/ 59  W13 L2  W22 L12 W18 3.0
+ 10 Ren, Easton            CMCBH68Z   843   836/ 34  W25 L1  W17 L11 W20 3.0
+ 11 Ge, Emma               SSMCJ56J   796   887/ 84  W21 W3  L2  W10 L4  3.0
+ 12 Gu, Leo                SCDCK31Y   688   826/ 43  W27 W7  L14 W9  L2  3.0
+ 13 Thompson, Hugo         XXXHH55A   700   938/  5  L9  W24 W16 W15 L3  3.0
+ 14 Dhameeja, Ved          GRRFJ98F  1144  1082/123  W17 D5  W12 L3  L6  2.5
+ 15 Kedarisetty, Ishan     INGH300B  1081  1015/176  W19 D6  L5  L13 W24 2.5
+ 16 Zhang, Patrick         SSSCK01J   636   636/160  L1  W27 L13 W19 L7  2.0
+ 17 Bilguun, Telmuun       PKWFK18D   626   631/ 30  L14 W26 L10 W22 L8  2.0
+ 18 Anbuselvam, Mithran    HEAGH61F   544   586/ 33  L3  W21 L7  W24 L9  2.0
+ 19 Oakes, James           ADUNH58T   489   425/  9  L15 L22 BYE L16 W26 2.0
+ 20 Nandeesh, Tavishna     CAVEH61E   487   515/ 15  L7  W23 L8  W27 L10 2.0
+ 21 Devavarapu, Ananya SresCMCDH54Z   300   352/  5  L11 L18 L24 W26 W27 2.0
+ 22 Tecle, Zekarias        THUFH54X   500   613/  5  L6  W19 L9  L17 W23 2.0
+ 23 Li, Bryan              MEDBJ75H   697   597/ 79  L4  L20 WF  L6  L22 1.0
+ 24 Tang, Khai             THUFJ48Q   652   612/ 30  L2  L13 W21 L18 L15 1.0
+ 25 Feng, Kingsley         SUEGH86F   234   234/  5  L10 BYE LF  U   U   1.0
+ 26 Judun Karthick Kumar, ABENBH54W   100   100/  5  L5  L17 D27 L21 L19 0.5
+ 27 Selvaganapathy, AadhavaXXXDH54V   300   100/  5  L12 L16 D26 L20 L21 0.5

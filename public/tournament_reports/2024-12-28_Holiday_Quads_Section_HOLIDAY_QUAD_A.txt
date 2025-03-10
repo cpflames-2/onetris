@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhou, Bryan            LBYHK50Q  1147  1246/ 38  W4  W2  W3  3.0
+  2 Keener, Karl           HLHJY40G  1274  1265/165  W3  L1  W4  2.0
+  3 Elkins, Indiana        HSCJC15D  1079  1066/ 91  L2  W4  L1  1.0
+  4 Edlund, Caleb          WAXHJ88D   956   919/ 57  L1  L3  L2  0.0

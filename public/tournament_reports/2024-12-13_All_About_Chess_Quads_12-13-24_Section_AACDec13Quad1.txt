@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Pan, Peng-ruei         SSMF759R  1605  1582/216  L2  W4  W3  2.0
+  2 Ge, Jeremy             SOMCJ88K  1155  1249/240  W1  L3  W4  2.0
+  3 Burtram, Dayton        SKNJG77M  1366  1360/322  D4  W2  L1  1.5
+  4 Ye, Alex               ENDFH51L  1187  1173/181  D3  L1  L2  0.5

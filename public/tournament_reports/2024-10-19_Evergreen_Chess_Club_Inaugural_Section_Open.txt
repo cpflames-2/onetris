@@ -1,0 +1,31 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Thorwe, Pratik         ADUNK10D  1969  1978/ 39  W21 W11 W3  W2  D6  4.5
+  2 Yondon, Odbayar        INGGK97T  1791  1803/251  W30 W18 W10 L1  W11 4.0
+  3 Nedumpurakkal Thahir, IRHJKK46Y  1686  1715/ 19  W17 W13 L1  W19 W10 4.0
+  4 Shubin, Daniel         ADUNF498  2274  2264/550  W20 L10 W7  W5  HPB 3.5
+  5 Gavrysh, Leonid        ADUN816H  2044  2032/106  W12 W16 D14 L4  W18 3.5
+  6 Bharathy Mohan, Aarav  SKIGC98B  1810  1804/377  L13 W27 W8  W14 D1  3.5
+  7 Liu, Bichen            KKNIK00D  1623  1639/143  W22 D8  L4  W23 W16 3.5
+  8 Nguyen, Alex           MERH626C  1279  1477/ 34  W26 D7  L6  W15 W14 3.5
+  9 Maharaja, Imai         HMNEK34K  1585  1567/233  L27 W30 W13 L11 W22 3.0
+ 10 Raja, Rian             SKWH786E  1578  1609/165  W28 W4  L2  W12 L3  3.0
+ 11 Joseph, Veronique      SJOFJ04S  1518  1548/194  W23 L1  W22 W9  L2  3.0
+ 12 Goupinets, Andrew      ADUNJ69S  1476  1479/ 48  L5  W25 W29 L10 W23 3.0
+ 13 Patel, Aarya           REJGK30E  1443  1502/186  W6  L3  L9  W27 W19 3.0
+ 14 Skkandann, Kiann       NPRN644M  1630  1621/ 40  W24 W29 D5  L6  L8  2.5
+ 15 Shi, Gavin             LCOKH855  1613  1571/417  L18 D17 W26 L8  W24 2.5
+ 16 Siddem, Sid            LWALC34V  1532  1527/510  W25 L5  D18 W17 L7  2.5
+ 17 Chang, Liam            LEOI5238  1422  1430/139  L3  D15 W21 L16 WF  2.5
+ 18 Pai, Vihaan            CHAFK17C  1352  1445/259  W15 L2  D16 W20 L5  2.5
+ 19 Evin, Terrick          EBSDC54L  1509  1469/215  L29 W24 W27 L3  L13 2.0
+ 20 Van Wyk, Daniel Rodney ADUNH54U  1480  1436/  5  L4  W28 L23 L18 W29 2.0
+ 21 Hard, Adam             ADUNH79Y  1449  1418/ 32  L1  L23 L17 W26 W28 2.0
+ 22 Tyrrell, Eoin Stephen  ADUNH54T  1386  1387/  5  L7  W26 L11 W29 L9  2.0
+ 23 Kanchanakuntla, Anish RTFEGJ31G  1096  1207/ 26  L11 W21 W20 L7  L12 2.0
+ 24 Zandanov, Leonid       ENADK31Q  1399  1357/147  L14 L19 W28 D25 L15 1.5
+ 25 Gokulakrishnan, SriharsTMMGH60B  1050  1065/ 12  L16 L12 BYE D24 LF  1.5
+ 26 Aitken, Kevin          ADUNW80T  1609  1400/ 10  L8  L22 L15 L21 W27 1.0
+ 27 Narkhede, Kshitij      CRKDA27K  1249  1253/120  W9  L6  L19 L13 L26 1.0
+ 28 Anand, Lakshana        TMBGC68H  1212  1173/135  L10 L20 L24 BYE L21 1.0
+ 29 Ravichandran, Savitha RADUNH54S  1300  1238/  5  W19 L14 L12 L22 L20 1.0
+ 30 Hamlett, James         ADUN4372  1433  1414/109  L2  L9  U   U   U   0.0

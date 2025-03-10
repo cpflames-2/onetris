@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chang, Nathan          MMEDK42T   423   576/109  W2  D4  W3  2.5
+  2 Mirchandani, Kiaan     MEDEK92Z   590   598/ 84  L1  W3  W4  2.0
+  3 Vatsan, Maitri         SSMCK00S   447   441/136  W4  L2  L1  1.0
+  4 Paidapathi, Kiaan      SHSCJ99C   547   478/160  L3  D1  L2  0.5

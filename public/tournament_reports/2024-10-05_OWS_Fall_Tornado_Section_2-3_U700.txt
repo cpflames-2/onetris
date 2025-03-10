@@ -1,0 +1,31 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Wang, Aaron            HMND631T   475   834/ 94  W8  W16 W12 W9  W5  5.0
+  2 Li, Ryan Lingjun       BUSCJ88U   575   628/ 36  W23 W20 L9  W22 W11 4.0
+  3 Gui, Joyce             OPWCH92C   601   674/ 35  W25 W15 L11 W20 W9  4.0
+  4 Xiong, Maxwell         CSIDK92H   632   619/ 46  L20 W29 W7  W17 D6  3.5
+  5 Gupta, Akshay          HMNCF62T   611   663/ 76  D7  W8  W24 W11 L1  3.5
+  6 Zhang, David           SOMCK41P   499   599/122  W28 L9  W15 W12 D4  3.5
+  7 Singhal, Sanyukt       FRVCJ30P   296   474/ 15  D5  W28 L4  W24 W14 3.5
+  8 Ta, Jaxson             KSTDJ54Z   691   662/ 29  L1  L5  W30 W21 W17 3.0
+  9 Malhotra, Dilraj       MAHCK02Y   640   662/ 67  W19 W6  W2  L1  L3  3.0
+ 10 Su, Pin-ruei           RFKCH96G   613   556/ 35  L21 W27 L14 W23 W18 3.0
+ 11 Spataro, Anna          STTDK65C   607   608/ 40  W26 W14 W3  L5  L2  3.0
+ 12 Ma, Caroline           BCSCK93V   597   592/ 59  W27 W21 L1  L6  W20 3.0
+ 13 Lam, Sebastian         OPWCJ97R   563   511/ 48  L24 W30 W21 L14 W22 3.0
+ 14 Liu, Louis             CNHCJ75J   491   509/ 39  W29 L11 W10 W13 L7  3.0
+ 15 Papyan, Mika           TKWDH59Z   300   596/  5  W18 L3  L6  W19 W16 3.0
+ 16 Shing, Lucas           HZFDJ74H   604   540/ 55  W22 L1  L20 W27 L15 2.0
+ 17 Deepak, Ari            BUSCJ72K   531   427/ 10  W30 L24 W19 L4  L8  2.0
+ 18 Velichko, Kristina     ASACK07V   504   436/ 92  L15 W23 L22 W25 L10 2.0
+ 19 Deng, Harry            OPWCJ27J   435   404/ 49  L9  W25 L17 L15 W24 2.0
+ 20 Dai, Pax               NOWCJ68M   346   431/ 25  W4  L2  W16 L3  L12 2.0
+ 21 Armstrong, Josephine   EVGCK86A   323   347/ 65  W10 L12 L13 L8  W28 2.0
+ 22 Kuo, Max               NOWCH93U   233   297/ 10  L16 W26 W18 L2  L13 2.0
+ 23 Kachachi, Alexander    OPWCK31U   203   221/ 21  L2  L18 W28 L10 W29 2.0
+ 24 Li, Brian              CGRCH72Y   164   271/ 11  W13 W17 L5  L7  L19 2.0
+ 25 Suhasan, Nehaa         FRVCJ30B   100   187/ 10  L3  L19 W26 L18 W27 2.0
+ 26 Taylor, Anderson       OPWCK65L   292   188/ 25  L11 L22 L25 L28 W30 1.0
+ 27 Lew, Theodore          OPWCK28X   225   186/ 79  L12 L10 W29 L16 L25 1.0
+ 28 Fifadra, Akash         OPWCH59Y   200   104/  5  L6  L7  L23 W26 L21 1.0
+ 29 Lo, Logan              OPWCH59X   200   100/  5  L14 L4  L27 W30 L23 1.0
+ 30 Yadav, Parth           MRLDH59W   300   100/  5  L17 L13 L8  L29 L26 0.0

@@ -1,0 +1,14 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Zhou, Jianchao         MAXNX00A  2654  2656/104  W6  W5  W3  D4  3.5
+  2 Mehta, Dhairya M       MAXIX00B  2013  2075/104  L5  W10 W9  W6  3.0
+  3 Ivanov, Alexander      MAXNX00C  2508  2506/104  D7  W9  L1  W8  2.5
+  4 Kudrin, Sergey         CTXNX00D  2388  2390/104  D13 D7  W8  D1  2.5
+  5 Tanenbaum, Zachary     CTXNX00E  2349  2339/104  W2  L1  L6  W11 2.0
+  6 Emmons, Alex           CTXNX00F  2130  2138/104  L1  W11 W5  L2  2.0
+  7 Santos, Natasha MoralesCTXNX00G  2096  2100/103  D3  D4  L10 BYE 2.0
+  8 Chandran, Kapil        CTXNX00J  2448  2434/103  HPB W13 L4  L3  1.5
+  9 Groff, Jordan          CTXNX00K  2250  2232/104  W11 L3  L2  D10 1.5
+ 10 Uwakwe, Michael        CTXNX00L  2047  2042/104  L12 L2  W7  D9  1.5
+ 11 Bhargava, Kushagra     CTXHX00P  1927  1914/103  L9  L6  BYE L5  1.0
+ 12 Wang, Bohan            MAXIX00M  1992  2008/101  W10 U   U   U   1.0
+ 13 Ray Chaudhuri, Niloy   CTXNX00Q  1941  1952/102  D4  L8  U   U   0.5

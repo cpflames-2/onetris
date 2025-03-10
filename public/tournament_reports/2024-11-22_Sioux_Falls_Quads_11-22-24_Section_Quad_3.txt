@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Neff, Enoch            ABEEF95Q  1218  1264/168  U   W2  W3  2.0
+  2 Haines, Wheeler        SXBEZ38M  1196  1198/ 93  W3  L1  U   1.0
+  3 Hoellein, Carter       SDDFZ96L  1206  1157/120  L2  U   L1  0.0

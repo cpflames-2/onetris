@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Xie, Lucas             SSSDJ76D   567   613/ 13  W4  W3  D2  2.5
+  2 Lee, Louie             SNSFK25D   522   590/ 19  W3  W4  D1  2.5
+  3 Bose, Suhan            BRHDH65Z   521   482/ 23  L2  L1  W4  1.0
+  4 Dhanaraj, Elamukil     ENSFH44H   505   100/  7  L1  L2  L3  0.0

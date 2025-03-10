@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Jin, Michael           HMNHD09X  1144  1288/ 23  W3  W4  W2  3.0
+  2 Bui, Edwin             FRVFK90H  1152  1145/135  W4  L3  L1  1.0
+  3 Kandar, Aarav          FISEK21U  1297  1256/143  L1  W2  L4  1.0
+  4 Navarro, Sebastian     TT1IX59S  1196  1178/ 41  L2  L1  W3  1.0

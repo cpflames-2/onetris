@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Heydarov, Rasul        BLWGH95F   993  1050/ 21  W3  W2  U   2.0
+  2 Zhang, Kevin           WOBG809Y  1109  1066/141  W4  L1  L3  1.0
+  3 Heydarova, Aliya       BLWFH95D   856   890/ 23  L1  U   W2  1.0
+  4 Perthesevathy, Divya   ADUNH60L  1283  1130/  4  L2  U   BYE 1.0

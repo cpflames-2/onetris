@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wang, Jasper           ENDEK01P   815   929/ 33  W3  W4  W2  3.0
+  2 Sang, Andy             IMBCK65W   740   795/ 81  W4  W3  L1  2.0
+  3 Koster, John           SPTBJ88T   779   754/ 99  L1  L2  W4  1.0
+  4 Deshmukh, Dhruv        ENDEH79Q   761   685/ 75  L2  L1  L3  0.0

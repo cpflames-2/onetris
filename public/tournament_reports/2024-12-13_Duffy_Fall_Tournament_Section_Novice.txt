@@ -1,0 +1,12 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Clifford, Connor       CTXBZ70Z   100   742/  3  W5  W3  W9  3.0
+  2 Barua, Aveer           CTXDZ70Y   300   700/  2  W6  W4  BYE 3.0
+  3 Paya, Liam             CTXCZ70X   200   425/  3  W7  L1  W6  2.0
+  4 Balacz, Leo            CTXBZ70W   100   333/  2  W9  L2  HPB 1.5
+  5 Hoback, Mira           CTXAZ70V   100   292/  3  L1  D7  W8  1.5
+  6 Wilkinson, Cameron     CTXDZ70U   300   100/  2  L2  BYE L3  1.0
+  7 Riotte, James          CTXBZ70T   100   100/  2  L3  D5  HPB 1.0
+  8 Lammers, Colby         CTXAZ70S   100   100/  1  HPB HPB L5  1.0
+  9 Almeida, Mark          CTXAZ70R   100   100/  2  L4  HPB L1  0.5
+
+ All Unrated-player Section: Ratings capped at 1000

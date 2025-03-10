@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wang, Evan             PLKIB88C  1045  1067/ 85  W2  L4  W3  2.0
+  2 Barrenkala, Surya      EVJH238E  1020  1049/ 65  L1  W3  W4  2.0
+  3 Lewis, Donovan         CACHH60Q  1167  1037/  6  W4  L2  L1  1.0
+  4 Plesko, Francis        HSCFK03B   984   973/ 38  L3  W1  L2  1.0

@@ -1,0 +1,10 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Sankar, Deethya R      EBSAH63X   509   577/ 24  WF  W7  W5  W4  L2  4.0
+  2 Jiang, Callie          UCDAH47C   557   596/ 20  W9  L4  W8  W5  W1  4.0
+  3 Konduri, Agasthya      KKNAH51G   100   385/ 28  L5  W6  W9  W8  W4  4.0
+  4 Chen, Pengyu           RCRAZ677   100   453/  5  W7  W2  W6  L1  L3  3.0
+  5 Zeng, Liam             XXXAH05U   781   708/ 15  W3  W9  L1  L2  W8  3.0
+  6 Reddy, Aishini         MOBAH44S   224   230/ 14  W8  L3  L4  W7  BYE 3.0
+  7 Sapaharam, Dhanvika    MOBAG74Q   100   100/  4  L4  L1  BYE L6  W9  2.0
+  8 Szeto, Everett         HSCAG89W   159   100/  9  L6  BYE L2  L3  L5  1.0
+  9 Sagar, Rhea            MOBAJ92U   100   100/ 48  L2  L5  L3  BYE L7  1.0

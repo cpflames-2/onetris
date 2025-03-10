@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Albrecht, Ian          SDCFZ98P   938  1043/109  W3  W2  W4  3.0
+  2 Oppold, Sage           SDLJZ281  1062  1052/145  W4  L1  W3  2.0
+  3 Hock, Toby             SDBGZ75K   943   879/  9  L1  W4  L2  1.0
+  4 Travis, Shane          OTLLZ743  1100   485/  3  L2  L3  L1  0.0

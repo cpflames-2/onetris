@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Mehta, Ishaan          SSMFK65Y   322   448/ 17  D2  W3  W4  2.5
+  2 Liang, Dainuo          XXXCH01H   200   578/  3  D1  W4  W3  2.5
+  3 Li, Luke               CKICH01G   200   278/  3  W4  L1  L2  1.0
+  4 Lai, Brycen            CLHEK02D   357   266/ 44  L3  L2  L1  0.0

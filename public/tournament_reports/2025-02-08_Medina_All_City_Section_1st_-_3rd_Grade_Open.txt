@@ -1,0 +1,19 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Li, Anyi               LKDDJ55F  1204  1274/129  D10 W8  W5  W3  W6  4.5
+  2 Lai, Austin            EVGDK94F  1010  1108/ 94  W18 D3  D6  W11 W5  4.0
+  3 Lagzdin, Mikhail       BCACJ96R  1114  1139/ 65  W13 D2  W16 L1  W9  3.5
+  4 Ivanov, Matvei         EABDK34E  1017  1050/ 98  W17 D9  L7  W16 W10 3.5
+  5 Xu, Natalie            CNHD137A  1078  1104/119  W12 W7  L1  W9  L2  3.0
+  6 Rogov, Richard         MEDDJ68U  1207  1199/110  W14 D16 D2  W7  L1  3.0
+  7 Dharamshi, Anay        CBRDK42U  1246  1214/173  W8  L5  W4  L6  W12 3.0
+  8 Zhang, Ryan            SHVBH60U   923   990/ 31  L7  L1  W12 W14 W11 3.0
+  9 Jiang, Kyle            MEDCK35B  1023  1021/138  W11 D4  W10 L5  L3  2.5
+ 10 Gu, Vincent            OPWBK00L   861   928/ 84  D1  W14 L9  W13 L4  2.5
+ 11 Gray, Carter           COSBH33E   855   852/ 20  L9  W17 W13 L2  L8  2.0
+ 12 Zhang, Patrick         SSSCK01J   840   829/230  L5  W18 L8  W15 L7  2.0
+ 13 Simons, Winston        LKDCK28S   896   857/ 30  L3  W15 L11 L10 W17 2.0
+ 14 Bolisetty, Varun       CBRDJ73Z   978   942/133  L6  L10 W18 L8  W16 2.0
+ 15 Kakarlapudi, Jairam IshMEDC585M   716   696/ 50  L16 L13 W17 L12 W18 2.0
+ 16 Koster, John           SPTBJ88T  1026   975/110  W15 D6  L3  L4  L14 1.5
+ 17 Ma, Caroline           BCSCK93V   699   639/ 79  L4  L11 L15 W18 L13 1.0
+ 18 Zhou, Owen             MEDCG91Y   200   240/  5  L2  L12 L14 L17 L15 0.0

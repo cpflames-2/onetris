@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ge, Jeremy             SOMCJ88K  1212  1290/262  W3  W2  W4  3.0
+  2 Juarez-caballero, CristISMHD76Z  1130  1137/181  W4  L1  D3  1.5
+  3 Krogstad, Jaxon        NCSDJ88M  1122  1131/155  L1  W4  D2  1.5
+  4 Li, Harry              SPTFG30G  1135  1069/459  L2  L3  L1  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sova, Lawrence         SDAEK08T   483   632/ 15  W3  W4  W2  3.0
+  2 Bergan, Eric           SFZDZ96R   569   575/ 92  W4  W3  L1  2.0
+  3 Ross, Damian           HSSEZ89Q   453   433/ 65  L1  L2  W4  1.0
+  4 Headley, Austin        SDADZ802   375   315/ 15  L2  L1  L3  0.0

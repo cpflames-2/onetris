@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Dimaria, Joey          CTXFZ71C   500   533/  2  W2  D3  BYE 2.5
+  2 Dominello, William     CTXFZ71B   500   400/  2  L1  BYE W3  2.0
+  3 Dimaria, Henry         CTXCZ713   200   267/  2  BYE D1  L2  1.5
+
+ All Unrated-player Section: Ratings capped at 1000

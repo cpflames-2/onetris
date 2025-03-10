@@ -1,0 +1,10 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Bell, Raimi            OBKHF77Y  1173  1197/ 66  W7  W4  W3  D2  W6  4.5
+  2 Judd, George           PURFJ57F   728   933/ 44  WF  W8  W5  D1  W4  4.5
+  3 Bui, Bryant            RDSFH52W  1075  1078/ 55  W5  W6  L1  W7  W8  4.0
+  4 Anbuselvam, Mithran    HEAGH61F  1051  1021/131  W9  L1  W7  W6  L2  3.0
+  5 Einarson, Aiden        OBKGD84D   688   698/167  L3  BYE L2  W8  W9  3.0
+  6 Ewing, Aidan           OBKFG78F   500   756/  5  W8  L3  W9  L4  L1  2.0
+  7 Buractaon, Alexander   OBKFG78E   500   645/  4  L1  W9  L4  L3  BYE 2.0
+  8 Scheese, Walden        HSCGG85G   733   616/  9  L6  L2  BYE L5  L3  1.0
+  9 Luong, Liam            SLHFG78E   500   251/  4  L4  L7  L6  BYE L5  1.0

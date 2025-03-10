@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Mahale, Avneesh        CNHC993F  1070  1091/211  W2  W3  L4  2.0
+  2 Qin, Skyler            OPWBJ97T  1047  1075/108  L1  W4  W3  2.0
+  3 Krogstad, Jaxon        NCSDJ88M  1039  1019/146  W4  L1  L2  1.0
+  4 Mangla, Atharv         GRREK07C  1072  1043/154  L3  L2  W1  1.0

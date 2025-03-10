@@ -1,0 +1,24 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Syal, Yash             PFCGC10R  1602  1603/202  W6  W13 D4  W11 3.5
+  2 Shi, Gavin             LCOKH855  1538  1548/431  W8  W14 D5  W3  3.5
+  3 Liu, Yichen            TMBII31R  1421  1429/ 19  W15 W16 W11 L2  3.0
+  4 Patel, Aarya           REJGK30E  1404  1422/198  W9  W20 D1  D5  3.0
+  5 Durbhakula, Lalith     TMBL332Z  1322  1347/117  W18 W21 D2  D4  3.0
+  6 Chaurasia, Vihaan      REJHH65G  1120  1192/186  L1  W19 W21 W13 3.0
+  7 Chen, Julian           CNHCK32C  1168  1140/ 88  L21 W18 W23 D9  2.5
+  8 Helmy, Yaseen          MEDFH64B  1108  1125/ 26  L2  D17 W22 W16 2.5
+  9 Lin, Ethan             TYEGJ71H  1058  1170/ 64  L4  W12 W10 D7  2.5
+ 10 Randall, Dylan         TWAGW79H  1329  1272/  4  L16 W15 L9  W19 2.0
+ 11 Anand, Lakshana        TMBGC68H  1227  1221/144  W19 W22 L3  L1  2.0
+ 12 Ye, Alex               ENDFH51L  1215  1160/170  L20 L9  W17 W23 2.0
+ 13 Zhao, Dennis           OPWI525E  1187  1178/383  W17 L1  W20 L6  2.0
+ 14 Raghavendra, Srihari   INGIH19D  1148  1127/ 70  W23 L2  L16 W22 2.0
+ 15 Chirita, Robert        LCNLE428  1106  1105/129  L3  L10 W18 W20 2.0
+ 16 Thungathurthi, PranavarINGIG82R  1090  1132/ 81  W10 L3  W14 L8  2.0
+ 17 Panda, Sourish         NJHGK98E   903   930/ 51  L13 D8  L12 W21 1.5
+ 18 Anbuselvam, Mithran    HEAGH61F   803   783/ 77  L5  L7  L15 BYE 1.0
+ 19 Du, Charles            SOMFA15U   937   910/140  L11 L6  BYE L10 1.0
+ 20 Li, Emma               THREJ98A   914   930/ 63  W12 L4  L13 L15 1.0
+ 21 Zhen Rampenthal, Quinn SASIH53C   984   972/ 14  W7  L5  L6  L17 1.0
+ 22 Nandeesh, Tavishna     CAVEH61E   815   792/ 37  BYE L11 L8  L14 1.0
+ 23 Thoppay, Hrithick      BRHEH35N   400   722/  3  L14 BYE L7  L12 1.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Leneway, Owen          CSIEK91V  1122  1153/ 90  W2  W3  W4  3.0
+  2 Marriott, Nicolas      HTNGH52X   902   936/ 16  L1  W4  W3  2.0
+  3 Lee, Angie             CSIEG79W  1029   913/  6  W4  L1  L2  1.0
+  4 Lee, Aiden             HZFBG79U   735   654/  6  L3  L2  L1  0.0

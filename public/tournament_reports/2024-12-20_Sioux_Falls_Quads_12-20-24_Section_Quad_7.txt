@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Rostomily, Josten      SD8FZ75H   200   431/ 12  W2  W4  W5  3.0
+  2 Fjeldheim, Caden       SFGGZ99L   274   321/  9  L1  W6  W4  2.0
+  3 Michael, Elliot        SFVCZ87P   156   218/  9  L4  W5  W6  2.0
+  4 Winner, Mason          SDAEZ73Z   309   270/  8  W3  L1  L2  1.0
+  5 Mcfayden, Skylar       SDBHZ75Q   285   250/ 24  W6  L3  L1  1.0
+  6 Neff, Zachary          ABEBH77E   299   180/ 19  L5  L2  L3  0.0

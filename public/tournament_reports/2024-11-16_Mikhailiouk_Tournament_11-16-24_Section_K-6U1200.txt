@@ -1,0 +1,24 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Shapiro, Maksim        LMAFK10R  1005  1119/ 73  W17 D11 W20 W4  W3  4.5
+  2 Upasani, Neil          SSMFJ57C  1177  1178/ 93  WF  W7  L9  W8  W6  4.0
+  3 Zhang, Bowen           REEEK46L  1043  1086/ 53  W15 W13 W10 W9  L1  4.0
+  4 Puranik, Armin         SSMEJ56Z   905  1053/ 48  W11 WF  W8  L1  W9  4.0
+  5 Ren, Easton            CMCBH68Z   819   919/ 49  W7  L20 W11 D13 W12 3.5
+  6 Pan, Peng-yu           SSMDK24P  1094  1070/175  W18 L8  W16 W10 L2  3.0
+  7 Anbuselvam, Mithran    HEAGH61F   921   940/ 65  L5  L2  W15 W18 W13 3.0
+  8 Fan, Theodore          LTLCK42S   927   968/ 85  W19 W6  L4  L2  W16 3.0
+  9 Ivanov, Matvei         EABDK34E   951   985/ 67  W21 W22 W2  L3  L4  3.0
+ 10 Meka, Suhaas           NOVGJ51J   895   901/ 82  W23 W14 L3  L6  W17 3.0
+ 11 Shaikot, Sabeer        EVJG147Q  1136  1074/261  L4  D1  L5  W21 W20 2.5
+ 12 Singhal, Aryash        SYCF595L   694   752/113  L13 D15 W19 W14 L5  2.5
+ 13 Pan, Peng-chi          SSMDK24N   930   889/161  W12 L3  D17 D5  L7  2.0
+ 14 Nishino, Anne          BCADH74F   866   802/ 77  D20 L10 W21 L12 D15 2.0
+ 15 Xia, Jethro            BCSFK47R   843   807/112  L3  D12 L7  W23 D14 2.0
+ 16 Gu, Leo                SCDCK31Y   835   815/ 53  W22 L21 L6  W19 L8  2.0
+ 17 Bhatt, Rayaan          EPSGH76P   729   719/ 15  L1  W23 D13 D20 L10 2.0
+ 18 Jayasinghe, Sihas      TMBHJ83E   827   778/ 38  L6  L19 W23 L7  W21 2.0
+ 19 Soykal, Toprak         MMEEK25R   719   702/ 51  L8  W18 L12 L16 W23 2.0
+ 20 Sameneni, Shivanga     TYEGJ39W   508   667/ 10  D14 W5  L1  D17 L11 2.0
+ 21 Venkatesan, Vaibhav    SSMEJ56L   583   592/ 56  L9  W16 L14 L11 L18 1.0
+ 22 Baruch, Noam           PHAFJ83G   999   924/ 40  L16 L9  U   U   U   0.0
+ 23 Velazco, David         CSBFH40P   500   301/  5  L10 L17 L18 L15 L19 0.0

@@ -1,0 +1,16 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Joseph, George         CDIDH11C   534   619/ 13  W12 W4  W2  W3  4.0
+  2 Sealey, Isaac          SNIEK43S   252   370/ 26  W8  W5  L1  W7  3.0
+  3 Kamasani, Dharshith    BLWEJ06Q   460   476/ 32  W13 W7  W6  L1  3.0
+  4 Treves, Simon          NOWEK28A   121   276/  9  W14 L1  W13 W6  3.0
+  5 Dragan, Sara           BCSFH67B   102   254/ 13  W11 L2  W8  W9  3.0
+  6 Karthikeyan, Akhilan   CRKFH13C   329   301/ 14  W10 W9  L3  L4  2.0
+  7 Dragan, Alexander      MCICH67A   185   210/ 18  W15 L3  W10 L2  2.0
+  8 Zambrano, Ivanna       ISECH23L   100   100/  7  L2  BYE L5  W14 2.0
+  9 Yan, Dana              SOMEH13B   100   100/  7  BYE L6  W12 L5  2.0
+ 10 Yan, Nolan             SOMBH13A   100   135/  8  L6  W14 L7  W12 2.0
+ 11 Feng, Michael          CBRCG87H   200   100/  3  L5  L12 BYE W13 2.0
+ 12 Nikfard, Finn          TIMCH11L   100   100/  6  L1  W11 L9  L10 1.0
+ 13 Mutha, Vihaan          CNHBH79R   100   100/ 10  L3  W15 L4  L11 1.0
+ 14 Khandelwal, Aadi       SESCG87G   200   100/  4  L4  L10 W15 L8  1.0
+ 15 Chaturvedi, Aryan      TIMAG87F   100   100/  3  L7  L13 L14 BYE 1.0

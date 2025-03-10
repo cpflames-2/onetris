@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 tot 
+  1 Kirzon, Simon          CTXFZ69W   587   642/  7  W3  W4  2.0
+  2 Kelly, Brendan         CTXFZ69U   447   490/  7  U   W3  1.0
+  3 Walsh, Teddy           CTXCZ69T   439   366/  7  L1  L2  0.0
+  4 Stange, Ira            CTXFZ69V   447   421/  7  U   L1  0.0

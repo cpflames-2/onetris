@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhang, Owen            SHMJ995H  1495  1509/313  W3  D2  W4  2.5
+  2 Stroud, Jeb            SHMJK22V  1487  1502/160  W4  D1  W3  2.5
+  3 Vendeland, Alexa       HSCI441X  1359  1336/123  L1  W4  L2  1.0
+  4 Qureshi, Danish        BLNHF36V   962   951/148  L2  L3  L1  0.0

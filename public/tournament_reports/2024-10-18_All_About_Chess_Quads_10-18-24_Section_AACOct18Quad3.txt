@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Pan, Peng-chi          SSMDK24N   908   966/148  W4  L2  W3  2.0
+  2 Jahani, Nikan          SNIGK89A   971   970/112  D3  W1  L4  1.5
+  3 Bhasin, Palash         SNIGH95H   948   954/ 49  D2  W4  L1  1.5
+  4 Nandakiran, Vidyuth    SSMF617C  1020   980/119  L1  L3  W2  1.0

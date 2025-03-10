@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ye, Alex               ENDFH51L  1174  1215/197  W2  W4  D3  2.5
+  2 Han, Kaiyi             SOMCK42P  1084  1128/108  L1  W3  W4  2.0
+  3 Chu, Skylar            SOMD579R  1149  1120/ 79  D4  L2  D1  1.0
+  4 Krogstad, Jaxon        NCSDJ88M  1090  1052/140  D3  L1  L2  0.5

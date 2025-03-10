@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Xu, Zoe                SOMFG70A  1514  1545/372  W3  W4  W2  3.0
+  2 Burtram, Dayton        SKNJG77M  1467  1467/334  W4  W3  L1  2.0
+  3 Dharamshi, Anay        CBRDK42U  1227  1233/165  L1  L2  W4  1.0
+  4 Ge, Jeremy             SOMCJ88K  1236  1194/256  L2  L1  L3  0.0

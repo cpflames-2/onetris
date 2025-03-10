@@ -1,0 +1,60 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Wong, Gabriel          HEAGH35K   724   981/  9  W29 W19 W12 W13 W4  5.0
+  2 Sinha, Ishayu          CDWGJ24F   731  1000/ 40  W37 W16 W17 W14 W11 5.0
+  3 Dragusanu, Clara       SSMFH81S   656   873/ 48  W50 W6  W34 D11 W12 4.5
+  4 Anbuselvam, Mithran    HEAGH61F   848   932/106  W30 W25 W5  W8  L1  4.0
+  5 Gridasov, Robert       LAVEJ03F   704   865/ 26  W48 W7  L4  W19 W21 4.0
+  6 Qureshi, Haroon        RBREJ95Y   780   805/ 36  W42 L3  W36 W22 W18 4.0
+  7 Chenchu Arun, Krish    SSMFJ74U   839   866/ 54  W41 L5  W46 W17 W15 4.0
+  8 Kini, Arjun            SSMFH88B   643   769/ 40  W53 W31 W28 L4  W13 4.0
+  9 Chen, Kevin            AUDFJ87P   709   811/ 30  W52 L11 W53 W16 W14 4.0
+ 10 Ni, Nicole             JINEJ03A   499   723/ 25  L13 W56 W35 W34 W20 4.0
+ 11 Chadha, Saahan         ENDEK64R   847   883/ 46  W44 W9  W22 D3  L2  3.5
+ 12 Fang, Weiai            LAVE696W   871   871/266  W27 W24 L1  W25 L3  3.0
+ 13 Zhou, Muchen           CMCFH25C   767   811/ 10  W10 W32 W26 L1  L8  3.0
+ 14 Bhandari, Aarav        CBREJ06H   972   937/ 90  W38 W40 W15 L2  L9  3.0
+ 15 Gorski, Corvin         KSTEJ74N   695   752/ 43  W18 W20 L14 W23 L7  3.0
+ 16 Gaddam, Vihaan         SSMFJ28E   871   852/ 40  W39 L2  W27 L9  W44 3.0
+ 17 Hogue, Tyler           OHMGH12A   701   743/ 10  W57 W21 L2  L7  W43 3.0
+ 18 Brahnmath, Manan       WOBF988N   100   363/ 14  L15 W33 W40 W24 L6  3.0
+ 19 Jayasinghe, Sihas      TMBGJ83E   862   842/ 47  W51 L1  W41 L5  W45 3.0
+ 20 Wernsing, Michael      SSMFJ93Y   810   787/ 25  W33 L15 W38 W26 L10 3.0
+ 21 Nandeesh, Tavishna     CAVEH61E   782   764/ 52  W46 L17 W37 W32 L5  3.0
+ 22 Krzeszowski, Anthony   CPBGI41R   661   683/ 43  W55 W23 L11 L6  W36 3.0
+ 23 Peng, Eric             INGGJ31E   800   765/ 74  W36 L22 W42 L15 W28 3.0
+ 24 Prasanna, Charan       LMAEJ46Z   740   703/ 52  W49 L12 W48 L18 W39 3.0
+ 25 Bayya, Shrihan         CBREJ74M   712   709/ 23  W59 L4  W49 L12 W38 3.0
+ 26 Soykal, Toprak         MMEEK25R   702   699/ 55  WF  W35 L13 L20 W41 3.0
+ 27 Le, An                 MHEEJ73S   638   656/ 19  L12 W54 L16 W53 W34 3.0
+ 28 Pai, Samiksha          SSMEJ19X   494   592/ 95  D31 W45 L8  W29 L23 2.5
+ 29 Pentam, Avish          BCAEJ97W   460   564/ 20  L1  D30 W31 L28 W51 2.5
+ 30 Phaneesh, Saanvi       SSMF983M   591   602/ 84  L4  D29 W52 D35 D32 2.5
+ 31 Gupta, Satvik          EMDEK00A   744   682/ 20  D28 L8  L29 W54 W48 2.5
+ 32 Lechner, Ryker         HSCG496J   687   657/109  W56 L13 W43 L21 D30 2.5
+ 33 Sivanand, Raga         OPWEG97Z   535   512/ 50  L20 L18 W55 W52 D35 2.5
+ 34 Anant Sundaram, Parth  SSMEJ56Q   746   695/ 50  W54 W43 L3  L10 L27 2.0
+ 35 Jiang, Mason           LMSFH66Y   802   712/ 47  W58 L26 L10 D30 D33 2.0
+ 36 Shrivastava, Amogh     SHSFJ11M   524   527/ 39  L23 W55 L6  W40 L22 2.0
+ 37 Armstrong, Benjamin    EVGEK54R   473   479/ 53  L2  W39 L21 L44 W53 2.0
+ 38 Venkatesan, Vaibhav    SSMEJ56L   591   571/ 66  L14 W47 L20 W50 L25 2.0
+ 39 Sane, Anay             SSMEJ56T   632   585/ 55  L16 L37 W47 W46 L24 2.0
+ 40 Fernandes, Caleb       MCEEH52V   720   631/ 20  W47 L14 L18 L36 W52 2.0
+ 41 Xu, William            DCTEK93M   536   534/131  L7  W59 L19 W49 L26 2.0
+ 42 Li, Jacob              TMBGE48C   502   472/  9  L6  W50 L23 L45 W57 2.0
+ 43 Dai, Aaron             CMCEH06E   400   525/  5  W45 L34 L32 W58 L17 2.0
+ 44 Kedia, Karan           CMCF874T   562   500/  8  L11 L52 W57 W37 L16 2.0
+ 45 Khanzode, Advait       SSMEJ56W   660   604/ 69  L43 L28 W54 W42 L19 2.0
+ 46 Sethanandha, Marvin    CSIEH88K   505   480/ 15  L21 W57 L7  L39 W55 2.0
+ 47 Gupta, Dhruva          CMCEH24Z   340   358/ 10  L40 L38 L39 W56 W58 2.0
+ 48 Mahadikar, Pratvi      JUAEJ31A   286   343/ 36  L5  W58 L24 D51 L31 1.5
+ 49 Koul, Navika           MOBEJ83L   487   452/ 63  L24 W51 L25 L41 D50 1.5
+ 50 Deng, Marvin           STMEH06D   400   240/  4  L3  L42 BYE L38 D49 1.5
+ 51 Sajeeth, Samay         RKWFJ82R   612   516/ 48  L19 L49 W59 D48 L29 1.5
+ 52 Ip, Evan               SOMFI14G   301   313/ 28  L9  W44 L30 L33 L40 1.0
+ 53 Agarwal, Advik         RBREH06C   400   100/  4  L8  BYE L9  L27 L37 1.0
+ 54 Mccollum, Jack         SABEH52R   499   411/ 10  L34 L27 L45 L31 W59 1.0
+ 55 Kennedy, Rudy          SBAFH06B   500   100/  4  L22 L36 L33 BYE L46 1.0
+ 56 Murugesan, Dharshini   RHJGH06A   600   100/  4  L32 L10 L58 L47 BYE 1.0
+ 57 Zhao, Jinyi            DCCFJ03M   236   227/ 17  L17 L46 L44 W59 L42 1.0
+ 58 Sarangi, Samarth       CBREH69F   510   399/ 52  L35 L48 W56 L43 L47 1.0
+ 59 Monge, Felipe          SMCEH24Y   331   199/ 10  L25 L41 L51 L57 L54 0.0

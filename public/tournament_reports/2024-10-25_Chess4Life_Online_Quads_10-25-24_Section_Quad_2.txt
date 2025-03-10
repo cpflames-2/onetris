@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ginotra, Karman        RKWFB15D  1122  1150/ 77  W4  L2  W3  2.0
+  2 Zhao, Dennis           OPWI525E  1173  1187/379  L3  W1  W4  2.0
+  3 Bui, Edwin             FRVFK90H  1098  1085/109  W2  L4  L1  1.0
+  4 Singh, Atharva         SKIIK06G  1154  1126/ 59  L1  W3  L2  1.0

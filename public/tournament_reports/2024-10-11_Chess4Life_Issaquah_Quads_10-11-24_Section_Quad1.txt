@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bravenboer, Jake       OPWEJ97Y  1117  1183/115  W3  D4  W2  2.5
+  2 Chaporkar, Nihar       ENSEK65B  1287  1273/ 89  W4  W3  L1  2.0
+  3 Lewis, Donovan         CACHH60Q  1037  1030/  9  L1  L2  W4  1.0
+  4 Holostov, Michael      PLKHJ94C  1020   995/ 38  L2  D1  L3  0.5

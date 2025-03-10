@@ -1,0 +1,19 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Vanderschoor, Peyton   JMLG490Y   831  1134/ 89  W13 W8  D2  W3  W9  4.5
+  2 Lum, Boaz              LIBDJ62C   970  1159/ 62  W17 W4  D1  W12 W5  4.5
+  3 Mosqueda, Luke         LIBEH90L   945  1108/ 45  W6  W5  W12 L1  W8  4.0
+  4 Bates, Lucas           LLMGK96Q  1165  1140/ 40  W15 L2  W13 L5  W11 3.0
+  5 Naungayan, Landon      RRGGJ80K  1117  1108/ 55  W18 L3  W15 W4  L2  3.0
+  6 Phillips, Henry        MCGFH43N   820   933/ 15  L3  W18 W7  L8  W12 3.0
+  7 Lukson, Luka           CMLGF91D  1082  1045/ 70  L10 W11 L6  W16 W14 3.0
+  8 Yuan, Edward           LLMGK69S  1033  1017/ 93  W14 L1  D10 W6  L3  2.5
+  9 Chavez, Jessie         BMCFK53S  1029  1004/ 59  D11 L13 W14 W10 L1  2.5
+ 10 Menjivar, Bryan        OCHGJ80L   847   877/ 55  W7  L12 D8  L9  W17 2.5
+ 11 Chin, Ian              LECFF95D   834   883/115  D9  L7  W18 W15 L4  2.5
+ 12 Vasquez, Mateo         MCUFK26G   973   946/130  W16 W10 L3  L2  L6  2.0
+ 13 Hong, Samira           MCGEB77R   989   960/102  L1  W9  L4  L14 W18 2.0
+ 14 Ramirez, Kane          WIWEJ72E   844   850/113  L8  W16 L9  W13 L7  2.0
+ 15 Chavez, Israel         MCUFK69M   890   876/ 75  L4  W17 L5  L11 W16 2.0
+ 16 Mckenzie, Aaron        LIBDH42H   801   726/ 10  L12 L14 W17 L7  L15 1.0
+ 17 Carranza, Aly Omar     RCEEJ78V   808   754/ 45  L2  L15 L16 W18 L10 1.0
+ 18 Hemperly, Harper       HSCFI09E   886   776/102  L5  L6  L11 L17 L13 0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Elmamouni, Adi         SDSGX58V   668   772/183  W3  W4  W2  3.0
+  2 Neff, Matthew          HSSI217P   610   610/ 85  W4  D3  L1  1.5
+  3 Beynon, Jaxon          SDSDZ89P   555   573/ 65  L1  D2  W4  1.5
+  4 Terpstra, John         SDSFZ845   574   496/ 49  L2  L1  L3  0.0

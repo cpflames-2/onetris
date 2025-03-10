@@ -1,0 +1,19 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Deng, Stanley          LLMGK22E  1577  1596/340  W11 W10 W4  W9  W5  5.0
+  2 Anbuselvam, Mithran    HEAGH61F   793  1007/ 49  L7  W14 W10 W13 W8  4.0
+  3 Mcintyre, John         HSCGJ63F   937  1025/ 50  W15 L5  W13 D4  W9  3.5
+  4 Bingo, Julian          LBYGK50N   909  1011/ 30  W17 W7  L1  D3  W14 3.5
+  5 Keener, Karl           HLHJY40G  1303  1279/157  W12 W3  L9  W8  L1  3.0
+  6 Zhou, Bryan            LBYHK50Q  1163  1132/ 30  W13 L9  L8  W7  W12 3.0
+  7 Grace, Leo             HSCEH68U  1083  1069/ 15  W2  L4  W17 L6  W11 3.0
+  8 Elkins, Indiana        HSCJC15D  1070  1079/ 88  W18 W11 W6  L5  L2  3.0
+  9 Bai, Kelin             SKKGD75J   898  1028/232  W14 W6  W5  L1  L3  3.0
+ 10 Lindly, Kellen         SRIGK06E   999   949/ 53  W16 L1  L2  L14 W15 2.0
+ 11 Zhou, Ethan            LBYFK50C   896   903/ 35  L1  L8  W12 W17 L7  2.0
+ 12 Grace, Sophia          HSCCH68T   882   857/ 14  L5  W15 L11 BYE L6  2.0
+ 13 Lund, Connor           ICPMY66Q   854   842/ 28  L6  W16 L3  L2  W17 2.0
+ 14 Ji, Melody             SGSDA83X   702   754/ 83  L9  L2  W16 W10 L4  2.0
+ 15 Wang, Kelby            SKKE796Y   763   736/156  L3  L12 D18 W16 L10 1.5
+ 16 Grace, Serena          HSCFH54P   791   625/  9  L10 L13 L14 L15 BYE 1.0
+ 17 Hsu, Max               LBYEK05W   740   717/ 28  L4  W18 L7  L11 L13 1.0
+ 18 Avey, Jesse            MDRHK50F   818   763/ 80  L8  L17 D15 U   U   0.5

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Guity, Sage            SYRE251G   507   565/ 69  W3  W2  W4  ZPB ZPB 3.0
+  2 Wang, Kiara            MRPDK04A   100   274/ 30  ZPB L1  W3  ZPB W4  2.0
+  3 Nair, Vihaan           FRWBJ97F   424   367/ 33  L1  ZPB L2  W4  ZPB 1.0
+  4 Wang, Kenzo            MRPEK03Z   227   164/ 24  ZPB ZPB L1  L3  L2  0.0

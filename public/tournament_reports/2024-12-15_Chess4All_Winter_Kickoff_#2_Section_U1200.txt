@@ -1,0 +1,20 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Chillakuru, Hem        BNTKK08D   749  1083/  8  W8  W10 W6  W2  L3  4.0
+  2 Bui, Edwin             FRVFK90H  1198  1216/129  W13 W7  W3  L1  W5  4.0
+  3 Singhal, Rohit         ADUNH23J  1300  1306/  5  W12 W5  L2  W6  W1  4.0
+  4 Dsa, Orwin             ADUNH35A  1158  1137/  9  HPB W9  L5  W11 W10 3.5
+  5 Elmieh, Niko           CRKF777E   990  1041/ 77  W11 L3  W4  W12 L2  3.0
+  6 Rogovoy, Alexander     SNEFK14Y  1121  1099/ 40  W14 W18 L1  L3  W13 3.0
+  7 Anbuselvam, Mithran    HEAGH61F   842   848/101  W17 L2  WF  L10 W12 3.0
+  8 Kuluru, Samith Reddy   LEOGH48L   831   822/  9  L1  L11 W14 WF  W16 3.0
+  9 Zhen Rampenthal, Quinn SASIH53C   954   907/ 21  D16 L4  W17 D13 WF  3.0
+ 10 Agarwal, Kavir         MEDF152U   917   924/ 60  W15 L1  D11 W7  L4  2.5
+ 11 Nandeesh, Tavishna     CAVEH61E   755   782/ 47  L5  W8  D10 L4  WF  2.5
+ 12 Zhang, Patrick         SSSCK01J   843   859/201  L3  W14 W15 L5  L7  2.0
+ 13 Marella, Akhil         CHRFK93L   808   785/ 81  L2  D17 W16 D9  L6  2.0
+ 14 Xia, Jethro            BCSFK47R  1012   930/131  L6  L12 L8  BYE W15 2.0
+ 15 Sreraman, Rahul        BCAEJ42L   927   843/271  L10 W16 L12 WF  L14 2.0
+ 16 Nandeesh, Tapasya      SMSIH62Z   184   309/ 40  D9  L15 L13 W17 L8  1.5
+ 17 Singhal, Sanyukt       FRVCJ30P   509   470/ 24  L7  D13 L9  L16 BYE 1.5
+ 18 Sirsat, Sanya          BCACH60Z   268   320/ 21  W19 L6  HPB LF  LF  1.5
+ 19 Sirsat, Chetak         ADUNH48H   483   391/  6  L18 BYE LF  LF  LF  1.0

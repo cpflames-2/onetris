@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Lechner, Ryker         HSCG496J   657   822/112  W4  W2  W3  3.0
+  2 Mohammed, Farhan       CRKEH14M   658   715/ 14  W3  L1  W4  2.0
+  3 Pan, Jingyuan          EVJHH73P   723   689/ 27  L2  W4  L1  1.0
+  4 Deshmukh, Dhruv        ENDEH79Q   685   605/ 78  L1  L3  L2  0.0

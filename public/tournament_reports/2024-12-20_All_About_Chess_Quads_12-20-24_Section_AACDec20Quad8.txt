@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sathyamurthy, Shreyus  BLWCJ60Z   497   629/101  W4  W2  W3  3.0
+  2 Chang, Nathan          MMEDK42T   440   421/ 94  W3  L1  L4  1.0
+  3 Paidapathi, Kiaan      SHSCJ99C   484   451/148  L2  W4  L1  1.0
+  4 Vatsan, Maitri         SSMCK00S   430   414/127  L1  L3  W2  1.0

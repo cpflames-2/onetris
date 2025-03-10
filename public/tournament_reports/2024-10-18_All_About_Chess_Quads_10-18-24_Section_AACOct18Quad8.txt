@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Nam, Alex              BLWEH75Q   484   567/ 63  W6  W2  W3  3.0
+  2 Mirchandani, Kavir     MEDCJ97A   449   458/ 45  W5  L1  W4  2.0
+  3 Chen, Yisu             RKWBH78H   203   300/ 34  W4  W6  L1  2.0
+  4 Vatsan, Maitri         SSMCK00S   313   281/104  L3  W5  L2  1.0
+  5 Ram, Yaalini           SNECH87H   249   219/ 16  L2  L4  W6  1.0
+  6 Nandakiran, Advaith    SSMCJ88H   100   100/ 67  L1  L3  L5  0.0

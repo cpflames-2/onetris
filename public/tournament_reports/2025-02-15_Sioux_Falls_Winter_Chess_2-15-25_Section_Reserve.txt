@@ -1,0 +1,24 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Matt, Jaden            SDJGZ81R   810   969/ 14  W15 W22 W5  W2  W4  5.0
+  2 Kocer, Radek           BVIGX75B   912   931/112  W13 W7  W6  L1  W11 4.0
+  3 Spaans, Kaden          SDYHX50P   584   789/ 49  W14 W9  L4  W6  W5  4.0
+  4 Linke, Rhett           SDADZ823   821   806/ 18  L8  W10 W3  W13 L1  3.0
+  5 Mcfayden, Skylar       SFHGZ75Q   689   698/ 43  W16 W8  L1  W14 L3  3.0
+  6 Vehar, Jonah           SDBGZ96S   788   779/ 66  W12 W17 L2  L3  W7  3.0
+  7 Selken, Kordelia       SDAFX83W   578   668/169  W18 L2  W16 W9  L6  3.0
+  8 Casanova, Rafael       SFMCZ76E   449   535/ 12  W4  L5  W18 L11 W14 3.0
+  9 Neff, Nathan           ABECK07A   893   832/ 97  W23 L3  W15 L7  W16 3.0
+ 10 Neff, Zachary          ABEBH77E   426   599/ 39  W20 L4  L11 W17 W13 3.0
+ 11 Kutz-luke, Ashton      SFGIX01A   683   718/ 14  U   BYE W10 W8  L2  3.0
+ 12 Davis, Gavin           SXBFZ82F   441   469/ 35  L6  L13 BYE W18 W15 3.0
+ 13 Meyer, Henry           SFHGZ83R   524   526/ 20  L2  W12 W22 L4  L10 2.0
+ 14 Mullinix, Jaden        SD2GZ812   234   360/ 15  L3  W23 W17 L5  L8  2.0
+ 15 Dybedahl, Brooks       SDREZ767   442   455/ 10  L1  W19 L9  W22 L12 2.0
+ 16 Casanova, Isabel       SFMEZ898   422   478/ 42  L5  W20 L7  W21 L9  2.0
+ 17 Makens, Jude           SDJGX64Y   548   515/ 25  W19 L6  L14 L10 W20 2.0
+ 18 Lacroix, London        SDCDZ67B   300   405/  5  L7  W21 L8  L12 W23 2.0
+ 19 Pearson, Wyatt         SD6JZ67A   900   225/  4  L17 L15 L23 BYE W22 2.0
+ 20 Davis, Lincoln         SDSEZ99N   797   653/108  L10 L16 D21 W23 L17 1.5
+ 21 Mills, Ta'te           SDYHZ98Q   480   383/ 50  L22 L18 D20 L16 BYE 1.5
+ 22 Spaans, Keegan         SDSDX80Y   390   334/ 54  W21 L1  L13 L15 L19 1.0
+ 23 Fjeldheim, Caden       SDYGZ99L   449   372/ 21  L9  L14 W19 L20 L18 1.0

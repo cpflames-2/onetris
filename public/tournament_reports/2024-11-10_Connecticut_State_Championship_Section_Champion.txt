@@ -1,0 +1,23 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Checa, Nicolas De      NYXNX05C  2602  2603/104  W5  W7  W6  D2  3.5
+  2 Dlugy, Maxim           PAXNX05D  2601  2602/104  W15 W8  W10 D1  3.5
+  3 Kudrin, Sergey         CTXNX00D  2379  2380/119  W12 D4  W14 W10 3.5
+  4 Emmons, Alex           CTXNX00F  2138  2161/108  W22 D3  W19 D6  3.0
+  5 Wang, Bohan            MAXIX00M  2039  2057/104  L1  W22 WF  W13 3.0
+  6 Weisz, Bryan A         CTXNX05F  2212  2216/104  W11 W9  L1  D4  2.5
+  7 Yaskolko, Maxim        PAXNX05G  2174  2179/104  W17 L1  W11 D8  2.5
+  8 Santos, Natasha MoralesCTXNX00G  2100  2111/107  W16 L2  W17 D7  2.5
+  9 Bai, Jason             CTXJX10B  1931  1968/108  W19 L6  D13 W14 2.5
+ 10 Dedona, Mark           NYXNX02P  2206  2208/111  W20 W13 L2  L3  2.0
+ 11 Bhargava, Kushagra     CTXHX00P  1973  1978/115  L6  W16 L7  W18 2.0
+ 12 Wang, Connor Junda     NYXHX05H  1989  1989/104  L3  L18 W20 W17 2.0
+ 13 Ingargiola, Max        CTXLX10G  2064  2047/108  W18 L10 D9  L5  1.5
+ 14 Petraitis, Victor      CTXNX02X  1884  1883/107  HPB W21 L3  L9  1.5
+ 15 Mashkov, David AlexandeCTXLX10Q  2026  2010/107  L2  L17 W18 D16 1.5
+ 16 Zheng, Ryan            CTXBX04Y  1861  1851/105  L8  L11 BYE D15 1.5
+ 17 Kozlek Iv, Tommy       MAXDX10M  1913  1908/108  L7  W15 L8  L12 1.0
+ 18 Chu, Leon              NYXHX05N  1832  1830/104  L13 W12 L15 L11 1.0
+ 19 Bauer, Richard N       CTXNX10C  2200  2178/107  L9  W20 L4  U   1.0
+ 20 Wang, Lacey            CTXGX05K  1938  1926/104  L10 L19 L12 W21 1.0
+ 21 Vasylenko, Hennadi     CTXNX10U  1848  1822/109  BYE L14 LF  L20 1.0
+ 22 Korzeb, Peter T        CTXNX05L  1872  1859/102  L4  L5  U   U   0.0

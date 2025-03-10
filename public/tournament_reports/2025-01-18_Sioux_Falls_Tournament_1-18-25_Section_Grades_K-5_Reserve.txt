@@ -1,0 +1,18 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Neff, Katrina          ABEF159Y  1045  1085/238  W7  W5  W4  D2  W6  4.5
+  2 Winter, Noah           SDCFZ88H  1101  1116/ 85  W12 W15 W3  D1  W4  4.5
+  3 Neff, Nathan           ABECK07A   835   856/ 89  W13 W10 L2  W5  W7  4.0
+  4 Davis, Lincoln         SDSEZ99N   693   762/ 97  W14 W6  L1  W11 L2  3.0
+  5 Devish, Coale          SDSCZ80U   693   704/ 30  W9  L1  W10 L3  W13 3.0
+  6 Albrecht, Ian          SDCFZ98P   975   929/126  W11 L4  W12 W8  L1  3.0
+  7 Rostomily, Josten      SD8FZ75H   431   509/ 17  L1  W13 W16 W12 L3  3.0
+  8 Hendrickson, Eric      SDSFZ984   599   578/ 15  L10 W16 W14 L6  W11 3.0
+  9 Ertelt, Kasen          BVIFZ67Y   500   527/  5  L5  L11 W17 W14 W15 3.0
+ 10 Brown, Hendrik         SDSCZ843   245   367/ 13  W8  L3  L5  D15 W17 2.5
+ 11 Neff, Zachary          ABEBH77E   415   460/ 31  L6  W9  W15 L4  L8  2.0
+ 12 Davis, Gavin           SXBFZ82F   399   406/ 28  L2  W17 L6  L7  BYE 2.0
+ 13 Guetter, Nolan         BVIFZ95Z   387   365/ 35  L3  L7  BYE W16 L5  2.0
+ 14 Bassett, Killian       SFOEZ724   359   323/  7  L4  BYE L8  L9  W16 2.0
+ 15 Thunder, Lee Lee       PILDZ67X   300   350/  5  W17 L2  L11 D10 L9  1.5
+ 16 Kleinjan, Lucille      SDSDZ82Y   187   132/ 21  BYE L8  L7  L13 L14 1.0
+ 17 Hendrickson, Zach      SDSFZ982   589   416/ 14  L15 L12 L9  BYE L10 1.0

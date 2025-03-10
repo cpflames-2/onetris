@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Neff, Caleb            ABEKG72N  1902  1915/385  W3  W4  W2  3.0
+  2 Yusuf, Elham           SD6MZ84A  1615  1607/ 34  W4  L3  L1  1.0
+  3 Welch, James           HSSJF53F  1591  1587/240  L1  W2  L4  1.0
+  4 Ristau, William        SDQLX37G  1609  1602/141  L2  L1  W3  1.0

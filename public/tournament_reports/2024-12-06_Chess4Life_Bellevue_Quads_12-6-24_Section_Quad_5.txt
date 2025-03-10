@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Leon, Vikram           EBSCH74X   648   745/ 29  W4  D3  W2  2.5
+  2 Sang, Andy             IMBCK65W   729   740/ 78  W3  W4  L1  2.0
+  3 Gao, Eason             CHREH75U   625   640/ 51  L2  D1  W4  1.5
+  4 Magnin, Hugo           FAPCH94D   642   564/ 34  L1  L2  L3  0.0

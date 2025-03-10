@@ -1,0 +1,57 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Marroquin, Chase       CRPEJ62A   581   786/ 43  W37 W27 W4  W3  W10 5.0
+  2 Hong, Samira           MCGEB77R   725   838/ 87  W42 W18 W23 W12 W6  5.0
+  3 Menjivar, Valery       RFREJ78D   727   732/ 44  W19 W34 W13 L1  W15 4.0
+  4 Chin, Kheiron          HSCAJ19P   412   651/ 60  W49 W7  L1  W23 W12 4.0
+  5 Mosqueda, Luke         LIBEH90L   695   707/ 24  W29 W24 W15 L6  W17 4.0
+  6 Wang, Evan             LCAEJ78X   815   818/ 49  W50 W45 W14 W5  L2  4.0
+  7 Lum, Boaz              LIBDJ62C   920   887/ 41  W22 L4  W26 W34 W13 4.0
+  8 Lee, Joseph            MCGEJ00M   246   503/ 15  W26 L13 W27 W21 W14 4.0
+  9 Dutcher, Hudson        MCGDJ77X   419   442/ 44  W38 W35 L12 D11 W33 3.5
+ 10 Singh, Yuvraj          LIBDH56L   300   663/  4  HPB W41 W11 W25 L1  3.5
+ 11 Bright, Wyatt          MTPDJ52V   188   386/ 29  W56 W30 L10 D9  W16 3.5
+ 12 Farias Martinez, Enoel RFREJ00Y   604   596/ 15  W32 W16 W9  L2  L4  3.0
+ 13 Gadd, Joel             CRPEJ00U   508   541/ 20  W44 W8  L3  W18 L7  3.0
+ 14 Nelson, Miloe          CRPE915Y   519   514/ 66  W43 W53 L6  W24 L8  3.0
+ 15 Rosenbaum, Conlee      MCGDJ22Z   433   446/ 25  W51 W48 L5  W20 L3  3.0
+ 16 Correa, River          MCGCJ23C   250   322/ 20  W31 L12 W35 W45 L11 3.0
+ 17 Billings, Atlas        MCGEJ44X   432   432/ 24  L23 W47 W32 W36 L5  3.0
+ 18 Vasquez, Josue         MCUEJ53D   289   340/ 30  W52 L2  W48 L13 W37 3.0
+ 19 Worthington, Andrew    LIBCJ52Q   114   253/ 31  L3  D40 D28 W35 W45 3.0
+ 20 Epperson, Owen         MTPDJ52U   259   276/ 24  L35 W54 W31 L15 W36 3.0
+ 21 Franco, Rozlind        MTPEJ78S   379   353/ 20  L48 W51 W37 L8  W29 3.0
+ 22 Campbell, Arianna J    RFREJ00E   187   318/ 15  L7  W49 L25 W48 W34 3.0
+ 23 Rinehart, Christian    CRPEH56J   400   548/  5  W17 W25 L2  L4  D24 2.5
+ 24 Reagan, Paxton         MCGDK96W   348   370/ 65  W28 L5  W38 L14 D23 2.5
+ 25 Johnson, Ramses        MCGCK53Q   536   478/ 55  W39 L23 W22 L10 D26 2.5
+ 26 Duarte, Jonathan       MCUEJ44T   210   292/ 24  L8  W44 L7  W49 D25 2.5
+ 27 Webb, Bode             LIBBJ77Y   284   291/ 48  W55 L1  L8  D38 W46 2.5
+ 28 Kniveton, Logan        MTPCH56H   200   240/  5  L24 D29 D19 W42 D30 2.5
+ 29 Schlegel, Atticus      MCGDJ77V   106   184/ 29  L5  D28 W50 W46 L21 2.5
+ 30 Pena, Leo              HTECJ00S   246   228/ 19  D36 L11 D40 W51 D28 2.5
+ 31 Cark, Ellie            LIVEH56G   400   215/  5  L16 W50 L20 D43 W47 2.5
+ 32 Bawden, Sawyer         MCUCJ45U   100   185/ 23  L12 W52 L17 D41 W50 2.5
+ 33 Ghosh, Ishaan          SAECH56F   200   264/  4  HPB D36 D45 W39 L9  2.5
+ 34 Van, Minh              CRPEJ23N   364   351/ 25  W40 L3  W43 L7  L22 2.0
+ 35 Bravo Rosales, Juan PabRFREH56E   400   208/  5  W20 L9  L16 L19 W49 2.0
+ 36 Ottem, John            LIBEH56D   400   213/  5  D30 D33 W53 L17 L20 2.0
+ 37 Chavez, Alex           LIVEH56C   400   230/  5  L1  W55 L21 W40 L18 2.0
+ 38 Galbraith, Seth        MTPEH56B   400   193/  5  L9  W42 L24 D27 D39 2.0
+ 39 Lum, Enoch             LIBAH56A   100   170/  5  L25 D46 W41 L33 D38 2.0
+ 40 Shipley, John          MTPDH55Z   300   156/  5  L34 D19 D30 L37 W48 2.0
+ 41 Hernandez, Mathias     MTPDH55Y   300   154/  5  D47 L10 L39 D32 W51 2.0
+ 42 Ramos, Allison         CRPEH89V   100   123/  9  L2  L38 W52 L28 W55 2.0
+ 43 Morado, Derrick        MTPDH55X   300   184/  5  L14 W56 L34 D31 D44 2.0
+ 44 Lum, Isaiah            LIBAH55V   100   158/  5  L13 L26 D54 W55 D43 2.0
+ 45 Andring, Jesse         MTPDJ00T   351   265/ 10  W54 L6  D33 L16 L19 1.5
+ 46 Shipley, James         MTPEH55U   400   100/  5  L53 D39 W47 L29 L27 1.5
+ 47 Badillo-chavez, LeandroMCUDJ78C   227   153/ 30  D41 L17 L46 W52 L31 1.5
+ 48 Lum, Malachi           LIBAH55T   100   100/  5  W21 L15 L18 L22 L40 1.0
+ 49 Jacobson, Oliver       LIBCH55S   200   100/  5  L4  L22 W56 L26 L35 1.0
+ 50 Hernandez, Ezekiel     MTPDJ78B   164   105/ 29  L6  L31 L29 W56 L32 1.0
+ 51 Nalley, Wyatt          LIBBH55R   100   100/  5  L15 L21 W55 L30 L41 1.0
+ 52 Epperson, Peyton       MTPCH55Q   200   100/  5  L18 L32 L42 L47 W56 1.0
+ 53 Kershaw, Tanner        LIVDH90D   258   213/  8  W46 L14 L36 ZPB ZPB 1.0
+ 54 Kershaw, Ellie         LIVBH55P   100   100/  3  L45 L20 D44 ZPB ZPB 0.5
+ 55 Simpkins, Wesson       MTPCH55N   200   100/  5  L27 L37 L51 L44 L42 0.0
+ 56 Marroquin, Owen        CRPBH55M   100   100/  5  L11 L43 L49 L50 L52 0.0

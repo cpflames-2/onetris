@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Frost, Ignatius        SHMLJ64P  1489  1508/118  W5  D2  W3  2.5
+  2 Kuzin, Ethan           SHMM7567  1469  1491/329  W6  D1  W4  2.5
+  3 Love, Charles          SHMM458N  1291  1300/112  W4  D6  L1  1.5
+  4 Kozaczuk, James        BHMJ108A  1351  1327/224  L3  W5  L2  1.0
+  5 Bosch, Declan          LYEKE38K  1245  1239/ 77  L1  L4  W6  1.0
+  6 Palmer, Evan           BHMLI90S  1230  1203/189  L2  D3  L5  0.5

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Lam, Sebastian         OPWCJ97R   607   668/ 66  D2  W3  W4  2.5
+  2 Gao, Eason             CHREH75U   497   625/ 48  D1  W4  W3  2.5
+  3 Kesher, Zavi           BENEH62L   519   503/ 23  W4  L1  L2  1.0
+  4 Grimm, Rocco           EHACH50N   562   464/ 11  L3  L2  L1  0.0

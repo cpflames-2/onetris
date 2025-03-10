@@ -1,0 +1,15 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Litvin, Lev            WKECJ25U   838   883/ 35  W7  W10 W2  W3  W5  5.0
+  2 Reynolds, Elliot       WKECJ64U   594   675/ 35  W12 W5  L1  W4  W7  4.0
+  3 Weinberger, Mateo      WKEDJ64V   471   518/ 29  W11 W6  D4  L1  W9  3.5
+  4 Cleary, Marco          SMWDJ16G   533   510/ 18  D9  W13 D3  L2  W10 3.0
+  5 Pauley, Cameron        WKEDG98A   300   519/  5  W14 L2  W9  W10 L1  3.0
+  6 Vader-davidson, GabrielWKECG97Y   200   371/  5  W13 L3  D7  D9  W11 3.0
+  7 Ross, Maxwell          BFMDG97X   300   424/  5  L1  W11 D6  W8  L2  2.5
+  8 Eastman, Ezekiel       CIADG97W   300   152/  5  L10 L9  W14 L7  W13 2.0
+  9 Bae, Micaiah           FACDJ64T   269   289/ 40  D4  W8  L5  D6  L3  2.0
+ 10 Roesch, Jalen          BLECG97V   200   242/  4  W8  L1  X12 L5  L4  2.0
+ 11 Probasco, Otis         WKECG97U   200   148/  4  L3  L7  W13 X12 L6  2.0
+ 12 Statzel, Manny         CEEDG97T   300   385/  2  L2  W14 F10 F11 U   1.0
+ 13 Jacobson, Emily        SILDG97R   300   100/  5  L6  L4  L11 W14 L8  1.0
+ 14 Lertzman, Mela         WKEDH39J   100   100/  9  L5  L12 L8  L13 BYE 1.0

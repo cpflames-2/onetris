@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Trifunovic, Nenad      ADONW78P  1300  1666/  5  W4  W2  D3  W6  W5  4.5
+  2 Von Dassow, Misha      LHNIP55K  1498  1517/ 69  W3  L1  W5  W4  W6  4.0
+  3 Morse, Frank           HSOMW762  1449  1424/386  L2  W6  D1  L5  W4  2.5
+  4 Bell, Ryan             MPHLW78N  1100  1203/  5  L1  D5  W6  L2  L3  1.5
+  5 Thompson, Jeremiah     CQHIW97T  1158  1165/ 61  L6  D4  L2  W3  L1  1.5
+  6 Havill, Mark           ADONW78M  1300  1123/  5  W5  L3  L4  L1  L2  1.0

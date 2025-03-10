@@ -1,0 +1,35 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Inforzato, Andrew      HABIH09C   800  1473/  5  W29 W4  W10 W3  W2  5.0
+  2 Nishio, Risko          LIYHH09B   700  1168/  5  W21 W28 W7  W8  L1  4.0
+  3 Hendricks, Jonathan    FRCHH09A   700  1198/  5  W32 W5  W9  L1  W11 4.0
+  4 Ellis, Bodhi           TCOHH08Z   700  1128/  5  W13 L1  W30 W12 W9  4.0
+  5 Daniel, Evan           YLMIH08Y   800  1051/  5  W30 L3  W13 W19 W8  4.0
+  6 Damrau, Austin         ELKGK95E  1111  1090/ 85  L14 W20 W29 W10 W16 4.0
+  7 Hergesheimer, Avery    MTIHH08X   700   873/  5  W20 W22 L2  D16 W17 3.5
+  8 Huang, Danny           MEKIH08V   800   921/  5  W11 W27 W16 L2  L5  3.0
+  9 Shaeffer, Hudson       MASGH08U   600   866/  5  W26 W14 L3  W21 L4  3.0
+ 10 Traicoff, Truce        KSLHH08S   700   876/  5  W34 W15 L1  L6  W23 3.0
+ 11 Young, Asher S         ELKIH08R   800   832/  5  L8  W23 W22 W14 L3  3.0
+ 12 Ruda, Greyson          ELKGK51P   313   537/ 20  W25 L17 W15 L4  W22 3.0
+ 13 Medici, John           ELKIH08Q   800   812/  5  L4  W29 L5  W18 W21 3.0
+ 14 Clore, Sylas           MTIGH08P   600   835/  5  W6  L9  W31 L11 W19 3.0
+ 15 Has, Taylor            MASGH08N   600   667/  5  W31 L10 L12 W24 W20 3.0
+ 16 Smith, Troy            ETLIK73D   722   751/ 15  W19 W18 L8  D7  L6  2.5
+ 17 Young, Asher J         HSCGH08M   600   587/  5  L22 W12 D18 W31 L7  2.5
+ 18 Foglesong, Otis        MTIIH08L   800   574/  5  W33 L16 D17 L13 W30 2.5
+ 19 Mohn, Dagen            KEIGH08K   600   621/  5  L16 W25 W24 L5  L14 2.0
+ 20 Phommavong, Kayden     FRCIH08J   800   606/  5  L7  L6  W25 W30 L15 2.0
+ 21 Martinez, Monte        MTIIH08H   800   608/  5  L2  W33 W27 L9  L13 2.0
+ 22 Junker, Josh           FRCHH08G   700   534/  5  W17 L7  L11 W33 L12 2.0
+ 23 Loudenback, Caleb      LKRGH08F   600   485/  5  L27 L11 W32 W26 L10 2.0
+ 24 Rodriguez, Alvarado    MTIIH08E   800   461/  5  L28 W26 L19 L15 W29 2.0
+ 25 Castro, Jordan         GRAIH08D   800   420/  5  L12 L19 L20 W32 W31 2.0
+ 26 Baker, Dean            ELKIH99M   239   255/  9  L9  L24 BYE L23 W33 2.0
+ 27 Muller, Cooper         TRMIH08C   800   538/  3  W23 L8  L21 HPB HPB 2.0
+ 28 Barnett, Evan          KOPHH08B   700   780/  2  W24 L2  HPB HPB U   2.0
+ 29 Wilkins, Lyndon        MASGH07Z   600   299/  5  L1  L13 L6  W34 L24 1.0
+ 30 Kwon, Leo              ELKGH07Y   600   395/  5  L5  W32 L4  L20 L18 1.0
+ 31 Van Houten, Milo       GOOGH07W   600   235/  5  L15 W34 L14 L17 L25 1.0
+ 32 Lovell, Caleb          OLCHH07V   700   180/  5  L3  L30 L23 L25 W34 1.0
+ 33 Soyangco, Rylan        ELKHH07U   700   168/  5  L18 L21 W34 L22 L26 1.0
+ 34 Grayum, Brian          MEKGH07T   600   100/  5  L10 L31 L33 L29 L32 0.0

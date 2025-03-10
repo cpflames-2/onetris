@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Yusuf, Farzaan         BVIGZ84D  1427  1549/ 45  W3  W2  W4  3.0
+  2 Neff, Joel             ABEHF99X  1590  1592/296  W4  L1  W3  2.0
+  3 Wilber, Christopher    SFXJZ20V  1528  1486/145  L1  D4  L2  0.5
+  4 Wynstra, Daniel        SDEHZ94M  1421  1399/111  L2  D3  L1  0.5

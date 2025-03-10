@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Shinkarev, Slava       KAMKJ77F  1515  1569/ 39  W4  W3  D2  2.5
+  2 Ramanathan, Varun      LEOJK88H  1376  1496/ 61  W3  W4  D1  2.5
+  3 Jean Francois, Fritz   XXXKJ82E  1818  1603/  6  L2  L1  W4  1.0
+  4 Ganesan, Vidur         RBRF940K  1525  1470/289  L1  L2  L3  0.0

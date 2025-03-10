@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chang, Nathan          MMEDK42T   385   397/103  W3  W2  L4  2.0
+  2 Shin, Joshua           CRKCJ63R   332   364/105  W4  L1  W3  2.0
+  3 Zhu, Anna              SOMDH30X   252   246/ 14  L1  W4  L2  1.0
+  4 Ram, Yaalini           SNECH87H   335   300/ 44  L2  L3  W1  1.0

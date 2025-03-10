@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Mcfayden, Skylar       SDBHZ75Q   238   343/  9  W3  W4  W2  3.0
+  2 Small Bear, Jonathan   JHAGZ766   249   266/ 19  W4  W3  L1  2.0
+  3 Ross, Matilda          SDKDZ75P   104   102/  9  L1  L2  W4  1.0
+  4 Linn, Atticus          SDSCZ80S   100   100/ 13  L2  L1  L3  0.0

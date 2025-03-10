@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Lai, Ryan              SHSBH70N  1104  1158/ 65  W4  D3  W2  2.5
+  2 Lin, Luna              OPWDK01W  1012  1031/151  W3  D4  L1  1.5
+  3 Leon, Nikhil           TMBG587T  1097  1068/153  L2  D1  D4  1.0
+  4 Ahsant, Nickrad        WELCJ56K  1095  1067/ 48  L1  D2  D3  1.0

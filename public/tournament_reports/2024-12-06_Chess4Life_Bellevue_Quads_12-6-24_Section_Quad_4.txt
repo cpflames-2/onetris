@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Koster, John           SPTBJ88T   735   779/ 96  W3  W4  L2  2.0
+  2 Deshmukh, Dhruv        ENDEH79Q   760   761/ 72  L4  D3  W1  1.5
+  3 Li, Cody               MAYFH60K   777   771/  9  L1  D2  W4  1.5
+  4 Gui, Joyce             OPWCH92C   763   735/ 65  W2  L1  L3  1.0

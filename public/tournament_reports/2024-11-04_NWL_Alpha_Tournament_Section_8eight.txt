@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Morse, Andrew          SQUL620B   507   676/  8  W6  W4  W2  3.0
+  2 Russell, Reagan        BLHLJ72W   310   429/ 14  W8  W7  L1  2.0
+  3 Aujla, Verdaan         BLHKH49A  1000   735/  3  L7  W8  W5  2.0
+  4 Sharouse, Mason        MRDJH48Z   900   866/  3  W5  L1  W7  2.0
+  5 Lopez-mendez, Chelsea  LYELH48X  1100   535/  3  L4  W6  L3  1.0
+  6 Wiesen, Braden         LYEJH48V   900   415/  3  L1  L5  W8  1.0
+  7 Lemay, Elijah          LYEJH48U   900   548/  3  W3  L2  L4  1.0
+  8 Simon, Fernada         LYELH48T  1100   100/  3  L2  L3  L6  0.0

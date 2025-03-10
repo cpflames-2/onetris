@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Harris, Eli            MRDMJ85Q   588   722/ 24  W8  W4  W2  3.0
+  2 Valeos, Connor         MRDJK41H   591   617/ 21  W6  W7  L1  2.0
+  3 Lemay, Elijah          LYEJH48U   548   594/  6  L7  W6  W5  2.0
+  4 Kerr, Ethan            BLHMJ06N   536   604/ 47  W5  L1  W7  2.0
+  5 Lee, Jensen            MRDL947B   597   545/ 46  L4  W8  L3  1.0
+  6 Lopez-mendez, Chelsea  LYELH48X   535   461/  6  L2  L3  W8  1.0
+  7 Russell, Emerson       BLEGK23A   529   518/ 91  W3  L2  L4  1.0
+  8 Ugurdan, Isilay        LYELH49F   491   337/  6  L1  L5  L6  0.0

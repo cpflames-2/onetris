@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Vanavada, Kaushik      BRHHB86U   670   791/ 20  W3  W4  W2  3.0
+  2 Deshmukh, Dhruv        ENDEH79Q   667   689/ 50  W4  W3  L1  2.0
+  3 Li, Ryan Lingjun       BUSCJ88U   588   575/ 31  L1  L2  W4  1.0
+  4 Sairam, Advaith        RBRBK01Q   598   523/101  L2  L1  L3  0.0

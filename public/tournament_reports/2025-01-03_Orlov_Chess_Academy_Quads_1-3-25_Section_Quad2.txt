@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Xiong, Maxwell         CSIDK92H   793   866/ 65  W4  W2  W3  3.0
+  2 Saravanan, Maadhav     CSMF555W   650   630/ 33  W3  L1  L4  1.0
+  3 Sairam, Advaith        RBRBK01Q   779   725/133  L2  W4  L1  1.0
+  4 Rehmeyer, Malcom       FHMHH62C   477   505/ 21  L1  L3  W2  1.0

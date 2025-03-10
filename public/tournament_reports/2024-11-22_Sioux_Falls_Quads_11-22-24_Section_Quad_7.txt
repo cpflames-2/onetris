@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Devish, Coale          SDSCZ80U   192   394/ 12  W4  W2  W3  3.0
+  2 Rostomily, Josten      SD8FZ75H   121   200/  9  W5  L1  W4  2.0
+  3 Bassett, Killian       SFOEZ724   400   359/  3  W6  W5  L1  2.0
+  4 Bassett, Liam          BVIGZ723   600   100/  3  L1  W6  L2  1.0
+  5 Hatle, Austin          SDYGZ74H   254   192/  9  L2  L3  W6  1.0
+  6 Johnson, Leo           SXKBZ74E   100   100/  8  L3  L4  L5  0.0

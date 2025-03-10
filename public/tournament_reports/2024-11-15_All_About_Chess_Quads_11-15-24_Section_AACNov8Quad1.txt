@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chen, William          INGI550N  1552  1576/239  W4  W3  W2  3.0
+  2 Lebedinsky, Alexander  EVJI958F  1498  1455/291  W3  L4  L1  1.0
+  3 Dharamshi, Anay        CBRDK42U  1222  1230/154  L2  L1  W4  1.0
+  4 Ye, Alex               ENDFH51L  1203  1215/166  L1  W2  L3  1.0

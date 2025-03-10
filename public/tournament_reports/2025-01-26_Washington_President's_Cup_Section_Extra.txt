@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 tot 
+  1 Chan, Aiden            ISSJ917M  1560  1560/154  W5  1.0
+  2 Jordan, Christian      ADUN5057  1438  1447/148  W6  1.0
+  3 Byelashov, Alex        ADUNH71K  1113  1105/ 13  D4  0.5
+  4 Ge, Emma               SSMCJ56J  1012  1021/140  D3  0.5
+  5 Nandeesh, Tapasya      SMSIH62Z   287   286/ 49  L1  0.0
+  6 Messenger, Allen       ADUNH00B  1200  1189/  1  L2  0.0

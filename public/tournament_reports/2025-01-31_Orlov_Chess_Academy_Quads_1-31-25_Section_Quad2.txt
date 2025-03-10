@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zeeshan, Hamza         CRKEJ15N   469   558/ 58  W4  L2  W3  2.0
+  2 Rehmeyer, Malcom       FHMHH62C   505   570/ 24  L3  W1  W4  2.0
+  3 Anand, Nivaan          MCEBH64F   546   520/ 70  W2  L4  L1  1.0
+  4 Karthikeya, Aadhvik    XXXFH05R   800   579/  5  L1  W3  L2  1.0

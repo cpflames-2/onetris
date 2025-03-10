@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Caselli, Sam           CTXCZ702   100   154/  4  U   W5  L2  1.0
+  2 Zweig, Connor          CTXDZ704   100   192/  5  U   U   W1  1.0
+  3 Barrett, Jonathan      CTXCZ707   248   298/  5  W4  U   U   1.0
+  4 Clark, Levi            CTXDZ69X   100   100/  6  L3  U   U   0.0
+  5 Merry, Hudson          CTXCZ705   344   246/  6  U   L1  U   0.0

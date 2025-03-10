@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Yu, Jamie              BKLCH59H   200  1178/  2  W3  W2  U   2.0
+  2 Nishino, Anne          BCADH74F   807   805/ 52  U   L1  W3  1.0
+  3 Sarangi, Samarth       CBREH69F   314   308/ 30  L1  U   L2  0.0

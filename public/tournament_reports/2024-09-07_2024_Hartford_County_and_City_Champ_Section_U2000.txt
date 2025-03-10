@@ -1,0 +1,25 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Hartman, Nadav Munro   CTXIX01E  1652  1709/108  W13 W14 W15 W7  4.0
+  2 Mccreesh, Brent        CTXNX02V  1937  1946/104  W10 W19 W5  D3  3.5
+  3 Maralappanavar, Omkar  CTXNX02W  1816  1846/104  W16 W12 W4  D2  3.5
+  4 Petraitis, Victor      CTXNX02X  1893  1884/104  W21 W20 L3  W12 3.0
+  5 Cui, Chris             MAXEX02Y  1772  1777/104  W11 W6  L2  W13 3.0
+  6 Marks, Lokwatay        CTXIX01J  1294  1466/108  W9  L5  W10 W16 3.0
+  7 Smith, Elizabeth C     CTXNX01C  1461  1501/106  HPB W17 W19 L1  2.5
+  8 Nagel, Arthur C        CTXNX02Z  1700  1678/103  LF  D16 D14 W18 2.0
+  9 Hamed, Ali             RIXLX033  1641  1601/104  L6  L11 W21 W22 2.0
+ 10 Kingsley, Peter F      MAXNX03B  1515  1525/104  L2  W22 L6  W19 2.0
+ 11 Cyr, Joseph            MAXNX01N  1387  1407/108  L5  W9  D18 D14 2.0
+ 12 Herve-mignucci, CallistHSCIJ95N  1440  1437/  6  WF  L3  W23 L4  2.0
+ 13 Tae, Kevin             CTXNX01G  1489  1510/108  L1  W24 W20 L5  2.0
+ 14 Lakshmanan, Karthik    MAXIX01S  1206  1307/108  W24 L1  D8  D11 2.0
+ 15 Festa, Luca            CTXGX00T  1673  1644/107  D17 W23 L1  U   1.5
+ 16 Wang, Max              CTXIX01F  1425  1432/108  L3  D8  W17 L6  1.5
+ 17 Chang, Leroy           CTXEX03C  1340  1333/104  D15 L7  L16 W23 1.5
+ 18 Jette, David           MAXDX03D  1304  1325/104  L20 W21 D11 L8  1.5
+ 19 Wohlhieter, Ian        CTXNX03E  1644  1597/104  W22 L2  L7  L10 1.0
+ 20 Twombley, John         CTXNX03F  1540  1523/103  W18 L4  L13 U   1.0
+ 21 Ghosh, Arush           CTXIX00W  1438  1415/107  L4  L18 L9  W24 1.0
+ 22 Khalil, Mark           CTXNX03G  1356  1351/104  L19 L10 W24 L9  1.0
+ 23 Medonis, Treyden       CTXNX03K  1066  1049/103  BYE L15 L12 L17 1.0
+ 24 Zimmerman, Kevin       CTXNX03M  1500  1402/104  L14 L13 L22 L21 0.0

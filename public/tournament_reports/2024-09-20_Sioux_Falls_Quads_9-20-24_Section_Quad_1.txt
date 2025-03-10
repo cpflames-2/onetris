@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Yusuf, Elham           SD6MZ84A  1562  1603/ 22  D2  W4  W3  2.5
+  2 Welch, James           SDCJF53F  1547  1567/219  D1  W3  D4  2.0
+  3 Ristau, William        SDQLX37G  1691  1651/129  W4  L2  L1  1.0
+  4 Yusuf, Farzaan         BVIGZ84D  1387  1380/ 33  L3  L1  D2  0.5

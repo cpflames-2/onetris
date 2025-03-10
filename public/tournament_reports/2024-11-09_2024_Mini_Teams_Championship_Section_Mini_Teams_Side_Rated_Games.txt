@@ -1,0 +1,13 @@
+pos last name first       id numb   start end/#gms  rd1 tot 
+  1 Cherry, Christopher    QLTLJ39Z   502   548/ 10  W12 1.0
+  2 Callaghan, Kaleb       QLTLH46U   737   855/  5  W11 1.0
+  3 Swan, Layla            QLTGH45T   123   199/  5  W9  1.0
+  4 Nguyen, Long           FRAKH46E   700   773/  5  W10 1.0
+  5 Aguila-contreras, EdgarHORIJ65J   673   670/ 72  D6  0.5
+  6 Keele, Brendyn         HORIJ65M   645   648/ 12  D5  0.5
+  7 Paicurich, Cairnen     QLTJH46C   747   747/  5  D8  0.5
+  8 Colberly-black, Devin  QLTLH45X   746   747/  5  D7  0.5
+  9 George, Wynter         QLTIH45K   100   100/  5  L3  0.0
+ 10 Sherrif-penn, Richard  QLTMH46B   756   683/  5  L4  0.0
+ 11 Perez-penn, Marshall   QLTMH46T  1072   954/  5  L2  0.0
+ 12 Holt, Tessa            QLTIH45Y   661   561/  5  L1  0.0

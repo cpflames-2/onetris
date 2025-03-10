@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Devish, Coale          SDSCZ80U   816   897/ 39  W4  W2  L3  2.0
+  2 Haines, Warren         SXBCZ81U  1033  1026/108  W3  L1  W4  2.0
+  3 Linke, Rhett           SDADZ823   806   892/ 21  L2  W4  W1  2.0
+  4 Kocer, Radek           BVIGX75B   931   847/115  L1  L3  L2  0.0

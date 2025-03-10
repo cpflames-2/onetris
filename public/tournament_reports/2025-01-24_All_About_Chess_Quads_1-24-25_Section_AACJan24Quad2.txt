@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Agarwal, Avyaan        RCSEW81K  1134  1152/ 53  W4  W3  L2  2.0
+  2 Bhasin, Palash         ISMGH95H  1214  1212/100  L3  W4  W1  2.0
+  3 Qin, Skyler            OPWBJ97T   979   989/115  W2  L1  L4  1.0
+  4 Chu, Skylar            SOMD579R  1123  1096/ 88  L1  L2  W3  1.0

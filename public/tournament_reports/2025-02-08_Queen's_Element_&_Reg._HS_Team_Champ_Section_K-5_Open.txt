@@ -1,0 +1,12 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Lum, Boaz              LIBDJ62C  1130  1250/ 72  W10 W11 W5  W2  W6  5.0
+  2 Phillips, Henry        MCGFH43N  1097  1136/ 25  W4  D9  W7  L1  W5  3.5
+  3 Chin, Ian              LECFF95D   883   976/120  L5  W10 D8  W11 W9  3.5
+  4 Singh, Yuvraj          LIBDH56L   857   869/ 23  L2  L7  BYE W8  W11 3.0
+  5 Li, Roy                IDXDY99P  1161  1141/ 40  W3  W6  L1  D9  L2  2.5
+  6 Carranza, Aly Omar     RCEEJ78V   962   988/ 55  W8  L5  W9  D7  L1  2.5
+  7 Chavez, Israel         MCUFK69M   931   931/ 84  L9  W4  L2  D6  BYE 2.5
+  8 Vasquez, Mateo         MCUFK26G   838   836/139  L6  BYE D3  L4  W10 2.5
+  9 Mosqueda, Luke         LIBEH90L  1178  1115/ 55  W7  D2  L6  D5  L3  2.0
+ 10 Pumphrey, Brooks       CRPFJ79M   870   833/ 59  L1  L3  W11 BYE L8  2.0
+ 11 Castaneda, Alonso      MCUFK69H   807   740/ 83  BYE L1  L10 L3  L4  1.0

@@ -1,0 +1,69 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Castaneda, Amaure Jr   RFPEH27B   654   941/ 20  W5  W31 W4  W3  W2  5.0
+  2 Mendoza, Ethan         LIVFJ01H   679   768/ 40  W24 W20 W17 W13 L1  4.0
+  3 Hall, Zayne            DSRFI80Q   694   760/ 75  W18 W16 W21 L1  W26 4.0
+  4 Menjivar, Valery       RFREJ78D   761   804/ 69  W14 W33 L1  W38 W13 4.0
+  5 Garcia, Sergio         BMCF733M   768   782/ 80  L1  W27 W34 W42 W17 4.0
+  6 Cabasug, Raphael       SJKF177N   773   789/ 47  W35 L17 W10 W32 W19 4.0
+  7 Mccollum, Drew         MTPFJ03V   683   704/ 54  W19 W22 L13 W39 W16 4.0
+  8 Ramos, Charleston      RGVFK71F   468   554/ 71  L38 W61 W25 W46 W14 4.0
+  9 Smith, Lillian         LIVFH27Q   291   558/ 18  U   W49 W60 W15 W18 4.0
+ 10 Geelhood, Beckett      KCCEK96U   752   743/ 67  W15 D34 L6  W31 W23 3.5
+ 11 Lee, Joseph            MCGEJ00M   495   517/ 30  L20 W60 D31 W57 W36 3.5
+ 12 Davey, Cj              ESGEH42X   524   517/ 25  L34 D57 W56 W58 W33 3.5
+ 13 Orme, Sam              MCUFH43F   571   659/ 25  W36 W38 W7  L2  L4  3.0
+ 14 Hahl, Cameron          BMCFJ79N   660   639/ 55  L4  W23 W20 W37 L8  3.0
+ 15 Magdangal, Alexine     CTKEJ00W   592   590/ 35  L10 W30 W22 L9  W32 3.0
+ 16 Pena, Felipe           HTEFI88M   482   517/ 78  W29 L3  W41 W25 L7  3.0
+ 17 Guzman, Tom            MTPFJ79D   498   556/ 44  W52 W6  L2  W50 L5  3.0
+ 18 Lopez Villanueva, NatalRFREH43A   583   567/ 20  L3  W39 W29 W43 L9  3.0
+ 19 Gallegos, Sebastian J  RFRFH43J   571   572/ 25  L7  W40 W28 W41 L6  3.0
+ 20 Garcia, Metzi          MCUFJ44Z   392   463/ 49  W11 L2  L14 W48 W45 3.0
+ 21 Qin, Mason             LECFK97A   596   568/ 64  W45 W28 L3  L23 W40 3.0
+ 22 Cano Sanchez, Jaylen   RCEFH43L   455   472/ 25  W27 L7  L15 W44 W43 3.0
+ 23 Campbell, Arianna J    RFREJ00E   319   439/ 35  W48 L14 W47 W21 L10 3.0
+ 24 Garcia, Sebastian      BMCEJ78G   552   531/ 65  L2  W44 L38 W54 W39 3.0
+ 25 Garcia, Nestor         MYAFG89M   500   442/  5  W63 W51 L8  L16 W42 3.0
+ 26 Zavala, Daniel         MCUEJ44V   539   517/ 49  L31 W47 W50 W40 L3  3.0
+ 27 De La Torre, Ian R     LIBFK97E   369   382/ 65  L22 L5  W48 W60 W50 3.0
+ 28 Cree, Oliver           LIVFH55J   351   373/ 19  W53 L21 L19 W61 W46 3.0
+ 29 Duarte, Jonathan       MCUEJ44T   384   384/ 49  L16 W62 L18 W47 W49 3.0
+ 30 Stallworth, Jaylen     RFPFH27H   316   315/ 14  W68 L15 L43 W62 W41 3.0
+ 31 Groom, Colin           BMCF641S   437   506/ 68  W26 L1  D11 L10 W56 2.5
+ 32 Rodriguez, Jarret      MCUFH43M   330   436/ 25  W55 W35 D33 L6  L15 2.5
+ 33 Billings, Atlas        MCGEJ44X   493   485/ 49  W51 L4  D32 W56 L12 2.5
+ 34 Guzman, Melany         MCUFK69G   436   478/ 89  W12 D10 L5  L36 WF  2.5
+ 35 Shaw, Ryder            RFPFJ23U   672   599/ 50  L6  L32 W54 W55 D37 2.5
+ 36 Farias Martinez, Enoel RFREJ00Y   691   616/ 40  L13 D56 W57 W34 L11 2.5
+ 37 Galbraith, Seth        MTPEH56B   306   319/ 30  L44 W45 W61 L14 D35 2.5
+ 38 Arrington, Ashton      MTPEJ78F   381   503/ 59  W8  L13 W24 L4  U   2.0
+ 39 Pentecost, Parker      MYAFH27F   297   306/ 20  W43 L18 W62 L7  L24 2.0
+ 40 Tha, Joseph            ESGEH26Z   278   312/ 20  W42 L19 W52 L26 L21 2.0
+ 41 Mendoza, Lorenzo       MCUEH42U   100   183/ 25  W66 W52 L16 L19 L30 2.0
+ 42 Vasquez, Josue         MCUEJ53D   330   311/ 55  L40 W64 W44 L5  L25 2.0
+ 43 Cozad, Chloe           MCGF531M   207   228/ 90  L39 W66 W30 L18 L22 2.0
+ 44 Garcia Salas, Emmanuel RFPEJ53H   223   238/ 24  W37 L24 L42 L22 W61 2.0
+ 45 Nolan, Lyla            CTKFD97L   169   210/ 25  L21 L37 W64 W51 L20 2.0
+ 46 Minayo, Rafael         MCUEG89J   400   200/  5  L60 W68 W53 L8  L28 2.0
+ 47 Guizar, Angelina       RFPEH26X   170   188/ 15  W65 L26 L23 L29 W62 2.0
+ 48 Cardenas, Brian        RCEEH90C   254   241/ 24  L23 W65 L27 L20 W66 2.0
+ 49 Bravo Rosales, Juan PabRFREH56E   147   159/ 30  L61 L9  W67 W53 L29 2.0
+ 50 Krieg, Remi            LIVFJ01J   100   113/ 25  BYE W58 L26 L17 L27 2.0
+ 51 Cardenas, Lukas        RFPFH27M   391   327/ 15  L33 L25 W55 L45 W67 2.0
+ 52 Rodriguez, Gael        RCEEH42W   393   316/ 25  L17 L41 L40 W59 W58 2.0
+ 53 Ramos, Mateo           RCEEH42R   289   219/ 25  L28 W59 L46 L49 W63 2.0
+ 54 Monzon, Jesus Adrian   RCEFJ79J   289   271/ 51  L56 W63 L35 L24 W64 2.0
+ 55 Marquez, Kevin         MYAF200M   255   244/ 15  L32 W67 L51 L35 W65 2.0
+ 56 Bawden, Whyatt         LIVEH42Y   342   333/ 25  W54 D36 L12 L33 L31 1.5
+ 57 Gonzalez, Marcus       BMCFJ62G   176   225/ 34  W67 D12 L36 L11 LF  1.5
+ 58 Penrod, Benson         RFPEH26W   102   100/ 20  D64 L50 W68 L12 L52 1.5
+ 59 Hissam, Joshua         LIVFH90V   119   100/ 19  L62 L53 D65 L52 W60 1.5
+ 60 Hernandez, Jordan      RCEEJ53B   139   118/ 31  W46 L11 L9  L27 L59 1.0
+ 61 Lopez, Gabriel         MYAFG89H   500   100/  5  W49 L8  L37 L28 L44 1.0
+ 62 Porcayo, Emily         RCEEG89G   400   100/  5  W59 L29 L39 L30 L47 1.0
+ 63 Lopez, Aubriella       MCGFG89D   500   100/  5  L25 L54 D66 D64 L53 1.0
+ 64 Sargent, Grayson       LIVEG89C   400   100/  5  D58 L42 L45 D63 L54 1.0
+ 65 Chavez, Nathaly        MCUEG89A   400   100/  5  L47 L48 D59 D66 L55 1.0
+ 66 Contreras, Mason       LIVEG88Z   400   100/  5  L41 L43 D63 D65 L48 1.0
+ 67 Espino, Daniel         ESGEG88W   400   100/  4  L57 L55 L49 WF  L51 1.0
+ 68 Beckley, Mason         LIVEH26Y   237   118/ 18  L30 L46 L58 LF  U   0.0

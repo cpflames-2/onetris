@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Pan, Jingyi            SSMCH76N   549   581/ 31  W4  L2  W3  2.0
+  2 Shrivastava, Amogh     SHSFJ11M   527   573/ 42  L3  W1  W4  2.0
+  3 Gorbatenko, Leon       CRKFH58G   557   525/ 12  W2  L4  L1  1.0
+  4 Kunz, Anikin           BURKH44A   549   519/ 23  L1  W3  L2  1.0

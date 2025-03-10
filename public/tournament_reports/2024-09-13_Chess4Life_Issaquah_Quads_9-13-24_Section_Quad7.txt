@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kim, Jiwoon            CHADH62X   300   478/  3  W4  W3  D2  2.5
+  2 Dubey, Darsh           GRRDH62W   300   378/  3  D3  W4  D1  2.0
+  3 Kumar, Adhrit          EMDDH62U   300   178/  3  D2  L1  D4  1.0
+  4 Ho, Nathan             CNHAH62T   100   100/  3  L1  L2  D3  0.5
+
+ All Unrated-player Section: Ratings capped at 1000

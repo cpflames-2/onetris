@@ -1,0 +1,18 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Bawa, Neer             LAVDE81P   665   685/ 45  W8  L7  W13 W6  W2  4.0
+  2 Studer, Nolan          MCIDH65W   588   644/ 13  BYE W14 W3  W7  L1  4.0
+  3 Almuayyad, Omar        RHJHJ59J   352   553/ 32  W16 W5  L2  W11 W9  4.0
+  4 Colvin, Leo            MGVDH34N   300   680/  5  L6  W17 W11 W10 W7  4.0
+  5 Holostov, Benjamin     CRKEJ94A   588   566/ 50  W13 L3  W12 L9  W10 3.0
+  6 Satishkumar, Gautham   RCSFC88L   549   566/ 59  W4  L9  W14 L1  W13 3.0
+  7 He, Joshua             CHRCJ72H   430   535/ 56  W15 W1  W9  L2  L4  3.0
+  8 Cai, Emily             CNHCH60H   247   319/ 28  L1  BYE L10 W14 W15 3.0
+  9 Miller, Oliver         BKYDH34L   300   560/  5  W17 W6  L7  W5  L3  3.0
+ 10 Lechner, Ryker         HSCG496J   634   539/100  L12 W15 W8  L4  L5  2.0
+ 11 Su, Spencer            WCEDH72M   385   334/  8  L14 W12 L4  L3  W16 2.0
+ 12 Sorensen, George       VILFH53E   219   202/ 13  W10 L11 L5  L15 BYE 2.0
+ 13 Weller, Remy           MGVDH34K   300   336/  5  L5  W16 L1  W17 L6  2.0
+ 14 Sarcar, Arin           CEIFH34H   500   322/  5  W11 L2  L6  L8  W17 2.0
+ 15 Karanth, Bhargav       EBSFH34F   500   186/  5  L7  L10 D16 W12 L8  1.5
+ 16 Manikantan, Tejas      CHACH34E   200   100/  4  L3  L13 D15 BYE L11 1.5
+ 17 Yuen, Keith            MEDCJ43J   263   193/ 14  L9  L4  BYE L13 L14 1.0

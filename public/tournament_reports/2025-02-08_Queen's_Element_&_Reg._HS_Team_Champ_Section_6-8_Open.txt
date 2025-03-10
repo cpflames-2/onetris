@@ -1,0 +1,18 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Deng, Stanley          LLMGK22E  1579  1610/363  W9  W3  W4  W2  W7  5.0
+  2 Li, Jessie             IDXGY99Q  1454  1460/ 40  W10 W6  W5  L1  W4  4.0
+  3 Vanderschoor, Peyton   JMLG490Y  1067  1111/ 99  W8  L1  D9  W14 D11 3.0
+  4 Cress, Emmett          JMLIH54B  1236  1242/ 95  W17 W13 L1  W6  L2  3.0
+  5 Gogic, Arian           JMLIK96A   873  1041/ 89  W14 W11 L2  W10 L6  3.0
+  6 Nguyen, Caitlyn        RRGG663J   874  1057/ 78  W16 L2  W11 L4  W5  3.0
+  7 Chavez, Jessie         BMCFK53S  1004  1016/ 64  L13 W15 W8  W12 L1  3.0
+  8 Menjivar, Bryan        OCHGJ80L   850   899/ 64  L3  BYE L7  W9  W12 3.0
+  9 Johnson, Eli           KCCIJ24B   966   989/ 35  L1  W17 D3  L8  W16 2.5
+ 10 Nguyen, Tyler          RRGI715J   948   968/ 86  L2  W16 W12 L5  D15 2.5
+ 11 Dillingham, Daniel     KCCHB73M  1285  1216/287  W15 L5  L6  W17 D3  2.5
+ 12 Dodson, Tyson          KCCI234D   831   820/ 92  WF  W14 L10 L7  L8  2.0
+ 13 Thallapally, Sriyan    LLMIA43W   849   854/ 84  W7  L4  L14 L16 BYE 2.0
+ 14 Naungayan, Landon      RRGGJ80K  1150  1071/ 65  L5  L12 W13 L3  W17 2.0
+ 15 Hong, Sidney           JMLH478H   922   902/151  L11 L7  D16 BYE D10 2.0
+ 16 Ramos, Zachary         DEHHK71L  1097  1007/ 71  L6  L10 D15 W13 L9  1.5
+ 17 Gonzalez-jacobo, Isaac STPHJ81D   910   858/ 34  L4  L9  BYE L11 L14 1.0

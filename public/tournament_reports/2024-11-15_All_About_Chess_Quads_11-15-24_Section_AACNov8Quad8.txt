@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Vatsan, Maitri         SSMCK00S   212   373/116  W4  W2  W5  3.0
+  2 Nandakiran, Advaith    SSMCJ88H   247   274/ 81  W3  L1  W4  2.0
+  3 Polishchuk, Grayson    SESFH43V   500   185/  2  L2  W5  BYE 2.0
+  4 Polishchuk, Jameson    SESDH43U   300   100/  2  L1  BYE L2  1.0
+  5 Zhu, Eddie             SOMCH48C   100   100/  8  BYE L3  L1  1.0

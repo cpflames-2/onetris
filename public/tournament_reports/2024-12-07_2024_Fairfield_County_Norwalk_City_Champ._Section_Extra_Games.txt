@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Upadhyay, Punyavrat    CTXMX00X  1808  1810/123  U   W6  U   1.0
+  2 Gao, Isabella          CTXDX07S  1235  1235/104  W8  U   U   1.0
+  3 Deroma, Max            CTXJX11U  1022  1024/109  U   W7  U   1.0
+  4 Saundh, Riday Sing     CTXFZ71F   230   301/  4  U   U   D5  0.5
+  5 Chung, Stephan         NYXEZ71E   586   533/  5  U   U   D4  0.5
+  6 Dai, Brian             CTXCX05A  1287  1284/105  U   L1  U   0.0
+  7 Lysenko, Maxim         CTXCX13F   465   462/111  U   L3  U   0.0
+  8 Lama, Siddhartha       CTXCZ71D   100   100/  4  L2  U   U   0.0

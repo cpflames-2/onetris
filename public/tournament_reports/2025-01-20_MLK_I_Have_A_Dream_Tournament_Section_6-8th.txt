@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Mcpherson, Aiden       PONGW85C  1244  1211/ 28  W6  W3  L2  W7  W4  4.0
+  2 Quintana, Isaiah       HSOGW78H   600   984/  5  W4  W7  W1  L3  W5  4.0
+  3 Fields, Parker         PONGW85B   603   707/ 17  D5  L1  W6  W2  W8  3.5
+  4 Westbrook, Holden      HSOGQ56D   514   615/ 10  L2  W5  W7  W8  L1  3.0
+  5 Singer, Audric         PONGW84K   409   508/ 17  D3  L4  W8  W6  L2  2.5
+  6 Henderson, Braydon     PONHW857   436   449/ 17  L1  W8  L3  L5  W7  2.0
+  7 Zakour, Parker         HNYIW78G   800   351/  5  W8  L2  L4  L1  L6  1.0
+  8 Xu, James              CNGGW85H   541   395/ 19  L7  L6  L5  L4  L3  0.0

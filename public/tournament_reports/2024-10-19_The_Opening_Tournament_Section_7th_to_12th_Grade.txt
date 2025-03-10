@@ -1,0 +1,37 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Heath, Derek           CMHJ1458  1896  1912/307  W32 W13 W10 W3  W2  5.0
+  2 Belgau, Stephen        JFMJK76X  1496  1512/ 80  W33 W15 W5  W4  L1  4.0
+  3 Aubry, Jesse           CAPKK76P  1375  1434/ 30  W36 W21 W6  L1  W7  4.0
+  4 Raj, Jayahari          UHVK227V  1349  1373/166  W24 W17 W8  L2  W15 4.0
+  5 Vavilin, Caleb         CJSJK30C  1150  1176/ 25  W30 W35 L2  W14 W16 4.0
+  6 Young-byle, Tynan      SENKH54K  1000  1422/  5  W20 W11 L3  W13 W10 4.0
+  7 Sears, Jack            PRHKK30D  1426  1416/ 26  D18 W20 W12 W8  L3  3.5
+  8 Sharma, Soham          LMSIK09Q  1502  1456/ 83  W22 W14 L4  L7  W25 3.0
+  9 Sears, Luke            PRHMK12B  1499  1430/ 31  L17 W18 W23 L15 W24 3.0
+ 10 Wong, Aiden            SKRHI77E  1372  1364/ 35  W23 W16 L1  W17 L6  3.0
+ 11 Brinson, Ozzy          FMPKJ91B  1129  1093/ 14  BYE L6  W24 L16 W27 3.0
+ 12 Cruz, Justin           PRHLJ91C  1104  1076/ 26  W25 D19 L7  W26 D18 3.0
+ 13 Jannsen, Kevin         SKRHK12P   998  1021/ 30  W26 L1  W25 L6  W23 3.0
+ 14 Gorlachev, David       FMPJK30B   947   955/ 30  W27 L8  W34 L5  W26 3.0
+ 15 Vy, Evan               SKRHK12N   868   961/ 30  W31 L2  W30 W9  L4  3.0
+ 16 Murphy, Tristan        YELJK18X  1048  1060/ 35  W28 L10 W31 W11 L5  3.0
+ 17 Stevens, Hope          HSCJJ90Y   765   974/ 10  W9  L4  W19 L10 W29 3.0
+ 18 Stevens, Noah          HSCMK793   730   855/ 74  D7  L9  W35 W19 D12 3.0
+ 19 Maokhampio, Olivia     ORXHW79Y   700   802/  5  W34 D12 L17 L18 W31 2.5
+ 20 Vavilin, Paulina       CJSHK29S   908   887/ 20  L6  L7  L22 W32 W30 2.0
+ 21 Holten, David          COELJ90X   854   806/ 15  W29 L3  L26 L25 W34 2.0
+ 22 Cathcart, Nathaniel    CHUIJ90V   770   692/ 10  L8  L34 W20 L27 W35 2.0
+ 23 Truong, Tein           PRHLK11W   675   725/ 30  L10 W27 L9  W28 L13 2.0
+ 24 Shove, Emmett          FMPHJ91X   658   687/ 20  L4  W29 L11 W35 L9  2.0
+ 25 Tsarenko, Joshua       ABEJJ25N   621   747/ 10  L12 W32 L13 W21 L8  2.0
+ 26 Downing, Isaiah        HSCJJ90L   585   705/ 10  L13 W33 W21 L12 L14 2.0
+ 27 Smith, Christian       HSCKJ90K   530   552/ 14  L14 L23 BYE W22 L11 2.0
+ 28 South, Axel            FMPJH54H   900   698/  5  L16 L30 W32 L23 W33 2.0
+ 29 Dewey, Jesse           HSCMH54F  1200   677/  5  L21 L24 W33 W34 L17 2.0
+ 30 Williams, Joseph       FMPKJ90P   648   649/ 15  L5  W28 L15 D31 L20 1.5
+ 31 Dasari, Vasishta Sai   LOJHW79W   700   500/  4  L15 WF  L16 D30 L19 1.5
+ 32 Burleson, Mason        FMPJJ90W   845   751/ 19  L1  L25 L28 L20 BYE 1.0
+ 33 Wilson, Nadia          HSCKJ91A   820   706/ 14  L2  L26 L29 BYE L28 1.0
+ 34 Romashchenko, Daniel   FMPHJ25H   621   576/ 10  L19 W22 L14 L29 L21 1.0
+ 35 Downing, Jack          HSCHJ91P   340   328/  9  BYE L5  L18 L24 L22 1.0
+ 36 Spearman, Emery        DCCH101R   629   628/ 61  L3  LF  U   U   U   0.0

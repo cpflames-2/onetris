@@ -1,0 +1,22 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Li, Anyi               LKDDJ55F  1135  1178/ 89  W10 D8  W17 W6  W7  4.5
+  2 Lagzdin, Mikhail       BCACJ96R   885  1028/ 40  W21 W3  W12 L5  W6  4.0
+  3 Qin, Skyler            OPWBJ97T  1000   999/ 81  W20 L2  D11 BYE W12 3.5
+  4 Wu, Jayden             UCDD495Q   982   984/109  L17 W20 W15 W10 D5  3.5
+  5 Lai, Austin            EVGDK94F   958  1018/ 69  WF  W7  L6  W2  D4  3.5
+  6 Liu, Bihe              KKNCB78J  1047  1048/104  W14 W9  W5  L1  L2  3.0
+  7 Rogov, Richard         MEDDJ68U  1032  1035/ 83  W11 L5  W8  W17 L1  3.0
+  8 Ivanov, Matvei         EABDK34E   974   989/ 57  W18 D1  L7  HPB W17 3.0
+  9 Gu, Vincent            OPWBK00L   869   883/ 61  W19 L6  W16 D12 D11 3.0
+ 10 Chen, Eason            SOMBJ59F   832   863/ 73  L1  W18 W19 L4  W13 3.0
+ 11 Ren, Easton            CMCBH68Z   798   843/ 29  L7  W21 D3  W14 D9  3.0
+ 12 Frenk, Rafael          CSICJ75L  1031   987/ 35  W15 W16 L2  D9  L3  2.5
+ 13 Mahale, Avneesh        CNHC993F   995   894/174  L16 L15 W18 W21 L10 2.0
+ 14 Muppalla, Vyom         OPWCK19F   810   776/ 40  L6  L17 W20 L11 W19 2.0
+ 15 Xu, Augus              ENDDJ29H   783   753/ 19  L12 W13 L4  L19 W21 2.0
+ 16 Zhang, Patrick         SSSCK01J   762   737/149  W13 L12 L9  L20 BYE 2.0
+ 17 Nishino, Anne          BCADH74F   743   807/ 50  W4  W14 L1  L7  L8  2.0
+ 18 Li, Bryan              MEDBJ75H   708   697/ 75  L8  L10 L13 BYE W20 2.0
+ 19 Kapoor, Rikin          SHSCH61V   393   475/ 11  L9  BYE L10 W15 L14 2.0
+ 20 Luo, Vivienne          NPTD703P   767   711/135  L3  L4  L14 W16 L18 1.0
+ 21 Sambathraj, Raghav     MRLDJ31B   451   436/  9  L2  L11 BYE L13 L15 1.0

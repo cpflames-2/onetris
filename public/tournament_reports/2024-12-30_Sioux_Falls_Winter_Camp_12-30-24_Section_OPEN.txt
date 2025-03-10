@@ -1,0 +1,10 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Neff, Joel             ABEHF99X  1534  1590/293  W4  W5  W2  W6  4.0
+  2 Wynstra, Daniel        SDEHZ94M  1385  1421/108  W9  W3  L1  W8  3.0
+  3 Casanova, Carlos       OGJJZ99X  1487  1489/ 95  W8  L2  W5  W4  3.0
+  4 Wynstra, Joseph        SD9JX05J  1343  1345/ 68  L1  W8  W7  L3  2.0
+  5 Neff, Nadine           ABEIC79W  1217  1241/393  W6  L1  L3  BYE 2.0
+  6 Casanova, Vicente      SFMHZ99T  1468  1433/ 99  L5  W7  W9  L1  2.0
+  7 Oppold, Sage           SDYJZ281  1180  1173/163  BYE L6  L4  W9  2.0
+  8 Neff, Enoch            ABEEF95Q  1210  1175/181  L3  L4  BYE L2  1.0
+  9 Neff, Katrina          ABEF159Y  1088  1055/230  L2  BYE L6  L7  1.0

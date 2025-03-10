@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Deng, Lucas            DISDH87X   769   852/ 55  W3  D4  W2  2.5
+  2 Sivakumar, Vedant      INGHH63H   748   793/ 60  W4  W3  L1  2.0
+  3 Kolter, Aidan          SNIFJ60J   770   744/ 27  L1  L2  W4  1.0
+  4 Jahani, Nikan          IMSGK89A   777   721/140  L2  D1  L3  0.5

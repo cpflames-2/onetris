@@ -1,0 +1,45 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Cheng, Edward          GARMC74W  1917  1930/470  W21 W35 W34 D5  3.5
+  2 Schmidt-warnecke, Max  LSSM6188  1408  1410/206  W25 W3  W37 L3  3.0
+  3 Pedapalli, Arnav       GARMJ77N  1376  1395/ 44  W22 L2  W40 W2  3.0
+  4 Page, Finley           INMLH23D   876  1297/  6  L16 W41 W15 W33 3.0
+  5 Eksarevskly, Albert    LSSK530Y  1854  1859/153  W23 W22 U   D1  2.5
+  6 Wang, Felicity         LSSLJ02F  1701  1702/317  W17 W39 U   D8  2.5
+  7 Moriguchi, Minh        GARJA43T   869   943/ 75  W27 L29 W36 L9  2.0
+  8 Kasha, Elliot          GARM235P  1498  1518/123  U   W16 D33 D6  2.0
+  9 Kolenski, Drew         LSSMI420  1330  1344/193  U   W19 L18 W7  2.0
+ 10 Preiner, Oscar         LCOJI145  1362  1374/172  L28 W26 U   W37 2.0
+ 11 Score, Carson          INMLH46V  1512  1552/  9  W35 W18 U   L24 2.0
+ 12 Phelan Marczak, Avrum  INMLK66Z  1029  1056/ 27  U   W42 W22 L23 2.0
+ 13 Xuan, Owen             LSSL5792  1921  1926/295  W24 W15 U   U   2.0
+ 14 Bian, Erin             LSSJI91Y  2220  2222/210  W34 W21 U   U   2.0
+ 15 Shi, Gavin             LCOKH855  1621  1585/451  W19 L13 L4  D18 1.5
+ 16 Bushfield, Stuart      LSSMF350  1580  1559/370  W4  L8  D20 U   1.5
+ 17 Kangas, Jonah          INMLJ21E  1409  1433/ 20  L6  W20 L21 D34 1.5
+ 18 Wang, Raymond          FRAMK66P  1542  1535/ 43  U   L11 W9  D15 1.5
+ 19 Schmeichel, Trevor     GARM3868  1268  1275/171  L15 L9  W23 D35 1.5
+ 20 Davis, Caian           FRAMK67M  1462  1480/ 53  U   L17 D16 W21 1.5
+ 21 Demberel, Amana        LCOMJ14E  1786  1752/144  L1  L14 W17 L20 1.0
+ 22 Calo, Jude             LCOJ3425  1265  1219/224  L3  L5  L12 W44 1.0
+ 23 Koehler, Blake         SPRMJ76R  1142  1146/ 51  L5  U   L19 W12 1.0
+ 24 Laporte, Andy          SPRLK67S  1328  1365/ 44  L13 U   U   W11 1.0
+ 25 Worm, Silas            INMLH23A   803   903/  4  L2  W38 U   U   1.0
+ 26 Wang, Daniel           LSSM8287  1785  1755/635  W36 L10 U   U   1.0
+ 27 Rhew, Owen             LCOMH23F  1168  1002/  4  L7  U   U   W38 1.0
+ 28 Cole, Reece            GARL3567  1200  1241/165  W10 U   U   U   1.0
+ 29 Dhillon, Rohan         LSSM6836  1286  1293/216  U   W7  U   U   1.0
+ 30 Chen, Oliver           LSSM8031  1224  1246/275  W43 U   U   U   1.0
+ 31 Razmov, Gabriel        LSSJC26K  1869  1870/382  W33 U   U   U   1.0
+ 32 Groebner, Teddy        INMLJ76X  1019  1033/ 25  U   U   U   W36 1.0
+ 33 Roberts, Noah          SPRL3819  1232  1229/ 53  L31 U   D8  L4  0.5
+ 34 Chivers, Roman         SPRK5495  1616  1601/162  L14 U   L1  D17 0.5
+ 35 Peng, Christopher      LSSK2702  1642  1599/195  L11 L1  U   D19 0.5
+ 36 O'donnell, Henry       SPRLJ76V   852   817/ 22  L26 U   L7  L32 0.0
+ 37 Cortes-pineda, JonathanFRAMH23B   755   755/  4  U   U   L2  L10 0.0
+ 38 Nguyen, Long           FRAKH46E   736   705/ 15  U   L25 U   L27 0.0
+ 39 Yuen, Owen             LCOJA16Z  1334  1328/246  U   L6  U   U   0.0
+ 40 Boyd, Trent            SPRLG75W  1100  1000/  1  U   U   L3  U   0.0
+ 41 Mathly, Jabril         FRAMJ59S   374   374/ 15  U   L4  U   U   0.0
+ 42 Cosem, Isa             FRAKG75V  1000   675/  1  U   L12 U   U   0.0
+ 43 Moynihan, Carter       INMLJ20S  1224  1150/  5  L30 U   U   U   0.0
+ 44 Loya, Henry            FRAM3183   816   810/ 18  U   U   U   L22 0.0

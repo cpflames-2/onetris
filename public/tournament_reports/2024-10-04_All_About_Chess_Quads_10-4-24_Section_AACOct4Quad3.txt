@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Dharamshi, Anay        CBRDK42U  1061  1066/137  D2  D4  W3  2.0
+  2 Pan, Peng-chi          SSMDK24N   923   982/142  D1  D3  W4  2.0
+  3 Juarez-caballero, CristSNIHD76Z   986   986/156  W4  D2  L1  1.5
+  4 Xing, Andrew           SSSDK62E   959   916/118  L3  D1  L2  0.5

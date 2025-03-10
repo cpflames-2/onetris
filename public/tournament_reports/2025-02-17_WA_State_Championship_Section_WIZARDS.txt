@@ -1,0 +1,10 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 rd7 rd8 rd9 tot 
+  1 Wu, Harry              SASGJ72P  1536  1542/ 55  W7  U   L2  W4  L9  W5  W3  D6  W8  5.5
+  2 Gao, Ziqian            BLWFK10U  1480  1491/ 78  W8  W7  W1  U   L4  W9  L5  L3  W6  5.0
+  3 He, Oliver             ENDEK71V  1471  1485/411  W9  W5  U   L6  W8  W7  L1  W2  L4  5.0
+  4 Yun, Daniel D          LAVDK87Z  1392  1444/371  W6  W8  L7  L1  W2  U   W9  L5  W3  5.0
+  5 Sriram, Aahan          OVLFC03K  1372  1439/101  U   L3  L6  W8  W7  L1  W2  W4  W9  5.0
+  6 Yuan, Chen             ETSDJ15Z  1455  1460/161  L4  W9  W5  W3  U   W8  L7  D1  L2  4.5
+  7 Ma, Ziliang            DCCHA69N  1461  1432/140  L1  L2  W4  W9  L5  L3  W6  D8  U   3.5
+  8 Chaudhuri, Arihant     CHAF703E  1427  1346/305  L2  L4  W9  L5  L3  L6  U   D7  L1  1.5
+  9 Nishio, Risko          LIYHH09B  1168  1159/ 13  L3  L6  L8  L7  W1  L2  L4  U   L5  1.0

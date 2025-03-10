@@ -1,0 +1,21 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Raman, Arjun           ETSCH96Y   701   864/ 20  W11 W7  W3  D4  W6  4.5
+  2 Bangard, Dhruv         TBKCK65D   905   895/115  W9  W19 L4  W14 W7  4.0
+  3 Sairam, Advaith        RBRBK01Q   659   748/125  WF  W12 L1  W9  W4  4.0
+  4 Bigelow, Atlas         WMECJ61F   779   813/ 52  W10 W6  W2  D1  L3  3.5
+  5 Dixit, Ved             ENSDH63Q   543   582/ 19  D18 W13 W14 L6  W12 3.5
+  6 Armitage-selig, PhoenixSUZBJ31Z   641   661/ 50  W8  L4  W15 W5  L1  3.0
+  7 Su, Pin-ruei           RFKCH96G   788   757/ 50  W15 L1  W17 W16 L2  3.0
+  8 Dhillon, Veer          BNTBJ02P   488   493/ 35  L6  D11 W18 D12 W14 3.0
+  9 Hiremath, Ojas         KKNDJ03C   366   393/ 14  L2  W20 WF  L3  W16 3.0
+ 10 Sharma, Samarth        ETSDH87T   312   393/  9  L4  L17 BYE W15 W13 3.0
+ 11 Goyal, Avyukt          CNHBJ65X   340   371/ 86  L1  D8  L12 W20 W17 2.5
+ 12 Liu, Louis             CNHCJ75J   667   585/ 60  D17 L3  W11 D8  L5  2.0
+ 13 Siva, Vikaat           DISBJ30L   742   621/ 76  L16 L5  W19 W17 L10 2.0
+ 14 Sharma, Shikhar        ETSBH87J   235   325/ 10  W19 W18 L5  L2  L8  2.0
+ 15 Han, Felix             MEDBJ41U   250   329/ 20  L7  W16 L6  L10 W19 2.0
+ 16 Senapati, Swayam       SWLDH44Z   233   282/ 11  W13 L15 W20 L7  L9  2.0
+ 17 Sirsat, Sanya          BCACH60Z   179   251/ 15  D12 W10 L7  L13 L11 1.5
+ 18 Gangineni, Sarvesh     MMEBH62Q   143   167/ 22  D5  L14 L8  L19 W20 1.5
+ 19 Zhang, Marina          SSMCJ56B   615   488/ 76  L14 L2  L13 W18 L15 1.0
+ 20 Singh, Suhavi          BCACH87B   111   100/ 17  BYE L9  L16 L11 L18 1.0

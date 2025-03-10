@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Tare, Eevie            SBOFW80B   957  1154/  6  W4  D2  W3  2.5
+  2 Bui, Edwin             FRVFK90H   997   988/ 84  W3  D1  L4  1.5
+  3 Xin, Eric              PROG922V   949   926/ 32  L2  W4  L1  1.0
+  4 Wu, Dennis             SCDEJ54B   757   782/216  L1  L3  W2  1.0

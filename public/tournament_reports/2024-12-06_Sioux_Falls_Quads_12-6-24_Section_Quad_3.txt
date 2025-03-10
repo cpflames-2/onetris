@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Winter, Noah           SDCFZ88H   999   995/ 74  W4  D2  W3  2.5
+  2 Neff, Nathan           ABECK07A   622   765/ 73  W3  D1  W4  2.5
+  3 Davis, Lincoln         SDSEZ99N   738   711/ 89  L2  W4  L1  1.0
+  4 Davis, Gavin           SXBFZ82F   533   497/ 21  L1  L3  L2  0.0

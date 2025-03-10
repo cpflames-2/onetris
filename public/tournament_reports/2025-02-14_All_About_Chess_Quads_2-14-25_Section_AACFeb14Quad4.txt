@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sarychev, Aleksei      GEKKJ98N   876  1024/216  W4  W2  W3  3.0
+  2 Shah, Rachit           BNTEK44K   938   906/ 95  W3  L1  L4  1.0
+  3 Bysani, Aakash         SSMCK01D   874   860/244  L2  W4  L1  1.0
+  4 Mangla, Atharv         GRREK07C   914   889/171  L1  L3  W2  1.0

@@ -1,0 +1,24 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Zhang, Ryan            SHVBH60U   469   654/ 10  W4  D5  W9  W7  W3  4.5
+  2 Hu, Ryan               OPWBJ97N   691   699/ 88  W16 W14 W7  L3  W5  4.0
+  3 Sairam, Advaith        RBRBK01Q   567   657/111  W12 W15 W8  W2  L1  4.0
+  4 Goyal, Avyukt          CNHBJ65X   413   532/ 72  L1  W11 W19 W15 W10 4.0
+  5 Hasson, Ari            SJCBJ47L   521   584/ 35  W11 D1  W17 W8  L2  3.5
+  6 Chiang, Austin         CNHBH59V   100   506/  5  W9  L8  D12 W17 W15 3.5
+  7 Niu, Edwin             BCABH73D   565   559/ 31  W10 W18 L2  L1  W12 3.0
+  8 Kulkarni, Savitru      MYHBJ30N   520   512/ 20  W20 W6  L3  L5  W16 3.0
+  9 Chin, Kheiron          HSCBJ19P   410   412/ 55  L6  W20 L1  W18 W17 3.0
+ 10 Ragno, Xander          HSCAH59U   100   402/  5  L7  W22 W14 W16 L4  3.0
+ 11 Zhang, Ethan           EVGBH59T   100   402/  5  L5  L4  W21 W19 W14 3.0
+ 12 Zhang, Kyle            OPWBJ19N   231   302/ 32  L3  W21 D6  W13 L7  2.5
+ 13 Chen, Emmett           CGRBH72N   443   202/  7  L18 L19 W20 L12 W21 2.0
+ 14 Li, Ryder              MEDBJ66R   332   305/ 50  W19 L2  L10 W23 L11 2.0
+ 15 Wang, Max              CGRBK03S   311   306/ 23  W22 L3  W18 L4  L6  2.0
+ 16 Abimanyu, Siddharth    LMABH60T   206   199/ 14  L2  BYE W23 L10 L8  2.0
+ 17 Chen, Yisu             RKWBH78H   198   211/ 26  W21 W23 L5  L6  L9  2.0
+ 18 Hou, Iris              OPWBH59S   100   155/  5  W13 L7  L15 L9  D19 1.5
+ 19 Tao, Gavin             OPWAH59R   100   148/  5  L14 W13 L4  L11 D18 1.5
+ 20 Rasmussen, Brock       OPWAH59Q   100   100/  5  L8  L9  L13 L21 W23 1.0
+ 21 Sharma, Rishan         CHRAH59N   100   100/  5  L17 L12 L11 W20 L13 1.0
+ 22 Kawale, Sven           OPWBH59M   100   100/  2  L15 L10 HPB HPB U   1.0
+ 23 Dietrich, Luka         OPWAJ27L   100   100/ 16  HPB L17 L16 L14 L20 0.5

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sarangi, Samarth       CBREH69F   612   740/ 82  W3  W4  W2  3.0
+  2 Li, Ethan James        SOMCK00K   638   654/133  W4  W3  L1  2.0
+  3 Mirchandani, Kiaan     MEDEK92Z   600   568/101  L1  L2  W4  1.0
+  4 Reynolds, Logan        CBRFK44J   490   403/  8  L2  L1  L3  0.0

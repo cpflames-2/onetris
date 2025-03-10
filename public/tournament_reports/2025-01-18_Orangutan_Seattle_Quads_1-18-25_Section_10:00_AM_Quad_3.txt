@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Tentor, Jalil          BFDFK39U   341   442/ 13  W4  W2  W3  3.0
+  2 Allyn, Corissa         ADUNH06Q  1300   374/  3  W3  L1  W4  2.0
+  3 Jariwala, Raahi        THOBH32P   100   128/  7  L2  W4  L1  1.0
+  4 Watson, Milan          THOEH06P   400   100/  3  L1  L3  L2  0.0

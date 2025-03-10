@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Rathbone, Brian        ADUNH59L  1300  1244/  3  W2  L4  W3  2.0
+  2 Dillingham, Daniel     KCCHB73M  1309  1296/268  L1  W3  W4  2.0
+  3 Guizar, Kevin          CWHLI02P  1008  1016/102  W4  L2  L1  1.0
+  4 Dodson, Tyson          KCCI234D  1011  1019/ 67  L3  W1  L2  1.0

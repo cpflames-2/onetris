@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Barranco, William      SFNDZ79W   396   411/ 18  W4  D3  W2  2.5
+  2 Mcfayden, Skylar       SDBHZ75Q   343   309/ 12  D3  W4  L1  1.5
+  3 Linn, Atticus          SDSCZ80S   100   112/ 16  D2  D1  L4  1.0
+  4 Rostomily, Josten      SD8FZ75H   100   121/  6  L1  L2  W3  1.0

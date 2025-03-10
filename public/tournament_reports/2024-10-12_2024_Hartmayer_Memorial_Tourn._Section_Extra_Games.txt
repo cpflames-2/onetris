@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 tot 
+  1 Alvares-filshtein, AlexCTXLX04X  1533  1534/104  U   W4  1.0
+  2 Arora, Aaryan          CTXMX04S   756   811/104  W3  U   1.0
+  3 Nair, Amithi           CTXMX04U  1006   958/104  L2  U   0.0
+  4 Pandey, Pragyan        CTXGX12H   919   917/108  U   L1  0.0

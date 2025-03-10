@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chen, William          INGI550N  1585  1608/248  W4  W3  W2  3.0
+  2 Chaudhuri, Arihant     CHAF703E  1395  1416/293  W3  W4  L1  2.0
+  3 Burtram, Dayton        SKNJG77M  1360  1347/325  L2  L1  W4  1.0
+  4 Zhao, William          STTEH70M  1276  1236/157  L1  L2  L3  0.0

@@ -1,0 +1,17 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Jiang, Callie          UCDAH47C   497   648/ 10  W15 W4  W2  W3  W5  5.0
+  2 Chernenko, Mark        BRYAH31R   213   387/ 10  W11 W7  L1  W8  W10 4.0
+  3 Venkatesh, Aiden       WEDAH37S   527   547/ 10  W14 W6  W10 L1  W4  4.0
+  4 Karaca, Aslan          LKDAH50Z   269   373/ 25  W5  L1  W13 W11 L3  3.0
+  5 Stultz, Isaac          WEDAH04B   100   417/  5  L4  W15 W7  W10 L1  3.0
+  6 Anutham, Nikhil        MEDAH31K   253   292/ 10  W8  L3  L11 W9  W12 3.0
+  7 Zylbersztajn, Tom      EVGAH88V   458   406/ 12  W12 L2  L5  W13 W11 3.0
+  8 Pao, Daniel            MEDAH04A   100   217/  5  L6  W14 D9  L2  W16 2.5
+  9 Shih, Alan             EVGAH47A   235   210/ 10  W16 L10 D8  L6  W14 2.5
+ 10 Madhu, Rishab          HSCAH10Z   274   265/ 10  W13 W9  L3  L5  L2  2.0
+ 11 Panda, Neel            SCDAH03Z   100   230/  5  L2  W12 W6  L4  L7  2.0
+ 12 Law, Apollo            WEDAH03Y   100   131/  5  L7  L11 W15 W14 L6  2.0
+ 13 Akoum, Ray             EVGAH03W   100   156/  5  L10 W16 L4  L7  W15 2.0
+ 14 Kekre, Aadya           EVGAH31S   142   100/ 10  L3  L8  W16 L12 L9  1.0
+ 15 Aguiluz, Emilio        BRYAH31F   100   100/  8  L1  L5  L12 D16 L13 0.5
+ 16 Ronen, Eitan           BRYAH03V   100   100/  5  L9  L13 L14 D15 L8  0.5

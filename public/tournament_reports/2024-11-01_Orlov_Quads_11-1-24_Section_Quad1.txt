@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Nishino, Anne          BCADH74F   758   933/ 66  W3  W2  W4  3.0
+  2 Rodefer, Ben           TYEIH50H   800   839/  3  D4  L1  W3  1.5
+  3 Xiong, Maxwell         CSIDK92H   681   697/ 52  L1  W4  L2  1.0
+  4 Jang, Jinwon           VIEH561P   988   897/ 83  D2  L3  L1  0.5

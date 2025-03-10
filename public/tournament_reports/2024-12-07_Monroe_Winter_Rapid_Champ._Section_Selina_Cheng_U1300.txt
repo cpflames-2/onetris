@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Kamisetty, Komansai    CDWH644X   858  1037/ 20  W2  W6  L3  W7  W4  4.0
+  2 Marsh, Stephen         ADUNH59D  1172  1106/ 10  L1  W8  D4  W5  D3  3.0
+  3 Lai, Ryan              SHSBH70N  1082  1063/ 43  D5  W7  W1  L6  D2  3.0
+  4 Zou, Fuxing            ADUNH28Q  1300  1057/  4  HPB W5  D2  W8  L1  3.0
+  5 Yellappa, Nandeesh     ADUNH44K   809   893/  9  D3  L4  W8  L2  W6  2.5
+  6 Golan, Elliot          ADUNH58X   956   910/ 15  W8  L1  L7  W3  L5  2.0
+  7 Armitage-selig, PhoenixSUZBJ31Z   661   675/ 54  BYE L3  W6  L1  L8  2.0
+  8 Nandeesh, Tavishna     CAVEH61E   794   755/ 43  L6  L2  L5  L4  W7  1.0

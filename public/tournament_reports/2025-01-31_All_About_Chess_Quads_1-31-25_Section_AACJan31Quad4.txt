@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bhandari, Aarav        CBREJ06H   937  1078/ 93  W4  W3  W2  3.0
+  2 Gui, Joyce             OPWCH92C   941   951/ 98  W3  D4  L1  1.5
+  3 Chai, Chloe            NCSEJ59R   974   949/120  L2  L1  W4  1.0
+  4 Mangla, Atharv         GRREK07C   980   927/165  L1  D2  L3  0.5

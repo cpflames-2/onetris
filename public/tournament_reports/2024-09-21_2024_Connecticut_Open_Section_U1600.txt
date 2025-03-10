@@ -1,0 +1,12 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Kingsley, Peter F      MAXNX03B  1525  1536/108  D8  W7  W4  W3  3.5
+  2 Shamas, Aidan          CTXNX11Q  1445  1445/103  WF  W11 L3  W5  3.0
+  3 Luna, Antonio          MAXNX11L  1305  1380/104  W10 W4  W2  L1  3.0
+  4 Newell, Wyelin Olufemi CTXLX01H  1375  1363/108  W6  L3  L1  W7  2.0
+  5 Marks, Lokwatay        CTXIX01J  1466  1419/112  L11 W6  W10 L2  2.0
+  6 Jay, Robbie K          CTXMX11T  1169  1189/104  L4  L5  W8  W11 2.0
+  7 Maheshkumar, Tanuj     CTXIX11N  1007  1113/104  W9  L1  W11 L4  2.0
+  8 Syed, Zeeshan          CTXJX11R  1165  1163/104  D1  L9  L6  W10 1.5
+  9 Fleming, Edward        MDXNX11J  1384  1357/102  L7  W8  U   U   1.0
+ 10 Bist, Samar Singh      CTXIX04B  1027   974/  7  L3  BYE L5  L8  1.0
+ 11 Lyons, Daniel AlexanderMAXNX11M  1300  1108/  4  W5  L2  L7  L6  1.0

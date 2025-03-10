@@ -1,0 +1,21 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Birch, David           EGMHH66N   894  1001/ 10  W7  W6  D4  W2  W5  4.5
+  2 Dinesh Babu, Darshini  GNAEH50D   860   905/ 22  W17 W12 W5  L1  W4  4.0
+  3 Whitney, Keegan        HSCHH07R   700  1002/  5  W10 L4  W7  W11 W6  4.0
+  4 Higgins, Peter         GONGJ57Y   752   860/ 44  W20 W3  D1  W8  L2  3.5
+  5 Stark, Owen            RVBEH79D   626   723/ 18  W14 W11 L2  W15 L1  3.0
+  6 Scordino, Oscar        LBYHH50G   728   747/ 10  W19 L1  W12 W9  L3  3.0
+  7 Odell, Eric            LLKDH49Y   585   713/ 25  L1  W14 L3  W13 W11 3.0
+  8 Grace, Sophia          HSCCH68T   833   803/ 22  W9  W18 L11 L4  W14 3.0
+  9 Bonner, Branson        HDPHH01F   472   596/ 15  L8  W13 W19 L6  W16 3.0
+ 10 Li, Junyi              IDXIY99G   662   666/ 29  L3  W20 L13 W16 W12 3.0
+ 11 Rushton, Finley        LBYHH50E   898   827/ 15  W15 L5  W8  L3  L7  2.0
+ 12 Walters, Conner        HSCJH50C   486   517/ 15  W16 L2  L6  W18 L10 2.0
+ 13 Grace, Serena          HSCFH54P   625   588/ 14  L18 L9  W10 L7  W15 2.0
+ 14 Crow, Hank             HSCEH07Q   400   510/  5  L5  L7  W18 W19 L8  2.0
+ 15 Sparre, Elijah         HDPJI82W   586   562/ 29  L11 W19 W17 L5  L13 2.0
+ 16 Autry-dalsanders, Reed MMCGK48X   772   672/ 80  L12 W17 W20 L10 L9  2.0
+ 17 Jude, Atticus          HSCFJ88G   568   528/ 15  L2  L16 L15 W20 W18 2.0
+ 18 Bounds, Fischer        IDXGY963   600   330/  5  W13 L8  L14 L12 L17 1.0
+ 19 Gilbrech, Aurora       HSCJH07P   900   247/  5  L6  L15 L9  L14 W20 1.0
+ 20 Crow, Harris           HSCGH07N   600   100/  5  L4  L10 L16 L17 L19 0.0

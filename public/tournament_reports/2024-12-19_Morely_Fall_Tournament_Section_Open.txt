@@ -1,0 +1,10 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 rd7 tot 
+  1 Kirzon, Simon          CTXFZ69W   500   587/  5  W5  W7  W2  W4  L3  BYE BYE 6.0
+  2 Stange, Ira            CTXFZ69V   500   447/  6  W6  W4  L1  W3  D7  D5  BYE 5.0
+  3 Kelly, Brendan         CTXFZ69U   500   447/  6  L4  W5  W6  L2  W1  W7  BYE 5.0
+  4 Walsh, Teddy           CTXCZ69T   200   439/  5  W3  L2  W7  L1  W5  BYE BYE 5.0
+  5 Sweeney, Rory          CTXCZ69R   200   276/  6  L1  L3  BYE W6  L4  D2  W7  3.5
+  6 Hill, Basil            CTXAZ69Q   100   100/  3  L2  BYE L3  L5  HPB HPB HPB 2.5
+  7 Elezaj, Arcadia        CTXAZ69P   100   100/  5  BYE L1  L4  HPB D2  L3  L5  2.0
+
+ All Unrated-player Section: Ratings capped at 1000

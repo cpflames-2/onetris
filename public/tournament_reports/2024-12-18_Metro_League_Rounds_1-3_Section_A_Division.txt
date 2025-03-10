@@ -1,0 +1,41 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chivers, Roman         SPRK5495  1532  1616/159  D11 W14 W31 2.5
+  2 Schmidt-warnecke, Max  LSSM6188  1307  1330/187  W14 L4  W19 2.0
+  3 Koehler, Blake         SPRMJ76R   997  1064/ 38  W21 L13 W17 2.0
+  4 O'donnell, Henry       SPRLJ76V   781   852/ 19  L16 W2  W35 2.0
+  5 Peng, Christopher      LSSK2702  1638  1642/192  L23 W30 W38 2.0
+  6 Bushfield, Stuart      LSSMF350  1439  1487/362  W20 W15 U   2.0
+  7 Cheng, Edward          GARMC74W  1947  1950/461  W31 W32 U   2.0
+  8 Schmeichel, Trevor     GARM3868  1261  1268/167  W36 W34 U   2.0
+  9 Shi, Gavin             LCOKH855  1548  1567/433  W30 U   W13 2.0
+ 10 Xuan, Owen             LSSL5792  1917  1921/293  W33 U   W32 2.0
+ 11 Demberel, Amana        LCOMJ14E  1787  1786/140  D1  U   W33 1.5
+ 12 Wang, Raymond          FRAMK66P  1535  1542/ 40  D18 U   W30 1.5
+ 13 Kolenski, Drew         LSSMI420  1365  1357/177  L27 W3  L9  1.0
+ 14 Wang, Felicity         LSSLJ02F  1754  1701/314  L2  L1  W40 1.0
+ 15 Roberts, Noah          SPRL3819  1167  1150/ 40  L19 L6  W36 1.0
+ 16 Putz, Eric             LCOKH23G  1000  1085/  2  W4  U   L26 1.0
+ 17 Loya, Henry            FRAM3183   765   816/ 17  W24 U   L3  1.0
+ 18 Kasha, Elliot          GARM235P  1494  1498/120  D12 D29 U   1.0
+ 19 Calo, Jude             LCOJ3425  1339  1327/212  W15 U   L2  1.0
+ 20 Eksarevskly, Albert    LSSK530Y  1841  1813/140  L6  U   W37 1.0
+ 21 Rhew, Owen             LCOMH23F  1200  1168/  2  L3  U   W39 1.0
+ 22 Moriguchi, Minh        GARJA43T   885   869/ 71  W35 L25 U   1.0
+ 23 Bian, Erin             LSSJI91Y  2219  2220/206  W5  U   U   1.0
+ 24 Pedapalli, Arnav       GARMJ77N  1242  1199/ 30  L17 W37 U   1.0
+ 25 Phelan Marczak, Avrum  INMLK66Z  1009  1029/ 24  U   W22 U   1.0
+ 26 Kedu, Sona             LSSKH23E  1000  1391/  1  U   U   W16 1.0
+ 27 Wang, Daniel           LSSM8287  1782  1785/633  W13 U   U   1.0
+ 28 Razmov, Gabriel        LSSJC26K  1866  1866/371  U   U   W34 1.0
+ 29 Score, Carson          INMLH46V  1515  1512/  6  U   D18 U   0.5
+ 30 Laporte, Andy          SPRLK67S  1352  1323/ 36  L9  L5  L12 0.0
+ 31 Davis, Caian           FRAMK67M  1459  1444/ 45  L7  U   L1  0.0
+ 32 Kangas, Jonah          INMLJ21E  1414  1409/ 16  U   L7  L10 0.0
+ 33 Li, Emma               LSSK521Q  1539  1527/369  L10 U   L11 0.0
+ 34 Page, Finley           INMLH23D  1100   876/  2  U   L8  L28 0.0
+ 35 Mathly, Jabril         FRAMJ59S   384   374/ 14  L22 U   L4  0.0
+ 36 Cortes-pineda, JonathanFRAMH23B  1200   755/  2  L8  U   L15 0.0
+ 37 Worm, Silas            INMLH23A  1100   803/  2  U   L24 L20 0.0
+ 38 Finn, Nathan           INMMJ76Z   694   694/  8  U   U   L5  0.0
+ 39 Dhillon, Rohan         LSSM6836  1311  1274/213  U   U   L21 0.0
+ 40 Groebner, Teddy        INMLJ76X   904   903/ 20  U   U   L14 0.0

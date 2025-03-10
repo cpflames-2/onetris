@@ -1,0 +1,75 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Velea, Stephanie       TSTMD353  1752  1766/343  W51 W25 W48 3.0
+  2 Min, Ryan              INTK5430  2126  2128/433  W57 U   W24 2.0
+  3 Garine, Ujwal          TSTLB99A  1808  1792/253  W29 L4  W58 2.0
+  4 Hetamsaria, Aadi       NPRL888H  1665  1695/182  W15 W3  L21 2.0
+  5 Cen, Evan              INTJI97D  1619  1622/227  W62 U   W52 2.0
+  6 Sharma, Devansh        TSTKF88S  1548  1532/207  L32 W59 W74 2.0
+  7 Yu, Luke               SKNK676Z  1542  1557/ 80  U   W50 W33 2.0
+  8 Kang, Jinue            BLLJ2661  1500  1516/305  U   W73 W16 2.0
+  9 Dai, Brian             BLLK361V   747   839/ 12  U   W18 W66 2.0
+ 10 Yen, Arthur            BLLKD033   736  1221/  5  U   W32 W26 2.0
+ 11 Dhavse, Vihaan         INTMH30V  1200   780/  3  W68 W69 L39 2.0
+ 12 Brahmachary, Aditya    SKNMH30T  1200  1554/  2  U   W67 W36 2.0
+ 13 Ramaswamy, Rishi       INTKS63U  1817  1803/155  W42 U   D50 1.5
+ 14 Bhimisetty, Sankeerth  INTM995Q  1501  1489/ 81  D55 U   W64 1.5
+ 15 Ao, Ethan              NPRLJ24V  1371  1389/ 27  L4  D47 W42 1.5
+ 16 Deng, Austin           NPRLJ89K  1342  1332/ 23  W46 D19 L8  1.5
+ 17 Gollapally, Arnav      SKNK499J  1300  1304/146  U   D52 W35 1.5
+ 18 Grandhi, Dhruv         INTJC63M  1358  1318/ 57  D49 L9  W62 1.5
+ 19 Bharadwaj, Anish       TSTKI530  1243  1254/319  W72 D16 U   1.5
+ 20 Hayashi, Charles       EPSGJ96B   658   696/ 13  U   W65 D54 1.5
+ 21 Jiang, Brandon         BLLM7768  2216  2217/541  U   U   W4  1.0
+ 22 Liu, Austin            SKNK530J  2185  2186/360  U   U   W47 1.0
+ 23 Joshi, Atharva         SKNM1352  1799  1778/361  U   L24 W60 1.0
+ 24 Tatikonda, Nihanth     BOTK926F  1622  1648/271  U   W23 L2  1.0
+ 25 Yu, Aiden              NPRLF95R  1599  1589/ 42  W74 L1  U   1.0
+ 26 Yuodelis, Kenneth      NPRL3681  1580  1553/460  U   W30 L10 1.0
+ 27 Subramanian, Thrinay   INTJ466R  1572  1580/147  U   U   W45 1.0
+ 28 Kokati, Pranav         INTJ814P  1413  1427/299  U   U   W55 1.0
+ 29 Hetamsaria, Aayan      BISJG19R  1392  1421/ 85  L3  W57 U   1.0
+ 30 Bansal, Vivaan         TSTK452J  1344  1339/133  W63 L26 U   1.0
+ 31 Nerella, Abhiram       INTJI18R  1342  1343/ 42  W40 U   U   1.0
+ 32 Mahadevan, Aran        BISJH89S  1305  1320/ 11  W6  L10 U   1.0
+ 33 Vijan, Dylan           EPSM5706  1253  1250/190  U   W74 L7  1.0
+ 34 Burtram, Dayton        SKNJG77M  1364  1366/319  U   W64 U   1.0
+ 35 Robinson, Adam         EPSKK708  1185  1185/181  U   W46 L17 1.0
+ 36 Sharma, Jai            EPSM417M  1143  1164/ 36  U   W41 L12 1.0
+ 37 Zhong, Andrew          TSTKI33Z  1102  1172/  6  U   U   W41 1.0
+ 38 Xu, Aidan              SKNKK906  1053  1062/168  U   L45 W56 1.0
+ 39 Prasad, Shrey          EPSIK46U   917   938/ 13  U   U   W11 1.0
+ 40 Nago, Brenden          BLLLB69G   572   572/  7  L31 U   W71 1.0
+ 41 Zhang, Daniel          NPRKH30S  1000  1078/  3  W58 L36 L37 1.0
+ 42 Nanda, Abhav           BLLLH30R  1100  1203/  3  L13 W63 L15 1.0
+ 43 Wu, Ben                NPRMH30Q  1200  1777/  1  U   W60 U   1.0
+ 44 Wang, Joshua           NPRKH30P  1000  1050/  1  U   U   W70 1.0
+ 45 Mysore, Tanush         BOTMH30N  1200  1322/  2  U   W38 L27 1.0
+ 46 Ihm, Charlie           NPRJH30M   900  1055/  3  L16 L35 W61 1.0
+ 47 Wu, Dylan              EPSMC987  1583  1571/254  U   D15 L22 0.5
+ 48 Pai, Andrew            NPRM641Y  1383  1358/ 25  D53 U   L1  0.5
+ 49 Jin, Wan Ho            INTKJ72T  1289  1294/  6  D18 U   U   0.5
+ 50 Konde, Tayshu          BOTJ355E  1288  1302/149  U   L7  D13 0.5
+ 51 Chopra, Aaryaman       BISJK30K  1231  1211/ 88  L1  D56 U   0.5
+ 52 Anoop, Pavan           SHVM8203  1097  1109/ 73  U   D17 L5  0.5
+ 53 Dy, Edward             NPRM595X   876   906/ 21  D48 U   U   0.5
+ 54 Kim, Luke              NPRKH30L  1000   720/  1  U   U   D20 0.5
+ 55 Huang, Ryan            BLLLH30K  1100  1256/  2  D14 U   L28 0.5
+ 56 Maia, Daniel           BLLLH30J  1100   939/  2  U   D51 L38 0.5
+ 57 Kato, Ozzie            BLLKG89L  1588  1557/ 37  L2  L29 U   0.0
+ 58 Lin, William           NPRLJ24U  1525  1324/  5  L41 U   L3  0.0
+ 59 Kang, Danny            NPRKH30U  1491  1471/ 79  U   L6  U   0.0
+ 60 Puri, Rishay           EPSMK809  1398  1389/268  U   L43 L23 0.0
+ 61 Latuskiewicz, Matthew  EPSGK21S  1090  1058/ 58  U   U   L46 0.0
+ 62 Siddiqui, Kaamil       BLLKD777  1062  1049/248  L5  U   L18 0.0
+ 63 Chaturvedi, Raghav     BISJK75J  1047  1022/138  L30 L42 U   0.0
+ 64 Kandiah, Ishaan        BOTM511U   852   847/ 12  U   L34 L14 0.0
+ 65 Kim, Benjamin          CHOJE22H   776   700/  6  U   L20 U   0.0
+ 66 Bhatt, Rayaan          EPSGH76P   719   695/ 16  U   U   L9  0.0
+ 67 Ewaldsson, Aida        EPSFG73P   602   602/ 44  U   L12 U   0.0
+ 68 Ramsby, Ender          TSTJK739   556   538/ 82  L11 U   U   0.0
+ 69 Koh, Ben               BLLJH877   453   442/ 10  U   L11 U   0.0
+ 70 Gedman, Kaysan         EPSHH30H   700   650/  1  U   U   L44 0.0
+ 71 Lathi, Rishi           EPSGH30G   600   208/  1  U   U   L40 0.0
+ 72 Yunger, Joshua         BISLH30F  1100   859/  1  L19 U   U   0.0
+ 73 Lou, Jeffrey           BISMH30E  1200  1117/  1  U   L8  U   0.0
+ 74 Upadhyay, Saransh      NPRKH30C  1000   852/  3  L25 L33 L6  0.0

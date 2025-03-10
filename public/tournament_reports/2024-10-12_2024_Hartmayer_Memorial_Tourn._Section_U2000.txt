@@ -1,0 +1,14 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Maralappanavar, Omkar  CTXNX02W  1856  1854/112  W8  L3  W9  W2  3.0
+  2 Hartman, Nadav Munro   CTXIX01E  1709  1728/112  W9  W11 W6  L1  3.0
+  3 Berkun, Joshua Neil    CTXNX10Z  1667  1709/108  W12 W1  L7  W6  3.0
+  4 Kingsley, Peter F      MAXNX03B  1536  1603/112  L6  W10 W11 W7  3.0
+  5 Marks, Lokwatay        CTXIX01J  1419  1523/116  W7  L6  W12 W10 3.0
+  6 Borges, Gabriel BergamiCTXNX04K  1795  1772/104  W4  W5  L2  L3  2.0
+  7 Ravi, Dharani Sree     CTXNX10R  1793  1761/104  L5  W13 W3  L4  2.0
+  8 Alvares-filshtein, AlexCTXLX04X  1557  1533/103  L1  L9  BYE W12 2.0
+  9 Herve-mignucci, CallistHSCIJ95N  1551  1555/ 14  L2  W8  L1  W11 2.0
+ 10 Nagel, Arthur C        CTXNX02Z  1678  1640/106  LF  L4  W13 L5  1.0
+ 11 Nair, Nitya            CTXMX04T  1019  1014/103  WF  L2  L4  L9  1.0
+ 12 Nair, Amithi           CTXMX04U  1012  1006/103  L3  BYE L5  L8  1.0
+ 13 Dai, Brian             CTXCX05A  1480  1460/102  HPB L7  L10 U   0.5

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Berjis, Adrina         MEDF230U   904   961/170  W2  D3  W4  2.5
+  2 Fan, Theodore          LTLCK42S   959   963/ 93  L1  W4  W3  2.0
+  3 Wu, Jonathan           UCDDK14H   981   954/ 68  W4  D1  L2  1.5
+  4 Verma, Ronav           EVJHG78V   700   551/  3  L3  L2  L1  0.0

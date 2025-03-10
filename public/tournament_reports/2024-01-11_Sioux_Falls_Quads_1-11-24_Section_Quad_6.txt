@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Devish, Coale          SDSCZ80U   563   693/ 25  W3  W2  W4  3.0
+  2 Kolbeck, Cruz          SD8GZ89S   516   564/ 19  W4  L1  W3  2.0
+  3 Terpstra, John         SDSFZ845   500   483/ 61  L1  W4  L2  1.0
+  4 Beynon, Jaxon          SDSDZ89P   525   439/ 89  L2  L3  L1  0.0

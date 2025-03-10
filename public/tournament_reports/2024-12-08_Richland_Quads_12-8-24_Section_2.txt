@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Barrera, Tino          ADUN6658  1071  1118/173  W4  W3  L2  2.0
+  2 Dillingham, Daniel     KCCHB73M  1323  1303/274  L3  W4  W1  2.0
+  3 Ramirez, Aaron         CWHJK97W  1028  1028/ 71  W2  L1  L4  1.0
+  4 Talbot, Brian          LIBN7252  1069  1059/254  L1  L2  W3  1.0

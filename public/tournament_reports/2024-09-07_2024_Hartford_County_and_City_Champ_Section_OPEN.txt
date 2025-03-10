@@ -1,0 +1,12 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Zhou, Jianchao         MAXNX00A  2656  2656/107  WF  W3  D2  W4  3.5
+  2 Ivanov, Alexander      MAXNX00C  2506  2508/108  W6  W4  D1  D3  3.0
+  3 Tanenbaum, Zachary     CTXNX00E  2339  2342/108  W10 L1  W9  D2  2.5
+  4 Dedona, Mark           NYXNX02P  2160  2163/103  WF  L2  W5  L1  2.0
+  5 Uwakwe, Michael        CTXNX00L  2042  2047/107  LF  W10 L4  W9  2.0
+  6 Bhargava, Kushagra     CTXHX00P  1914  1925/107  L2  D9  D7  W10 2.0
+  7 Bihlmeyer, Joseph      CTXNX02R  1962  1979/103  U   D8  D6  W11 2.0
+  8 Kudrin, Sergey         CTXNX00D  2390  2370/107  L9  D7  W11 U   1.5
+  9 Goodman, Hayes N       RIXNX02S  1904  1920/104  W8  D6  L3  L5  1.5
+ 10 Upadhyay, Punyavrat    CTXMX00X  1810  1792/107  L3  L5  BYE L6  1.0
+ 11 Kelliher, Owen         MAXNX02T  1800  1790/102  LF  BYE L8  L7  1.0

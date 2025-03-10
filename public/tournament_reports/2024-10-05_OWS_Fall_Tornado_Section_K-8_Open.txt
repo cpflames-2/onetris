@@ -1,0 +1,47 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Dhawan, Viraj          OVLII96U  1387  1449/105  W24 W21 W14 W8  4.0
+  2 Sharma, Soham          LMSIK09Q  1493  1502/ 78  W36 W35 W18 D5  3.5
+  3 Babbar, Riaan          ENDEJ98D  1330  1391/ 99  W25 W23 D13 W15 3.5
+  4 Kwan-uchiyama, Avery   OMSGH22T  1304  1372/111  W32 D16 W20 W13 3.5
+  5 Srimurugan, Rudran     OPWIJ98L  1288  1397/ 39  W27 W11 W6  D2  3.5
+  6 Das, Sambuddha Sekhar  ENDEK47S  1360  1366/164  W37 W22 L5  W23 3.0
+  7 Patnaik, Rishabhdeva   PLKGG72D  1332  1334/186  L11 W27 W26 W22 3.0
+  8 Yang, Jimmy            BASFG45S  1244  1290/213  W45 W44 W12 L1  3.0
+  9 Moghe, Arjun           REJHA42C  1241  1276/148  W28 L13 W39 W31 3.0
+ 10 Lan, Jonathan          MEDE968F  1174  1174/142  L42 W46 W43 W28 3.0
+ 11 Luo, Peter             SOMF664K  1108  1240/127  W7  L5  W42 W18 3.0
+ 12 Ma, Lewis              SOMD587M  1524  1488/181  W17 D20 L8  W29 2.5
+ 13 Joseph, Veronique      SJOFJ04S  1509  1483/184  WF  W9  D3  L4  2.5
+ 14 Chen, Felix Y          DISEA67A  1255  1255/ 90  W39 W42 L1  D17 2.5
+ 15 Raj, Skandha           EVGCK55U  1230  1224/139  D40 W34 W16 L3  2.5
+ 16 Thanikonda, Kruti      CMCEK84W  1161  1167/151  W43 D4  L15 W34 2.5
+ 17 Wang, Hengsheen        BASC704V  1130  1153/120  L12 W45 W44 D14 2.5
+ 18 Zhao, William          STTEH70M  1300  1283/150  W38 W29 L2  L11 2.0
+ 19 Xu, Yang               EVGF649B  1223  1181/183  L29 L39 W38 W40 2.0
+ 20 Wang, Harvey           OPWCJ68G  1209  1217/132  W30 D12 L4  D26 2.0
+ 21 He, Jizhou             MEDD789B  1179  1161/106  W46 L1  L28 W42 2.0
+ 22 Chaurasia, Vihaan      REJHH65G  1161  1160/164  W33 L6  W41 L7  2.0
+ 23 Zhao, Dennis           OPWI525E  1154  1173/376  W31 L3  W30 L6  2.0
+ 24 Bravenboer, Jake       OPWEJ97Y  1115  1117/112  L1  L28 W45 W39 2.0
+ 25 Chen, Julian           CNHCK32C  1098  1101/ 74  L3  W33 L31 W41 2.0
+ 26 Huang, Clora           SOMFK31H  1079  1098/150  HPB W40 L7  D20 2.0
+ 27 Bui, Edwin             FRVFK90H  1054  1080/ 96  L5  L7  W36 W43 2.0
+ 28 Chen, Max Y            DISFK76L  1047  1091/ 90  L9  W24 W21 L10 2.0
+ 29 Kumar, Rishuraj        HEAGK45Y  1014  1099/ 89  W19 L18 W35 L12 2.0
+ 30 Iyer, Hrishaan Arjun   BISGJ57L   959  1026/ 36  L20 W37 L23 W35 2.0
+ 31 Gokulakrishnan, SriharsTMMGH60B   600  1137/  4  L23 W38 W25 L9  2.0
+ 32 Zhang, Bowen           REEFK46L  1078  1043/ 48  L4  L43 W46 D33 1.5
+ 33 Kachachi, Cyrus        OPWE763G   949   962/ 97  L22 L25 W37 D32 1.5
+ 34 Kapoor, Rishaan        PLKHJ28K   655   673/ 25  BYE L15 D40 L16 1.5
+ 35 Zhang, Zhibo           SOMF674X  1174  1119/113  W41 L2  L29 L30 1.0
+ 36 Jiang, Kyle            MEDCK35B  1125  1065/118  L2  L41 L27 W44 1.0
+ 37 Sabarish, Ananya       BCAEG02Z  1113  1055/168  L6  L30 L33 W45 1.0
+ 38 Rachiba, Alisa         EVPEK08E  1065  1033/153  L18 L31 L19 W46 1.0
+ 39 Sembium, Aditi         BCAEK25W  1054  1044/304  L14 W19 L9  L24 1.0
+ 40 Tsen, Eric             AGBEK18P  1038   994/186  D15 L26 D34 L19 1.0
+ 41 Li, Alice              OPWDJ98C   983   966/ 74  L35 W36 L22 L25 1.0
+ 42 Sailer, Shaunak        OPWHC25Z   965   975/238  W10 L14 L11 L21 1.0
+ 43 Lew, Abigail           OPWE645P   919   919/159  L16 W32 L10 L27 1.0
+ 44 Marrugo, Emilio        OPWEE25J   825   802/ 80  WF  L8  L17 L36 1.0
+ 45 Su, Oliver             JINED01U  1049   977/144  L8  L17 L24 L37 0.0
+ 46 Lin, Luna              OPWDK01W  1010   933/113  L21 L10 L32 L38 0.0

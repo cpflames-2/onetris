@@ -1,0 +1,17 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Sivakumar, Vedant      INGHH63H   685   715/ 51  W12 W6  W4  W8  L2  4.0
+  2 Sankapal, Pranav       SNEDJ61E   589   678/ 34  W14 W3  L8  W9  W1  4.0
+  3 Brakenridge, Bryce     TYEGK89D   611   681/ 70  W11 L2  W9  W5  W4  4.0
+  4 Mazer, Harvey          SNEEJ59E   635   637/ 38  W7  W5  L1  W6  L3  3.0
+  5 Sathyamurthy, Shreyus  BLWCJ60Z   621   608/109  W13 L4  W12 L3  W8  3.0
+  6 Chen, Yisu             RKWBH78H   372   435/ 53  W16 L1  W7  L4  W11 3.0
+  7 Balaji, Pranav         INGHJ96J   295   381/ 20  L4  W13 L6  W14 W12 3.0
+  8 Pai, Samiksha          SSMEJ19X   609   581/ 87  D9  W15 W2  L1  L5  2.5
+  9 Teng, Lyndon           SOMFK88Q   265   341/ 12  D8  W10 L3  L2  W16 2.5
+ 10 Chu, Melody            JINBJ02K   172   203/ 27  D15 L9  L11 W16 W14 2.5
+ 11 Skelton, Malcolm       SNEDK41T   342   314/ 36  L3  D14 W10 D13 L6  2.0
+ 12 Skelton, Conrad        SNEBJ81Z   357   342/ 30  L1  W16 L5  W15 L7  2.0
+ 13 Brakenridge, Ryan      SOMBK05L   222   227/ 52  L5  L7  W16 D11 D15 2.0
+ 14 Teng, Lincoln          SOMFK88N   293   254/ 12  L2  D11 W15 L7  L10 1.5
+ 15 Nandakiran, Advaith    SSMCJ88H   326   231/102  D10 L8  L14 L12 D13 1.0
+ 16 Balaji, Vaibhav        SSMCH28Z   100   100/ 10  L6  L12 L13 L10 L9  0.0

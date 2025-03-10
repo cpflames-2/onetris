@@ -1,0 +1,22 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Rengarajan, Anirudh    LHCFZ75J  1108  1086/ 14  W14 W5  L3  W8  W6  4.0
+  2 Byelashova, Darya      SGHEK51X  1070  1055/133  W8  D11 W12 W4  D3  4.0
+  3 Rachiba, Alisa         EVPEK08E   986  1010/168  W9  W7  W1  D6  D2  4.0
+  4 Rish-brown, Jackson    HMOFH57T   701   714/ 10  W19 D12 W13 L2  W9  3.5
+  5 Still, John            HMOEJ18T   695   749/  8  W16 L1  W15 HPB W11 3.5
+  6 Siek, Peter            HMOEK62A   713   735/ 25  W15 D13 W11 D3  L1  3.0
+  7 Rish-brown, Jacob      HMOFK61J   411   465/ 20  W10 L3  W20 L9  W12 3.0
+  8 Murphy, Pryor          FSEEK16W   296   406/ 35  L2  W20 W10 L1  W18 3.0
+  9 Chen, Isabel           STCEJ18U   273   411/ 10  L3  W18 W16 W7  L4  3.0
+ 10 Beltran, Nicolo        STCEH47Q   400   363/  5  L7  W19 L8  W15 W16 3.0
+ 11 Brar, Angad            PIOEJ52A   635   639/ 60  W17 D2  L6  W13 L5  2.5
+ 12 Surineni, Aaditri      MSMEJ52D   593   573/ 34  W18 D4  L2  W14 L7  2.5
+ 13 Walton, Cara           HSCDK52K   490   489/ 44  W21 D6  L4  L11 W17 2.5
+ 14 Colon, Gia             STCDJ18K   317   293/ 20  L1  L16 W17 L12 W19 2.0
+ 15 Martinez, Asher        CMBEJ18Y   230   241/ 14  L6  W21 L5  L10 W20 2.0
+ 16 Satish Kumar, NithyashrCENDJ51U   105   184/ 25  L5  W14 L9  W21 L10 2.0
+ 17 Austin-brownell, Emily STCFJ18N   100   123/  9  L11 BYE L14 W20 L13 2.0
+ 18 Defolo, Colby          NARFH47P   500   249/  5  L12 L9  W21 W19 L8  2.0
+ 19 Kunz, Ava              STCDJ18J   205   120/ 19  L4  L10 BYE L18 L14 1.0
+ 20 Campuzano, Noelle      STCDJ18C   100   100/  8  BYE L8  L7  L17 L15 1.0
+ 21 Castillo, Nicolas      STCEH47N   400   100/  4  L13 L15 L18 L16 BYE 1.0

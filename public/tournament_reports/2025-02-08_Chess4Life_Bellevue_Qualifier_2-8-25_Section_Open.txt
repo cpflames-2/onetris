@@ -1,0 +1,12 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Tunuguntla, Sai SrithanEMDGK78V  1117  1188/256  W4  W5  W8  W2  L3  4.0
+  2 Black, Stas            WPPG368F  1112  1126/165  D3  W9  W7  L1  W4  3.5
+  3 Liang, Grace           BASE183K   881   994/ 42  D2  L4  W10 W9  W1  3.5
+  4 Khandhedia, Dhruvin NirCNCF257G   915  1016/ 84  L1  W3  W6  W8  L2  3.0
+  5 Anbuselvam, Mithran    HEAGH61F  1070  1057/121  W6  L1  L9  W10 W8  3.0
+  6 Vivek, Thanish BhavanamAUDCH74G   804   811/ 28  L5  W11 L4  BYE W9  3.0
+  7 Iyer, Hrishaan Arjun   BISGJ57L  1054  1019/ 45  W10 L8  L2  W11 BYE 3.0
+  8 Yadav, Himank          INLL399V  1233  1152/220  W11 W7  L1  L4  L5  2.0
+  9 Bhairav, Rachit        RCSDC41S   841   828/ 45  BYE L2  W5  L3  L6  2.0
+ 10 Almuayyad, Omar        RHJHJ59J   642   629/ 46  L7  BYE L3  L5  W11 2.0
+ 11 Srinivasan, Kavin      ISMIG87J   800   237/  4  L8  L6  BYE L7  L10 1.0

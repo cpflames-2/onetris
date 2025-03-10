@@ -1,0 +1,14 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Baumgart, Spencer      CTXEZ70B   400  1000/  5  W11 W7  W2  W3  W6  5.0
+  2 Litvin, Benjamin       CTXEZ70A   400   679/  5  W8  W6  L1  W4  W5  4.0
+  3 Litvin, Michael        CTXEZ709   400   683/  5  W9  W5  W6  L1  W7  4.0
+  4 Coyle, Owen            CTXDZ708   300   327/  5  L7  W11 W9  L2  W8  3.0
+  5 Barrett, Jonathan      CTXCZ707   200   248/  4  BYE L3  D11 W10 L2  2.5
+  6 Abrahms, Sebastian     CTXFZ706   500   406/  5  W10 L2  L3  W7  L1  2.0
+  7 Merry, Hudson          CTXCZ705   200   344/  5  W4  L1  W10 L6  L3  2.0
+  8 Zweig, Connor          CTXDZ704   300   100/  4  L2  L10 BYE W11 L4  2.0
+  9 Caselli, Sam           CTXCZ702   200   100/  2  L3  BYE L4  HPB HPB 2.0
+ 10 Mathias, Amelie        CTXDZ69Z   300   100/  5  L6  W8  L7  L5  D11 1.5
+ 11 Clark, Levi            CTXDZ69X   300   100/  5  L1  L4  D5  L8  D10 1.0
+
+ All Unrated-player Section: Ratings capped at 1000

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Koster, John           SPTBJ88T   902  1026/105  W4  W3  W2  3.0
+  2 Becklund, Ezra         JDSIH11H   890   935/  9  W3  W4  L1  2.0
+  3 Chen, Albert           LKWD728A   879   859/ 31  L2  L1  W4  1.0
+  4 George, Ameya          EBSFK88Y   873   801/122  L1  L2  L3  0.0

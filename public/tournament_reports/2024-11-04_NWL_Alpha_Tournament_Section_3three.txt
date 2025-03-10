@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Luna, Max              FERLJ85Y  1093  1238/ 43  W5  W4  W3  3.0
+  2 Moors, Samuel          BLHKH93D  1033  1075/105  D3  W6  D4  2.0
+  3 Grewal, Harshan        SQUJK33H  1147  1149/ 66  D2  W5  L1  1.5
+  4 Mcconaughy, Marcus     SHML798W  1142  1133/ 43  W6  L1  D2  1.5
+  5 Berry, Garcia          BHMMK99Z  1168  1132/ 52  L1  L3  W6  1.0
+  6 Mendez, Efrain         MRDMJ85N  1013   946/ 13  L4  L2  L5  0.0

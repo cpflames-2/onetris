@@ -1,0 +1,21 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Summerfield, William   MCRJG77R  1936  1941/178  W14 W10 W5  W4  L2  4.0
+  2 Eksarevskly, Albert    LSSK530Y  1813  1833/145  D17 D6  W11 W14 W1  4.0
+  3 Yondon, Odbayar        INGGK97T  1859  1851/275  D13 W19 D4  D8  W5  3.5
+  4 Ayalew, Brook          DCCJJ71Q  1695  1712/ 39  W15 W9  D3  L1  D6  3.0
+  5 Nallappa, Vijay        REDJD40S  1774  1781/434  W16 W7  L1  W13 L3  3.0
+  6 Joseph, Veronique      SJOFJ04S  1558  1615/223  D11 D2  D7  W15 D4  3.0
+  7 Scollon, Owen          FHVJ734D  1703  1710/536  W18 L5  D6  W11 D8  3.0
+  8 Gadde, Arnav           GTMGJ39D  1695  1698/212  D19 D13 W16 D3  D7  3.0
+  9 Bhatia, Tanush         SKNL5224  1704  1698/366  W12 L4  L14 W16 W13 3.0
+ 10 Zhou, Yuchen           CHRFJ42H  1693  1688/614  W20 L1  L13 W19 W14 3.0
+ 11 Cheng, Selina          TLMH413R  1764  1737/577  D6  W17 L2  L7  W15 2.5
+ 12 Li, Shawn              SOMDJ11N  1548  1536/ 62  L9  L15 D19 W18 W17 2.5
+ 13 Chen, Andy             SOMEK05J  1565  1588/ 88  D3  D8  W10 L5  L9  2.0
+ 14 Sankrithi, Sarang      HSCFB11D  1618  1617/294  L1  W20 W9  L2  L10 2.0
+ 15 Yang, Jimmy            BASFG45S  1315  1385/233  L4  W12 W17 L6  L11 2.0
+ 16 Shi, Gavin             LCOKH855  1567  1560/438  L5  W18 L8  L9  W19 2.0
+ 17 Polonsky, Daniel       LIHL946P  1557  1520/102  D2  L11 L15 W20 L12 1.5
+ 18 Gupta, Krishang        GTMHE37V  1479  1449/ 82  L7  L16 HPB L12 W20 1.5
+ 19 He, Oliver             ENDEK71V  1454  1445/394  D8  L3  D12 L10 L16 1.0
+ 20 Zou, Jinhan            SSMEH14T  1308  1274/162  L10 L14 HPB L17 L18 0.5

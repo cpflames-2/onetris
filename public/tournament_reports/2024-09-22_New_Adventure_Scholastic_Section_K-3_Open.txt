@@ -1,0 +1,15 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Zandanov, Leonid       ENADK31Q  1262  1287/137  W10 D2  W7  W5  W3  4.5
+  2 Li, Anyi               LKDDJ55F  1066  1134/ 79  W12 D1  D4  W6  W5  4.0
+  3 Ge, Jeremy             SOMCJ88K  1236  1194/192  W13 W11 L5  W10 L1  3.0
+  4 Yu, Eric               SOMCK25N  1066  1058/ 91  W6  L5  D2  D9  W10 3.0
+  5 Rogov, Richard         MEDDJ68U   937  1032/ 78  W8  W4  W3  L1  L2  3.0
+  6 Ajay, Aria             LCSCK07M   770   875/ 83  L4  W8  W11 L2  W9  3.0
+  7 Li, Rebecca            SCDDJ62B   743   804/133  D9  W13 L1  D11 W14 3.0
+  8 Srinivasan, Atul       TBKBK65P   645   686/ 54  L5  L6  W14 D12 W11 2.5
+  9 Han, Kaiyi             SOMCK42P   987   927/ 86  D7  L10 W13 D4  L6  2.0
+ 10 Ren, Easton            CMCBH68Z   844   868/ 19  L1  W9  W12 L3  L4  2.0
+ 11 Ge, Emma               SSMCJ56J   845   782/ 74  W14 L3  L6  D7  L8  1.5
+ 12 Byelashova, Sofia      SGHCK01K   731   687/ 88  L2  W14 L10 D8  L13 1.5
+ 13 Yao, Roger Yutang      THOCK88C   814   735/ 80  L3  L7  L9  L14 W12 1.0
+ 14 Ranjith, Janani        SHVCK65E   409   429/104  L11 L12 L8  W13 L7  1.0

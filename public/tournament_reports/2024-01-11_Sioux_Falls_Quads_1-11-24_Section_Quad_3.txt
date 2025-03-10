@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Neff, Enoch            ABEEF95Q  1175  1310/184  W4  W3  W2  3.0
+  2 Oppold, Sage           SDYJZ281  1173  1222/166  W3  W4  L1  2.0
+  3 Nguyen, Charlie        SDRFZ06D  1323  1281/184  L2  L1  W4  1.0
+  4 Hoellein, Carter       SDDFZ96L  1186  1129/133  L1  L2  L3  0.0

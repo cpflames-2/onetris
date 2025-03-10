@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Hildenbrand, Blane     STNJ122V  1390  1433/372  W6  W5  W3  3.0
+  2 Berry, Garcia          BHMMK99Z  1269  1302/ 65  D3  W6  W5  2.5
+  3 Kuzin, Ethan           SHMM7567  1470  1450/337  D2  W4  L1  1.5
+  4 Vendeland, Alexa       HSCI441X  1359  1309/131  L5  L3  W6  1.0
+  5 Fredette, Blaise       BECGH95C   984  1029/ 41  W4  L1  L2  1.0
+  6 Qureshi, Danish        BLNHF36V  1054  1028/165  L1  L2  L4  0.0

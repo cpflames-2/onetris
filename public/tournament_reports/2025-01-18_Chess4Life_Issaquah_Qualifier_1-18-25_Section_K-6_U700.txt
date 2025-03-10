@@ -1,0 +1,15 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Vivek, Thanish BhavanamAUDCH74G   689   848/ 19  W11 W2  W3  W8  W4  5.0
+  2 Lee, Jaydon            RSHFH25S   604   730/ 14  W14 L1  W4  W3  W5  4.0
+  3 Siva, Vikaat           DGHBJ30L   659   663/ 96  W10 W6  L1  L2  W8  3.0
+  4 Karanam, Aadya         CHKEK84K   580   588/ 90  W13 W8  L2  W9  L1  3.0
+  5 Yong, Jionni           RIDGW86B   592   567/ 33  L8  W7  W14 W10 L2  3.0
+  6 He, Joshua             CHRCJ72H   580   542/ 69  W9  L3  L8  W12 W11 3.0
+  7 Garcia, Jose           ISECK07J   267   282/ 31  D12 L5  D11 W13 W9  3.0
+  8 Joseph, George         CDIDH11C   300   546/  5  W5  L4  W6  L1  L3  2.0
+  9 Madhu, Rishab          HSCAH10Z   100   274/  5  L6  W13 W10 L4  L7  2.0
+ 10 Srinivasan, Ashvin     ISECH10Y   200   257/  5  L3  W12 L9  L5  W13 2.0
+ 11 Kumar, Adhrit          EMDDH62U   178   148/  7  L1  L14 D7  BYE L6  1.5
+ 12 Karanam, Dhruthi       LCSCH10X   200   100/  4  D7  L10 L13 L6  BYE 1.5
+ 13 Choi, Jigu             DCTFH10W   500   100/  5  L4  L9  W12 L7  L10 1.0
+ 14 Patil, Avir            BCABH10V   100   335/  3  L2  W11 L5  U   U   1.0

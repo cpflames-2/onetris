@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Nishino, Anne          BCADH74F   775   896/116  W4  W3  W2  3.0
+  2 Heydarova, Aliya       BLWFH95D   826   807/ 38  W3  D4  L1  1.5
+  3 Li, Chris              CNHDJ89W   676   672/ 72  L2  L1  W4  1.0
+  4 Doronin, Victor        BMNH335T   706   665/119  L1  D2  L3  0.5

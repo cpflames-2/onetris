@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Shrivastava, Amogh     SHSFJ11M   505   524/ 34  D3  W2  U   1.5
+  2 Hiran, Hridhaan        PFCHH14Q   700   453/  2  U   L1  W3  1.0
+  3 Vepakomma, Athreya     HSCCH28G   417   358/  4  D1  U   L2  0.5

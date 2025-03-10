@@ -1,0 +1,40 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Pan, Peng-ruei         SSMF759R  1569  1594/203  W25 W21 W12 W5  W3  5.0
+  2 Roy Chowdhury, Avyaan  THRDH82M  1300  1308/ 35  W14 L12 W8  W25 W10 4.0
+  3 Pleasants, Gabriel     THUE149G  1182  1277/ 97  W36 W17 W13 W9  L1  4.0
+  4 Singh, Vedant          BRHG471V  1129  1186/ 34  W22 W30 L5  W26 W13 4.0
+  5 Szeto, Jordan          JAWGZ73R  1050  1215/ 11  W34 W32 W4  L1  W9  4.0
+  6 Zou, Jinhan            SSMEH14T  1209  1228/137  W15 L13 W7  D14 W17 3.5
+  7 Bhattacharjee, Satvik  TIMDE65Q   974  1126/ 66  W19 D8  L6  W33 W20 3.5
+  8 Upasani, Neil          SSMFJ57C  1169  1177/ 89  W16 D7  L2  W18 D14 3.0
+  9 Liu, Bihe              KKNCB78J  1103  1130/118  W29 W28 W24 L3  L5  3.0
+ 10 Rengarajan, Anirudh    DIAFZ75J  1086  1089/ 19  D37 D27 W22 W28 L2  3.0
+ 11 Bhende, Shaurya        MMEFK24T  1074  1043/ 60  L30 L22 W35 W38 W27 3.0
+ 12 Lin, Ethan             TYEGJ71H  1051  1103/ 55  W38 W2  L1  L17 W28 3.0
+ 13 Helmy, Yaseen          MEDFH64B  1049  1108/ 22  WF  W6  L3  W24 L4  3.0
+ 14 Latuskiewicz, Matthew  EPSGK21S  1043  1090/ 57  L2  W31 W30 D6  D8  3.0
+ 15 Rachiba, Alisa         EVPEK08E  1010  1078/173  L6  D19 D34 W30 W24 3.0
+ 16 Kachachi, Cyrus        OPWE763G   995  1026/110  L8  W39 D32 D27 W25 3.0
+ 17 Arunkumar, Vidhyuth    BRHEH44J   400  1218/  5  W20 L3  W21 W12 L6  3.0
+ 18 Elmieh, Niko           CRKF777E   876   990/ 72  D27 D37 W19 L8  W26 3.0
+ 19 Tunuguntla, Sai SrithanEMDGK78V  1155  1117/251  L7  D15 L18 W31 W34 2.5
+ 20 Chen, Max Y            DISFK76L  1084  1073/103  L17 W36 D27 W32 L7  2.5
+ 21 Bhattacharjee, PratyushSNEF602T  1069  1071/ 72  W31 L1  L17 W37 D22 2.5
+ 22 Wang, Wenyou           MEDEK93J   964   993/ 59  L4  W11 L10 W29 D21 2.5
+ 23 Ruan, Jiyong           SHSDJ19W   912   938/ 25  L33 L26 W36 D34 W32 2.5
+ 24 Chen, Felix Y          DISEA67A  1301  1219/103  W26 W33 L9  L13 L15 2.0
+ 25 Xu, Natalie            CNHD137A  1068  1057/110  L1  W35 W37 L2  L16 2.0
+ 26 Baruch, Noam           PHAFJ83G  1030   999/ 38  L24 W23 W38 L4  L18 2.0
+ 27 Marrugo, Emilio        OPWEE25J   976   978/ 93  D18 D10 D20 D16 L11 2.0
+ 28 Oh, Seojoon            SSMEJ70T   932   943/ 69  W39 L9  W33 L10 L12 2.0
+ 29 Meka, Suhaas           NOVGJ51J   918   895/ 77  L9  D34 D39 L22 W38 2.0
+ 30 Du, Charles            SOMFA15U   913   937/137  W11 L4  L14 L15 W36 2.0
+ 31 Gu, Vincent            OPWBK00L   883   873/ 65  L21 L14 BYE L19 W39 2.0
+ 32 Bravenboer, Jake       OPWEJ97Y  1082  1022/127  W35 L5  D16 L20 L23 1.5
+ 33 Thangakumar, Pranav    EVJGJ49C  1072  1013/ 58  W23 L24 L28 L7  D35 1.5
+ 34 Lin, Annan             THOFC02D  1065  1016/ 59  L5  D29 D15 D23 L19 1.5
+ 35 Lin, Elliot            TYEGJ71G   916   869/ 55  L32 L25 L11 BYE D33 1.5
+ 36 Nandakiran, Vidyuth    SSMF617C   996   932/130  L3  L20 L23 W39 L30 1.0
+ 37 Panda, Sourish         NJHGK98E   917   903/ 47  D10 D18 L25 L21 U   1.0
+ 38 Dhanaraj, Elamukil     ENSFH44H   500   505/  4  L12 BYE L26 L11 L29 1.0
+ 39 Li, Harry              BCAFG30G  1023   901/427  L28 L16 D29 L36 L31 0.5

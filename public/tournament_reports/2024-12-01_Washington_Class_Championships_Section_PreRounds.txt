@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 tot 
+  1 Gavrysh, Leonid        ADUN816H  2007  2025/112  U   W3  1.0
+  2 Kona, Vidip            RSAGI26J  2195  2204/357  W3  U   1.0
+  3 Gottumukkala, Ananth   ADUNG432  2171  2147/342  L2  L1  0.0

@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 tot 
+  1 Du, Charles            SOMFA15U   910   934/141  W5  1.0
+  2 Nandeesh, Tavishna     CAVEH61E   792   794/ 38  W7  1.0
+  3 Nishino, Anne          BCADH74F   734   736/ 88  W8  1.0
+  4 Senapati, Swayam       MOBDH44Z   273   338/ 16  W6  1.0
+  5 Wong, Claire           BCACK86D   832   808/117  L1  0.0
+  6 Chirita, Adrian        CBEFJ93A   507   448/ 38  L4  0.0
+  7 Nandeesh, Tapasya      SMSIH62Z   176   174/ 30  L2  0.0
+  8 Astafyeva, Veronica    MRPCH51S   100   100/  9  L3  0.0

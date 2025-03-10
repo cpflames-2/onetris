@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Menon, Ritwik          WLDH974D  1017  1092/ 73  W4  W2  W3  3.0
+  2 Garg, Vihaan           CMCEJ10X   914   947/249  W3  L1  W4  2.0
+  3 Zakaria, Abid          CDWGJ28T   931   905/ 32  L2  W4  L1  1.0
+  4 George, Ameya          EBSFK88Y   834   779/107  L1  L3  L2  0.0

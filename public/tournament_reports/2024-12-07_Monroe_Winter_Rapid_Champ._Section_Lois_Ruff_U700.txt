@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Poka, Dinesh           MOBHH52T   596   640/ 13  W7  D6  W3  W2  W4  4.5
+  2 Kakar, Ryan            DHLFJ03T   481   511/ 16  W5  D3  W6  L1  W7  3.5
+  3 Guruswamy, Tejal       CPJIK10X   416   459/ 57  W9  D2  L1  W5  W8  3.5
+  4 Prasad, Ishaan         CHKCH61A   335   362/ 20  W10 L5  W8  W6  L1  3.0
+  5 Manikandan, Abhinav    MOBDH78P   268   342/ 19  L2  W4  W7  L3  W9  3.0
+  6 Savaram, Arjun         MOBCH64R   442   414/ 24  W8  D1  L2  L4  W10 2.5
+  7 Reddy, Aishini         MOBAH44S   197   224/ 10  L1  W10 L5  W9  L2  2.0
+  8 Nandeesh, Tapasya      SMSIH62Z   174   184/ 35  L6  W9  L4  W10 L3  2.0
+  9 Bodanapu, Naksh Reddy  MOBDH28P   300   100/  5  L3  L8  W10 L7  L5  1.0
+ 10 Bodanapu, Arjun Reddy  MOBAH28M   100   100/  5  L4  L7  L9  L8  L6  0.0

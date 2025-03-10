@@ -1,0 +1,32 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Patel, Aarya           REJGK30E  1429  1467/207  W25 W11 D5  W6  W2  4.5
+  2 Ghosh, Snehil          CBRF738T  1403  1432/227  W8  W4  W10 W3  L1  4.0
+  3 Evin, Terrick          EBSDC54L  1437  1446/235  W15 W20 W16 L2  W11 4.0
+  4 Oh, Seojoon            SSMEJ70T  1086  1194/103  W30 L2  W23 W19 W9  4.0
+  5 Zou, Jinhan            SSMEH14T  1305  1320/177  W12 W19 D1  L9  W10 3.5
+  6 Bravenboer, Jake       OPWEJ97Y  1136  1241/148  W22 D9  W20 L1  W16 3.5
+  7 He, Jizhou             MEDD789B  1242  1246/138  W28 L10 D9  W13 W18 3.5
+  8 Rachiba, Alisa         EVPEK08E  1073  1147/192  L2  W30 W22 D16 W20 3.5
+  9 Ye, Alex               ENDFH51L  1314  1304/222  W24 D6  D7  W5  L4  3.0
+ 10 Flores Uriegas, Andres HLYF159F  1109  1138/ 89  W29 W7  L2  W21 L5  3.0
+ 11 Liu, Scott             XXOFW77P  1202  1218/  5  W27 L1  W28 W12 L3  3.0
+ 12 Sampathi Rao, Sri JayraEVJGK37Y  1075  1133/ 95  L5  W31 W14 L11 W21 3.0
+ 13 Tummuru, Nirvan        FRWEK06N   630   883/ 36  W17 L14 W25 L7  W26 3.0
+ 14 Lan, Jonathan          MEDE968F  1231  1188/164  L19 W13 L12 W28 W22 3.0
+ 15 Shaikot, Sabeer        EVJG147Q  1090  1081/271  L3  W26 L21 W29 W19 3.0
+ 16 Deng, Arthur           OPWDC90Y  1272  1246/180  W23 W21 L3  D8  L6  2.5
+ 17 Lin, Elliot            TYEGJ71G  1119  1060/ 75  L13 L28 D26 W25 W27 2.5
+ 18 Tunuguntla, Sai SrithanEMDGK78V  1188  1143/260  HPB L23 W30 W27 L7  2.5
+ 19 Nandeesh, Tavishna     CAVEH61E   914   969/ 62  W14 L5  W24 L4  L15 2.0
+ 20 Lin, Ethan             TYEGJ71H  1232  1191/ 74  W26 L3  L6  W23 L8  2.0
+ 21 Appineni, Arnav        SWLFG26A   886   954/ 59  W31 L16 W15 L10 L12 2.0
+ 22 Sadhanala, Triaksha    EHWGG75J   600   937/  4  L6  BYE L8  W24 L14 2.0
+ 23 Zhang, Aaron           RSAFC74T  1050  1040/127  L16 W18 L4  L20 W29 2.0
+ 24 Anbuselvam, Mithran    HEAGH61F  1021   977/136  L9  W29 L19 L22 W28 2.0
+ 25 Mirpuri, Shrevin Hiro  OMSGJ03R  1073  1000/ 27  L1  D27 L13 L17 W30 1.5
+ 26 Vinoth Ganapathy, PavitAUDFH96J   917   886/ 40  L20 L15 D17 W30 L13 1.5
+ 27 Mitra, Rishab          OPWG138L   850   834/200  L11 D25 WF  L18 L17 1.5
+ 28 Sinha, Ishayu          HEAGJ24F  1000   969/ 45  L7  W17 L11 L14 L24 1.0
+ 29 Suram, Ridhima         KKNE882V   489   479/ 30  L10 L24 BYE L15 L23 1.0
+ 30 Bayya, Shrihan         CBREJ74M   687   655/ 31  L4  L8  L18 L26 L25 0.0
+ 31 Gokulakrishnan, SriharsTMMGH60B  1141  1073/ 32  L21 L12 LF  U   U   0.0

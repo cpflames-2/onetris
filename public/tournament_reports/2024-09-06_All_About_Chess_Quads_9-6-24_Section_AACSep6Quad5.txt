@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Pan, Peng-chi          SSMDK24N   858   941/128  D4  W3  W2  2.5
+  2 Huang, Jaden           ENDDJ63S   923   935/100  W3  W4  L1  2.0
+  3 Pai, Samiksha          SSMEJ19X   826   812/ 57  L2  L1  W4  1.0
+  4 Menezes, Ronit         CLHFK44M   846   800/ 60  D1  L2  L3  0.5

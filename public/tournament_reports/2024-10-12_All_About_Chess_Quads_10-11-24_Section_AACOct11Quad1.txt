@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chen, William          INGI550N  1604  1628/224  W3  W4  W2  3.0
+  2 Ma, Lewis              SOMD587M  1488  1495/184  W4  W3  L1  2.0
+  3 Joshi, Yash            PFCI280R  1289  1295/239  L1  L2  W4  1.0
+  4 Burtram, Dayton        BLMJG77M  1329  1284/301  L2  L1  L3  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Goel, Advit            CMCDG22F   821   862/105  W2  W3  L4  2.0
+  2 Mehlberg, Memphis      CDOFH66A   786   938/  6  L1  W4  W3  2.0
+  3 Deepak, Sairaghav      SKNJA52Q   752   752/ 74  W4  L1  L2  1.0
+  4 George, Ameya          EBSFK88Y   879   842/101  L3  L2  W1  1.0

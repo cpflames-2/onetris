@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Jordahl, Jack          SFMEZ99Y  1021  1089/ 73  D2  W4  W3  2.5
+  2 Hoellein, Carter       SDDFZ96L   932  1048/110  D1  W3  W4  2.5
+  3 Oppold, Sage           SDYJZ281  1110  1062/142  W4  L2  L1  1.0
+  4 Kiessel, Katherine     SDAGZ13X   919   867/146  L3  L1  L2  0.0

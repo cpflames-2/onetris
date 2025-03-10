@@ -1,0 +1,34 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Wang, Isaac            CLHFK00U  1140  1294/123  W28 W17 W4  D3  W2  4.5
+  2 Wang, Evan             FRWE929Z  1189  1252/149  W22 W12 W15 W5  L1  4.0
+  3 Wadhwani, Ren          ORAEK13K  1196  1259/ 78  W29 W20 W10 D1  D6  4.0
+  4 Zou, Jinhan            SSMEH14T  1329  1325/171  W25 W16 L1  W15 D7  3.5
+  5 Lan, Jonathan          MEDE968F  1225  1231/159  W11 D21 W19 L2  W10 3.5
+  6 Deng, Arthur           OPWDC90Y  1288  1272/175  L17 W28 W27 W18 D3  3.5
+  7 He, Jizhou             MEDD789B  1245  1242/133  L15 W23 W22 W20 D4  3.5
+  8 Helmy, Yaseen          MEDFH64B  1165  1165/ 40  BYE L10 W24 D16 W18 3.5
+  9 Chou, Eugene           SSMEJ56Y  1191  1174/106  D30 L27 W31 W11 W16 3.5
+ 10 Feng, Levi             SOMFJ59B  1059  1098/ 45  W33 W8  L3  W13 L5  3.0
+ 11 Sabarish, Ananya       BCAEG02Z   928  1009/190  L5  W33 W12 L9  W20 3.0
+ 12 Bui, Bryant            RDSFH52W  1086  1075/ 50  W14 L2  L11 W28 W24 3.0
+ 13 Hu, Yi-en Pi           BCAEK35P  1131  1115/ 99  W23 L15 W29 L10 W25 3.0
+ 14 Phaneesh, Saanvi       SSMF983M   602   776/ 88  L12 BYE L16 W22 W21 3.0
+ 15 Lin, Luna              OPWDK01W  1031  1101/156  W7  W13 L2  L4  D19 2.5
+ 16 Lai, Ryan              SHSBH70N  1158  1134/ 70  W32 L4  W14 D8  L9  2.5
+ 17 Kakarlapudi, Sreeram MuMEDF687Z   987  1016/ 54  W6  L1  L20 D23 W27 2.5
+ 18 Dhameeja, Ved          GRRFJ98F  1155  1126/149  D27 W31 W21 L6  L8  2.5
+ 19 Upasani, Neil          SSMFJ57C  1114  1087/113  D31 W30 L5  D21 D15 2.5
+ 20 Oh, Seojoon            SSMEJ70T  1119  1086/ 98  W24 L3  W17 L7  L11 2.0
+ 21 Lin, Vivienne          CSIEK99D  1094  1048/ 55  W26 D5  L18 D19 L14 2.0
+ 22 Sasaki, Hanzo          MEDEK34B   931   920/ 51  L2  W26 L7  L14 W29 2.0
+ 23 Dragusanu, Clara       SSMFH81S   873   888/ 53  L13 L7  W26 D17 D28 2.0
+ 24 Sreeram, Vihaan        BLWFK01U   853   893/ 51  L20 W25 L8  W29 L12 2.0
+ 25 Zhang, Amy             CSIEF80L  1035  1008/ 62  L4  L24 W30 W27 L13 2.0
+ 26 Tharian, Isaac         TOPEK39K   746   774/ 56  L21 L22 L23 W32 W30 2.0
+ 27 Agarwal, Kavir         MEDF152U   929   938/ 70  D18 W9  L6  L25 L17 1.5
+ 28 Tirunagari, Lalith AditMEDFG93C   909   904/ 10  L1  L6  W32 L12 D23 1.5
+ 29 Berjis, Adrina         MEDF230U   971   904/167  L3  W32 L13 L24 L22 1.0
+ 30 Agrawal, Sakash        MEDFC98H   955   887/167  D9  L19 L25 D31 L26 1.0
+ 31 Zhou, Muchen           CMCFH25C   811   794/ 15  D19 L18 L9  D30 L32 1.0
+ 32 Xu, Derek              SSMEK24Q   853   792/ 63  L16 L29 L28 L26 W31 1.0
+ 33 Sim, Sophia            MEDFG92A   500   617/  2  L10 L11 U   U   U   0.0

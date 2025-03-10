@@ -1,0 +1,46 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Nguyen, Caitlyn        RRGG663J   722   911/ 65  W41 W37 W12 W11 W2  5.0
+  2 Huang, Maxwell         LECF520H   788   887/ 64  W23 W22 W3  W4  L1  4.0
+  3 Vasquez, Mateo         MCUFK26G   938   951/115  W10 W7  L2  W14 W12 4.0
+  4 Vanderschoor, Peyton   JMLG490Y   902   919/ 74  W32 W14 W9  L2  W5  4.0
+  5 Castaneda, Alonso      MCUFK69H   605   792/ 59  W26 W13 W28 W6  L4  4.0
+  6 Menjivar, Bryan        RFRGJ80L   797   853/ 40  W31 W21 W15 L5  W11 4.0
+  7 Pumphrey, Brooks       CRPFJ79M   698   766/ 45  W39 L3  W30 W17 W13 4.0
+  8 Kershaw, Micah         LIVFJ02A   741   780/ 19  W36 W20 L11 W27 W15 4.0
+  9 Schutz, Henry          KCCGJ80M   735   742/ 45  W25 W16 L4  D10 W20 3.5
+ 10 Bramhall, Zach         RRGGJ01U   429   595/ 15  L3  W27 W37 D9  W28 3.5
+ 11 Mendez, Jaden          JMLGI40R   832   824/ 70  W18 W24 W8  L1  L6  3.0
+ 12 Chin, Ian              LECFF95D   807   792/102  W35 W33 L1  W16 L3  3.0
+ 13 Lukson, Luka           CMLGF91D   831   788/ 55  W29 L5  W32 W21 L7  3.0
+ 14 Hemperly, Harper       HSCFI09E   667   670/ 86  W40 L4  W18 L3  W29 3.0
+ 15 Chavez, Israel         MCUFK69M   912   863/ 65  W30 W28 L6  W33 L8  3.0
+ 16 Cabasug, Raphael       SJKF177N   512   572/ 32  W17 L9  W19 L12 W31 3.0
+ 17 Nguyen, Inaya          LIVFH55L   500   580/  5  L16 W38 W22 L7  W27 3.0
+ 18 Worthington, Aaron     LIBFJ53N   394   462/ 30  L11 W34 L14 W40 W33 3.0
+ 19 Cree, Oliver           LIVFH55J   500   449/  4  L27 U   L16 W32 W30 2.0
+ 20 Shaw, Ryder            RFPFJ23U   533   520/ 25  W38 L8  D23 W29 L9  2.5
+ 21 Guzman, Melany         MCUFK69G   544   519/ 65  W44 L6  W35 L13 D25 2.5
+ 22 Corey, Owen            JMLG956S   535   491/ 64  W42 L2  L17 D39 W38 2.5
+ 23 Cozad, Chloe           MCGF531M   269   334/ 71  L2  W45 D20 L28 W39 2.5
+ 24 Merrill, Jude          RRGGJ01X   653   574/ 20  W43 L11 L29 D38 W34 2.5
+ 25 Holm, Carsen           LIVFH91B   212   290/ 10  L9  W42 L27 W37 D21 2.5
+ 26 Krieg, Remi            LIVFJ01J   100   176/ 14  L5  L31 W41 W45 HPB 2.5
+ 27 Ramos, Charleston      FZAFK71F   454   455/ 51  W19 L10 W25 L8  L17 2.0
+ 28 Barrera, Brad          CHJGJ45N   690   633/ 29  W34 L15 L5  W23 L10 2.0
+ 29 Pena, Felipe           HTEFI88M   342   373/ 53  L13 W40 W24 L20 L14 2.0
+ 30 De La Torre, Ian R     LIBFK97E   421   403/ 40  L15 W41 L7  W36 L19 2.0
+ 31 Erevia, Kaliyah        MCGFJ53S   281   295/ 30  L6  W26 L33 W42 L16 2.0
+ 32 Torres, Selena         CRPFJ45F   395   382/ 25  L4  W39 L13 L19 W43 2.0
+ 33 Bowles, Nathaniel      JMLGJ80J   560   516/ 35  W45 L12 W31 L15 L18 2.0
+ 34 Mendoza, Ethan         LIVFJ01H   108   201/ 15  L28 L18 W44 W35 L24 2.0
+ 35 Langston, Felicity     JMLG424K   298   272/ 62  L12 W43 L21 L34 W44 2.0
+ 36 Fultz, Parker          JMLGJ23X   184   190/ 20  L8  W44 L38 L30 W42 2.0
+ 37 Garcia, Aaidyn         LIBGH55H   600   100/  4  U   L1  L10 L25 D40 0.5
+ 38 Garcia, Emma           OCHGJ45L   198   227/ 25  L20 L17 W36 D24 L22 1.5
+ 39 Garcia, Metzi          MCUFJ44Z   155   174/ 24  L7  L32 W43 D22 L23 1.5
+ 40 Rezendez, Emmery       CRPFH90T   100   127/ 10  L14 L29 W45 L18 D37 1.5
+ 41 Hernandez, Genie       JMLGK96J   173   115/ 33  L1  L30 L26 L43 W45 1.0
+ 42 Shipley, Sarah         MTPFH55G   500   100/  4  L22 L25 U   L31 L36 0.0
+ 43 Weninger, Liam         LIVFH90R   100   100/ 10  L24 L35 L39 W41 L32 1.0
+ 44 Schatz, Faith          HSCFH55F   500   100/  4  L21 L36 L34 U   L35 0.0
+ 45 Tennis, Ziva           LIBHH55E   700   100/  5  L33 L23 L40 L26 L41 0.0

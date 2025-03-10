@@ -1,0 +1,42 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Rachiba, Alisa         EVPEK08E  1147  1239/197  W31 W12 W10 W2  W3  5.0
+  2 Li, Anyi               LKDDJ55F  1274  1271/134  W32 W6  W5  L1  W7  4.0
+  3 Hopkins, Declan        REOFJ52J   980  1048/ 24  W29 W15 W4  W8  L1  4.0
+  4 Rengarajan, Anirudh    LHCFZ75J  1158  1141/ 33  W26 W13 L3  W24 W10 4.0
+  5 Ting, Sophia           KSHEK64W   997  1008/118  W34 W24 L2  W12 W14 4.0
+  6 Rish-brown, Jackson    HMOFH57T   919   950/ 32  W25 L2  W37 W19 W16 4.0
+  7 Zhang, Amy             CSIEF80L  1008  1010/ 67  W35 W17 D8  W9  L2  3.5
+  8 Judd, George           PURFJ57F   933   938/ 49  W37 W19 D7  L3  W11 3.5
+  9 Siek, Peter            HMOEK62A   742   783/ 34  HPB W23 W11 L7  W21 3.5
+ 10 Rish-brown, Jacob      HMOFK61J   865   872/ 42  W18 W36 L1  W17 L4  3.0
+ 11 Tan, Seth              NARFE65L   741   780/ 62  W14 W16 L9  W29 L8  3.0
+ 12 Hopkins, Spencer       REOFJ52M   681   694/ 25  W30 L1  W38 L5  W20 3.0
+ 13 Still, John            HMOEJ18T   757   748/ 18  W27 L4  W18 L14 W30 3.0
+ 14 Chen, Max              CPREG74G   400   761/  5  L11 W39 W15 W13 L5  3.0
+ 15 Kotsinyan, Robert      EVPEJ56V   473   525/ 39  W28 L3  L14 W22 W25 3.0
+ 16 Bui, Bryant            RDSFH52W  1078  1009/ 60  W39 L11 W26 W20 L6  3.0
+ 17 Buractaon, Alexander   OBKFG78E   645   642/  9  W40 L7  W25 L10 W27 3.0
+ 18 Churchill, Lucian      FVAEG74F   400   601/  5  L10 W28 L13 W36 W24 3.0
+ 19 Beltran, Nicolo        STCEH47Q   363   439/ 10  W41 L8  W36 L6  W28 3.0
+ 20 Short, Austin          HMOFH38T   348   450/  9  D23 W21 W22 L16 L12 2.5
+ 21 Johnson, Lars          HSCDG74D   300   434/  5  D22 L20 W33 W23 L9  2.5
+ 22 Samsonov, Kirill       UPPEH98S   342   348/ 30  D21 W33 L20 L15 W29 2.5
+ 23 Booth, Anthony         CPRFG74C   500   370/  5  D20 L9  W40 L21 W34 2.5
+ 24 Guz, Phoenix           REOFH57S   521   516/ 10  W38 L5  W30 L4  L18 2.0
+ 25 Coronado, Bruce        PURFG74A   500   394/  5  L6  W32 L17 W38 L15 2.0
+ 26 Kanchukatla, Kashvi    WDEFJ51Z   157   227/ 19  L4  W27 L16 L28 W36 2.0
+ 27 Curtright, Logan       REOFG73Y   500   329/  5  L13 L26 W32 W31 L17 2.0
+ 28 Munford, Sawyer        ELKDG73X   300   297/  5  L15 L18 W39 W26 L19 2.0
+ 29 Bean, Nolan            SGEDG99A   100   134/  9  L3  BYE W35 L11 L22 2.0
+ 30 Griffin, Trae          ELKEG73W   400   371/  5  L12 W31 L24 W37 L13 2.0
+ 31 Austin-brownell, Emily STCFJ18N   123   154/ 14  L1  L30 W41 L27 W39 2.0
+ 32 Defolo, Colby          NARFH47P   249   239/ 10  L2  L25 L27 W41 W37 2.0
+ 33 Colon, Gia             STCDJ18K   293   236/ 25  L36 L22 L21 W35 W38 2.0
+ 34 Cooper, Miles          SGEDG99F   100   100/  9  L5  L38 BYE D40 L23 1.5
+ 35 Campuzano, Noelle      STCDJ18C   100   100/ 13  L7  D40 L29 L33 W41 1.5
+ 36 Guz, Cedar             GEODG73V   300   169/  5  W33 L10 L19 L18 L26 1.0
+ 37 Mendoza, Caleb         LCHFG73U   500   118/  5  L8  W41 L6  L30 L32 1.0
+ 38 Gonzales, Ariya        CPRDG73T   300   109/  5  L24 W34 L12 L25 L33 1.0
+ 39 Kunz, Ava              STCDJ18J   129   100/ 28  L16 L14 L28 BYE L31 1.0
+ 40 Benedict, Caedmon      STCEG73S   400   100/  4  L17 D35 L23 D34 U   1.0
+ 41 Andrews, Scarlett      CPRDG73R   300   100/  5  L19 L37 L31 L32 L35 0.0

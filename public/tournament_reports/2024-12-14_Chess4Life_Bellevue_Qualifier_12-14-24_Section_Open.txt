@@ -1,0 +1,16 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Yang, Jiang            CASKJ77R  1248  1241/ 10  L7  W4  W11 W5  W3  4.0
+  2 Bravenboer, Jake       OPWEJ97Y  1022  1100/132  D4  W11 W13 D3  W7  4.0
+  3 Helmy, Yaseen          MEDFH64B  1125  1140/ 31  W12 W7  W5  D2  L1  3.5
+  4 Mcintyre, Isaac        ETSF466S   723   966/232  D2  L1  W9  W13 W10 3.5
+  5 Khandhedia, Dhruvin NirCNCF257G   973   974/ 74  W15 W14 L3  L1  W11 3.0
+  6 Goel, Advit            CMCDG22F   921   911/119  L11 L12 BYE W8  W13 3.0
+  7 Mukherjee, Anjalika    UPAHJ94B   900   988/ 38  W1  L3  W14 W10 L2  3.0
+  8 Lin, Luna              OPWDK01W  1044   961/143  L13 D9  W15 L6  BYE 2.5
+  9 Kaushal, Ayaan         CAVF975V   880   874/ 44  L10 D8  L4  BYE W12 2.5
+ 10 Chen, Julian           CNHCK32C  1128  1042/ 95  W9  L13 W12 L7  L4  2.0
+ 11 Chong, Jacob           RSHGF24L   896   889/139  W6  L2  L1  W14 L5  2.0
+ 12 Anbuselvam, Mithran    HEAGH61F   857   842/ 97  L3  W6  L10 W15 L9  2.0
+ 13 Cheruku, Adhrith       RCSF827Q   832   859/103  W8  W10 L2  L4  L6  2.0
+ 14 Brown, Benjamin        TYEHH25V   700   600/  4  BYE L5  L7  L11 W15 2.0
+ 15 Kunz, Anikin           BURKH44A   359   334/ 10  L5  BYE L8  L12 L14 1.0

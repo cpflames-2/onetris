@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Bulanan, Noel          ADUNH80J  1195  1373/  9  BYE W5  W2  W4  W7  5.0
+  2 Dela Pena, Chris       ADUNH80L  1351  1371/ 14  W3  D4  L1  W5  W6  3.5
+  3 Prakasam, Anbuselvan   ADUNH38P  1300  1304/  5  L2  D6  W5  W7  W8  3.5
+  4 Still, Kevin           ADUNH38N  1300  1205/  5  W7  D2  W8  L1  L5  2.5
+  5 Serrano, Reymund       ADUNH38L  1300  1202/  5  W6  L1  L3  L2  W4  2.0
+  6 Narayanan, Rengarajan  ADUNH38K  1300  1038/  5  L5  D3  L7  W8  L2  1.5
+  7 Mahoney, Kathryn       ADUNH38J  1300   972/  5  L4  L8  W6  L3  L1  1.0
+  8 Kanchukatla, Satish    ADUNH38G  1300   960/  4  U   W7  L4  L6  L3  1.0

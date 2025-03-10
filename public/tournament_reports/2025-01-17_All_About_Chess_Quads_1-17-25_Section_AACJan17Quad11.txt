@@ -1,0 +1,8 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Nandakiran, Advaith    SSMCJ88H   176   386/115  W5  W3  W2  3.0
+  2 Dang, Aaron            SOMCH60W   230   266/ 11  W4  W6  L1  2.0
+  3 Snow, Tor              SNEEK43V   227   265/  8  W7  L1  W5  2.0
+  4 Balaji, Vaibhav        SSMCH28Z   144   194/ 23  L2  W7  W6  2.0
+  5 Hovik, Kyan            SNEEK43J   125   100/  7  L1  BYE L3  1.0
+  6 Hovik, Milo            SNECK41K   100   100/  7  BYE L2  L4  1.0
+  7 Nikfard, Finn          TIMCH11L   200   100/  2  L3  L4  BYE 1.0

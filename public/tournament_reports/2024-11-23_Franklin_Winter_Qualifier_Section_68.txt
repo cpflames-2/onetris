@@ -1,0 +1,31 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Vendeland, Alexa       HSCI441X  1336  1359/128  W25 W15 W7  W8  W2  5.0
+  2 Qureshi, Danish        BLNHF36V   990  1054/162  W21 W5  W4  W3  L1  4.0
+  3 Melius, Mason          FACHF58R   920   951/ 64  W27 W13 W9  L2  W7  4.0
+  4 Celaya, Benito         ASTG505E   899   916/ 86  W26 W10 L2  W11 W13 4.0
+  5 Van Ness, Gavin        FACII77T   680   792/ 43  W29 L2  W18 W10 W8  4.0
+  6 Truong, Justin         FACHK82R   551   664/ 24  W20 L7  W28 W9  D15 3.5
+  7 Bormuth, Silas         LYCG542J   889   895/ 28  W14 W6  L1  W12 L3  3.0
+  8 Bannister, Cypress     HORHK36L   913   894/ 77  W24 W11 W12 L1  L5  3.0
+  9 Verduin, Skyler        HORGJ26K   783   765/ 48  W22 W16 L3  L6  W19 3.0
+ 10 Cancelosi, Nicholas    VSTHM25W   599   628/ 81  W19 L4  W22 L5  W23 3.0
+ 11 Crompton, Callum       FACGE89B   628   661/ 82  W23 L8  W16 L4  W18 3.0
+ 12 Boulos, Chris          FACH362P   385   531/ 18  W18 W17 L8  L7  W20 3.0
+ 13 Aguila-contreras, EdgarHORIJ65J   670   672/ 77  W30 L3  W21 W19 L4  3.0
+ 14 Ritchie, Rowan         SMWGH40C   600   633/  5  L7  W23 D15 D25 W21 3.0
+ 15 Boulos, Andrew         FACH217Z   757   735/ 69  W28 L1  D14 D16 D6  2.5
+ 16 Orsino, Thomas         WHMIH40B   800   603/  5  W17 L9  L11 D15 W25 2.5
+ 17 Everbeck, Reed         FACGK83A   505   464/ 50  L16 L12 D24 W27 W26 2.5
+ 18 Becerra, Ricardo       BLNGH40A   600   453/  5  L12 W26 L5  W22 L11 2.0
+ 19 Davis, Buzz            FACGH39Y   600   466/  5  L10 W27 W25 L13 L9  2.0
+ 20 Westergreen, Korben    HORIH39X   800   381/  5  L6  L22 W27 W24 L12 2.0
+ 21 Boulos, Rene           FACIC70H   333   328/ 18  L2  BYE L13 W29 L14 2.0
+ 22 Severin, Tenzin        FACHH39V   700   403/  5  L9  W20 L10 L18 W28 2.0
+ 23 Munden, Andrew         BLNGH39U   600   395/  5  L11 L14 W26 W28 L10 2.0
+ 24 Conner, Chloe          FACGK82M   263   271/ 27  L8  HPB D17 L20 W29 2.0
+ 25 Cibrian, Sebastian     BIRGJ26F   373   368/ 20  L1  W29 L19 D14 L16 1.5
+ 26 Hall, Ryleigh          HORG278B   160   152/ 33  L4  L18 L23 W30 L17 1.0
+ 27 Swanson, Ashton        HORGK23B   300   251/ 47  L3  L19 L20 L17 W30 1.0
+ 28 Lertzman, Glen         HORHH39T   700   195/  5  L15 W30 L6  L23 L22 1.0
+ 29 Wittig, Joseph         HORIH39Q   800   100/  5  L5  L25 W30 L21 L24 1.0
+ 30 Joubert, Amelie        FACGH39P   600   100/  5  L13 L28 L29 L26 L27 0.0

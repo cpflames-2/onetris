@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Singh, Anitej          OMSIH76J   493   510/ 15  W2  L4  W3  2.0
+  2 Suresh, Shruti         MTWF650Q   484   504/ 43  L1  W3  W4  2.0
+  3 Gunderson, Amar        LAEFW997   500   387/  4  W4  L2  L1  1.0
+  4 Balan, Vidyut          LAVEH68B   424   403/ 23  L3  W1  L2  1.0

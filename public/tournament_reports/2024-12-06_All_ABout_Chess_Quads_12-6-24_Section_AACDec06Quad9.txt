@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chang, Nathan          MMEDK42T   284   419/ 84  W3  W2  W4  3.0
+  2 Nandakiran, Advaith    SSMCJ88H   274   292/ 84  W4  L1  W5  2.0
+  3 Zhu, Anna              SOMDH30X   300   263/  2  L1  W5  BYE 2.0
+  4 Zhu, Aron              SOMCH30W   200   100/  2  L2  BYE L1  1.0
+  5 Zhu, Eddie             SOMCH48C   100   100/ 10  BYE L3  L2  1.0

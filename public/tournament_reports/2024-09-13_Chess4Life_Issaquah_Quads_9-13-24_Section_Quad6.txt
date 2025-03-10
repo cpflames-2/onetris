@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kamaraju, Akhil        DISEH66C   100   200/  8  W2  U   W3  2.0
+  2 Zuehlsdorff, Theo      ISEBH74V   100   111/  9  L1  W3  U   1.0
+  3 Gupta, Aariv           BCABJ99N   100   100/  8  U   L2  L1  0.0

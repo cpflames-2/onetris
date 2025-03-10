@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Tsay, Elon             LKDEK07B   841   965/123  W3  W4  W2  3.0
+  2 Kaushal, Ayaan         CAVF975V   874   837/ 47  W4  L3  L1  1.0
+  3 Paine, Clara           TLIFK01Z   798   782/ 64  L1  W2  L4  1.0
+  4 Wu, Dennis             SCDEJ54B   782   771/219  L2  L1  W3  1.0

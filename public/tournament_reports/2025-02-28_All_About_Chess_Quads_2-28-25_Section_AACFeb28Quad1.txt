@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ge, Jeremy             SOMCJ88K  1272  1357/276  D3  W2  W4  2.5
+  2 Ye, Alex               ENDFH51L  1304  1332/225  W4  L1  W3  2.0
+  3 Burtram, Dayton        SKNJG77M  1412  1394/340  D1  W4  L2  1.5
+  4 Dharamshi, Anay        CBRDK42U  1292  1235/182  L2  L3  L1  0.0

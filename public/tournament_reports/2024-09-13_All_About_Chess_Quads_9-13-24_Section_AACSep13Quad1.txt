@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chen, William          INGI550N  1621  1644/212  W4  D2  W3  2.5
+  2 Syal, Yash             CDIGC10R  1547  1568/180  W3  D1  D4  2.0
+  3 Pan, Peng-ruei         SSMF759R  1563  1544/179  L2  W4  L1  1.0
+  4 Ghosh, Snehil          CBRF738T  1510  1482/183  L1  L3  D2  0.5

@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Xiong, Aria            DISBH14J   250   339/ 23  BYE W3  W2  3.0
+  2 Vatsan, Maitri         SSMCK00S   267   278/145  W4  W5  L1  2.0
+  3 Balaji, Vaibhav        SSMCH28Z   307   308/ 33  W5  L1  W4  2.0
+  4 King, Hiro             DISCG74L   200   100/  2  L2  BYE L3  1.0
+  5 Lam, Shuhong           JINBG74K   100   100/  2  L3  L2  BYE 1.0

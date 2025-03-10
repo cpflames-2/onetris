@@ -1,0 +1,27 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Syal, Yash             PFCGC10R  1601  1615/193  W20 D23 W18 D2  W3  4.0
+  2 Dhawan, Viraj          OVLII96U  1449  1501/109  W21 HPB W23 D1  W11 4.0
+  3 Liu, Bichen            KKNIK00D  1639  1648/147  W12 W17 HPB W5  L1  3.5
+  4 Deng, Stanley          LLMGK22E  1606  1577/335  L19 D16 W15 W23 W13 3.5
+  5 Tan, Nathan            UCDF412Y  1533  1553/195  W24 W11 D7  L3  W14 3.5
+  6 Shih, Tai              OVLIE60P  1413  1454/236  L7  W26 W17 D8  W18 3.5
+  7 Yang, Larry            UCEGZ87T  1677  1604/ 10  W6  D10 D5  L11 W19 3.0
+  8 Seela, Shashank        EVJII74N  1596  1568/218  W16 D18 D19 D6  D10 3.0
+  9 Shih, Bei              OVLG630G  1466  1440/247  D13 D19 D12 D20 W21 3.0
+ 10 Pai, Vihaan            CHAFK17C  1445  1441/264  W25 D7  L13 W16 D8  3.0
+ 11 Ravikiran, Aadhitya    CAXFZ744  1423  1443/  5  W14 L5  W25 W7  L2  3.0
+ 12 Babbar, Riaan          ENDEJ98D  1391  1405/104  L3  W21 D9  D18 W20 3.0
+ 13 Choi, Hunter           UPAHE80A  1115  1270/236  D9  W15 W10 HPB L4  3.0
+ 14 Rao, Atharv            TYEGB90T  1444  1422/105  L11 W24 D20 W19 L5  2.5
+ 15 Kakkad, Vayu           DCTEK50L  1306  1280/533  HPB L13 L4  W26 W22 2.5
+ 16 Wu, Harry              SASGJ72P  1189  1252/ 30  L8  D4  W24 L10 W23 2.5
+ 17 Ma, Ziliang            DCCHA69N  1454  1394/102  WF  L3  L6  L21 W24 2.0
+ 18 Chevuri, Tattva        REJHC06V  1433  1412/409  W26 D8  L1  D12 L6  2.0
+ 19 Moghe, Arjun           REJHA42C  1276  1326/153  W4  D9  D8  L14 L7  2.0
+ 20 Sriram, Aahan          OVLFC03K  1274  1278/ 73  L1  W22 D14 D9  L12 2.0
+ 21 Nachiappan, Lakshmanan RHJIJ87Q   949  1017/ 33  L2  L12 W26 W17 L9  2.0
+ 22 Fredette, Blaise       BECGH95C   932   913/ 25  L23 L20 BYE W25 L15 2.0
+ 23 Aelion, Aya            BDDJF21D  1225  1217/ 44  W22 D1  L2  L4  L16 1.5
+ 24 Barrenkala, Surya      EVJH238E  1178  1135/ 74  L5  L14 L16 BYE L17 1.0
+ 25 Ianitskii, Arsenii     VMSIH50R   800   347/  4  L10 BYE L11 L22 L26 1.0
+ 26 Iliushin, Simon        LMDHH50Q   700   721/  5  L18 L6  L21 L15 W25 1.0

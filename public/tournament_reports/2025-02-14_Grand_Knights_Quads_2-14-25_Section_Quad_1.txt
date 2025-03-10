@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Lai, Ryan              SHSBH70N  1134  1229/ 73  W4  W2  W3  3.0
+  2 Bravenboer, Jake       OPWEJ97Y  1114  1136/143  W3  L1  W4  2.0
+  3 Hu, Yi-en Pi           BCAEK35P  1115  1089/102  L2  W4  L1  1.0
+  4 Jiang, Kyle            MEDCK35B  1021   968/141  L1  L3  L2  0.0

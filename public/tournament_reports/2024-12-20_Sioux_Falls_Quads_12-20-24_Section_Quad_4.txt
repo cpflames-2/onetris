@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Oppold, Sage           SDYJZ281  1080  1181/156  W3  W4  W2  3.0
+  2 Neff, Katrina          ABEF159Y  1107  1119/223  W4  W3  L1  2.0
+  3 Albrecht, Ian          SDCFZ98P  1006   994/118  L1  L2  W4  1.0
+  4 Winter, Noah           SDCFZ88H   995   935/ 77  L2  L1  L3  0.0

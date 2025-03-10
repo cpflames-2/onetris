@@ -1,0 +1,12 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Morse, Frank           HSOMW762  1424  1472/391  W10 W3  W2  W7  W5  5.0
+  2 Von Dassow, Misha      MSFJP55K  1517  1484/ 74  W4  W7  L1  D3  W8  3.5
+  3 Thompson, Jeremiah     CQHIW97T  1165  1189/ 66  W9  L1  W4  D2  W7  3.5
+  4 Rangel, Adrian         CQHHN66G   747   754/ 33  L2  BYE L3  W9  W10 3.0
+  5 Hanburg, James         CQHJW98J   892   869/ 44  HPB L6  W10 W8  L1  2.5
+  6 Fritz, John            MPHJW97M   767   827/ 43  HPB W5  W8  U   U   2.5
+  7 Von Dassow, Nadia      LHNFP45P   962   949/ 62  W11 L2  W9  L1  L3  2.0
+  8 Von Dassow, Anya       LHNFV005   614   598/ 53  BYE W10 L6  L5  L2  2.0
+  9 Bryant, Richard        CQHJW78Y   402   426/  9  L3  W11 L7  L4  BYE 2.0
+ 10 Jennings, Charley      CQEDW82A   337   316/ 14  L1  L8  L5  BYE L4  1.0
+ 11 Persson, Ezechial      CQECW772   262   224/  7  L7  L9  BYE U   U   1.0

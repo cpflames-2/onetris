@@ -1,0 +1,17 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Bates, Lucas           LLMGK96Q  1072  1165/ 35  W14 W15 W2  W5  D4  4.5
+  2 Naungayan, Landon      RRGGJ80K  1036  1117/ 50  W9  W5  L1  W11 W3  4.0
+  3 Yuan, Edward           LLMGK69S   954  1033/ 88  W13 W8  D7  W6  L2  3.5
+  4 Hong, Samira           MCGEB77R   842   989/ 97  L8  W16 W12 W7  D1  3.5
+  5 Lukson, Luka           CMLGF91D  1089  1082/ 65  W6  L2  W10 L1  W9  3.0
+  6 Vasquez, Mateo         MCUFK26G   911   973/125  L5  W9  W8  L3  W12 3.0
+  7 Lum, Boaz              LIBDJ62C   965   970/ 57  D11 W14 D3  L4  W10 3.0
+  8 Chavez, Jessie         BMCFK53S  1068  1029/ 54  W4  L3  L6  D10 W11 2.5
+  9 Mendez, Jaden          JMLGI40R   829   838/ 80  L2  L6  W16 W13 L5  2.0
+ 10 Menjivar, Bryan        OCHGJ80L   827   847/ 50  W12 D11 L5  D8  L7  2.0
+ 11 Chin, Ian              LECFF95D   814   834/110  D7  D10 W15 L2  L8  2.0
+ 12 Mosqueda, Luke         LIBEH90L  1003   945/ 40  L10 W13 L4  W15 L6  2.0
+ 13 Wang, Evan             LECEJ78X   803   800/ 62  L3  L12 W14 L9  W16 2.0
+ 14 Carranza, Aly Omar     RCEEJ78V   880   808/ 40  L1  L7  L13 L16 W15 1.0
+ 15 Vanderschoor, Peyton   JMLG490Y   914   831/ 84  W16 L1  L11 L12 L14 1.0
+ 16 Castaneda, Alonso      MCUFK69H   802   744/ 69  L15 L4  L9  W14 L13 1.0

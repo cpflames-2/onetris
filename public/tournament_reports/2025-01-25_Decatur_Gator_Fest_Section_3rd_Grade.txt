@@ -1,0 +1,29 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Benita-nagdeep, KrishanSOMDK56N   750   886/ 76  W12 W15 W10 W8  W2  5.0
+  2 Sabharwal, Vihaan      DCTDK87T   737   806/ 72  W14 W20 W9  W3  L1  4.0
+  3 Bolisetty, Varun       CBRDJ73Z  1001   978/128  W19 W4  W17 L2  W13 4.0
+  4 Westerfield, Michael   EVGDJ68V   585   691/ 30  W22 L3  W16 W18 W11 4.0
+  5 Zhen, Liam             DCCD622V   643   664/172  W25 L9  W19 W17 W8  4.0
+  6 Meymandi-li, Alvin     CNCDJ64F   570   608/ 28  L9  W25 W14 D7  W18 3.5
+  7 Kekre, Sohum           EVGDK24M   749   739/ 49  L8  W26 W15 D6  W21 3.5
+  8 Allyn, William         THODJ48A   388   622/ 38  W7  W13 W21 L1  L5  3.0
+  9 Johnson, Nathan        WEDDH32Y   375   535/ 10  W6  W5  L2  L11 W17 3.0
+ 10 Margetan, Alston       MTWDW85Y   409   578/ 21  W21 W11 L1  L13 W16 3.0
+ 11 Ben Simon, Golan       SJCDJ48B   634   615/ 28  W26 L10 W23 W9  L4  3.0
+ 12 Huynh, Daniel          DCTDK87U   396   418/ 19  L1  L16 W24 W26 W20 3.0
+ 13 Shing, Lucas           HZFDJ74H   592   592/ 77  WF  L8  W27 W10 L3  3.0
+ 14 Scott, Duncan          WEDDJ54Y   375   408/ 20  L2  W24 L6  W15 D23 2.5
+ 15 Calimpong, Spruce      PCMDJ47Z   541   495/ 10  W16 L1  L7  L14 W25 2.0
+ 16 Goldfarb, Hank         DCTDH04P   300   443/  5  L15 W12 L4  W19 L10 2.0
+ 17 Park-brinck, August    WEDDJ54U   453   458/ 25  W28 W18 L3  L5  L9  2.0
+ 18 Oatey, Ethan           DCTDH33K   730   582/ 10  W23 L17 W20 L4  L6  2.0
+ 19 Santiago, Joseph       SANDJ74B   433   402/ 23  L3  W22 L5  L16 W28 2.0
+ 20 Sambathraj, Raghav     MRLDJ31B   436   404/ 14  W24 L2  L18 W25 L12 2.0
+ 21 Lawardy, Clayton       DCTDK13P   838   727/ 52  L10 W27 L8  W23 L7  2.0
+ 22 O'brien, Aria          DCTDJ47U   100   163/ 10  L4  L19 L25 W27 W26 2.0
+ 23 Mcconaghy, James       MAGDH88L   373   345/ 10  L18 W28 L11 L21 D14 1.5
+ 24 Choi, Abraham          DCTDH04N   300   131/  5  L20 L14 L12 D28 W27 1.5
+ 25 Lo, Easton             WEDDH88E   301   272/ 13  L5  L6  W22 L20 L15 1.0
+ 26 Aguiluz, Mateo         BRYDJ68R   253   205/ 25  L11 L7  W28 L12 L22 1.0
+ 27 Kolodeznaia, Alice     THODH32F   100   100/  9  BYE L21 L13 L22 L24 1.0
+ 28 Szeto, Yingyao         MEDDH04J   300   100/  5  L17 L23 L26 D24 L19 0.5

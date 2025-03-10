@@ -1,0 +1,10 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Agarwal, Avyaan        RCSEW81K   640   826/ 14  W5  W2  W3  W4  4.0
+  2 Abhilash, Lavina       CRIFK07R   606   618/123  W8  L1  W7  D3  2.5
+  3 Zhang, Patrick         SSSCK01J   699   701/126  W6  W4  L1  D2  2.5
+  4 Bhandari, Aarav        CBREJ06H   677   651/ 41  W9  L3  W5  L1  2.0
+  5 Menezes, Kian          CLHCJ97B   466   468/ 52  L1  W8  L4  BYE 2.0
+  6 Ghosh, Oishani         BCABJ56E   167   175/ 31  L3  BYE W9  L7  2.0
+  7 Gu, Ximu               ENDBJ05X   100   126/ 15  BYE L9  L2  W6  2.0
+  8 Nayagam, Anantika      SSMFH62E   500   323/  3  L2  L5  BYE W9  2.0
+  9 Khussainov, Eliana     SPTCH70X   518   304/  7  L4  W7  L6  L8  1.0

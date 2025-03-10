@@ -1,0 +1,29 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Tsay, Elon             LKDEK07B   792   938/ 97  W26 W10 W9  D2  W6  4.5
+  2 Kachachi, Cyrus        OPWE763G   719   949/ 93  W21 W6  W3  D1  W7  4.5
+  3 Lin, Ethan             TYEGJ71H   817   863/ 45  W25 W17 L2  W16 W8  4.0
+  4 Bhende, Shaurya        MMEFK24T   896   922/ 50  U   W5  W25 D7  W9  3.5
+  5 Pan, Jingyuan          EVJHH73P   532   690/ 10  D14 L4  W21 W11 W13 3.5
+  6 Phillips-acheson, SebasEMHI817T   875   857/236  W18 L2  W20 W17 L1  3.0
+  7 Lin, Elliot            TYEGJ71G   838   838/ 46  W19 W24 D8  D4  L2  3.0
+  8 Xia, Jethro            BCSFK47R   760   790/ 98  W20 W12 D7  D13 L3  3.0
+  9 Prasanna, Charan       LMAEJ46Z   714   776/ 37  W27 W13 L1  W12 L4  3.0
+ 10 Felon, Ewen            HTNH372J   699   725/ 41  W23 L1  L12 W14 W21 3.0
+ 11 Cauich-miller, Amalia  HSCEH79V   245   445/ 16  BYE L14 W24 L5  W17 3.0
+ 12 Aslan, Deniz           OPWGH61G   600   785/  5  W15 L8  W10 L9  W18 3.0
+ 13 Marrugo, Emilio        OPWEE25J   872   825/ 77  W16 L9  W14 D8  L5  2.5
+ 14 Mandore, Ishaan        WPPGJ70V   867   800/ 19  D5  W11 L13 L10 W20 2.5
+ 15 Shah, Aarush           SKIHK00C   688   648/ 46  L12 L20 W27 W23 D16 2.5
+ 16 Chen, Zachary          MEDFJ43Z   666   655/ 20  L13 W27 W23 L3  D15 2.5
+ 17 Bilguun, Telmuun       PKWFK18D   693   633/ 20  W22 L3  W19 L6  L11 2.0
+ 18 Dattani, Shaurya       LEOHJ57G   684   622/ 24  L6  L21 W22 W26 L12 2.0
+ 19 Wright, Victoria       MMIHJ17P   450   436/101  L7  W28 L17 L20 W27 2.0
+ 20 Durbhakula, Amogh      LMAHK63U   431   524/ 10  L8  W15 L6  W19 L14 2.0
+ 21 Sajeeth, Samay         RKWFJ82R   418   489/ 23  L2  W18 L5  W25 L10 2.0
+ 22 Anbuselvam, Mithran    HEAGH61F   600   308/  4  L17 L25 L18 BYE W26 2.0
+ 23 Nandeesh, Tavishna     CAVEH61E   400   479/  5  L10 W26 L16 L15 W25 2.0
+ 24 Wishwas, Rishab        LKDFK91Q   709   639/ 80  W28 L7  L11 U   U   1.0
+ 25 Guruswamy, Tejal       CPJIK10X   440   403/ 48  L3  W22 L4  L21 L23 1.0
+ 26 Esparza-chen, Lucien   WMNEJ98Z   440   372/ 55  L1  L23 W28 L18 L22 1.0
+ 27 Sriram, Mukund         WOBFH73L   314   299/ 10  L9  L16 L15 W28 L19 1.0
+ 28 Nandeesh, Tapasya      SMSIH62Z   259   181/ 12  L24 L19 L26 L27 BYE 1.0

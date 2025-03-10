@@ -1,0 +1,20 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Nunciato, Samuel       LABIH20A   800   917/  5  W19 W2  D4  W8  L3  3.5
+  2 Dion, Vincent          LABFH19Z   500   818/  5  W10 L1  W18 D7  D4  3.0
+  3 Ho, Christopher        LABHH19Y   700   837/  4  L6  W11 L8  BYE W1  3.0
+  4 Wood, Sean             LABGH19X   600   989/  4  W11 W7  D1  U   D2  3.0
+  5 Wood, Leo              LABIH19W   800  1256/  3  W9  W8  U   U   W7  3.0
+  6 Clark, Zeke            BCWGK74G   931   958/ 43  W3  W15 U   W10 U   3.0
+  7 Nunciato, Oliver       LABKH19U  1000   707/  5  W14 L4  W15 D2  L5  2.5
+  8 Johnson, Oliver        LABGH19T   600   838/  5  W18 L5  W3  L1  D9  2.5
+  9 Maynard, Emory         LABKH19R  1000   808/  4  L5  W17 U   D12 D8  2.0
+ 10 Lu, Benjamin           LABGH19Q   600   591/  4  L2  W14 U   L6  W17 2.0
+ 11 Tokmakov, Andrey       LABIH19P   800   590/  4  L4  L3  U   D13 W14 1.5
+ 12 Houghton, Broden       LABLH19N  1100   856/  2  W17 U   U   D9  U   1.5
+ 13 Kinneman, Gavin        LABKH19M  1000   679/  1  U   BYE U   D11 U   1.5
+ 14 Leif Englund, Darius   LABGH19K   600   379/  4  L7  L10 W17 U   L11 1.0
+ 15 Harvey, Bella          LABJH19H   900   409/  2  BYE L6  L7  U   U   1.0
+ 16 Chavez Lastiri, ElliottLABDH20S   563   582/  5  U   U   U   U   W18 1.0
+ 17 Beckley, Evan          LABGH19E   600   127/  5  L12 L9  L14 D18 L10 0.5
+ 18 Bolick, Axel           LABEH19C   400   205/  4  L8  U   L2  D17 L16 0.5
+ 19 Kinneman, Connie       LABIH19B   800   500/  1  L1  U   U   U   U   0.0

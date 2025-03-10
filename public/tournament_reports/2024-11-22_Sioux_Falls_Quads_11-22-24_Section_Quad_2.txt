@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Yusuf, Farzaan         BVIGZ84D  1369  1435/ 39  W4  W3  W2  3.0
+  2 Nguyen, Charlie        SDRFZ06D  1301  1323/181  W3  W4  L1  2.0
+  3 Bergan, Ethan          SFZIZ478  1293  1273/158  L2  L1  W4  1.0
+  4 Neff, Nadine           ABEIC79W  1232  1181/383  L1  L2  L3  0.0

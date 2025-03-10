@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Mangla, Atharv         GRREK07C   772   820/131  W3  W4  D2  2.5
+  2 Bysani, Aakash         SSMCK01D   748   809/207  W4  W3  D1  2.5
+  3 Mamilla, Bhavishya     EVGIH88N   630   621/  6  L1  L2  W4  1.0
+  4 Mirchandani, Kiaan     MEDEK92Z   682   605/ 73  L2  L1  L3  0.0
