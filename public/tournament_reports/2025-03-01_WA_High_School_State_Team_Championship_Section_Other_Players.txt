@@ -1,0 +1,3 @@
+pos last name first       id numb   start end/#gms  rd1 tot 
+  1 Dubbaka, Yudhistar     HZNL805S   713   696/ 16  D2  0.5
+  2 Tran, Kyle             STNJJ93U   513   533/ 11  D1  0.5

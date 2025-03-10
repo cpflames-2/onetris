@@ -53,18 +53,37 @@ export class TournamentResults {
         return true;
     }
 
-    private parseLine(line: string): Player | null {
-        // First split by whitespace and forward slash
-        const columns = line.trim().split(/[\s/]+/);
-        const minimumColumns = 8 + this.roundsCount; // pos, name, id, start, end, gms, rounds, tot
-        
-        if (columns.length < minimumColumns) {
-            return null;
-        }
-
+    private parseLine(line: string): { player: Player | null; error?: string } {
         try {
-            const roundsStartIndex = 7;
-            const rounds = columns.slice(roundsStartIndex, roundsStartIndex + this.roundsCount);
+            // First find the ID pattern: 3+ alphanumeric chars followed by numbers and a letter
+            const idMatch = line.match(/[A-Z0-9]{3,}[0-9]+[A-Z0-9]/);
+            if (!idMatch) {
+                return { player: null, error: "Could not find valid ID pattern" };
+            }
+
+            const id = idMatch[0];
+            // Split the line at the ID
+            const [beforeId, afterId] = line.split(id);
+            if (!beforeId || !afterId) {
+                return { player: null, error: "Could not split line at ID" };
+            }
+
+            // Parse the position and name from beforeId
+            const [pos, lastName, firstName] = beforeId.trim().replace(' ', ',').split(',').map(s => s.trim());
+            if (!pos || !lastName || !firstName) {
+                return { player: null, error: "Could not parse position and name correctly" };
+            }
+
+            // Parse the ratings and rounds data from afterId
+            const afterParts = afterId.trim().split(/[\s/]+/);
+            if (afterParts.length < 3 + this.roundsCount) {
+                return { player: null, error: `Expected at least ${3 + this.roundsCount} data fields after ID, found ${afterParts.length}` };
+            }
+
+            const startRating = afterParts[0];
+            const endRating = afterParts[1];
+            const numGames = afterParts[2];
+            const rounds = afterParts.slice(3, 3 + this.roundsCount);
             
             // Validate that total score matches round results
             const calculatedScore = rounds.reduce((score, round) => {
@@ -74,27 +93,27 @@ export class TournamentResults {
                 return score;
             }, 0);
             
-            const reportedScore = parseFloat(columns[roundsStartIndex + this.roundsCount]);
+            const reportedScore = parseFloat(afterParts[3 + this.roundsCount]);
             
             if (calculatedScore !== reportedScore) {
-                this.errors.push(`Score total doesn't match round results for player in position ${columns[0]}`);
-                return null;
+                return { player: null, error: `Score total ${reportedScore} doesn't match calculated round results ${calculatedScore}` };
             }
             
-            return new Player(
-                columns[0],          // pos
-                columns[1],          // lastName
-                columns[2],          // firstName
-                columns[3],          // id
-                columns[4],          // startRating
-                columns[5],          // endRating
-                columns[6],          // numGames
-                rounds,             // rounds array
-                columns[roundsStartIndex + this.roundsCount]  // total
-            );
+            return { 
+                player: new Player(
+                    pos,
+                    lastName,
+                    firstName,
+                    id,
+                    startRating,
+                    endRating,
+                    numGames,
+                    rounds,
+                    afterParts[3 + this.roundsCount]
+                )
+            };
         } catch (e) {
-            console.error(`Error parsing line: ${line}`, e);
-            return null;
+            return { player: null, error: `Unexpected error: ${e.message}` };
         }
     }
 
@@ -118,11 +137,12 @@ export class TournamentResults {
 
         // Parse each line into a Player object, skipping the header
         lines.slice(1).forEach((line, index) => {
-            const player = this.parseLine(line);
-            if (player) {
-                this.players.push(player);
+            const result = this.parseLine(line);
+            if (result.player) {
+                this.players.push(result.player);
             } else {
-                this.errors.push(`Line ${index + 2}: Invalid player data format`);
+                this.errors.push(`Line ${index + 2}: ${result.error}`);
+                this.errors.push(line);
             }
         });
 

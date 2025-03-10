@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ren, Easton            CMCBH68Z  1280  1354/ 86  W3  W4  W2  3.0
+  2 Lai, Ryan              SHSBH70N  1277  1286/ 86  W4  W3  L1  2.0
+  3 Sankrithi, Vivaan      HSCBK61R  1193  1154/136  L1  L2  D4  0.5
+  4 Gu, Vincent            OPWBK00L  1113  1092/ 93  L2  L1  D3  0.5

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhang, Eli             BCACH69C   430   552/ 61  W3  W4  D2  2.5
+  2 Kunz, Anikin           BURKH44A   475   477/ 35  W4  L3  D1  1.5
+  3 Huang, Damon           CHRCG71K   545   454/  6  L1  W2  L4  1.0
+  4 Bajpai, Shagun         SSMEH04Y   500   434/  6  L2  L1  W3  1.0

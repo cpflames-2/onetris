@@ -1,0 +1,36 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Gao, Ziqian            BLWFK10U  1491  1605/ 83  W25 W21 D5  W12 W2  4.5
+  2 Nam, Jinmo             GRRKC101  1676  1691/223  W26 W8  W24 W3  L1  4.0
+  3 Li, Shawn              SOMDJ11N  1541  1591/ 85  W29 W31 W9  L2  W5  4.0
+  4 Yuan, Chen             ETSDJ15Z  1460  1499/166  W33 W15 L10 W22 W8  4.0
+  5 Chan, Aiden            ISSJ917M  1560  1580/159  W17 W11 D1  W10 L3  3.5
+  6 Lebedinsky, Alexander  EVJI958F  1432  1466/304  W27 L24 W21 W16 D13 3.5
+  7 Smygov, David          ADUNG97D  1272  1558/ 10  L9  W23 D11 W26 W17 3.5
+  8 Gupta, Krishang        GTMHE37V  1456  1474/ 92  W20 L2  W31 W9  L4  3.0
+  9 He, Oliver             ENDEK71V  1485  1503/416  W7  W22 L3  L8  W23 3.0
+ 10 Ma, Ziliang            DCCHA69N  1432  1452/145  W34 D12 W4  L5  D14 3.0
+ 11 Pai, Vihaan            CHAFK17C  1444  1458/296  W19 L5  D7  D17 W21 3.0
+ 12 Arivoli, Muthukurisil  ADUNH35E  1554  1553/ 19  W14 D10 HPB L1  W22 3.0
+ 13 Polonsky, Daniel       LIHL946P  1472  1463/112  L21 W28 D14 W18 D6  3.0
+ 14 Babbar, Riaan          ENDEJ98D  1364  1387/128  L12 W34 D13 W19 D10 3.0
+ 15 Szeto, Jordan          RCRGZ73R  1221  1323/ 21  W23 L4  L22 W31 W26 3.0
+ 16 Yang, Jimmy            BASFG45S  1484  1490/244  HPB W32 HPB L6  W25 3.0
+ 17 Mishra, Aakash         EBSF439K  1390  1407/155  L5  W27 W35 D11 L7  2.5
+ 18 Thanikonda, Kruti      CMCEK84W  1335  1349/171  D32 L35 W20 L13 W28 2.5
+ 19 He, Jizhou             MEDD789B  1246  1271/142  L11 W29 HPB L14 W27 2.5
+ 20 Deng, Arthur           OPWDC90Y  1246  1269/184  L8  HPB L18 W32 W34 2.5
+ 21 Cui, Sky               RCREZ79Y  1253  1300/ 20  W13 L1  L6  W35 L11 2.0
+ 22 Rao, Atharv            MOBGB90T  1426  1400/129  W30 L9  W15 L4  L12 2.0
+ 23 Raj, Skandha           EVGCK55U  1414  1377/166  L15 L7  W30 W33 L9  2.0
+ 24 Maharaja, Imai         HMNEK34K  1533  1546/278  W28 W6  L2  U   U   2.0
+ 25 Li, Anyi               LKDDJ55F  1292  1306/138  L1  HPB W32 HPB L16 2.0
+ 26 Cui, Weidong           ADUNJ95R  1396  1348/ 12  L2  W33 HPB L7  L15 1.5
+ 27 Rachiba, Alisa         EVPEK08E  1239  1230/202  L6  L17 D28 W29 L19 1.5
+ 28 Budhraja, Jai          TMBHA16E  1363  1315/135  L24 L13 D27 W30 L18 1.5
+ 29 Chaurasia, Vihaan      REJHH65G  1390  1340/218  L3  L19 HPB L27 W31 1.5
+ 30 Sembium, Aditi         BCAEK25W   987  1010/329  L22 HPB L23 L28 W33 1.5
+ 31 Van Gorkom, Joshua RyanCWAJB02N  1378  1334/ 88  W35 L3  L8  L15 L29 1.0
+ 32 Saloranta, Leo         MCRLB40A  1514  1425/189  D18 L16 L25 L20 HPB 1.0
+ 33 Xu, Yang               EVGF649B  1247  1187/216  L4  L26 W34 L23 L30 1.0
+ 34 Patnaik, Rishabhdeva   PLKGG72D  1189  1128/224  L10 L14 L33 BYE L20 1.0
+ 35 Marinescu, Andra       ADUN412W  1525  1451/ 63  L31 W18 L17 L21 U   1.0

@@ -1,0 +1,3 @@
+pos last name first       id numb   start end/#gms  rd1 tot 
+  1 Raja, Rian             SKWH786E  1650  1651/219  W2  1.0
+  2 Swain, Samarth         MMECJ58S  1005  1004/251  L1  0.0

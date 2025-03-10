@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 tot 
+  1 Pan, Peng-ruei         SSMF759R  1572  1580/241  W5  1.0
+  2 Garg, Vihaan           CMCEJ10X  1025  1047/258  W8  1.0
+  3 Zhang, Patrick         SSSCK01J   929   964/244  W6  1.0
+  4 Xiong, Maxwell         CSIDK92H   910   945/ 78  W7  1.0
+  5 Zhang, Kevin           WOBG809Y  1325  1315/174  L1  0.0
+  6 Yeh, George            COSCH64S   990   956/ 15  L3  0.0
+  7 Ruan, Jiyong           SHSDJ19W   962   928/ 52  L4  0.0
+  8 Agarwal, Kavir         MEDF152U   938   915/ 71  L2  0.0

@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Cheng, Selina          TLMH413R  1727  1743/595  W3  W2  U   2.0
+  2 Raja, Rian             SKWH786E  1651  1642/221  U   L1  W3  1.0
+  3 Nair, Ishan            SKIH670E  1322  1311/190  L1  U   L2  0.0

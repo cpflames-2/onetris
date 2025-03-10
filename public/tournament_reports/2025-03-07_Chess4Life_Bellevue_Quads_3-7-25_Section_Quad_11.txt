@@ -1,0 +1,8 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Mattoo, Avyaan         HWEEG68K   400   441/  3  W2  D4  W7  2.5
+  2 Kocherlakota, Adithya  EBSBH74T   108   142/ 10  L1  W7  BYE 2.0
+  3 Lai, Brycen            CLHEK02D   241   318/ 49  U   W6  W4  2.0
+  4 Balan, Vidyut          LAVEH68B   290   291/ 35  W5  D1  L3  1.5
+  5 Wells, Julia           NHRDH63T   126   106/ 12  L4  BYE D6  1.5
+  6 Venkatesh, Anya        HMNCJ30F   223   173/ 78  D7  L3  D5  1.0
+  7 Prabhu, Anika          BCAEH79S   100   100/  8  D6  L2  L1  0.5

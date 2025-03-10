@@ -1,4 +1,4 @@
-import React, { useState, FormEvent } from 'react';
+import React, { useState, FormEvent, useEffect } from 'react';
 import { TournamentResults } from '../types/TournamentResults.ts';
 
 // Constants
@@ -18,12 +18,78 @@ interface RatingsFormElement extends HTMLFormElement {
 
 export default function Results(): JSX.Element {
   const params = new URLSearchParams(window.location.search);
-  const ratingsReport = params.get('ratingsReport') || DEFAULT_RATINGS_REPORT;
-  const [results, setResults] = useState<TournamentResults>(new TournamentResults(ratingsReport));
+  const savedReport = params.get('savedReport');
+  const initialReport = params.get('ratingsReport') || DEFAULT_RATINGS_REPORT;
+  const [ratingsReport, setRatingsReport] = useState(initialReport);
+  const [results, setResults] = useState<TournamentResults>(new TournamentResults(initialReport));
+  const [reports, setReports] = useState<string[]>([]);
+
+  // Load saved report if specified in URL
+  useEffect(() => {
+    if (savedReport) {
+      fetch(`/tournament_reports/${savedReport}`)
+        .then(response => response.text())
+        .then(htmlContent => {
+          const parser = new DOMParser();
+          const doc = parser.parseFromString(htmlContent, 'text/html');
+          const preContent = doc.querySelector('pre')?.textContent || htmlContent;
+          
+          setRatingsReport(preContent);
+          setResults(new TournamentResults(preContent));
+        })
+        .catch(error => {
+          console.error('Error loading saved report:', error);
+        });
+    }
+  }, [savedReport]);
+
+  useEffect(() => {
+    // Fetch list of tournament reports from public folder
+    fetch('/tournament_reports/index.json')
+      .then(response => {
+        if (!response.ok) {
+          throw new Error(`HTTP error! status: ${response.status}`);
+        }
+        return response.json();
+      })
+      .then(data => {
+        console.log('Loaded tournament reports:', data);
+        setReports(data);
+      })
+      .catch(error => {
+        console.error('Error loading tournament reports:', error);
+      });
+  }, []);
+
+  const handleReportSelect = (event: React.ChangeEvent<HTMLSelectElement>) => {
+    const reportName = event.target.value;
+    if (reportName) {
+      // Update URL with just the filename
+      const newParams = new URLSearchParams();
+      newParams.set('savedReport', reportName);
+      window.history.pushState({}, '', `?${newParams.toString()}`);
+      
+      // Load the report content
+      fetch(`/tournament_reports/${reportName}`)
+        .then(response => response.text())
+        .then(htmlContent => {
+          const parser = new DOMParser();
+          const doc = parser.parseFromString(htmlContent, 'text/html');
+          const preContent = doc.querySelector('pre')?.textContent || htmlContent;
+          
+          setRatingsReport(preContent);
+          setResults(new TournamentResults(preContent));
+        })
+        .catch(error => {
+          console.error('Error loading tournament report:', error);
+        });
+    }
+  };
 
   const handleSubmit = (e: FormEvent<RatingsFormElement>): void => {
     e.preventDefault();
     const report = e.currentTarget.elements.ratingsReport.value;
+    setRatingsReport(report);
     setResults(new TournamentResults(report));
   };
 
@@ -38,11 +104,80 @@ export default function Results(): JSX.Element {
     const newUrl = `${window.location.pathname}?${newParams.toString()}`;
     window.history.pushState({}, '', newUrl);
   };
-  
+
+  const handleArrowNavigation = (direction: 'prev' | 'next') => {
+    if (reports.length === 0) return;
+
+    let currentIndex = -1;
+    if (savedReport) {
+      currentIndex = reports.findIndex(r => r === savedReport);
+    }
+
+    let newIndex;
+    if (currentIndex === -1) {
+      // No current report - go to first or last based on direction
+      newIndex = direction === 'next' ? 0 : reports.length - 1;
+    } else {
+      // Calculate new index with wraparound
+      newIndex = direction === 'next' 
+        ? (currentIndex + 1) % reports.length
+        : (currentIndex - 1 + reports.length) % reports.length;
+    }
+
+    const newReport = reports[newIndex];
+    // Use the same navigation logic as the dropdown
+    const newParams = new URLSearchParams();
+    newParams.set('savedReport', newReport);
+    window.history.pushState({}, '', `?${newParams.toString()}`);
+    
+    fetch(`/tournament_reports/${newReport}`)
+      .then(response => response.text())
+      .then(htmlContent => {
+        const parser = new DOMParser();
+        const doc = parser.parseFromString(htmlContent, 'text/html');
+        const preContent = doc.querySelector('pre')?.textContent || htmlContent;
+        
+        setRatingsReport(preContent);
+        setResults(new TournamentResults(preContent));
+      })
+      .catch(error => {
+        console.error('Error loading tournament report:', error);
+      });
+  };
+
   return (
     <div className="App" style={{ textAlign: 'left', margin: '20px' }}>
       <h2>🏆 Tournament Results Checker</h2>
       <h4>Input values below to check your tournament results</h4>
+
+      <div style={{ display: 'flex', alignItems: 'center', gap: '10px', margin: '10px 0' }}>
+        <button 
+          onClick={() => handleArrowNavigation('prev')}
+          style={{ fontSize: '20px' }}
+          title="Previous tournament"
+        >
+          ←
+        </button>
+
+        <select 
+          onChange={handleReportSelect} 
+          value={savedReport || ''}
+          style={{ margin: '0' }}
+        >
+          <option value="">Select a tournament report...</option>
+          {reports.map(report => (
+            <option key={report} value={report}>{report}</option>
+          ))}
+        </select>
+
+        <button 
+          onClick={() => handleArrowNavigation('next')}
+          style={{ fontSize: '20px' }}
+          title="Next tournament"
+        >
+          →
+        </button>
+      </div>
 
       {results.hasErrors() && (
         <div style={{ 
@@ -65,10 +200,11 @@ export default function Results(): JSX.Element {
         <p>Enter ratings report:</p>
         <textarea 
           name="ratingsReport"
-          defaultValue={ratingsReport}
+          value={ratingsReport}
+          onChange={(e) => setRatingsReport(e.target.value)}
           style={{ 
-            width: '1000px', 
-            height: '1000px',
+            width: '700px', 
+            height: '500px',
             resize: 'both',
             margin: '10px'
           }}

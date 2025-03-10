@@ -1,4 +1,4 @@
- pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
   1 Lam, Myron             LKDF605K  1066  1143/ 30  W9  W6  W3  W4  D2  4.5
   2 Sreeram, Vihaan        BLWFK01U   949  1023/ 61  W4  W9  L7  W3  D1  3.5
   3 Kumar, Rishuraj        HEAGK45Y   988   987/122  W5  W7  L1  L2  BYE 3.0

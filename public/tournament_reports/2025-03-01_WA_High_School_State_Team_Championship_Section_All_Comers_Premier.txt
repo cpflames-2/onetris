@@ -1,0 +1,26 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 tot 
+  1 Rines, Oliver          KAMJI303  1221  1436/205  W12 D2  W8  W15 W4  W5  5.5
+  2 Ao, Ethan              NPRLJ24V  1390  1475/ 38  W17 D1  W6  W4  D3  W7  5.0
+  3 Davis, Caian           FRAMK67M  1480  1484/ 59  W10 W5  L4  W11 D2  W8  4.5
+  4 Nipges, Jaxon          FERL382B  1532  1509/144  W16 W18 W3  L2  L1  W14 4.0
+  5 Luna, Max              FERLJ85Y  1199  1227/ 61  W21 L3  W22 W6  W10 L1  4.0
+  6 Jensen, Eddy           TBLMG96V  1280  1282/ 11  W19 W15 L2  L5  W16 W10 4.0
+  7 Marty, Treyton         TLOMK80X  1290  1276/ 21  W20 D8  L15 W12 W9  L2  3.5
+  8 Wu, Ben                NPRMH30Q  1369  1336/ 12  W24 D7  L1  W18 W15 L3  3.5
+  9 Zhang, Daniel          NPRKH30S  1027  1063/ 11  W23 D13 HPB HPB L7  W11 3.5
+ 10 Maia, Daniel           BLLLH30J   960  1065/ 12  L3  W19 W14 W13 L5  L6  3.0
+ 11 Setlur, Adiranga       BLLKH80M   814   949/ 31  L15 W21 W18 L3  W13 L9  3.0
+ 12 Oscarson, Ethan        SQULK99S   731   850/ 33  L1  W24 W16 L7  D25 D15 3.0
+ 13 Gollapally, Arnav      SKNK499J  1298  1220/164  HPB D9  W17 L10 L11 W22 3.0
+ 14 Xu, Aidan              SKNKK906  1073  1054/175  HPB HPB L10 W24 W22 L4  3.0
+ 15 Pai, Andrew            NPRM641Y  1380  1317/ 34  W11 L6  W7  L1  L8  D12 2.5
+ 16 Morgen, Briar          SQUMJ72Z  1016   980/ 34  L4  W25 L12 W19 L6  D17 2.5
+ 17 Skeels, Peter          SQULK99T   881   868/ 34  L2  W20 L13 L22 W23 D16 2.5
+ 18 Ihm, Charlie           NPRJH30M  1035   988/ 15  W25 L4  L11 L8  D19 W21 2.5
+ 19 Oerting, Gavin         NKPJH05J   742   778/ 21  L6  L10 W25 L16 D18 W24 2.5
+ 20 Dao, Phu Minh          MTTKJ22G   724   727/ 16  L7  L17 D21 W23 HPB HPB 2.5
+ 21 Drew, Harrington       SPRJH22U   719   715/ 20  L5  L11 D20 D25 W24 L18 2.0
+ 22 Joshi, Chhayans        OHSMH99T   656   700/ 15  HPB HPB L5  W17 L14 L13 2.0
+ 23 Clegg, Emery           NKPJG86A   701   627/ 10  L9  BYE L24 L20 L17 W25 2.0
+ 24 Fox, Liam              NLCJJ35U   801   690/ 11  L8  L12 W23 L14 L21 L19 1.0
+ 25 Burns, Connor          SPRLH22S   718   661/ 26  L18 L16 L19 D21 D12 L23 1.0

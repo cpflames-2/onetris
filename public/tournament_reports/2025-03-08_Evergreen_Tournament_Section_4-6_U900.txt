@@ -1,4 +1,4 @@
- pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
   1 Land, Kai              EVGEK54P   523   819/ 45  W4  W5  W11 W10 W2  5.0
   2 Aker, Pepper           WMSG181G   655   746/120  W12 W9  W10 W3  L1  4.0
   3 Wu, Ruichen            CDWFK08F   662   726/ 26  W9  W12 W6  L2  W4  4.0

@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 tot 
+  1 Byelashov, Alex        ADUNH71K  1105  1139/ 15  W3  D2  1.5
+  2 Patnaik, Rishabhdeva   PLKGG72D  1128  1130/225  U   D1  0.5
+  3 Gui, Joyce             OPWCH92C  1199  1166/115  L1  U   0.0

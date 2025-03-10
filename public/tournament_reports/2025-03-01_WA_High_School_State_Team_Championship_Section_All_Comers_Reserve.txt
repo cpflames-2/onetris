@@ -1,0 +1,34 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 tot 
+  1 Mallari, Joaquin       SPRJG75R   485   757/ 10  W19 W15 W8  W6  W4  D2  5.5
+  2 Her, Alexander         TBLLG70S  1100   862/  6  W9  W10 W24 D4  W6  D1  5.0
+  3 Ramsby, Ender          TSTJK739   502   683/ 89  W29 L4  W18 W7  W14 W9  5.0
+  4 Mitchell, Joshua       SPRJH05B   557   725/ 20  W16 W3  W25 D2  L1  W12 4.5
+  5 Gonzalez-diaz, JeronimoSPRJH22Q   496   637/ 26  W22 D8  W15 L14 W17 W11 4.5
+  6 Peper, James           BLHMB93F   600   629/ 47  W26 W23 W14 L1  L2  W19 4.0
+  7 Jones, Cordell         SPRJ1290   566   608/ 33  HPB HPB W26 L3  W23 W14 4.0
+  8 Kerr, Ethan            BLHMJ06N   642   633/ 61  W13 D5  L1  W28 D11 D10 3.5
+  9 Callon, Joseph         ETVMJ76S   506   534/ 28  L2  W32 W22 W16 D12 L3  3.5
+ 10 Valeos, Connor         MRDJK41H   516   530/ 35  W33 L2  L16 W20 W15 D8  3.5
+ 11 Yohannes, Senay        SPRKJ50F   395   505/ 46  W17 L14 W27 W23 D8  L5  3.5
+ 12 Dominge, Andy          SENK486W   486   499/ 31  L18 W30 W19 W24 D9  L4  3.5
+ 13 Ramirez, Fabian        WVAMG87L   462   459/ 11  L8  W33 L23 D22 W27 W16 3.5
+ 14 Branco, Phillip        SHMJH49C   527   549/ 18  W20 W11 L6  W5  L3  L7  3.0
+ 15 Hullet, Joshua         WVAKG87R   587   548/ 11  W31 L1  L5  W18 L10 W22 3.0
+ 16 Lundberg, Elizabeth    FOXJG85Y   404   451/ 11  L4  W27 W10 L9  W24 L13 3.0
+ 17 Sanchez, Jose          WVAMG87Q   556   522/ 11  L11 W20 L21 W29 L5  W25 3.0
+ 18 Payne, Alexander       SMZJG70P   900   490/  6  W12 L25 L3  L15 W26 W23 3.0
+ 19 Halla, Kamden          WVALG70N  1100   464/  5  L1  BYE L12 W26 W25 L6  3.0
+ 20 Olukoya, Emmanuel      SPRJH05A   233   296/ 14  L14 L17 W31 L10 W29 W24 3.0
+ 21 Nguyen, Kien Minh      SHMJG79Z   823   837/  8  HPB HPB W17 W25 U   U   3.0
+ 22 St Mary, Elijah        NLCJG70M   900   393/  6  L5  W31 L9  D13 W28 L15 2.5
+ 23 Murray, Samantha       MTTMH09G   515   430/ 11  W30 L6  W13 L11 L7  L18 2.0
+ 24 Jensen, Isaac          TBLKG95Y   529   406/ 11  W32 W28 L2  L12 L16 L20 2.0
+ 25 Melone, Dagny          NKPJH05C   518   454/ 20  BYE W18 L4  L21 L19 L17 2.0
+ 26 Croasmun, Ethan        LAHLG81V   431   345/ 11  L6  W29 L7  L19 L18 W30 2.0
+ 27 Chhun, Daren           MTTLH09L   526   366/ 11  L28 L16 L11 W30 L13 W32 2.0
+ 28 Laplante, Audrey       STNKJ63W   282   259/  9  W27 L24 HPB L8  L22 HPB 2.0
+ 29 Simpson, Dylan         WVAMG70L  1200   100/  5  L3  L26 BYE L17 L20 D31 1.5
+ 30 Vazquez, Adrian        GJSMH04Z   100   120/ 14  L23 L12 W32 L27 D31 L26 1.5
+ 31 Heinicke, Alexzander   ABDMG95V   411   235/ 11  L15 L22 L20 D32 D30 D29 1.5
+ 32 Clemens, Jacob         FERKA32X   291   185/ 23  L24 L9  L30 D31 BYE L27 1.5
+ 33 Tally, Brena           MRRMK59D   169   148/ 24  L10 L13 U   U   U   U   0.0

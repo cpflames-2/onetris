@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bodas, Anay            BRHDG68J   300   633/  3  W2  W3  W4  3.0
+  2 Baganov, Arthur        LEEBG68H   100   278/  3  L1  D4  W3  1.5
+  3 Zhao, Roy              SPTDG68G   300   167/  3  W4  L1  L2  1.0
+  4 Mattoo, Eshaan         HWEAG68F   100   100/  3  L3  D2  L1  0.5
+
+ All Unrated-player Section: Ratings capped at 1000

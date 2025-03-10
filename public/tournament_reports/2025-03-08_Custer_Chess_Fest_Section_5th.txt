@@ -1,4 +1,4 @@
- pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
   1 Cleary, Matteo         SMWFJ17L   934  1017/ 35  W7  W10 W6  W2  W3  5.0
   2 Bhatta, Nihal          CIAFK82Z   808   847/ 35  W4  W14 W11 L1  W5  4.0
   3 Fine-gucker, Logan     EAGF535R   688   770/121  W16 W5  W14 W11 L1  4.0

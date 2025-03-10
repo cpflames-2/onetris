@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Paine, Clara           TLIFK01Z   765   776/ 75  W4  L2  W3  2.0
+  2 Ramsby, Ender          TSTJK739   683   728/ 92  L3  W1  W4  2.0
+  3 Li, Cody               MAYFH60K   724   691/ 16  W2  L4  L1  1.0
+  4 Kesher, Zavi           BENEH62L   657   645/ 35  L1  W3  L2  1.0

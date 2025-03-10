@@ -1,0 +1,23 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 rd7 tot 
+  1 Satish Kumar, Sai NavanJFMGH21Y  1249  1473/106  W9  W3  W14 W6  L2  W7  W11 6.0
+  2 Raja, Rian             SKWH786E  1623  1650/218  U   W22 W4  W14 W1  W6  W5  6.0
+  3 Rao, Deepak Sri KartikeBPSI517J  1512  1481/215  W15 L1  W20 L5  W10 W8  BYE 5.0
+  4 Zhang, Kevin           WOBG809Y  1198  1325/173  W17 W7  L2  W9  D6  L5  W13 4.5
+  5 Amalo, Eliot           HSCJ282X  1293  1330/146  W19 W21 L6  W3  D7  W4  L2  4.5
+  6 Shukla, Weg            XXOEW76F  1273  1312/  7  W16 W8  W5  L1  D4  L2  D7  4.0
+  7 Joshi, Vyom            NRCJH81X  1341  1332/341  W12 L4  W19 W8  D5  L1  D6  4.0
+  8 Bhargava, Saarth       JUHJF29W  1219  1235/102  W18 L6  W10 L7  W16 L3  W17 4.0
+  9 Zhu, Aiden             SOMEC77X  1440  1402/152  L1  W15 W16 L4  D11 W12 HPB 4.0
+ 10 Nguyen, Vuong Tien ThinMARIG70K   800  1173/  7  W13 L14 L8  W20 L3  W15 W16 4.0
+ 11 Ye, Alex               ENDFH51L  1332  1310/232  W21 L19 D18 W17 D9  W14 L1  4.0
+ 12 Fredette, Blaise       BECGH95C  1003  1051/ 60  L7  D17 D13 D22 W20 L9  W19 3.5
+ 13 Qin, Skyler            OPWBJ97T  1073  1070/131  L10 L20 D12 W21 W22 W18 L4  3.5
+ 14 Gokulakrishnan, SriharsTMMGH60B  1073  1130/ 38  W20 W10 L1  L2  W15 L11 U   3.0
+ 15 Sreraman, Rohit        BCAEG92Q  1011  1034/306  L3  L9  W21 W19 L14 L10 W22 3.0
+ 16 Nachiappan, Lakshmanan RHJIJ87Q   957   974/ 53  L6  BYE L9  W18 L8  W19 L10 3.0
+ 17 Srimurugan, Rudran     OPWIJ98L  1397  1286/ 46  L4  D12 W22 L11 L18 W20 L8  2.5
+ 18 Sreraman, Rahul        BCAEJ42L   937   931/289  L8  BYE D11 L16 W17 L13 L21 2.5
+ 19 Nandeesh, Tavishna     CAVEH61E   969   964/ 69  L5  W11 L7  L15 W21 L16 L12 2.0
+ 20 Zhang, Patrick         SSSCK01J   945   929/243  L14 W13 L3  L10 L12 L17 BYE 2.0
+ 21 Bhandari, Aarav        CBREJ06H  1006   969/115  L11 L5  L15 L13 L19 W22 W18 2.0
+ 22 Swain, Samarth         MMECJ58S  1087   991/253  BYE L2  L17 D12 L13 L21 L15 1.5

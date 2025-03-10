@@ -1,0 +1,16 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Kalian, Illia          WHIGI13T   901  1124/122  BYE W6  L3  W7  W5  4.0
+  2 Wang, Evan             FRWE929Z  1252  1272/154  W13 L5  W12 W8  W3  4.0
+  3 Damrau, Austin         ELKGK95E  1276  1278/105  W12 D9  W1  W4  L2  3.5
+  4 Maibaum, Bryce         CSIE124D   951  1130/ 73  W10 W14 W5  L3  D7  3.5
+  5 Liu, Evan              CLHFC52M  1073  1159/ 40  W7  W2  L4  W6  L1  3.0
+  6 Leneway, Owen          CSIEK91V  1153  1140/ 95  W8  L1  W15 L5  W13 3.0
+  7 Kim, Dylan             TYEGK38L  1329  1270/201  L5  W13 W9  L1  D4  2.5
+  8 Xing, Andrew           CNHDK62E   922  1003/153  L6  W10 W14 L2  D9  2.5
+  9 Zhang, Amy             CSIEF80L  1010  1054/ 72  W11 D3  L7  D14 D8  2.5
+ 10 Jayadevan, Kunal       SCDE893P  1102  1063/104  L4  L8  D11 BYE W15 2.5
+ 11 Dhameeja, Ved          GRRFJ98F  1186  1134/157  L9  L12 D10 W15 W14 2.5
+ 12 King, Oliver           WKEFK36M  1050  1033/ 84  L3  W11 L2  L13 BYE 2.0
+ 13 Lin, Vivienne          CSIEK99D  1048  1030/ 59  L2  L7  BYE W12 L6  2.0
+ 14 Nguyen, Richard        STCGH47W  1084  1019/ 15  W15 L4  L8  D9  L11 1.5
+ 15 Guzman, Nate           TPSG939A   916   855/160  L14 BYE L6  L11 L10 1.0

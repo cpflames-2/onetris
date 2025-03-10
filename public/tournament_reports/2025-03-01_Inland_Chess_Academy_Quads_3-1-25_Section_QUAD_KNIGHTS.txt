@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Davis, Milo            HSCBH07M   819   821/ 13  W3  W4  L2  2.0
+  2 Young, Daniel          EVAHJ96U   579   699/ 81  W4  L3  W1  2.0
+  3 Clark, Phineas         HSCGJ05Q   760   780/ 33  L1  W2  W4  2.0
+  4 Brown, Claire          CATEJ62Y   718   638/ 46  L2  L1  L3  0.0

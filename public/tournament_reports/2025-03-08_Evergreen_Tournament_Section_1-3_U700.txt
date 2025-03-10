@@ -1,4 +1,4 @@
- pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
   1 Sharma, Sidarth        EVGCJ75G   672   787/ 93  W21 W20 W30 W15 W3  5.0
   2 Hurd, Charles          PKRCJ72C   572   667/ 44  W44 W38 W25 D12 W4  4.5
   3 Zamora-kapoor, Eva     STTBJ41W   638   688/ 65  W14 W22 W18 W7  L1  4.0

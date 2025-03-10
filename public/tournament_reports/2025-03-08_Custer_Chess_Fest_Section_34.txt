@@ -1,4 +1,4 @@
- pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
   1 Buckham, George        SKYEK37E   892   964/ 94  W22 W6  W7  W2  W8  5.0
   2 Litvin, Lev            WKECJ25U   919   915/ 45  W19 W3  W5  L1  W6  4.0
   3 Cleary, Marco          SMWDJ16G   516   656/ 28  W15 L2  W10 W7  W5  4.0

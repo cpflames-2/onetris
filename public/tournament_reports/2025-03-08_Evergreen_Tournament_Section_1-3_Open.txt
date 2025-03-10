@@ -1,4 +1,4 @@
- pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
   1 Ahsant, Nickrad        WELCJ56K  1050  1123/ 63  W3  W6  W2  W4  D5  4.5
   2 Zhang, Patrick         SSSCK01J   964  1013/249  W7  W8  L1  W6  W3  4.0
   3 Jin, Yi                MEDDE79S   753   876/ 70  L1  W9  W5  W10 L2  3.0

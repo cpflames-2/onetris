@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Mangla, Atharv         GRREK07C  1033  1028/180  W4  D3  D2  2.0
+  2 Nandakiran, Vidyuth    SSMF617C   874   923/191  D3  W4  D1  2.0
+  3 Shah, Rachit           BNTEK44K   884   927/101  D2  D1  W4  2.0
+  4 Sivakumar, Vedant      INGHH63H   853   791/ 75  L1  L2  L3  0.0

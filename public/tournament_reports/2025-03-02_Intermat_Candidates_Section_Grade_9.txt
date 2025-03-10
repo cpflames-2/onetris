@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Stroud, Jeb            SHMJK22V  1448  1514/208  W2  W3  U   2.0
+  2 Scollon, Owen          SHMJ734D  1771  1751/557  L1  U   W3  1.0
+  3 Hildenbrand, Blane     STNJ122V  1578  1543/400  U   L1  L2  0.0

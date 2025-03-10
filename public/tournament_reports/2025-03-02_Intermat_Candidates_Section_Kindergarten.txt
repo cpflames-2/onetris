@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zeng, Liam             XXXAH05U   708   744/ 17  W2  W3  U   2.0
+  2 Jiang, Callie          UCDAH47C   596   596/ 22  L1  U   W3  1.0
+  3 Chin, Kheiron          HSCAJ19P   491   451/ 92  U   L1  L2  0.0

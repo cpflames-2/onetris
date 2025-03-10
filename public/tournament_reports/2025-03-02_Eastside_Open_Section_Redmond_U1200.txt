@@ -1,0 +1,26 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Pavel, Laurentiu       ADUNG68L  1300  1616/  5  W13 W5  W3  W2  W4  5.0
+  2 Gui, Joyce             OPWCH92C  1079  1199/114  BYE W6  W7  L1  W11 4.0
+  3 Tallapaneni, Hanish    CDZHH06J  1153  1209/ 20  W18 W21 L1  W16 W14 4.0
+  4 Zou, Fuxing            ADUNH28Q   970  1064/ 13  D5  W8  D17 W10 L1  3.0
+  5 Szeto, Martina         RCRFZ73S  1199  1200/ 16  D4  L1  W19 W20 D7  3.0
+  6 Chen, Eason            SOMBJ59F   965  1013/101  W16 L2  D20 D12 W17 3.0
+  7 Huang, Clora           SOMFK31H  1055  1093/171  HPB W15 L2  W13 D5  3.0
+  8 Mckendry, Matthew      ADUNF245  1173  1156/161  HPB L4  W15 W17 D12 3.0
+  9 Chadha, Saahan         ENDEK64R   894   954/ 61  L22 L12 W25 W23 W16 3.0
+ 10 Sabarish, Ananya       BCAEG02Z  1009  1022/194  W25 D22 HPB L4  W18 3.0
+ 11 Khudyev, Elina         EPICJ97Q  1180  1184/ 73  HPB HPB W18 W14 L2  3.0
+ 12 Bell, Raimi            OBKHF77Y  1197  1153/ 71  L14 W9  D13 D6  D8  2.5
+ 13 Jiang, Kyle            MEDCK35B   997  1009/151  L1  W25 D12 L7  W21 2.5
+ 14 Groff, Shane L         ADUNH69U  1056  1074/ 12  W12 W20 HPB L11 L3  2.5
+ 15 Byelashova, Sofia      SGHCK01K   901   929/152  D19 L7  L8  W24 W20 2.5
+ 16 Golan, Elliot          ADUNH58X   998   963/ 25  L6  W24 W21 L3  L9  2.0
+ 17 Li, Alice              OPWDJ98C   780   846/ 95  HPB W19 D4  L8  L6  2.0
+ 18 Rish-brown, Jackson    HMOFH57T   950   940/ 37  L3  W23 L11 W25 L10 2.0
+ 19 Ge, Emma               SSMCJ56J  1090  1026/152  D15 L17 L5  D21 W23 2.0
+ 20 Foster, Chad           ADUNH69R  1011   958/ 25  W24 L14 D6  L5  L15 1.5
+ 21 Rish-brown, Jacob      HMOFK61J   872   869/ 47  W23 L3  L16 D19 L13 1.5
+ 22 Byelashova, Darya      SGHEK51X  1107  1119/183  W9  D10 U   U   U   1.5
+ 23 Anbuselvam, Mithran    HEAGH61F  1020   915/146  L21 L18 W24 L9  L19 1.0
+ 24 Charuvil Vinu, Suryen  RSHBJ89R   742   710/ 85  L20 L16 L23 L15 W25 1.0
+ 25 Goyal, Avyukt          CNHBJ65X   728   662/117  L10 L13 L9  L18 L24 0.0

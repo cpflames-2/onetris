@@ -1,0 +1,16 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 rd7 tot 
+  1 Mavila, Madhav         JACJ230L   749   863/ 63  W5  W2  W11 W6  W3  D4  W9  6.5
+  2 Mavila, Mukund         TBKEK62K   583   668/ 35  W14 L1  D10 W13 W11 W6  D3  5.0
+  3 Mudragada, Sanjay KaushGTMGG96Y   572   629/ 16  BYE W4  L6  W10 L1  W7  D2  4.5
+  4 Nandeesh, Tapasya      SMSIH62Z   376   620/ 61  W13 L3  W8  W7  L6  D1  W12 4.5
+  5 Cai, Emily             CNHCH60H   661   659/ 55  L1  BYE L7  W12 W9  D11 W6  4.5
+  6 Yin, Nolan             CCDBH64W   374   561/ 32  W15 W9  W3  L1  W4  L2  L5  4.0
+  7 Sarkar, Hridik         FRVFK04W   500   545/ 73  L9  W15 W5  L4  W8  L3  W11 4.0
+  8 Nandigam, Shanyu       RHJIG75G   552   533/ 10  W10 L11 L4  W14 L7  BYE W13 4.0
+  9 He, Joshua             CHRCJ72H   683   636/ 86  W7  L6  W14 D11 L5  W10 L1  3.5
+ 10 Senapati, Swayam       MOBDH44Z   534   527/ 32  L8  W12 D2  L3  W13 L9  W15 3.5
+ 11 Suram, Ridhima         KKNE882V   479   518/ 37  W12 W8  L1  D9  L2  D5  L7  3.0
+ 12 Verma, Satvik          WONDG80T   660   548/ 94  L11 L10 W15 L5  BYE W14 L4  3.0
+ 13 Zarate, Gabriel        EMDBH62S   640   515/ 34  L4  BYE HPB L2  L10 W15 L8  2.5
+ 14 Koul, Navika           MOBEJ83L   452   382/ 68  L2  BYE L9  L8  W15 L12 U   2.0
+ 15 Nandigam, Arjun        RHJFG75B   209   100/ 10  L6  L7  L12 BYE L14 L13 L10 1.0

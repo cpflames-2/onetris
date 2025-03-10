@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sridhar, Riya          TBKGG37Y   829   854/ 93  W3  W2  L4  2.0
+  2 Lechner, Ryker         HSCG496J   772   827/120  W4  L1  W3  2.0
+  3 Ramana, Vihaan         KKNCJ99P   822   794/ 73  L1  W4  L2  1.0
+  4 Aimes, Owen            PRDGH34V   838   805/ 23  L2  L3  W1  1.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Han, Kaiyi             SOMCK42P  1205  1216/125  L4  W3  W2  2.0
+  2 Bhasin, Palash         ISMGH95H  1228  1211/123  D3  W4  L1  1.5
+  3 Li, Harry              SPTFG30G  1129  1137/471  D2  L1  W4  1.5
+  4 Pan, Peng-yu           SSMDK24P  1070  1069/199  W1  L2  L3  1.0

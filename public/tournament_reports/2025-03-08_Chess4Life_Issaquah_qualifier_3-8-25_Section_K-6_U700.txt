@@ -1,4 +1,4 @@
- pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
   1 Padmanabhuni, Vihaan   LMAEH69J   624   663/ 19  W9  W13 W8  W2  L4  4.0
   2 Masuda, Ikaika         INGGH61X   602   675/ 30  W24 W19 W3  L1  W7  4.0
   3 Tharanian, Advay       DGHG855X   570   630/ 11  W15 W5  L2  W8  W13 4.0

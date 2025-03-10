@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Yun, Daniel D          LAVDK87Z  1444  1444/373  D2  W3  U   1.5
+  2 Evin, Terrick          EBSDC54L  1446  1446/237  D1  U   W3  1.5
+  3 Hiremath, Ojas         KKNDJ03C   393   393/ 16  U   L1  L2  0.0

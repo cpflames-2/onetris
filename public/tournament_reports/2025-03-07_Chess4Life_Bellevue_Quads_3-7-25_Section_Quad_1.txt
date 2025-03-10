@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ganesan, Vidur         RBRF940K  1517  1537/309  W4  W3  W2  3.0
+  2 Chevuri, Tattva        REJHC06V  1252  1289/433  W3  W4  L1  2.0
+  3 Zhou, Sean             ICSIH56S  1244  1234/ 17  L2  L1  W4  1.0
+  4 Barrenkala, Surya      EVJH238E  1206  1158/ 80  L1  L2  L3  0.0

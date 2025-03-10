@@ -1,4 +1,4 @@
- pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
   1 Friedman, Elliott      WHMI637U   400   802/ 10  W16 W7  W9  W3  W5  5.0
   2 Halvorson, Landon      ANCIH12C   702   957/ 15  W25 W8  D5  W11 W10 4.5
   3 Verduin, Skyler        HORGJ26K   765   862/ 53  W15 W23 W6  L1  W8  4.0

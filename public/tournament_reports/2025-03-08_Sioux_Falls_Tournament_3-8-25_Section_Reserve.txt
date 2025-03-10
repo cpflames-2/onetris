@@ -1,4 +1,4 @@
- pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
   1 Devish, Coale          SDSCZ80U   897   993/ 44  W16 W9  W4  W3  L2  4.0
   2 Hoellein, Carter       SDDFZ96L  1049  1046/152  W18 W8  L5  W10 W1  4.0
   3 Albrecht, Ian          SDCFZ98P  1002  1005/134  W15 W10 W7  L1  W8  4.0

@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Mcintyre, John B       HSCGJ63F  1217  1259/ 75  U   W3  W2  2.0
+  2 Keener, Karl           HLHJY40G  1308  1287/172  W3  U   L1  1.0
+  3 Dinesh Babu, Darshini  GNAEH50D  1011   990/ 34  L2  L1  U   0.0

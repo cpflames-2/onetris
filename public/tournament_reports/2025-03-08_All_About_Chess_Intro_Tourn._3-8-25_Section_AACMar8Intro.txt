@@ -1,4 +1,4 @@
- pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
   1 Joseph, George         CDIDH11C   591   707/ 22  W5  W10 W2  W3  4.0
   2 Mirchandani, Kiaan     MEDEK92Z   568   594/105  W6  W7  L1  W8  3.0
   3 Mirchandani, Kavir     MEDCJ97A   417   540/ 94  W12 W4  W7  L1  3.0

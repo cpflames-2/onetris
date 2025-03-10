@@ -1,4 +1,4 @@
- pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
   1 Li, Leo                BCAAH11J   520   700/ 24  W17 W11 W5  W2  W8  5.0
   2 Lee, Zachary           STTAH63W   508   616/ 33  W14 W9  W3  L1  W7  4.0
   3 Zhao, Jerry            EVGAH97K   658   668/ 44  W16 W10 L2  W4  W13 4.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Maharaja, Imai         HMNEK34K  1546  1576/281  W2  D3  W4  2.5
+  2 Wu, Shanna             CNHEJ72M  1561  1568/ 62  L1  W4  W3  2.0
+  3 Das, Sambuddha Sekhar  ENDEK47S  1510  1509/200  W4  D1  L2  1.5
+  4 Zhu, Aiden             SOMEC77X  1402  1363/155  L3  L2  L1  0.0

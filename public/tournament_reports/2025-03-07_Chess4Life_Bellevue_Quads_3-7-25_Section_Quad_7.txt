@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Hu, Maxwell            BCABK03N   546   558/ 48  W2  U   L3  1.0
+  2 Bajpai, Suhani         SSMHC53Z   635   623/ 40  L1  W3  U   1.0
+  3 Wong, Aiden            CHREK17Z   590   590/ 82  U   L2  W1  1.0
