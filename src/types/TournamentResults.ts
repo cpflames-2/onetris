@@ -63,9 +63,9 @@ export class TournamentResults {
                 return { player: null, error: "Could not find valid ID pattern" };
             }
 
-            const id = idMatch[0].trim();
-            // Split the line at the ID
-            const [beforeId, afterId] = line.split(id);
+            const id = idMatch[0];
+            // Split the line at the ID and clean out null bytes
+            const [beforeId, afterId] = line.split(id).map(part => part.replace(/\0/g, ''));
             if (!beforeId || !afterId) {
                 return { player: null, error: "Could not split line at ID" };
             }
@@ -87,9 +87,13 @@ export class TournamentResults {
             if (!totalScore.match(/\d\.\d/)) {
                 return { player: null, error: "Could not find valid score total (expected n.n format)" };
             }
-
+            
             // Everything else between ratings and score is rounds data
-            const afterParts = afterId.slice(0, -3).trim().split(/[\s/]+/);
+            // Split on spaces, dashes, or slashes.
+            // Slashes split end from gms. Dashes are for U---
+            // filter(Boolean) removes empty strings
+            const afterParts = afterId.slice(0, -3).trim().split(/[\s/-]+/).filter(Boolean);
+            
             if (afterParts.length < 3) {
                 return { player: null, error: `Expected at least 3 data fields after ID, found ${afterParts.length}` };
             }
@@ -97,9 +101,17 @@ export class TournamentResults {
             const startRating = afterParts[0];
             const endRating = afterParts[1];
             const numGames = afterParts[2];
-            const rounds = afterParts.slice(3);
+            let rounds = afterParts.slice(3);
             
-            // Validate that total score matches round results
+            // Check for missing rounds and fill with "U"
+            while(rounds.length < this.roundsCount) {
+                rounds.push("U");
+                this.warnings.push(`Missing round ${rounds.length} for ${lastName} ${firstName}:`);
+                this.warnings.push(`${line}`);
+                this.warnings.push(`Using U for missing round`);
+            }
+            
+            // Validate score total
             const calculatedScore = rounds.reduce((score, round) => {
                 if (round.startsWith('W') || round === 'BYE' || round === 'WF' || round.startsWith('X')) return score + 1;
                 if (round.startsWith('D') || round === 'HPB') return score + 0.5;
@@ -110,10 +122,8 @@ export class TournamentResults {
             const reportedScore = parseFloat(totalScore);
             
             if (calculatedScore !== reportedScore) {
-                return { 
-                    player: new Player(pos, lastName, firstName, id.trim(), startRating, endRating, numGames, rounds, totalScore),
-                    warning: `Score total ${reportedScore} doesn't match calculated round results ${calculatedScore}`
-                };
+                this.warnings.push(`Score total ${reportedScore} doesn't match calculated round results ${calculatedScore}:`);
+                this.warnings.push(`${line}`);
             }
             
             return { player: new Player(pos, lastName, firstName, id.trim(), startRating, endRating, numGames, rounds, totalScore) };
