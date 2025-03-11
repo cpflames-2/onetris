@@ -71,8 +71,14 @@ export class TournamentResults {
             }
 
             // Parse the position and name from beforeId
-            const [pos, lastName, firstName] = beforeId.trim().replace(' ', ',').split(',').map(s => s.trim());
-            if (!pos || !lastName || !firstName) {
+            const [pos, lastName, potentialFirstName] = beforeId.trim().replace(' ', ',').split(',').map(s => s.trim());
+            // warn if firstName is missing
+            if (!potentialFirstName) {
+                this.warnings.push(`Missing first name:`);
+                this.warnings.push(`${line}`);
+            }
+            const firstName = potentialFirstName || "?";
+            if (!pos || !lastName) {
                 return { player: null, error: "Could not parse position and name correctly" };
             }
 

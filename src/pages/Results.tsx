@@ -27,7 +27,9 @@ export default function Results(): JSX.Element {
   // Load saved report if specified in URL
   useEffect(() => {
     if (savedReport) {
-      fetch(`/tournament_reports/${savedReport}`)
+      // Always encode the filename for the fetch URL
+      const encodedForFetch = encodeURIComponent(decodeURIComponent(savedReport));
+      fetch(`/tournament_reports/${encodedForFetch}`)
         .then(response => response.text())
         .then(htmlContent => {
           const parser = new DOMParser();
@@ -64,12 +66,13 @@ export default function Results(): JSX.Element {
   const handleReportSelect = (event: React.ChangeEvent<HTMLSelectElement>) => {
     const reportName = event.target.value;
     if (reportName) {
-      // Update URL with just the filename
+      // Encode the filename for the URL
+      const encodedFilename = encodeURIComponent(reportName);
       const newParams = new URLSearchParams();
-      newParams.set('savedReport', reportName);
+      newParams.set('savedReport', encodedFilename);
       window.history.pushState({}, '', `?${newParams.toString()}`);
       
-      // Load the report content
+      // Use decoded filename for fetch
       fetch(`/tournament_reports/${reportName}`)
         .then(response => response.text())
         .then(htmlContent => {
