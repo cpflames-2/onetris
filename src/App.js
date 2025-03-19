@@ -16,6 +16,7 @@ import Results from "./pages/Results.tsx";
 import TopNav from "./components/TopNav";
 import Resources from "./pages/Resources";
 import Pgn from "./pages/Pgn.tsx";
+import TournamentFinder from "./pages/TournamentFinder.tsx";
 
 export default function App() {
   return (
@@ -57,6 +58,9 @@ export default function App() {
         </Route>
         <Route path="/resources" element={<ChessOnlyLayout />}>
           <Route index element={<Resources />} />
+        </Route>
+        <Route path="/finder" element={<ChessOnlyLayout />}>
+          <Route index element={<TournamentFinder />} />
         </Route>
         <Route path="/pgn" element={<ChessOnlyLayout />}>
           <Route index element={<Pgn />} />
