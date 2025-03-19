@@ -217,20 +217,18 @@ export default function Results(): JSX.Element {
       )}
 
       <form style={{ marginBottom: '20px' }} onSubmit={handleSubmit}>
-        <p>Enter ratings report:</p>
+        <p>Enter ratings report: <small>(As formatted at <a href="https://ratingsnw.com">ratingsnw.com</a>)</small></p>
         <textarea 
           name="ratingsReport"
           value={ratingsReport}
           onChange={(e) => setRatingsReport(e.target.value)}
           style={{ 
-            width: '700px', 
-            height: '500px',
+            width: '900px', 
+            height: '300px',
             resize: 'both',
             margin: '10px'
           }}
         />
-        <p>As formatted at <a href="https://ratingsnw.com">ratingsnw.com</a></p>
-        <br/>
         <div style={{ margin: '10px' }}>
           <button type="submit" style={{ marginRight: '10px' }}>Check My Results</button>
           <button type="button" onClick={generatePermalink}>Generate Permalink</button>

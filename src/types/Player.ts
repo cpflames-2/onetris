@@ -39,8 +39,10 @@ export class Player {
         return this.endRating - this.startRating;
     }
 
+    // the total score from rated games played
     get ratedScore(): number {
         return this.rounds.reduce((score, round) => {
+            if (round.includes('F')) return score; // e.g. WF is win by forfeit
             if (round.startsWith('W')) return score + 1;
             if (round.startsWith('D')) return score + 0.5;
             return score;
