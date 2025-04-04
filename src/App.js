@@ -17,6 +17,7 @@ import TopNav from "./components/TopNav";
 import Resources from "./pages/Resources";
 import Pgn from "./pages/Pgn.tsx";
 import TournamentFinder from "./pages/TournamentFinder.tsx";
+import Etymize from "./pages/Etymize.tsx";
 
 export default function App() {
   return (
@@ -64,6 +65,9 @@ export default function App() {
         </Route>
         <Route path="/pgn" element={<ChessOnlyLayout />}>
           <Route index element={<Pgn />} />
+        </Route>
+        <Route path="/etymize" element={<ChessOnlyLayout />}>
+          <Route index element={<Etymize />} />
         </Route>
       </Routes>
     </BrowserRouter>
