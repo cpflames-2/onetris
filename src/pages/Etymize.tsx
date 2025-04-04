@@ -11,10 +11,9 @@ interface EtymizeFormElement extends HTMLFormElement {
 const ENDPOINT = 'https://bry1jd6sz0.execute-api.us-west-1.amazonaws.com/etymize';
 
 function convertWordsToLinks(text: string): string {
-  // Matches: digit(s) followed by dot and space, then a word
-  // The word might have capitals and hyphens
+  // Matches: digit(s) followed by dot and space, then captures all text until end of line
   return text.replace(
-    /(\d+\.\s+)([A-Z][a-zA-Z-]+)/g, 
+    /(\d+\.\s+)([a-zA-Z\u00C0-\u017F''-]+(?: [a-zA-Z\u00C0-\u017F''-]+)*)/g, 
     (_, number, word) => `${number}<a href="/etymize?word=${encodeURIComponent(word)}">${word}</a>`
   );
 }

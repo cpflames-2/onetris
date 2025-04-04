@@ -12,7 +12,10 @@ export default function TopNav() {
         />
       </Link>
       <Link to="/ratings">Ratings Calculator</Link>
-      <Link to="/resources">Resources</Link>
+      <Link to="/resources">Learning Resources</Link>
+      <Link to="/results">Tournament Results</Link>
+      <Link to="/pgn">PGN cleaner</Link>
+      <Link to="/etymize">Etymize</Link>
     </div>
   );
 } 
