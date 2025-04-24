@@ -103,10 +103,32 @@ html, body {
 div.kbf0gd {
   margin-bottom: 1000px !important;
 }
+
+/* Cursor hiding class */
+body.hide-cursor * {
+  cursor: none !important;
+}
 `;
 
 // Inject the CSS rules into the page
 document.head.appendChild(style);
+
+// Cursor hiding logic
+let cursorTimeout;
+function resetCursorTimeout() {
+    document.body.classList.remove('hide-cursor');
+    clearTimeout(cursorTimeout);
+    cursorTimeout = setTimeout(() => {
+        document.body.classList.add('hide-cursor');
+    }, 5000);
+}
+
+// Reset timer on any mouse movement
+document.addEventListener('mousemove', resetCursorTimeout);
+
+// Initial setup
+resetCursorTimeout();
+
 })();
 
 function getDate(dateKey) {
