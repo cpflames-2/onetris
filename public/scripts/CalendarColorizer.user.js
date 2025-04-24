@@ -2,7 +2,7 @@
 // @name         Google Calendar Colorizer
 // @namespace    cpflames
 // @description  Simple script to change the colors in Google Calendar.
-// @version      2.3
+// @version      2.4
 // @include      https://calendar.google.com/calendar/*
 // @grant        none
 // ==/UserScript==
