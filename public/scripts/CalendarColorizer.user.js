@@ -2,8 +2,8 @@
 // @name         Google Calendar Colorizer
 // @namespace    cpflames
 // @description  Simple script to change the colors in Google Calendar.
-// @version      2.5
-// @include      https://calendar.google.com/calendar/*
+// @version      2.6
+// @include      https://calendar.google.com/calendar/u/1/r/*
 // @grant        none
 // ==/UserScript==
 
@@ -14,7 +14,7 @@ const MONTH_PALETTES = [
   paletteGen("093"), // March - Spring Green
   paletteGen("FC0"), // April - Yellow
   paletteGen("0FF"), // May - Teal
-  paletteGen("C06"), // June - Purple
+  paletteGen("F09"), // June - Purple
   paletteGen("F00"), // July - Red
   paletteGen("00F"), // August - Deep Blue
   paletteGen("9F0"), // September - Chartreuse
@@ -59,6 +59,7 @@ style.textContent += `
 /* Only add specific overrides for current day */
 .w48V4c.ubOFEd.F262Ye {
   color: white !important;
+
   /* Remove any special styling */
   background-image: none !important;
 }
@@ -202,6 +203,7 @@ function colorDayBoxes() {
 
       if (isToday) {
           box.style.backgroundColor = palette.today;
+          box.style.border = '3px solid white';
       } else if (isThisWeek) {
           box.style.backgroundColor = palette.thisWeek;
       } else {
