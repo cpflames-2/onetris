@@ -2,7 +2,7 @@
 // @name         Google Calendar Colorizer
 // @namespace    cpflames
 // @description  Simple script to change the colors in Google Calendar.
-// @version      2.6
+// @version      2.7
 // @include      https://calendar.google.com/calendar/u/1/r/*
 // @grant        none
 // ==/UserScript==
@@ -201,14 +201,16 @@ function colorDayBoxes() {
       const isThisWeek = dateKey >= getDatekey(new Date(today.getFullYear(), today.getMonth(), today.getDate() - today.getDay())) &&
           dateKey <= getDatekey(new Date(today.getFullYear(), today.getMonth(), today.getDate() + (6 - today.getDay())));
 
-      if (isToday) {
-          box.style.backgroundColor = palette.today;
-          box.style.border = '3px solid white';
-      } else if (isThisWeek) {
-          box.style.backgroundColor = palette.thisWeek;
-      } else {
-          box.style.backgroundColor = palette.faint;
-      }
+          if (isToday) {
+            box.style.backgroundColor = palette.today;
+            box.style.border = '1px solid white';
+        } else if (isThisWeek) {
+            box.style.backgroundColor = palette.thisWeek;
+            box.style.border = '1px solid #1b1b1b';
+        } else {
+            box.style.backgroundColor = palette.faint;
+            box.style.border = '1px solid #1b1b1b';
+        }
   });
 }
 
